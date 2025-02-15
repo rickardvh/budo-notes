@@ -13,6 +13,6 @@ Shōbukan, Gothenburg, Sweden
 
 ## Table of contents
 
-### [ZNKR Iaidō](iaido/top.md)
+### [ZNKR Iaidō](iaido/znkr/top.md)
 
 ### ZNKR Jōdō \[to be added\]
