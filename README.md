@@ -9,5 +9,10 @@ Although a few of the points herein are genuinely my own conclusions -- usually 
 Rickard von Haugwitz
 Shōbukan, Gothenburg, Sweden
 
-## [ZNKR Iaido](iaido/top.md)
+---
 
+## Table of contents
+
+### [ZNKR Iaidō](iaido/top.md)
+
+### ZNKR Jōdō \[to be added\]
