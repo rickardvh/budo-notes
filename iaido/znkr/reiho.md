@@ -1,4 +1,4 @@
-# [^1]Reihō
+# Reihō[^1]
 
 Etiquette in ZNKR iai is based on that in Musō Shinden-ryū (MSR) and Musō Jikiden Eishin-ryū (MJER). More specifically, the current form of sword etiquette was likely introduced together with Ōmori-ryū (the Shoden set), which was heavily influenced by Ogasawara-ryū reihō. As a compromise between the Musō Shinden and Musō Jikiden Eishin schools, it was decided to use the former's tōrei for the hajimari no tōrei, and the latter's for the owari no tōrei. It is worth noting, however, that both versions actually coexisted within the Hasegawa Eishin-ryū from which both modern-day schools sprung: the MJER version was simply the more formal and respectful, as it is more difficult to draw the sword and attack with the edge towards oneself and the tsuka to the left. Tōrei as done in MSR, conversely, places more emphasis on constant readiness to fight, even during the bow to the sword.
 

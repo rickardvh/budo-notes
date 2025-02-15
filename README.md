@@ -6,7 +6,7 @@ What prompted me to embark on this overly ambitious (not to say pretentious) pro
 
 Although a few of the points herein are genuinely my own conclusions -- usually ones that are too obvious for my seniors to have even bothered telling me (but surely there are some as slow as I who may benefit from having these in writing) -- most are pieces of the larger puzzle that I have learnt from more experienced teachers and senpai over the years, and simply tried to collect in writing and share with others. Thank you all.
 
-Rickard von Haugwitz
+Rickard von Haugwitz  
 Shōbukan, Gothenburg, Sweden
 
 ---
