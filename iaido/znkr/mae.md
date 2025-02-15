@@ -38,8 +38,8 @@ As the chiburi is executed, stand up to the *iaigoshi* position, with a feeling 
 
 ## Nōtō
 
-[!NOTE]
-This section will be expanded, possibly with a dedicated article on nōtō.
+> [!NOTE]
+> This section will be expanded, possibly with a dedicated article on nōtō.
 
 Finally, perform nōtō while sinking down back to a kneeling position. Stand up again bringing the feet together, release the hold on the sword with the right hand, and return to the starting position.
 
