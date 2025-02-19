@@ -2,10 +2,33 @@
 
 From the starting position, turn to face the right and sit down in seiza. The enemy, who is seated some distance[^2] away to your left, stands up, draws their sword, and approaches to cut you with a vertical cut from above.
 
-## Standing up and parrying
+## Standing up
 
-Look at the enemy as they rise from seiza, and quickly place both hands on the sword. Note the difference in wording compared to the previous two kata, where you place your hands "quietly" on the sword -- rather than attempting to deescalate the situation[^3], you react to a sudden threat. Without hesitation, raise your hips and the toes of the right foot. While extending the hips, step to the inside of the right knee with the left foot, angling the foot slightly outwards. The manual goes on to say that one should be drawing the sword close to one's chest while standing up. This was previously interpreted as drawing upwards as early as possible, almost scraping the floor with the kojiri while raising the hips. However, this has since been clarified as meaning to leave the sword in the horizontal position -- only releasing the habaki and drawing about a hand's width -- while stepping with the left foot, and then to draw directly upwards while standing up. There is no time to be saved by drawing partway earlier, and if anything the ukenagashi technique benefits from a faster draw. More importantly, the right hand must not draw too far forwards: the purpose of the initial short draw is only to bring the hand to where it must be in order to end up on the line of the right shoulder at the final position by drawing straight upwards. This position is not past the left knee right before standing up. If the hand moves straight upwards from this position relative to the body, the simultaneous rotation of the upper body will ensure the correct parrying position with the shortest possible trajectory of the draw. No additional thinking required.
+Look at the enemy as they rise from seiza, and swiftly place both hands on the sword. Note the difference in wording compared to the previous two kata, where you place your hands "quietly" on the sword -- rather than attempting to deescalate the situation[^3], you react to a sudden threat. The right hand will be grasping the tsuka from the side in preparation for a parry, and not from below as if to cut. Without hesitation, raise your hips and the toes of the right foot. While extending the hips, step to the inside of the right knee with the left foot, angling the foot slightly outwards. The manual goes on to say that one should be drawing the sword close to one's chest while standing up. This was previously interpreted as drawing upwards as early as possible, almost scraping the floor with the kojiri while raising the hips. However, this has since been clarified as meaning to leave the sword in the horizontal position -- only releasing the habaki and drawing about a hand's width -- while stepping with the left foot, and then to draw directly upwards while standing up. There is no time to be saved by drawing partway earlier, and if anything the ukenagashi technique benefits from a faster draw. More importantly, the right hand must not draw too far forwards: the purpose of the initial short draw is only to bring the hand to where it must be in order to end up on the line of the right shoulder at the final position by drawing straight upwards. This position is not past the left knee right before standing up. If the hand moves straight upwards from this position relative to the body, the simultaneous rotation of the upper body will ensure the correct parrying position with the shortest possible trajectory of the draw. No additional thinking required.
 
-[^1]: 受け流し: "parrying and deflecting"
+## Parrying
+
+A good ukenagashi technique generally has three components:
+
+- stepping off the centre line,
+- receiving the cut with the shinogi in an upwards motion and letting the cut "flow off" the blade, and
+- using the force from the deflected attack to make a counterattack.
+
+When standing up into the incoming cut, the right foot steps forwards and to the inside of the left foot. This will bring the body just off the centre line, and it is important at this point that the right foot is pointing directly to the enemy. Because this position is to the right of the centre line on which the enemy is standing and cutting, the angle will be approximately 30° to the left ("11 o'clock").
+
+At the same time as the step, the left hand draws the saya back and performs a strong sayabiki, pulling the left shoulder back during the parrying motion. The right hand, keeping a relaxed grip on the sword, pushes upwards into the cut to receive it with the shinogi, the edge angled diagonally upwards and backwards. Here, the right arm will be angled about 45° upwards and on the shoulder line. For ukenagashi to work, the arm should be not quite fully extended when the swords make contact, with the final push happening as the incoming blade is sliding off one's own: the feeling is almost one of punching into the cut while keeping the grip and wrist flexible. Any sooner, and the sword will not yet be covering the body; any later, and the enemy will be able to push through. Either way, the result would be what is colloquially known as "Game Over".
+
+Using the force of the deflected cut[^4], let the kissaki swing around in the same plane to the upper right by changing your relaxed, side-on ukenagashi grip to a cutting grip. This is done by tightening the grip with the little and ring finger, which will also straighten the wrist. Simultaneously, turn your body to face the enemy, and take hold of the tsuka with the left hand in the centre in front of your forehead. Without pause, cut diagonally down along the kesa line from between the neck and left shoulder while stepping straight back from the enemy with the left foot.
+
+There has, in the past, been some confusion regarding the timing of the cut and the step. Some argued that, because the enemy was already at cutting distance, unless one cut first and started stepping backwards only when the cut impacted, the cut would miss altogether. What this argument fails to consider is that the enemy attempts to cut a *seated* target, and that one only stands up when their attack is already committed to. In order to cut a seated opponent from a standing position, it is necessary to incline the upper body forwards. Since this changes the ma-ai when one stands up, one now has to step back in order to cut with the monouchi. In any event, the wording in the manual is to cut "at the same time as" stepping back[^5], and, as a rule, in ZNKR iai this means for the leading foot to stop before the cut: specifically, at the moment the sword impacts the target.
+
+
+[^1]: 受け流し: "parrying; receiving and deflecting"
+
 [^2]: Usually taken to be 3-5 metres, but in any event far enough that they will have to stand up in order to approach and attack.
+
 [^3]: By escalating it into the enemy's face until they see the error of their ways.
+
+[^4]: Or the force of your imagination.
+
+[^5]: \[...\] 左足を右足後方に引くと同時に敵の左肩口から、袈裟に切り下す。

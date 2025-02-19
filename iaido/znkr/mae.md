@@ -34,7 +34,7 @@ The sword is stopped by changing the grip from the cutting grip to a stopping gr
 
 ## Iaigoshi
 
-As the chiburi is executed, stand up to the *iaigoshi* position, with a feeling of pulling yourself up from the floor with the right hand. In the (2014) English translation, it is stated "after shedding the blood off, make ready to do Iai Goshi", but this is a mistranslation, as this position *is already* iaigoshi. The original Japanese says 立ち上がりながら「袈裟に振り下ろしての血振り」をして「居合腰」となる: "while standing up, do 'kesa-ni-furioroshite-no-chiburi' and assume iaigoshi." Iaigoshi is defined as being a position with the hips lowered and both knees slightly bent, with a *kigamae* of *zanshin*. The text goes on to say that one should bring the left foot up in line with the right while maintaining iaigoshi, and move the right foot back.
+As the chiburi is executed, stand up to the *iaigoshi* position, with a feeling of pulling yourself up from the floor with the right hand. In the (2014) English translation, it is stated "after shedding the blood off, make ready to do Iai Goshi", but this is a mistranslation, as this position *is already* iaigoshi. The original Japanese says 立ち上がりながら袈裟に振り下ろしての血振りをして居合腰となる: "while standing up, do 'kesa-ni-furioroshite-no-chiburi' and assume iaigoshi." Iaigoshi is defined as being a position with the hips lowered and both knees slightly bent, with a *kigamae* of *zanshin*. The text goes on to say that one should bring the left foot up in line with the right while maintaining iaigoshi, and move the right foot back.
 
 ## Nōtō
 
