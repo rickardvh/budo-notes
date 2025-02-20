@@ -10,13 +10,15 @@ Look at the enemy as they rise from seiza, and swiftly place both hands on the s
 
 A good ukenagashi technique generally has three components:
 
-- stepping off the centre line,
+- stepping off the cutting line,
 - receiving the cut with the shinogi in an upwards motion and letting the cut "flow off" the blade, and
 - using the force from the deflected attack to make a counterattack.
 
-When standing up into the incoming cut, the right foot steps forwards and to the inside of the left foot. This will bring the body just off the centre line, and it is important at this point that the right foot is pointing directly to the enemy. Because this position is to the right of the centre line on which the enemy is standing and cutting, the angle will be approximately 30° to the left ("11 o'clock").
+When standing up into the incoming cut, the right foot steps forwards and to the inside of the left foot. This will bring the body just off the cutting line, and it is important at this point that the right foot is pointing directly to the enemy. Because this position is to the right of the centre line on which the enemy is standing and cutting, the angle will be approximately 30° to the left ("11 o'clock").
 
-At the same time as the step, the left hand draws the saya back and performs a strong sayabiki, pulling the left shoulder back during the parrying motion. The right hand, keeping a relaxed grip on the sword, pushes upwards into the cut to receive it with the shinogi, the edge angled diagonally upwards and backwards. Here, the right arm will be angled about 45° upwards and on the shoulder line. For ukenagashi to work, the arm should be not quite fully extended when the swords make contact, with the final push happening as the incoming blade is sliding off one's own: the feeling is almost one of punching into the cut while keeping the grip and wrist flexible. Any sooner, and the sword will not yet be covering the body; any later, and the enemy will be able to push through. Either way, the result would be what is colloquially known as "Game Over".
+While rising, the left hand draws the saya back and performs a strong sayabiki, pulling the left shoulder back during the parrying motion. The right hand, keeping a relaxed grip on the sword, pushes upwards into the cut to receive it with the shinogi, the edge angled diagonally upwards and backwards. Here, the right arm will be angled about 45° upwards and on the shoulder line. For ukenagashi to work, the arm should be not quite fully extended when the swords make contact, with the final push happening as the incoming blade is sliding off one's own: the feeling is almost one of punching into the cut while keeping the grip and wrist flexible. Any sooner, and the sword will not yet be covering the body; any later, and the enemy will be able to push through. Either way, the result would be what is colloquially known as "Game Over".
+
+The timing has to be such that the hips rise while the sword is drawn, so that the blades make contact right before the knees are extended. The right foot steps as the enemy's sword is sliding off, thus bringing the body off the cutting line. This means that the technique must be executed in a very compact timeframe in order to be effective.
 
 ## Kirioroshi
 
