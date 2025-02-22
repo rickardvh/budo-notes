@@ -10,15 +10,15 @@ Look at the enemy as they rise from seiza, and swiftly place both hands on the s
 
 A good ukenagashi technique generally has three components:
 
-- stepping off the cutting line,
-- receiving the cut with the shinogi in an upwards motion and letting the cut "flow off" the blade, and
+- receiving the cut with the shinogi in an upwards motion and letting the cut "flow off" the blade,
+- stepping off the cutting line, and
 - using the force from the deflected attack to make a counterattack.
 
-When standing up into the incoming cut, the right foot steps forwards and to the inside of the left foot. This will bring the body just off the cutting line, and it is important at this point that the right foot is pointing directly to the enemy. Because this position is to the right of the centre line on which the enemy is standing and cutting, the angle will be approximately 30° to the left ("11 o'clock").
+While rising into the incoming cut, the left hand draws the saya back and performs a strong sayabiki, pulling the left shoulder back during the parrying motion. The right hand, keeping a relaxed grip on the sword, pushes upwards into the cut to receive it with the shinogi, the edge angled diagonally upwards and backwards. Here, the right arm will be angled about 45° upwards and on the shoulder line. For ukenagashi to work, the arm should be not quite fully extended when the swords make contact, with the final push happening as the incoming blade is sliding off one's own: the feeling is almost one of punching into the cut while keeping the grip and wrist flexible. Any sooner, and the sword will not yet be covering the body; any later, and the enemy will be able to push through. Either way, the result would be what is colloquially known as "Game Over".
 
-While rising, the left hand draws the saya back and performs a strong sayabiki, pulling the left shoulder back during the parrying motion. The right hand, keeping a relaxed grip on the sword, pushes upwards into the cut to receive it with the shinogi, the edge angled diagonally upwards and backwards. Here, the right arm will be angled about 45° upwards and on the shoulder line. For ukenagashi to work, the arm should be not quite fully extended when the swords make contact, with the final push happening as the incoming blade is sliding off one's own: the feeling is almost one of punching into the cut while keeping the grip and wrist flexible. Any sooner, and the sword will not yet be covering the body; any later, and the enemy will be able to push through. Either way, the result would be what is colloquially known as "Game Over".
+When the cut is received, the right foot steps forwards and to the inside of the left foot. This will bring the body just off the cutting line, and it is important at this point that the right foot is pointing directly to the enemy. Because this position is to the right of the centre line on which the enemy is standing and cutting, the angle will be approximately 30° to the left ("11 o'clock").
 
-The timing has to be such that the hips rise while the sword is drawn, so that the blades make contact right before the knees are extended. The right foot steps as the enemy's sword is sliding off, thus bringing the body off the cutting line. This means that the technique must be executed in a very compact timeframe in order to be effective.
+The timing has to be such that the hips rise while the sword is drawn, so that the blades make contact just as one reaches iaigoshi with the right foot still in place. As the enemy's sword is sliding off, the right foot steps, thus bringing the body off the cutting line. This means that the technique must be executed in a very compact timeframe in order to be effective.
 
 ## Kirioroshi
 
@@ -30,7 +30,7 @@ It is common for beginners to end up with the left foot overstepping past the li
 
 ## Nōtō
 
-From the position at the end of the kesa cut, point the edge forwards and place the monouchi above your right knee by bringing both hands to the front left. This is done by extending one's left elbow so the left hand is gripping the tsuka from above, while opening up the grip on the right hand and turning the palm upwards to support the tsuka from below, as if proffering a delicious treat[^7]. Usually, one can think of the sword's centre of gravity 10-15 cm in front of the tsuba as a fixed point around which the sword rotates with minimal effort.
+From the position at the end of the kesa cut, point the edge forwards and place the monouchi above your right knee by bringing both hands to the front left. This is done by extending one's left elbow so the left hand is gripping the tsuka from above, while opening up the grip on the right hand and turning the palm upwards to support the tsuka from below. Usually, one can think of the sword's centre of gravity 10-15 cm in front of the tsuba as a fixed point around which the sword rotates with minimal effort.
 
 Briefly let go of the tsuka with the right hand, and turn the hand around to again take hold of the tsuka with a reverse grip, with the base of the palm supporting the tsuba. Bring the left hand to the koiguchi, and again turn the palm of the right hand facing up, thereby sending the kissaki around from below to your left, and perform *gyakute-nōtō* starting from near the tsuba. The right hand will have to rotate during nōtō to end up gripping from above, from where the sword can be easily drawn again if need be. As you are nearing the end, lower the left knee to the floor to make contact at the same time as completing nōtō.
 
@@ -46,5 +46,3 @@ Briefly let go of the tsuka with the right hand, and turn the hand around to aga
 [^5]: \[...\] 左足を右足後方に引くと同時に敵の左肩口から、袈裟に切り下す。
 
 [^6]: There is a saying that the left hand provides power, and the right hand control.
-
-[^7]: I'm not picky, but I like chocolate.
