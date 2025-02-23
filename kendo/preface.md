@@ -1,1 +1,9 @@
 # Preface
+What we now know as the Nihon Kendō Kata got their current name with the establishment of the All-Japan Kendo Federation (*zen-nihon kendō renmei*, ZNKR) in 1952[^1]. Before that, in keeping with the ultra-nationalistic spirit of the prewar times, they were called the Dai-Nippon Teikoku Kendō Kata, or "the Greater-Japan Empire Kendō Kata". The set of ten forms were announced by the Dai-Nippon Butokukai in October 1912, after a fierce, one-year-long debate by the kendō kata creation committee, consisting of top swordsmen from many different kenjutsu schools. The committee had been formed on request by the Ministry of Education and Culture (the *Monbushō*) with the background of kendō (together with judō) having been included in the core curriculum for junior high-school students in July 1911.
+
+A less well-known part of the history of kendō kata is that the Butokukai only created seven new kata in 1912. The first three kata had been created already a year before, at a seminar hosted by the Monbushō in November 1911 for the purpose of unifying kendō education. In other words, although we are used to thinking of kendō kata as the "seven tachi and three kodachi kata", they can and should be divided also in another way: "the three Monbushō tachi kata, and the Butokukai's four tachi and three kodachi kata".
+
+As can be expected, the kata formulated by the Ministry of Education and Culture for the express purpose of teaching junior high-school students have a very different approach to pedagogy compared to the kata produced by the committee of koryū representatives, and must be understood in this light.
+
+
+[^1]: The explanations of the forms were revised and expanded in 1917, and again in 1933. Finally, in 1981, the manual was rewritten using modern language to make it more accessible.
