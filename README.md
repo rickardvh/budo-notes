@@ -17,4 +17,4 @@ Rickard von Haugwitz
 
 ### ZNKR Jōdō \[to be added\]
 
-### Nihon kendō kata \[to be added\]
+### [Nihon kendō kata](kendo/README.md)
