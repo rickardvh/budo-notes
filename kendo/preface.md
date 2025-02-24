@@ -14,4 +14,4 @@ Sasaki-sensei[^2] makes the distinction between sword technique (kenjutsu) and s
 
 [^1]: The explanations of the forms were revised and expanded in 1917, and again in 1933. Finally, in 1981, the manual was rewritten using modern language to make it more accessible.
 
-[^2]: See the [top page](../README.md).
+[^2]: See the [top page](README.md).
