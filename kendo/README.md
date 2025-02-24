@@ -10,7 +10,7 @@ Much of the information about the kendō kata is taken from the now-defunct blog
 4. Yonhonme
 5. Gohonme
 6. Ropponme
-7. Nanhonme
+7. Nanahonme
 
 ### Kodachi sanbon
 1. Ipponme
