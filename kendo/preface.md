@@ -1,4 +1,5 @@
 # Preface
+
 What we now know as the Nihon Kendō Kata (日本剣道形) got their current name with the establishment of the All-Japan Kendo Federation (全日本剣道連盟 *zen-nihon kendō renmei*, ZNKR) in 1952[^1]. Before that, in keeping with the ultra-nationalistic spirit of the prewar times, they were called the Dai-Nippon Teikoku Kendō Kata (大日本帝国剣道形), or "the Greater-Japanese Empire Kendō Kata". The set of ten forms were announced by the Dai-Nippon Butokukai (大日本武徳会) in October 1912, after a fierce, year-long debate by the kendō kata creation committee, consisting of top swordsmen from many different kenjutsu schools. The committee had been formed on request by the Ministry of Education and Culture (文部省 *Monbushō*) with the background of kendō (along with jūdō) having been included in the core curriculum for junior high-school students in July 1911.
 
 A less well-known part of the history of kendō kata is that the Butokukai only created seven new kata in 1912. The first three kata had been created already a year before, at a seminar hosted by the Monbushō in November 1911 for the purpose of unifying kendō education. In other words, although we are used to thinking of kendō kata as the "seven tachi and three kodachi kata", they can and should be divided also in another way: "the three Monbushō tachi kata, and the Butokukai's four tachi and three kodachi kata".
@@ -13,8 +14,11 @@ Sasaki-sensei[^3] makes the distinction between sword technique (剣術 *kenjuts
 
 This perspective explains, as we will see, various peculiarities that on the surface appear to go against the teachings of kendō, such as uchidachi leaning forwards in the first kata or cutting straight down along shidachi's sword in the second.
 
-## The sword and moral truths
+## The sword and virtue
+
 There is another, oft-overlooked, aspect to the three Monbushō kata that puts them in a different light once known: created, as they were, by the Ministry of Education and Culture as a part of a junior high-school curriculum, they were meant also to instil certain moral values in students. Echoes of this thinking can still be seen today in the [core principles of kendō](https://www.kendo.or.jp/en/knowledge/kendo-concept/), but the education system of early-20th-century Japan placed a much greater emphasis on love for and loyalty to the country and the Emperor, and assigned great value to the idea of what it meant to be a good Japanese citizen. It was in this mould that the country sought to shape its youth, in particular the relative few privileged enough to enter junior high school at the time. Although the times have fortunately changed since then, and we would do well to reflect on what the spirit of those times eventually led to, I believe there are still transcendental moral lessons to be learnt from the practice of kendō kata.
+
+The three imperial regalia of Japan are the mirror (Yata no Kagami), the jewel (Yasakani no Magatama), and the sword (Kusanagi no Tsurugi). They each represent one of the three primary virtues: the mirror represents wisdom, the jewel benevolence, and the sword valour. The Monbushō, seeing the sword as an instrument of virtue according to the principles of bushidō, created each of their three kendō kata with one of these concepts in mind to serve as a lesson in morality and to build character in the students who practise them.
 
 
 [^1]: The explanations of the forms were revised and expanded in 1917, and again in 1933. Finally, in 1981, the manual was rewritten using modern language to make it more accessible.
