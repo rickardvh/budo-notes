@@ -1,5 +1,7 @@
 # ZNKR iaidō
 
+[The official manual (Japanese)](https://www.kendo.or.jp/wp/wp-content/uploads/2020/12/iai_manual.pdf)
+
 ## Table of contents
 
 [Reihō](reiho.md)
