@@ -1,4 +1,4 @@
-# Ipponme
+# Tachi Ipponme
 
 Uchidachi assumes *morote-hidari-jōdan no kamae* stepping forwards with the left foot; shidachi, remaining in place, raises the sword above their head to assume *morote-migi-jōdan no kamae*. Both sides advance into *issoku-ittō no ma-ai*. Uchidachi, taking a large step forwards on the right foot, makes a large cut to shidachi's shōmen. In order to evade the cut, shidachi steps back leading with the left foot while pulling the hands back above the head to avoid the left hand getting cut. Uchidachi, cutting air, continues the cut all the way through to slightly below gedan height, inclining the upper body somewhat. Shidachi immediately follows with a cut to uchidachi's shōmen while stepping forwards with the right foot to complete *men-nuki-men*.
 
