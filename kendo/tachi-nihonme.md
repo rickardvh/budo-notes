@@ -4,7 +4,7 @@ Uchidachi and shidachi start in chūdan, and advance together starting with the 
 
 Shidachi steps back to the rear left diagonal leading with the left foot, while dropping the kensen with a feeling of drawing a half circle under uchidachi's sword, thereby evading the cut. Taking a big step forwards with the right foot in okuri-ashi, shidachi makes a large cut to uchidachi's right kote.
 
-Both sides showing zanshin with strong kigurai, uchidachi steps leading with the left foot, and shidachi with the right, back to the centre position to make awase in ai-chūdan. Lowering the kensen to release their kamae, both return to the starting positions.
+Uchidachi steps leading with the left foot, and shidachi with the right while showing zanshin with strong kigurai, back to the centre position to make awase in ai-chūdan. Lowering the kensen to release their kamae, both return to the starting positions.
 
 ## Centre line
 
