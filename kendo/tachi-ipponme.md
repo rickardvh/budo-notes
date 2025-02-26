@@ -31,6 +31,8 @@ Uchidachi's cut from jōdan seems strange for two reasons: that it ends at a pos
 
 From this perspective, it makes perfect sense to cut all the way down, because otherwise the sword would get in the way of shidachi's counterattack. Furthermore, since uchidachi is demonstrating the maximum reach of a cut from issoku-ittō no ma-ai, they lean slightly forwards -- thereby further increasing their reach.
 
+One sometimes hears the extremely contrived explanation that uchidachi simply cuts too hard and is unable to stop the sword, ending up instead in an inclined position with the sword down. That would look different. We already established that uchidachi is not an idiot, so it is important that they incline the upper body as the hands are in front of the face in order to reach further, and not at the end of the cut because they get pulled down. Just letting the sword pull one forwards is enough.
+
 ## Nuki-men
 
 There is very little margin in a good nuki technique. The distance to the passing kensen should be such that the left hand would get cut were it not pulled back above the head, yet the body must move back enough that there is no risk of being cut. This requires a good understanding of ma-ai that can only be achieved through long practice[^1]. It follows that the hands need only move back precisely until the tsukagashira is flush with the forehead, and because the left hand is about one fist above and in front of the forehead, this distance is roughly one hand's width back along the line of the tsuka.
