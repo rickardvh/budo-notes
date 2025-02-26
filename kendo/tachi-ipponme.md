@@ -47,7 +47,7 @@ As uchidachi is now inclining forwards and needs to return to a straight posture
 
 The first tachi form was intended by the Monbushō to convey the virtue of wisdom, symbolised by the mirror among the imperial regalia. Sasaki Hiroshi-sensei and the late Inoue Yoshihiko-hanshi equated wisdom in this case to righteousness, but I believe the implication is that wisdom lies in realising that both sides in a fight are upholding their own idea of righteousness, and that victory does not equal moral superiority. In war, where samurai retainers fought each other on the battlefield because their duty to their lord required them to, there was rarely a moral distinction between two individual combatants. Although one side ends up cutting their enemy down and killing them, the enemy, too, was only fighting for what they believed to be right, and the loss of a life is a regrettable thing.
 
-The use of jōdan no kamae, in this context, can be seen as an affirmation of righteousness on each side as the kata commences. Sasaki-sensei interpreted shidachi's final hidari-jōdan as a reaffirmation of their own righteousness upon winning, but Inoue-sensei contested this. Rather, he said, it should be viewed as shidachi paying their respects to the fallen enemy, symbolically "lifting" their spirit to ascend to Buddhahood. That interpretation seems more likely given the connection to the virtue of wisdom, but there could be an element of both. Regardless, the final jōdan no kamae is likely more symbolic than practical, and teaches the shidachi that they should spare a moment of thought for their fallen enemy rather than just pack up and go home.
+The use of jōdan no kamae, in this context, can be seen as an affirmation of righteousness on each side as the kata commences[^4]. Sasaki-sensei interpreted shidachi's final hidari-jōdan as a reaffirmation of their own righteousness upon winning, but Inoue-sensei contested this. Rather, he said, it should be viewed as shidachi paying their respects to the fallen enemy, symbolically "lifting" their spirit to ascend to Buddhahood. That interpretation seems more likely given the connection to the virtue of wisdom, but there could be an element of both. Regardless, the final jōdan no kamae is likely more symbolic than practical, and teaches the shidachi that they should spare a moment of thought for their fallen enemy rather than just pack up and go home.
 
 
 [^1]: Or maybe also through genius. I wouldn't know.
@@ -55,3 +55,5 @@ The use of jōdan no kamae, in this context, can be seen as an affirmation of ri
 [^2]: Especially after the recent clarifications from the technical committee.
 
 [^3]: See what I did there.
+
+[^4]: Interestingly, migi-jōdan is like a mirror image of hidari-jōdan, connecting back to the Yata no Kagami. Now, I do believe this to be a coincidence, but it is still worth noting that the two sides are like reflections in a mirror -- opposite, and yet the same.
