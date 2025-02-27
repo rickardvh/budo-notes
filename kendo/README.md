@@ -7,7 +7,7 @@ Much of the information about the kendō kata is taken from the now-defunct blog
 ### [Preface](preface.md)
 ### Tachi nanahon
 1. [Ipponme](tachi-ipponme.md)
-2. Nihonme
+2. [Nihonme](tachi-nihonme.md)
 3. Sanbonme
 4. Yonhonme
 5. Gohonme
