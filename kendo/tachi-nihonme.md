@@ -34,6 +34,10 @@ When returning to ai-chūdan, shidachi simply steps back onto the original centr
 
 The second Monbushō kata teaches the virtue of benevolence, represented by the jewel, Yasakani no Magatama. The lesson is simple: do not take a life if you do not have to. Shidachi has an opening to cut men and kill uchidachi, yet chooses "only" to maim them by cutting off their sword hand[^2], taking away their ability to keep fighting.
 
+There is a progression of both skill and morality evident here: as shidachi incorporates the lessons from the previous kata in their swordsmanship, they become not only more technically proficient, but able to use that skill to spare a life. If the first kata taught them to see the enemy as a person whose death was regrettable, the second kata teaches them that the skill to win can afford them the benevolence to end the fight with less than the death of their enemy[^3].
+
 [^1]: 「\[...\]右籠手ヲ打チ相中段トナリ」
 
 [^2]: In Shintō-ryū kenjutsu, by contrast, this kind of kote cut is invariably followed by a tsuki to the solar plexus.
+
+[^3]: Blood loss and bacterial infections notwithstanding.
