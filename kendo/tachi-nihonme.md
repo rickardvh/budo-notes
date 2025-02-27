@@ -26,7 +26,7 @@ Shidachi's new centre line is not towards the target of their counterattack (alt
 
 After shidachi's cut, as they return to the awase position, shidachi needs to show zanshin with enough kigurai, since there is no additional action to display zanshin. Kigurai can be translated as confidence, a proud bearing projecting unshakable certainty.
 
-The clarification that there is no physical action of zanshin was added in the 1981 manual, and before that some teachers would raise the kensen to eye-height as an additional threat before returning to chūdan. There was never any mention of such an action in the manual: the original text only said "\[...\] strike the right kote and assume ai-chūdan."[^1]
+The clarification that there is no physical action of zanshin was added in the 1981 manual, and before that some teachers would raise the kensen to eye-height as an additional threat before returning to chūdan. There was never any mention of such an action in the manual: the original text said only "\[...\] strike the right kote and assume ai-chūdan."[^1]
 
 When returning to ai-chūdan, shidachi simply steps back onto the original centre line while raising the kensen to chūdan, while uchidachi has to allow shidachi to pass before raising their own.
 
