@@ -1,4 +1,4 @@
-# Ushiro[^1]
+# Ushiro　後ろ[^1]
 
 You and the enemy are both seated in seiza, with the enemy sitting behind you and facing towards you. The distance is the same as in [Mae](mae.md): the enemy is unable to reach you, but could reach you with a one-handed cut by raising their hips.
 
@@ -22,4 +22,4 @@ The timing of the step and the cut needs to be such that the right knee and the 
 
 Perform the rest of the kata as described for Mae, with the feet exchanged.
 
-[^1]: 後ろ: "behind"
+[^1]: "behind"

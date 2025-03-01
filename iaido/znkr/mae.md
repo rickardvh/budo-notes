@@ -1,4 +1,4 @@
-# Mae[^1]
+# Mae　前[^1]
 
 You and the enemy are both seated in seiza facing each other. The distance is such that the enemy cannot reach you while sitting down, but can reach you with a one-handed cut by raising their hips.
 
@@ -46,7 +46,7 @@ As the chiburi is executed, stand up to the *iaigoshi* position, with a feeling 
 Finally, perform nōtō while sinking down back to a kneeling position. Stand up again bringing the feet together, release the hold on the sword with the right hand, and return to the starting position.
 
 
-[^1]: 前: "in front"
+[^1]: "in front"
 
 [^2]: 大血振り: "large blood-shaking action"
 
