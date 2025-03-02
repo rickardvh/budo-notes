@@ -1,4 +1,4 @@
-# 1. Mae　前[^1]
+# Mae　前[^1]
 
 You and the enemy are both seated in seiza facing each other. The distance is such that the enemy cannot reach you while sitting down, but can reach you with a one-handed cut by raising their hips.
 
