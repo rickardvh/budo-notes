@@ -1,5 +1,8 @@
 # Tachi Ipponme　太刀一本目
 
+> [!IMPORTANT]
+> I highly recommend reading the [preface](preface.md) for background on the first three kata especially.
+
 Uchidachi assumes *morote-hidari-jōdan no kamae* stepping forwards with the left foot; shidachi, remaining in place, raises the sword above their head to assume *morote-migi-jōdan no kamae*. Both sides advance into *issoku-ittō no ma-ai*. Uchidachi, taking a large step forwards on the right foot, makes a large cut to shidachi's shōmen. In order to evade the cut, shidachi steps back leading with the left foot while pulling the hands back above the head to avoid the left hand getting cut. Uchidachi, cutting air, continues the cut all the way through to slightly below gedan height, inclining the upper body somewhat. Shidachi immediately follows with a cut to uchidachi's shōmen while stepping forwards with the right foot to complete *men-nuki-men*.
 
 Uchidachi, keeping the sword in gedan, straightens up and takes a small step back with okuri-ashi, so shidachi, applying pressure with strong *kigurai*, lowers their kensen to between uchidachi's eyes. As uchidachi takes another step back with okuri-ashi, shidachi steps forwards with the left foot to assume hidari-jōdan to display *zanshin*.

@@ -1,5 +1,8 @@
 # Tachi Nihonme　太刀二本目
 
+> [!IMPORTANT]
+> I highly recommend reading the [preface](preface.md) for background on the first three kata especially.
+
 Uchidachi and shidachi start in chūdan, and advance together starting with the right foot. Upon entering ma-ai, uchidachi, sensing an opportunity, strikes at shidachi's right kote. The cut stops slightly below the wrist.
 
 Shidachi steps back to the rear left diagonal leading with the left foot, while dropping the kensen with a feeling of drawing a semicircle under uchidachi's sword, thereby evading the cut. Taking a big step forwards with the right foot in okuri-ashi, shidachi makes a large cut to uchidachi's right kote.
