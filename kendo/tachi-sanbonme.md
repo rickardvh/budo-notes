@@ -15,7 +15,7 @@ Uchidachi starting with the right foot and shidachi with the left, both sides re
 
 ## Controlling the centre
 
-The third kata teaches the principle of the centre (中心 chūshin) and how to control it. As uchidachi reaches chūdan slightly earlier than shidachi, they find an opening in that shidachi's centre is unguarded. Exploiting this opening, they thrust while using the curvature of the sword to reach around shidachi's sword to target the suigetsu[^1] (solar plexus), keeping the kensen in the centre. The lesson for shidachi lies in steering the tsuki off centre while themselves retaining control of the centre, and then to achieve victory by asserting control of the centre despite uchidachi's attempts to regain it.
+The third kata teaches the principle of the centre (中心 *chūshin*) and how to control it. As uchidachi reaches chūdan slightly earlier than shidachi, they find an opening in that shidachi's centre is unguarded. Exploiting this opening, they thrust while using the curvature of the sword to reach around shidachi's sword to target the suigetsu[^1] (solar plexus), keeping the kensen in the centre. The lesson for shidachi lies in steering the tsuki off centre while themselves retaining control of the centre, and then to achieve victory by asserting control of the centre despite uchidachi's attempts to regain it.
 
 ### Nayashi-ire
 
