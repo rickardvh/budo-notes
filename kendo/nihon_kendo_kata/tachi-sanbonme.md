@@ -39,7 +39,6 @@ The third of the imperial regalia is the sword, Kusanagi no Tsurugi, representin
 
 When uchidachi and shidachi slowly raise their swords from gedan into chūdan after entering into ma-ai, uchidachi is a little ahead of shidachi. One sometimes hears that this is because uchidachi initiates the movement and shidachi simply lags behind, but that makes no sense -- after all, nothing stops shidachi from just raising their sword just that much faster. Besides, shidachi never "lags behind" uchidachi; rather, they are like a shadow, moving because the body does and never before it, but also never perceptibly after it. No, shidachi allows uchidachi to reach chūdan first because they do not let themselves get flustered and be goaded into hasty action. By staying calm and not getting provoked by uchidachi raising their kensen a little before their own, shidachi demonstrates mushin. Uchidachi attacks the apparent physical opening in shidachi's centre, but there is no opening in shidachi's heart, so the attack can be calmly diverted and returned with a much stronger counterattack to uchidachi's own centre and spirit.
 
-
 [^1]: I have heard people say the thrust is to the lung or heart and that uchidachi angles the blade to enter between the ribs, but they were getting the kata mixed up. It is absolutely vital to the kata that the thrust is to the suigetsu, as it is in the centre of the body.
 
 [^2]: 「打太刀の刀身を物打の鎬で軽く入れ突きに萎やす」
