@@ -3,7 +3,7 @@
 Uchidachi and shidachi stand facing each other at a distance of approximately eight steps holding the sword edge up in the left hand, and perform a silent mutual bow. Approaching to a distance of approximately five shaku (~1.5 metres), both sides draw their swords while assuming sonkyo, making contact with the kensen before standing up again.
 
 > [!NOTE]
-> There is no mention of either side returning to the starting position here, but shidachi must return for the next part to make sense. Uchidachi presumably remains in place. Similarly, there is no mention of releasing the kamae, so both sides remain in seigan. These points are mostly consistent with the Gokagogyō (五加五形) set of Shintō Munen-ryū, to which Watanabe-hanshi and two other members of the committee belonged.
+> There is no mention of either side returning to the starting position here, but shidachi must return for the next part to make sense. Uchidachi presumably remains in place. Similarly, there is no mention of releasing the kamae, so both sides remain in seigan. These points are mostly consistent with the Goka-gogyō (五加五形) set of Shintō Munen-ryū, to which Watanabe-hanshi and two other members of the committee belonged.
 
 Uchidachi assumes hidari-jōdan no kamae. Shidachi, with strong kigurai, stays in seigan no kamae and takes three large steps in to reach ma-ai. As shidachi enters ma-ai, uchidachi shows the intent to attack shidachi's right kote from jōdan. Sensing this, shidachi angles their blade slightly to the right in response, and uchidachi instead makes a large cut to shidachi's left upper arm with the kiai "yah!" while stepping in with the right foot.
 
