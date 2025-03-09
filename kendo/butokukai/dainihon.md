@@ -15,6 +15,9 @@ Uchidachi tries to judge the strength of shidachi's kamae and composure, and pre
 > [!NOTE]
 > Since uchidachi will need to press with the palm of the right hand to push shidachi's blade aside with the shinogi, it is reasonable to assume that the edge will be angled to the right in a similar way to the fourth kendō kata to enter between the ribs.
 
-In response, shidachi steps to the forward left diagonal with their left foot while bringing their sword around in front, letting the kensen be pushed down by the tsuki and allowing uchidachi's body to incline forwards by the sudden loss of resistance, and makes a large cut to uchidachi's neck with the kiai "yeh!" as the right foot steps back behind the left at a right angle to or somewhat behind uchidachi.
+In response, shidachi steps to the forward left diagonal with their left foot while bringing their sword around in front, letting the kensen be pushed down by the tsuki and allowing uchidachi's body to incline forwards by the sudden loss of resistance, and makes a diagonal (ōgesa) cut to uchidachi's neck with the kiai "yeh!" as the right foot steps back behind the left at a right angle to or somewhat behind uchidachi.
 
 Both sides return to the original eight-step distance in preparation for the next kata.
+
+[Next](daisanbon.md)
+[Top](README.md)
