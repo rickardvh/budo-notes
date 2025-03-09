@@ -16,5 +16,5 @@ Again facing each other (again presumably in seigan), shidachi retreats five ste
 
 ----
 
-[Next](daisanbon.md)  
+[Next](dainihon.md)  
 [Top](README.md)
