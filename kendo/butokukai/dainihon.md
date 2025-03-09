@@ -19,5 +19,7 @@ In response, shidachi steps to the forward left diagonal with their left foot wh
 
 Both sides return to the original eight-step distance in preparation for the next kata.
 
-[Next](daisanbon.md)
+----
+
+[Next](daisanbon.md)  
 [Top](README.md)
