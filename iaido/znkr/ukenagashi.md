@@ -36,7 +36,6 @@ From the position at the end of the kesa cut, point the edge forwards and place 
 
 Briefly let go of the tsuka with the right hand, and turn the hand around to again take hold of the tsuka with a reverse grip, with the base of the palm supporting the tsuba. Bring the left hand to the koiguchi, and again turn the palm of the right hand facing up, thereby sending the kissaki around from below to your left, and perform *gyakute-nōtō* starting from near the tsuba. The right hand will have to rotate during nōtō to end up gripping from above, from where the sword can be easily drawn again if need be. As you are nearing the end, lower the left knee to the floor to make contact at the same time as completing nōtō.
 
-
 [^1]: "parrying; receiving and deflecting"
 
 [^2]: Usually taken to be 3-5 metres, but in any event far enough that they will have to stand up in order to approach and attack.

@@ -13,8 +13,16 @@ Rickard von Haugwitz
 
 ## Table of contents
 
-### [ZNKR Iaidō](iaido/znkr/README.md)
+### Iaidō
 
-### ZNKR Jōdō \[to be added\]
+#### [ZNKR Iaidō](iaido/znkr/README.md)
 
-### [Nihon Kendō Kata](kendo/README.md)
+### Jōdō
+
+#### ZNKR Jōdō \[to be added\]
+
+### Kendō
+
+#### [Nihon Kendō Kata](kendo/nihon_kendo_kata/README.md)
+
+#### [Butokukai Kenjutsu Kata](kendo/butokukai/README.md)
