@@ -11,3 +11,7 @@ Immediately following up by sweeping uchidachi's sword aside in *suriharai* as t
 > Again, this technique appears in Shintō Munen-ryū, and nearly the whole kata from shidachi's initial block onwards is copied from the third kata of the Goka-gogyō (五加五形) set. The suriharai is performed by bringing the sword from the block up in front of the face, around and down to the left to strike with the back ridge of the sword (the *mine-shinogi*) in a sweeping circular motion as the right foot is brought around and back to let the sword continue up into jōdan.
 
 Returning to awase in the centre with kensen touching, both sides sink down into sonkyo and put their swords away. Standing up, both perform a mutual standing bow to conclude the set.
+
+----
+
+[Top](README.md)
