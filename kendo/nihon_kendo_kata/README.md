@@ -6,14 +6,17 @@ Much of the information about the kendō kata is taken from the now-defunct blog
 
 ## Table of contents
 
-### [Preface](preface.md)
-
 ### Tachi nanahon
+
+#### [Preface](preface.md)
 
 1. [Ipponme](tachi-ipponme.md)
 2. [Nihonme](tachi-nihonme.md)
 3. [Sanbonme](tachi-sanbonme.md)
-4. Yonhonme
+
+   [On the Butokukai kata](butokukai-kata-notes.md)
+
+4. [Yonhonme](tachi-yonhonme.md)
 5. Gohonme
 6. Ropponme
 7. Nanahonme

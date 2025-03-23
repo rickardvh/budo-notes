@@ -1,0 +1,16 @@
+# On the Butokukai kendō kata
+
+When the Butokukai's kendō kata creation committee first gathered in 1911, they set about the task of creating a set of kata for junior high-school kendō education using the existing [Butokukai seitei kenjutsu kata](../butokukai/README.md) as the base. The Butokukai kenjutsu kata had failed to reach widespread acceptance in large part due to the kata being too strongly influenced by a single ryūha (Shintō Munen-ryū). For this reason, the committee wanted the new kata to capture the essence of kendō in a way that exponents of all schools could agree on, rather than representing one or a few ryūha. This would prove to be a more difficult task than anyone could have expected. The debate got so heated, it is said, that at one point Takano Sasaburō, known as the father of modern kendō, in sheer frustration over not having his opinions heard, brought a concealed tantō to the committee meeting "fully prepared to die". Ironically, his own Tōkyō Kōshi Gogyō no Kata would end up having the largest influence on the finished forms.
+
+The original Gogyō no Kata (五行之形) were created by the fourth head of the Nakanishi-ha Ittō-ryū, Nakanishi Tanemasa, towards the end of the Edo period. When Takano Sasaburō, who belonged to the Nakanishi line, was invited by Kanō Jigorō, most famous as the creator of jūdō, to teach gekken (kendō) at the Tōkyō higher normal school (東京高等師範学校, *Tōkyō Kōtō Shihan Gakkō*; abbr. 東京高師, *Tōkyō Kōshi*) in 1908, he adapted the Gōgyō no Kata for educational purposes, thus creating the Tōkyō Kōshi Gogyō no Kata (東京高師五行之形). The Tōkyō higher normal school went on to become Tsukuba university, where the Tōkyō Kōshi Gogyō no Kata are passed on to this day.
+
+The word *gogyō* refers to the five phases of Chinese philosophy: fire, water, wood, metal, and earth. Each of the five basic kamae is mapped to one of these five phases: fire for jōdan, water for chūdan, wood for hassō, metal for wakigamae, and earth for gedan. According to this theory, each kamae counters another kamae in the same way as each phase destroys another: jōdan counters wakigamae as fire overcomes metal, chūdan counters jōdan as water extinguishes fire, hassō counters gedan as wood destroys earth, wakigamae counters hassō as metal cuts wood, and gedan counters chūdan as earth absorbs water.
+
+In parallel to the gogyō classification of kamae, there exists another system, classifying jōdan, gedan and chūdan as the kamae of heaven (天, *ten*), earth (地 *chi*) and humanity (人, *jin*), respectively. This is the foundation of the first three kata, as well as the old Butokukai kenjutsu kata. Hassō and wakigamae form their own duality of shadow (陰, *in*) and light (陽, *yō*), more well-known by their Chinese names *yīn* and *yáng*. In general, kamae from which one cuts downwards (towards the shadow) are thought of as possessing a stronger *in* aspect, while kamae that project an upwards threat (towards the sun) are stronger in *yō*. Chūdan, by this theory, is a balanced kamae, equally comprised of *in* and *yō*.
+
+The influence of this *in'yō-gogyō* thinking can be seen in the tachi kata 4 through 6, where shidachi chooses a *yō* kamae to counter uchidachi's *in* kamae, while in nanahonme both sides use the balanced chūdan.
+
+----
+
+[Next](tachi-yonhonme.md)  
+[Top](README.md)
