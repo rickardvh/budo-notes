@@ -52,6 +52,11 @@ The first tachi form was intended by the Monbushō to convey the virtue of wisdo
 
 The use of jōdan no kamae, in this context, can be seen as an affirmation of righteousness on each side as the kata commences[^4]. Sasaki-sensei interpreted shidachi's final hidari-jōdan as a reaffirmation of their own righteousness upon winning, but Inoue-sensei contested this. Rather, he said, it should be viewed as shidachi paying their respects to the fallen enemy, symbolically "lifting" their spirit to ascend to Buddhahood. That interpretation seems more likely given the connection to the virtue of wisdom, but there could be an element of both. Regardless, the final jōdan no kamae is likely more symbolic than practical, and teaches the shidachi that they should spare a moment of thought for their fallen enemy rather than just pack up and go home.
 
+----
+
+[Next](tachi-nihonme.md)  
+[Top](README.md)
+
 [^1]: Or maybe also through genius. I wouldn't know.
 
 [^2]: Especially after the recent clarifications from the technical committee.

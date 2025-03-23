@@ -9,3 +9,8 @@ The word *gogyō* refers to the five phases of Chinese philosophy: fire, water, 
 In parallel to the gogyō classification of kamae, there exists another system, classifying jōdan, gedan and chūdan as the kamae of heaven (天, *ten*), earth (地 *chi*) and humanity (人, *jin*), respectively. This is the foundation of the first three kata, as well as the old Butokukai kenjutsu kata. Hassō and wakigamae form their own duality of shadow (陰, *in*) and light (陽, *yō*), more well-known by their Chinese names *yīn* and *yáng*. In general, kamae from which one cuts downwards (towards the shadow) are thought of as possessing a stronger *in* aspect, while kamae that project an upwards threat (towards the sun) are stronger in *yō*. Chūdan, by this theory, is a balanced kamae, equally comprised of *in* and *yō*.
 
 The influence of this *in'yō-gogyō* thinking can be seen in the tachi kata 4 through 6, where shidachi chooses a *yō* kamae to counter uchidachi's *in* kamae, while in nanahonme both sides use the balanced chūdan.
+
+----
+
+[Next](tachi-yonhonme.md)  
+[Top](README.md)

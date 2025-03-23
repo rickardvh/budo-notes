@@ -39,6 +39,11 @@ The second Monbushō kata teaches the virtue of benevolence, represented by the 
 
 There is a progression of both skill and morality evident here: as shidachi incorporates the lessons from the previous kata in their swordsmanship, they become not only more technically proficient, but able to use that skill to spare a life. If the first kata taught them to see the enemy as a person whose death was regrettable, the second kata teaches them that the skill to win can afford them the benevolence to end the fight with less than the death of their enemy[^3].
 
+----
+
+[Next](tachi-sanbonme.md)  
+[Top](README.md)
+
 [^1]: 「\[...\]右籠手ヲ打チ相中段トナリ」
 
 [^2]: In Shintō-ryū kenjutsu, by contrast, this kind of kote cut is invariably followed by a tsuki to the solar plexus.
