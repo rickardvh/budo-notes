@@ -14,7 +14,7 @@ The fourth tachi kata is adapted from the [second kata](../butokukai/dainihon.md
 
 ## Kamae and approach
 
-In the second Butokukai kenjutsu kata, which served as a template for this form, uchidachi starts in hassō, but hassō had, in a baffling move, been renamed, presumably to fit into the *ten-chi-jin* trichotomy. However, in Ittō-ryū, hassō (or a lower, vertical, version of hassō) is known as *in no kamae* (陰の構え), and its opposite is wakigamae, *yō no kamae* (陽の構え). Furthermore, in the gogyō system, hassō is considered the kamae of wood, and its natural counterstance is the kamae of metal: wakigamae. For these reasons, it was natural to decide that shidachi should use wakigamae in reaponse to uchidachi's hassō.
+In the second Butokukai kenjutsu kata, which served as a template for this form, uchidachi starts in hassō, but hassō had, in a baffling move, been renamed to chūdan, presumably to fit into the *ten-chi-jin* trichotomy. However, in Ittō-ryū, hassō (or a lower, vertical, version of hassō) is known as *in no kamae* (陰の構え), and its opposite is wakigamae, *yō no kamae* (陽の構え). Furthermore, in the gogyō system, hassō is considered the kamae of wood, and its natural counterstance is the kamae of metal: wakigamae. For these reasons, it was natural to decide that shidachi should use wakigamae in reaponse to uchidachi's hassō.
 
 When approaching into ma-ai, it is explained that the steps are "slightly shorter" than usual. Although this is often explained as uchidachi being wary due to shidachi's sword being hidden and its length unknown, I believe it more likely that they are just matching the opponent's steps to meet in the centre[^1]. As for shidachi, they are in hanmi for wakigamae and simply cannot take longer steps.
 
