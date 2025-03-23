@@ -14,18 +14,24 @@ The fourth tachi kata is adapted from the [second kata](../butokukai/dainihon.md
 
 ## Kamae and approach
 
-In the second Butokukai kenjutsu kata, which served as a template for this form, uchidachi starts in hassō, but hassō had in a baffling move been renamed chūdan, presumably to fit into the *ten-chi-jin* trichotomy. However, in Ittō-ryū, hassō (or a lower, vertical, version of hassō) is known as *in no kamae*, and its opposite is wakigamae, *yō no kamae*. Furthermore, in the gogyō system, hassō is considered the kamae of wood, and its natural counterstance is the kamae of metal: wakigamae. For these reasons, it was natural to decide that shidachi should assume wakigamae in reaponse to uchidachi's hassō.
+In the second Butokukai kenjutsu kata, which served as a template for this form, uchidachi starts in hassō, but hassō had in a baffling move been renamed , presumably to fit into the *ten-chi-jin* trichotomy. However, in Ittō-ryū, hassō (or a lower, vertical, version of hassō) is known as *in no kamae*, and its opposite is wakigamae, *yō no kamae*. Furthermore, in the gogyō system, hassō is considered the kamae of wood, and its natural counterstance is the kamae of metal: wakigamae. For these reasons, it was natural to decide that shidachi should assume wakigamae in reaponse to uchidachi's hassō.
 
 When approaching into ma-ai, it is explained that the steps are "slightly shorter" than usual. Although this is often explained as uchidachi being wary due to shidachi's sword being hidden and its length unknown, I believe it more likely that they are just matching the opponent's steps to meet in the centre[^1]. As for shidachi, they are in hanmi for wakigamae and simply cannot take longer steps.
 
-# Ai-uchi
+## Ai-uchi
 
 The distance in the current form of the ai-uchi is strange and difficult to get right. The footwork was inexplicably changed at some point[^2]: although it now says for both sides to step forwards with the right foot, the original text did not specify the footwork for shidachi. In old videos, however, shidachi brings the right foot in line with the left during furikaburi, and steps back with the left during the ai-uchi, effectively remaining in place but backing away from where uchidachi is aiming their cut. This makes much more sense, and the ma-ai will be naturally correct without uchidachi needing to adjust by stepping back afterwards[^3].
 
-There is an explanatory note in the manual stating that for the ma-ai to work, both sides need to make large cuts, properly stretching out at the point when the blades make contact. The furikaburi is explained as being large enough for the opponent to ve visible between one's arms before the cut.
+There is an explanatory note in the manual stating that for the ma-ai to work, both sides need to make large cuts, properly stretching out at the point when the blades make contact. The furikaburi is explained as being large enough for the opponent to be visible between one's arms before the cut. If the distance is too close following ai-uchi, it is uchidachi who needs to step back to adjust the distance, but ideally it should be enough for both sides to go from the outstretched cutting position to chūdan; it is not necessary to reach a distance where only the kensen are touching, but the distance should be somewhat closer (*chika-ma*).
+
+## Tsuki-kaeshi-men
+
+Upon reaching ai-chūdan, uchidachi senses an opening to thrust at shidachi's right lung. Why the right lung, specifically? In [the previous kata](tachi-sanbonme.md), the thrust is to the solar plexus, in the centre, and in any event the left lung seems more readily accessible. The manual only says to angle the edge to the right (shidachi's left), but unlike in tachi sanbonme, merely using the curvature of the blade is not enough to reach the target without moving the hands off the centre line. The answer can be found in the explanation for the second Botokukai kenjutsu kata, where the same technique is used: uchidachi angles the edge to the right because they are pressing shidachi's blade out of the way with the shinogi to gain the centre, thus positioning the kensen for a thrust to the right side of shidachi's chest.
+
+When performing makikaeshi, shidachi needs to maintain contact between the blades for as long as possible to stay in control, and to step immediately with the left foot to bring the body out of the attack line. Since uchidachi is stepping into cutting distance for their own attack to reach, shidachi needs only move directly to the left. Both hands stay close to the body, and, importantly, the left hand stay in the centre throughout the technique, moving up in a straight line in front of the face and above the forehead. Using the force of uchidachi's cut, the kensen is brought around and into furikaburi to cut without pause as the right foot steps in behind the left on a line parallel to the original centre line. At the end of the cut, both feet should be pointing towards uchidachi at an angle of about 30° ("1 o'clock").
 
 [^1]: And anyway, the saya would still be visible, giving an upper bound for the blade's length.
 
 [^2]: Seemingly in 1981, with the publication of the modern-language version of the manual.
 
-[^3]: I lack the authority to write what I think about such changes, so I will instead quote a senior teacher I hold in high esteem: "They think they know better than the masters in the committee? This is what I think of that: *$#@ you!"
+[^3]: I lack the authority to write what I think about such changes, so I will instead quote a senior teacher whom I hold in high esteem: "They think they know better than the old masters? Here's what I think of that: *$#@ you!"
