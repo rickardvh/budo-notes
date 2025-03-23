@@ -30,6 +30,10 @@ Upon reaching ai-chūdan, uchidachi senses an opening to thrust at shidachi's ri
 
 When performing makikaeshi, shidachi needs to maintain contact between the blades for as long as possible to stay in control, and to step immediately with the left foot to bring the body out of the attack line. Since uchidachi is stepping into cutting distance for their own attack to reach, shidachi needs only move directly to the left. Both hands stay close to the body, and, importantly, the left hand stay in the centre throughout the technique, moving up in a straight line in front of the face and above the forehead. Using the force of uchidachi's cut, the kensen is brought around and into furikaburi to cut without pause as the right foot steps in behind the left on a line parallel to the original centre line. At the end of the cut, both feet should be pointing towards uchidachi at an angle of about 30° ("1 o'clock").
 
+----
+
+[Top](README.md)
+
 [^1]: And anyway, the saya would still be visible, giving an upper bound for the blade's length.
 
 [^2]: Seemingly in 1981, with the publication of the modern-language version of the manual.
