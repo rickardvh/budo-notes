@@ -38,4 +38,4 @@ When performing makikaeshi, shidachi needs to maintain contact between the blade
 
 [^2]: Seemingly in 1981, with the publication of the modern-language version of the manual.
 
-[^3]: I lack the authority to write what I think about such changes, so I will instead quote a senior teacher whom I hold in high esteem: "They think they know better than the old masters? Here's what I think of that: *$#@ you!"
+[^3]: I lack the authority to write what I think about such changes, so I will instead quote a senior teacher whom I hold in high esteem: "They think they know better than the old masters? Here's what I think of that: \[this word is rated renshi and above\] you!"
