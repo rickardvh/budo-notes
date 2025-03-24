@@ -12,6 +12,8 @@ Uchidachi leading with the left foot and shidachi with the right, both sides ret
 
 The fourth tachi kata is adapted from the [second kata](../butokukai/dainihon.md) of the earlier Butokukai kenjutsu kata, with two major changes. Firstly, shidachi's initial kamae was changed from seigan to wakigamae to conform with the *in'yō-gogyō* theory of Ittō-ryū. Secondly, the kesa cut to the neck was replaced with a vertical cut to the head since the neck is not a valid target area in modern kendō.
 
+This form was chosen as the fourth, and first of the technique-oriented, kata because it neatly ties together the three principles taught in the first three kata: distance, centre line, and control of the centre.
+
 ## Kamae and approach
 
 In the second Butokukai kenjutsu kata, which served as a template for this form, uchidachi starts in hassō, but hassō had, in a baffling move, been renamed to chūdan, presumably to fit into the *ten-chi-jin* trichotomy. However, in Ittō-ryū, hassō (or a lower, vertical, version of hassō) is known as *in no kamae* (陰の構え), and its opposite is wakigamae, *yō no kamae* (陽の構え). Furthermore, in the gogyō system, hassō is considered the kamae of wood, and its natural counterstance is the kamae of metal: wakigamae. For these reasons, it was natural to decide that shidachi should use wakigamae in reaponse to uchidachi's hassō.
