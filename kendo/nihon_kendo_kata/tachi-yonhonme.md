@@ -40,7 +40,7 @@ When performing makikaeshi, shidachi needs to maintain contact between the blade
 
 [^1]: And anyway, the saya would still be visible, giving an upper bound for the blade's length.
 
-[^2]: In the Butokukai kenjutsu kata, this is called uchiawase (打ち合わせ), meaning to strike (the swords) together. Ai-uchi (相打ち) normally refers to a mutually killing blow where both sides simultaneously strike one another, so I personally prefer the more precise original term. Perhaps the wording was changed to emphasise that the goal is not to simply bang the swords together, but to make proper cuts to take the centre, leading to kirimusubi.
+[^2]: In the Butokukai kenjutsu kata, this is called uchiawase (打ち合わせ), meaning to strike (the swords) together. Ai-uchi (相打ち) normally refers to a mutually killing blow where both sides simultaneously strike one another, so I personally prefer the more precise original term. Perhaps the wording was changed to emphasise that the goal is not simply to bang the swords together, but to make proper cuts to take the centre, leading to kirimusubi.
 
 [^3]: Seemingly in 1981, with the publication of the modern-language version of the manual.
 
