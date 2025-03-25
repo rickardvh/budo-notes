@@ -11,6 +11,7 @@ Shidachi raises their sword in suriage to *tate-jōdan* (vertical jōdan) while 
 
 > [!NOTE]
 > This technique of performing uchiotoshi from tate-jōdan with the feet together also appears in Shintō Munen-ryū, where shidachi raises their heels as if pulled up by the sword right before bringing the full force of their body down with the sword in uchiotoshi. It seems likely that it should be performed in the same way here. Although not mentioned anywhere, uchidachi probably needs to pull the right foot back somewhat to absorb the force as their sword is struck down.
+> The tsuki is phrased as being "to the chest area" (胸部), but this almost certainly refers to the solar plexus. From the uchiotoshi, the kata is quite similar to the first form of the Shoden set of Shintō Munen-ryū, where the thrust is to the suigetsu. Furthermore, the same wording is used in the later Dai-Nippon Teikoku Kendō Kata manual about uchidachi's thrust in [tachi sanbonme](../nihon_kendo_kata/tachi-sanbonme.md), where it was clarified as referring to the suigetsu in a later revision (although the "chest area" phrasing was kept for following tsuki, which is slightly higher).
 
 Again facing each other (again presumably in seigan), shidachi retreats five steps to their starting position, while uchidachi remains in place.
 
