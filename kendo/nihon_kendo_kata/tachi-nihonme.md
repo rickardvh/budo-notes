@@ -13,7 +13,7 @@ Uchidachi steps leading with the left foot, and shidachi with the right while sh
 
 One thing stands out as odd in this kata: uchidachi attempts to cut kote by cutting vertically down the centre, basically right along shidachi's sword. Even in the best case, the cut would hit the tsuba. A kote strike normally requires one to get slightly off the centre line to get around the opponent's sword, or the strike is performed at an oblique angle to reach the kote.
 
-Of course, the teacher is not actually demonstrating the best way to cut kote from awase. The second lesson is about the principle of the centre line (正中線 *seichūsen*), and the purpose of the cut is to mark the mutual centre line for the student. The target is the part of the right wrist that is on this line, and the cut is performed as if shidachi's sword were not there.
+Of course, the teacher is not actually demonstrating the best way to cut kote from awase. The second lesson is about the principle of the centre line (正中線 *seichūsen*), and the purpose of the cut is to mark the mutual centre line for the student. The target is the part of the right wrist that is on this line, and the cut is performed as if shidachi's sword were not there. Regarding the level of the sword at the end of the cut, it was decided to add the clarification "slightly below the wrist" to the manual because people tended to cut too low: horizontal is quite enough.
 
 For shidachi's nuki-kote to be successful, they need to get two things right: stepping just enough off the original centre line to evade the cut, and keeping their own centre line aligned towards uchidachi to make their own attack. This is, of course, in addition to implementing the previous lesson about ma-ai.
 
