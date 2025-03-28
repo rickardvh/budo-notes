@@ -17,7 +17,7 @@ Much of the information about the kendō kata is taken from the now-defunct blog
    [On the Butokukai kata](butokukai-kata-notes.md)
 
 4. [Yonhonme](tachi-yonhonme.md)
-5. Gohonme
+5. [Gohonme](tachi-gohonme.md)
 6. Ropponme
 7. Nanahonme
 
