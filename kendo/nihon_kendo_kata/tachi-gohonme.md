@@ -18,6 +18,8 @@ The fact that the committee decided to relax the wording should probably be take
 
 ## Men-suriage-men
 
-When making the failed shōmen cut, uchidachi cuts to the height of shidachi's chin, and then lets the sword fall through by its own weight into gedan.
+When making the failed shōmen cut, uchidachi cuts to the height of shidachi's chin, and then lets the sword fall through by its own weight into gedan. Extra care must be taken to make a large cut with a sufficiently long step, and not to look at shidachi's sword.
 
-During suriage, shidachi raises their sword until they can see uchidachi between their own arms. They must also take care that the suriage does not turn into a harai; the shinogi slides along uchidachi's blade as the sword is raised above the head, and there is no sideways strike or sweep.
+During suriage, shidachi raises their sword until they can see uchidachi between their own arms. They must also take care that the suriage does not turn into a harai; the shinogi slides along uchidachi's blade as the sword is raised above the head, and there is no sideways strike or sweep. The suriage and the following cut must be performed without pause or break of rhythm, and the kensen must not be allowed to drop before the cut[^1].
+
+[^1]: Good news, everyone: there is no mention of jōdan, and the only requirement is for the kensen not to drop, so it's technically still perfectly acceptable to strike from tate-jōdan. Be cool. Do it at your grading. Put the sunglasses on after leaving the enbujō.
