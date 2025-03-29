@@ -16,6 +16,8 @@ In response to uchidachi's hidari-jōdan, shidachi raises their kensen towards u
 
 The fact that the committee decided to relax the wording should probably be taken to mean that the edge does not have to be facing straight down, but in any event must not be angled significantly to the left like in hira-seigan. Since the kensen is raised and moved slightly to the right to threaten uchidachi's left hand, the palm of the right hand will naturally turn ever so slightly upwards, wherefore it is actually a bit awkward to keep the edge pointing completely straight downwards. At the same time, shidachi must not make any conscious effort to angle the blade, so this small natural opening-up of the palm should be considered the acceptable limit.
 
+Again, the choice of kamae follows the in'yō-gogyō system: uchidachi uses jōdan, the downwards-cutting kamae of fire with a strong *in* aspect; in response, shidachi chooses chūdan, the kamae of water, countering fire. Specifically, they use hira-seigan (or a modernised version of it), which threatens upwards towards uchidachi's left hand, thereby strengthening the *yō* aspect of the adaptable chūdan.
+
 ## Men-suriage-men
 
 When making the failed shōmen cut, uchidachi cuts to the height of shidachi's chin, and then lets the sword fall through by its own weight into gedan. Extra care must be taken to make a large cut with a sufficiently long step, and not to look at shidachi's sword.
