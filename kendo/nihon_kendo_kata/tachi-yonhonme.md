@@ -36,7 +36,7 @@ When performing makikaeshi, shidachi needs to maintain contact between the blade
 
 ----
 
-[Next] (tachi-gohonme.md)  
+[Next](tachi-gohonme.md)  
 [Top](README.md)
 
 [^1]: And anyway, the saya would still be visible, giving an upper bound for the blade's length.
