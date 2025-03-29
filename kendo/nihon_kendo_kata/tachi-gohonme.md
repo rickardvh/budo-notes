@@ -24,4 +24,8 @@ When making the failed shōmen cut, uchidachi cuts to the height of shidachi's c
 
 During suriage, shidachi raises their sword until they can see uchidachi between their own arms. They must also take care that the suriage does not turn into a harai; the shinogi slides along uchidachi's blade as the sword is raised above the head, and there is no sideways strike or sweep. The suriage and the following cut must be performed without pause or break of rhythm, and the kensen must not be allowed to drop before the cut[^1]. When stepping back into jōdan to show zanshin, it is not explicitly stated anywhere that the kensen should first be lowered to between the eyes, but it is done in all exemplary enbu and exudes more zanshin.
 
+----
+
+[Top](README.md)
+
 [^1]: Good news, everyone: there is no mention of jōdan, and the only requirement is for the kensen not to drop, so it's technically still perfectly acceptable to strike from tate-jōdan. Be cool. Do it at your grading. Put the sunglasses on after leaving the enbujō.
