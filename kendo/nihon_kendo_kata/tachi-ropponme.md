@@ -24,8 +24,20 @@ Here, the recurring pattern of joint moral and technical progress from the first
 
 ## Seme
 
-Shidachi applies very strong pressure from below towards uchidachi's hands while slowly raising the kensen from gedan, demonstrating why gedan is considered a counter to chūdan. Uchidachi tries to cover and press back against this seme, but ultimately fails. Instead of leaving an opening for shidachi to attack, they retreat into jōdan hoping to create an opening to themselves attack from there, but shidachi leaves no such gap in their kamae or distance, instead immediately following into an anti-jōdan chūdan at an uncomfortably (for uchidachi) close distance.
+Shidachi applies very strong pressure from below towards uchidachi's hands while slowly raising the kensen from gedan, demonstrating why gedan is considered a counter to chūdan. Uchidachi tries to cover the opening and press back down against this seme, but ultimately fails.
+
+Instead of leaving an opening for shidachi to attack, uchidachi retreats into jōdan hoping to create an opening to themselves attack from there, but shidachi leaves no such gap in their kamae or distance, instead immediately following into an anti-jōdan chūdan at an uncomfortably (for uchidachi) close distance.
 
 ## Kote-suriage-kote
 
+Their plans having been foiled again by shidachi's seme, uchidachi is forced to step back once more into chūdan. Here uchidachi is counting on shidachi to adjust their kamae by bringing the kensen back down and slightly to the left into the centre (if they do not, they will be leaving an opening for a men cut), thus potentially leaving an opening for a quick kote strike. Grasping this opportunity, uchidachi makes a small cut to shidachi's right wrist -- a large cut would not be fast enough to make use of that very small opening[^2].
+
+Shidachi is expecting an attack and immediately counters it with a small suriage going into a small cut at uchidachi's own right wrist. As in the previous kata, the suriage must be made with the shinogi of the blade to be effective and to avoid damaging the edge. It must also not be a harai-like sweeping strike, as the impact of such a technique on the side of the blade would risk breaking it. The suriage is a small semicircular sliding action along the side of uchidachi's blade to move it off centre, as the left foot steps out to the side to bring the body off uchidachi's centre line. When the sword continues from the suriage into a small and quick counterstrike, the right foot simultaneously steps towards uchidachi on the new centre line.
+
+## Zanshin
+
+Although their wrist has been cut, uchidachi can still fight, and takes a big step back from shidachi, pulling the injured hand back and away with the sword hoping to make distance to reposition themselves and attack again. Shidachi, however, will still not allow uchidachi that opportunity and follows without pause to control the centre in front of uchidachi.
+
 [^1]: A student using jōdan against a senior is considered very improper; Nakayama Hakudō once called it "the height of insolence". The *yō* aspect of upwards-attacking kamae is also considered more positive than the downwards-cutting *in* stances, so this symbolism is probably why shidachi is assigned *yō* kamae in these kata.
+
+[^2]: It is sometimes said that uchidachi is pressured into making a reckless attack by shidachi's repeated seme, but there is not much to learn from defeating an opponent who makes mistakes. Uchidachi, the teacher, attacks at the first potential opening that shidachi naturally exposes.
