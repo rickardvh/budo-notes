@@ -34,10 +34,20 @@ Their plans having been foiled again by shidachi's seme, uchidachi is forced to 
 
 Shidachi is expecting an attack and immediately counters it with a small suriage going into a small cut at uchidachi's own right wrist. As in the previous kata, the suriage must be made with the shinogi of the blade to be effective and to avoid damaging the edge. It must also not be a harai-like sweeping strike, as the impact of such a technique on the side of the blade would risk breaking it. The suriage is a small semicircular sliding action along the side of uchidachi's blade to move it off centre, as the left foot steps out to the side to bring the body off uchidachi's centre line. When the sword continues from the suriage into a small and quick counterstrike, the right foot simultaneously steps towards uchidachi on the new centre line.
 
-## Zanshin
+## Triple-kill method
 
-Although their wrist has been cut, uchidachi can still fight, and takes a big step back from shidachi, pulling the injured hand back and away with the sword hoping to make distance to reposition themselves and attack again. Shidachi, however, will still not allow uchidachi that opportunity and follows without pause to control the centre in front of uchidachi.
+Although their wrist has been cut, uchidachi can still fight, and takes a big step back from shidachi, pulling the injured hand back and away with the sword hoping to make distance to reposition themselves and attack again. Shidachi, however, will still not allow uchidachi that opportunity and follows without pause to control the centre in front of uchidachi, then raises their sword into jōdan to display zanshin and cement their victory. Only then does uchidachi give up and the kata can end.
+
+This is the "triple-kill method" (三殺法 *sansatsuhō*): killing the sword, killing the technique, and killing the spirit.
+
+"Killing the sword" means to deny the enemy the full use of their sword, by not yielding control of the centre or by countering their kamae. The most obvious example might be uchiotoshi or harai techniques that literally strike or sweep the sword away, but in this kata the sword is killed by the aforementioned, more subtle, means.
+
+"Killing the technique" is what happens during the suriage, when uchidachi's attack is rendered ineffective by shidachi's counter. Although outright blocks are not used in modern kendō, they fall under this category, as do ukenagashi, nukiwaza and so on.
+
+Finally, "killing the spirit" is what forces uchidachi to finally surrender in this form. Backed into a corner with no way to fight back, they have no choice but to surrender. It is an example of kuraizume, which is more obviously utilised in [tachi sanbonme](tachi-sanbonme.md#kuraizume).
+
+Through effective use of the triple-kill method, one can achieve complete victory even without killing -- or indeed even necessarily injuring -- the enemy. It is when one is able to do all three that one's kendō is most effective. This is the lesson of the sixth long-sword form.
 
 [^1]: A student using jōdan against a senior is considered very improper; Nakayama Hakudō once called it "the height of insolence". The *yō* aspect of upwards-attacking kamae is also considered more positive than the downwards-cutting *in* stances, so this symbolism is probably why shidachi is assigned *yō* kamae in these kata.
 
-[^2]: It is sometimes said that uchidachi is pressured into making a reckless attack by shidachi's repeated seme, but there is not much to learn from defeating an opponent who makes mistakes. Uchidachi, the teacher, attacks at the first potential opening that shidachi naturally exposes.
+[^2]: It is sometimes said that uchidachi is pressured into making a reckless attack by shidachi's repeated seme, but there is not much to learn from defeating an opponent who makes mistakes. Uchidachi, the teacher, attacks at the first potential opening that naturally arises.
