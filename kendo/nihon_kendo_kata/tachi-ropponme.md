@@ -44,7 +44,7 @@ This is the "triple-kill method" (三殺法 *sansatsuhō*): killing the sword, k
 
 "Killing the technique" is what happens during the suriage, when uchidachi's attack is rendered ineffective by shidachi's counter. Although outright blocks are not used in modern kendō, they fall under this category, as do ukenagashi, nukiwaza and so on.
 
-Finally, "killing the spirit" is what forces uchidachi to finally surrender in this form. Backed into a corner with no way to fight back, they have no choice but to surrender. It is an example of kuraizume, which is more obviously utilised in [tachi sanbonme](tachi-sanbonme.md#kuraizume).
+Finally, "killing the spirit" is what forces uchidachi to finally give up in this form. Backed into a corner with no way to fight back, they have no choice but to surrender. It is an example of kuraizume, which is more expressly utilised in [tachi sanbonme](tachi-sanbonme.md#kuraizume).
 
 Through effective use of the triple-kill method, one can achieve complete victory even without killing -- or indeed even necessarily injuring -- the enemy. It is when one is able to do all three that one's kendō is most effective. This is the lesson of the sixth long-sword form.
 
