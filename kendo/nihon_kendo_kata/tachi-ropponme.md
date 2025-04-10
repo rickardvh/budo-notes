@@ -48,6 +48,10 @@ Finally, "killing the spirit" is what forces uchidachi to finally surrender in t
 
 Through effective use of the triple-kill method, one can achieve complete victory even without killing -- or indeed even necessarily injuring -- the enemy. It is when one is able to do all three that one's kendō is most effective. This is the lesson of the sixth long-sword form.
 
+----
+
+[Top](README.md)
+
 [^1]: A student using jōdan against a senior is considered very improper; Nakayama Hakudō once called it "the height of insolence". The *yō* aspect of upwards-attacking kamae is also considered more positive than the downwards-cutting *in* stances, so this symbolism is probably why shidachi is assigned *yō* kamae in these kata.
 
 [^2]: It is sometimes said that uchidachi is pressured into making a reckless attack by shidachi's repeated seme, but there is not much to learn from defeating an opponent who makes mistakes. Uchidachi, the teacher, attacks at the first potential opening that naturally arises.
