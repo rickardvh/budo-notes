@@ -1,6 +1,6 @@
 # Tachi ropponme　太刀六本目
 
-Uchidachi starting in chūdan and shidachi in gedan, both sides advance starting with the right foot. Upon reaching ma-ai, shidachi, sensing an opportunity, begins raising their kensen towards chūdan to threaten the centre point between uchidachi's hands. In response, meanwhile, uchidachi lowers their kensen a little, but when the swords are about to meet, retreats with the right foot to raise the sword into hidari-jōdan as they fail to subdue shidachi's threat.
+Uchidachi starting in chūdan and shidachi in gedan, both sides advance starting with the right foot. Upon reaching ma-ai, shidachi, sensing an opportunity, begins raising their kensen towards chūdan to threaten the centre point between uchidachi's hands. In response, meanwhile, uchidachi lowers their kensen a little, but when the swords are about to meet, retreats with the right foot to raise the sword into hidari-jōdan as they fail to suppress shidachi's threat.
 
 Shidachi immediately follows with a big step in okuri-ashi, staying in chūdan but raising the kensen to threaten uchidachi's left fist in jōdan to project seme. Because of this threat, uchidachi immediately steps back with the left foot to assume chūdan, then, seeing an opportunity, makes a small cut aimed at shidachi's right wrist.
 
