@@ -50,6 +50,7 @@ Through effective use of the triple-kill method, one can achieve complete victor
 
 ----
 
+[Next](tachi-nanahonme.md)  
 [Top](README.md)
 
 [^1]: A student using jōdan against a senior is considered very improper; Nakayama Hakudō once called it "the height of insolence". The *yō* aspect of upwards-attacking kamae is also considered more positive than the downwards-cutting *in* stances, so this symbolism is probably why shidachi is assigned *yō* kamae in these kata.
