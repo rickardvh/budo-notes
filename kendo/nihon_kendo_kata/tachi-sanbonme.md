@@ -1,4 +1,4 @@
-# Tachi sanbonme　太刀三本目
+# Tachi sanbonme　太刀三本目（人・勇・草）
 
 > [!IMPORTANT]
 > I highly recommend reading the [preface](preface.md) for background on the first three kata especially.
