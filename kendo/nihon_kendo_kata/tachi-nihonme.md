@@ -29,7 +29,7 @@ Shidachi's new centre line is not towards the target of their counterattack (alt
 
 After shidachi's cut, as they return to the awase position, shidachi needs to show zanshin with enough kigurai, since there is no additional action to display zanshin. Kigurai can be translated as confidence, a proud bearing projecting unshakable certainty.
 
-The clarification that there is no physical action of zanshin was added in the 1981 manual, and before that some teachers would raise the kensen to eye-height as an additional threat before returning to chūdan. There was never any mention of such an action in the manual: the original text said only "\[...\] strike the right kote and assume ai-chūdan."[^1] However, because uchidachi is incapacitated but not dead, the kigurai has to be strong enough not to allow uchidachi any opening for a final counterattack. This is where the kata ties into the following form.
+The clarification that there is no physical action of zanshin was added in the 1981 manual, and before that some teachers would raise the kensen to eye-height as an additional threat before returning to chūdan. There was never any mention of such an action in the manual: the original text said only "\[...\] strike the right kote and assume ai-chūdan."[^1] However, because uchidachi is incapacitated but not dead, the kigurai has to be strong enough not to allow uchidachi any opening for a final counterattack. This is where this kata ties into the next.
 
 When returning to ai-chūdan, shidachi simply steps back onto the original centre line while raising the kensen to chūdan, while uchidachi has to allow shidachi to pass before raising their own.
 
@@ -38,6 +38,12 @@ When returning to ai-chūdan, shidachi simply steps back onto the original centr
 The second Monbushō kata teaches the virtue of benevolence, represented by the jewel, Yasakani no Magatama. The lesson is simple: do not take a life if you do not have to. Shidachi has an opening to cut men and kill uchidachi, yet chooses "only" to maim them by cutting off their sword hand[^2], taking away their ability to keep fighting.
 
 There is a progression of both skill and morality evident here: as shidachi incorporates the lessons from the previous kata in their swordsmanship, they become not only more technically proficient, but able to use that skill to spare a life. If the first kata taught them to see the enemy as a person whose death was regrettable, the second kata teaches them that the skill to win can afford them the benevolence to end the fight with less than the death of their enemy[^3].
+
+## Notes
+
+The second component of ten-chi-jin is earth: chi. Both sides start this second kata in chūdan, due to chūdan being the kamae associated (in the Kantō region) with chi.
+
+Shidachi is taking what they learnt in the first kata and showing that they have learnt to apply their skills in a more dynamic way, adapting to the situation at hand. This shows a progress from the *shin* style to the more fluent *gyō* (行), the semi-cursive or running script in calligraphy.
 
 ----
 
