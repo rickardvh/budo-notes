@@ -26,7 +26,7 @@ Here, the recurring pattern of joint moral and technical progress from the first
 
 Shidachi applies very strong pressure from below towards uchidachi's hands while slowly raising the kensen from gedan, demonstrating why gedan is considered a counter to chūdan. Uchidachi tries to cover the opening and press back down against this seme, but ultimately fails.
 
-Instead of leaving an opening for shidachi to attack, uchidachi retreats into jōdan hoping to create an opening to themselves attack from there, but shidachi leaves no such gap in their kamae or distance, instead immediately following into an anti-jōdan chūdan at an uncomfortably (for uchidachi) close distance.
+Instead of leaving an opening for shidachi to attack, uchidachi retreats into jōdan hoping to create an opening to themself attack from there, but shidachi leaves no such gap in their kamae or distance, instead immediately following into an anti-jōdan chūdan at an uncomfortably (for uchidachi) close distance.
 
 ## Kote-suriage-kote
 
