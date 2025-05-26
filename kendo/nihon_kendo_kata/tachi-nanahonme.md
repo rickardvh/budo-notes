@@ -9,3 +9,23 @@ Both sides return to ai-chūdan with equal kigurai. Uchidachi steps in with the 
 During the cut, uchidachi will have lost eye contact with shidachi for a moment, but as soon as the cut finishes, they must restore eye contact. Shidachi must keep their eyes on uchidachi's body throughout their own cut.
 
 After a brief pause in a moment of transition, shidachi moves the sword into wakigamae and displays zanshin. Uchidachi straightens up and, while bringing the sword above their head in a large motion, pivots on their right foot and pulls their left foot back behind the right to turn towards shidachi. As uchidachi begins to lower their kensen into chūdan, shidachi likewise brings their sword above their head in a large furikaburi and pivots on their right knee to face uchidachi to the left, and lowers their own kensen into chūdan.
+
+As shidachi continues by standing up while displaying strong fighting spirit, uchidachi steps back starting with the left foot, and the swords reach ai-chūdan. Without breaking connection, uchidachi and shidachi return to the centre point starting with the left foot.
+
+Since nanahonme marks the end of the tachi kata, both sides assume sonkyo and sheathe their swords before returning to their respective starting positions and performing a mutual standing bow. In the event of continuing with the kodachi kata, uchidachi waits in sonkyo while shidachi is switching weapons.
+
+## Overview
+
+Uchidachi and shidachi both start in chūdan no kamae, balanced equally between *in* and *yō*. It does not appear to be based on any earlier kata, but the method of countering a tsuki with a counterthrust is used in the Tōkyō Kōshi Gogyō no Kata.
+
+Being the last of the tachi kata, this form was meant to represent the pinnacle of swordsmanship and morality. Shidachi is now skilled enough to lure uchidachi into attacking in such a way that they are completely at the mercy of their opponent, and yet shidachi does not kill. Instead, shidachi achieves victory by showing uchidachi in no uncertain way that they could have easily killed them had they wanted to.
+
+## Ai-zuki
+
+Upon reaching ma-ai, uchidachi makes a tsuki to shidachi's chest area. In the discussions leading up to the 1981 revision, it was suggested to clarify that "chest area" referred to the solar plexus (suigetsu), as it was common for practitioners to aim the thrust too high. Although it was decided to keep the original wording, the tsuki must be made to the suigetsu in the same way as in [tachi sanbonme](tachi-sanbonme.md), angling the edge down to the right in order to go around shidachi's sword.
+
+Shidachi's counterthrust is rather different from the [nayashi-ire](tachi-sanbonme.md#nayashi-ire) of the third long-sword form, and in some ways its opposite. By angling the edge down to the left and pushing forwards and slightly upwards as if supporting the enemy blade with the shinogi, shidachi utilises the curvature of the blade to push uchidachi's kensen off centre. It is stressed to "support" the blade because contact with the full shinogi and not just the edge must be maintained throughout the technique. Done correctly, this will cause both kensen to rise to around shoulder height, with shidachi's kensen remaining in the centre while uchidachi's is pushed aside.
+
+## Surechigai-dō
+
+## Killing at will
