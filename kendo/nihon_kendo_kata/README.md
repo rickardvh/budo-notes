@@ -19,7 +19,7 @@ Much of the information about the kendō kata is based on the teachings of the l
 4. [Yonhonme](tachi-yonhonme.md)
 5. [Gohonme](tachi-gohonme.md)
 6. [Ropponme](tachi-ropponme.md)
-7. Nanahonme
+7. [Nanahonme](tachi-nanahonme.md)
 
 ### Kodachi sanbon
 
