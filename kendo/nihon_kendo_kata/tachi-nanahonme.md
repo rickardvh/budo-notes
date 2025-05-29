@@ -38,4 +38,8 @@ The important thing to note about shidachi's dō cut is that it is not meant to 
 
 With the final step of development in both proficiency and morality taken, mirroring the progression found in the first three kata devised by the Monbushō, this form fittingly marks the end of the long-sword kata.
 
+----
+
+[Top](README.md)
+
 [^1]: 身捨て; literally "throwing away one's body".
