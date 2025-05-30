@@ -16,7 +16,7 @@ Since nanahonme marks the end of the tachi kata, both sides assume sonkyo and sh
 
 ## Overview
 
-Uchidachi and shidachi both start in chūdan no kamae, balanced equally between *in* and *yō*. It does not appear to be based on any earlier kata, but the method of countering a tsuki with a counterthrust is used in the Tōkyō Kōshi Gogyō no Kata.
+Uchidachi and shidachi both start in chūdan no kamae, balanced equally between *in* and *yō*. This form does not appear to be based on any earlier kata, but the method of countering a tsuki with a counterthrust is used in the Tōkyō Kōshi Gogyō no Kata.
 
 Being the last of the tachi kata, this form was meant to represent the pinnacle of swordsmanship and morality. Shidachi is now skilled enough to lure uchidachi into attacking in such a way that they are completely at the mercy of their opponent, and yet shidachi does not kill. Instead, shidachi achieves victory by showing uchidachi in no uncertain way that they could have easily killed them had they wanted to.
 
