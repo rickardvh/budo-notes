@@ -1,14 +1,14 @@
 # The origins of iai　居合根元之巻
 
-> 抑此居合卜申者日本奥州林之従大明神夢想に〆奉傳之
+> 抑此居合ト申者日本奥州林之従大明神夢想に〆奉傳之
 
-To begin with, this which is called iai was received in a divine dream from the Great Deity of Hayashi in Ōshū.
+To begin with, this which is called iai was received in a divine dream from the Great Deity of Hayashi in the Ōshū region of Japan.
 
 > 夫兵術者上古中古雖有数多之違佗流大人小人無力剛力不嫌合兵用云々
 
 As for martial arts, though in ancient and mediaeval times there have been many other different schools, this art can be employed in battle by people of large or small stature, by those without strength or those with great strength, and so on and so forth without discrimination.
 
-> 末代為相應之太刀尓云手近勝一命有無之極
+> 末代爲相應之太刀尓云手近勝一命有無之極
 
 In these latter days, it is considered a sword art most suitable for the current age. It is said: victory at close quarters is the very line between life and death.
 
@@ -16,7 +16,7 @@ In these latter days, it is considered a sword art most suitable for the current
 
 Regarding this iai, there should be no matter of doubt concerning its provenance: it stems solely from a divine dream.
 
-> 此始尋奥州林崎神助重信卜云者因有兵術望之林之明神一百有日令参籠其満暁夢中老翁重信告日
+> 此始尋奥州林崎神助重信ト云者因有兵術望之林之明神一百有日令参籠其満暁夢中老翁重信告日
 
 It began with a man called Hayashizaki Jinsuke Shigenobu of Ōshū. Aspiring to mastery of the martial arts, he undertook a retreat of over one hundred days of seclusion and prayer to the Hayashi Myōjin. At the dawn of its fulfilment, an old man appeared to Shigenobu in a dream and declared thus:
 
@@ -24,9 +24,9 @@ It began with a man called Hayashizaki Jinsuke Shigenobu of Ōshū. Aspiring to 
 
 "If you hold this sword art always in your heart, you shall gain victory over your hated enemies."
 
-> 則如靈夢有得大利以腰刀三尺三寸勝九寸五分事
+> 則如㚑夢有得大利以腰刀三尺三寸勝九寸五分事
 
-And so, just as in the divine dream, he gained great benefit: with a sword of three shaku and three sun at his waist, he was able to defeat one of nine sun and five bu.
+And so, just as in the revelation, he gained great benefit: with a sword of three shaku and three sun at his waist, he was able to defeat one of nine sun and five bu.
 
 > 柄口六寸勝之妙不思義之極意一國一人之相傳也
 
@@ -36,11 +36,11 @@ The marvel of victory six sun from the hilt is an incredible ultimate secret to 
 
 The waist sword of three shaku three sun represents the Three Poisons; that is, the Three Virtues. However, the side sword of nine sun five bu represents the Nine Luminaries and the Five Wisdoms – these are internal teachings.
 
-> 敵味方成事是亦前生之業感也生死一體戦場浄土也
+> 敵味方成㕝是亦前生之業感也生死一體戰場浄土也
 
 Whether someone becomes an enemy or an ally is also the result of karma from previous lives. Life and death are one; the battlefield is the Pure Land.
 
-> 如此観則現世蒙大聖摩利支尊天加護来世成佛成緑之事豈有疑哉
+> 如此観則現世蒙大聖摩利支尊天加護来世成佛成縁之㕝豈有疑哉
 
 With this view, one will receive the divine protection of the Great Sage Marishiten in this life, and be able to attain Buddhahood in the next life – how could there be any doubt?
 
