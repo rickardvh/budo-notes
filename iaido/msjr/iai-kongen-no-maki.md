@@ -25,7 +25,7 @@
 
 To begin with, this which is called iai was received in a divine dream from Hayashi Daimyōjin in Ōshū, Japan.
 
-Now, as for martial arts, though in ancient and mediaeval times there have been many other different schools, this art can be employed without discrimination between people of large or small stature, by those without strength or those with great strength, and so on and so forth.
+Now, as for martial arts, though in ancient and mediaeval times there have been many other different schools, this art can be employed in battle by people of large or small stature, by those without strength or those with great strength, and so on and so forth.
 
 In these latter days, it is considered a sword art most suitable for the current age. It is said: victory at close quarters is the ultimate decider of life and death.
 
