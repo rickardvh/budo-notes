@@ -55,6 +55,6 @@ Even if someone were to offer a thousand pieces of gold, this iai must absolutel
 An old saying goes: "He who advances swiftly, also retreats swiftly." In this spirit, there shall be no distinction between noble and base, high and low rank; without regard for seniority or juniority, licenses and techniques shall be bestowed without prejudice.
 
 > 又古語曰  
-> 夫百錬之搆在則茅茨荘鄙與兵利心懸者夜白思之神明佛陀祈者則忽得利方是依心潜身事燦然
+> 夫百錬之搆在則苐茨荘鄙與兵利心懸者夜白思之神明佛陀祈者則忽得利方是依心潜身事燦然
 
 Another old saying goes: "With well-tempered skill, even in a humble thatched-roof hut in a rural village, one who devotes himself to the martial arts and prays earnestly to the gods and the Buddhas at night, will suddenly gain insight. When one devotes oneself wholeheartedly, one's whole being radiates with excellence."
