@@ -45,4 +45,4 @@ Even if someone were to offer a thousand pieces of gold, this iai must absolutel
 
 An old saying goes: "He who advances swiftly, also retreats swiftly." In this spirit, there shall be no distinction between noble and base, high and low rank; without regard for seniority or juniority, licenses and techniques shall be granted without prejudice.
 
-Another old saying goes: "With a determination forged a hundred times, even in a humble thatched-roof hut in a rural village, one who devotes himself to the art of war and prays earnestly to the gods and the Buddhas at night, will immediately gain insight." When one devotes oneself wholeheartedly, one's whole being becomes brilliantly clear.
+Another old saying goes: "With a  well-tempered determination, even in a humble thatched-roof hut in a rural village, one who devotes himself to the art of war and prays earnestly to the gods and the Buddhas at night, will immediately gain insight." When one devotes oneself wholeheartedly, one's whole being becomes brilliantly clear.
