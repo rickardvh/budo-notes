@@ -2,15 +2,15 @@
 
 > 抑此居合卜申者日本奥州林之従大明神夢想に〆奉傳之
 
-To begin with, this which is called iai was received in a divine dream from Hayashi Daimyōjin in Ōshū, Japan.
+To begin with, this which is called iai was received in a divine dream from the Great Deity of Hayashi in Ōshū.
 
 > 夫兵術者上古中古雖有数多之違佗流大人小人無力剛力不嫌合兵用云々
 
-Now, as for martial arts, though in ancient and mediaeval times there have been many other different schools, this art can be employed in battle by people of large or small stature, by those without strength or those with great strength, and so on and so forth.
+As for martial arts, though in ancient and mediaeval times there have been many other different schools, this art can be employed in battle by people of large or small stature, by those without strength or those with great strength, and so on and so forth without discrimination.
 
 > 末代為相應之太刀尓云手近勝一命有無之極
 
-In these latter days, it is considered a sword art most suitable for the current age. It is said: victory at close quarters is the ultimate decider of life and death.
+In these latter days, it is considered a sword art most suitable for the current age. It is said: victory at close quarters is the very line between life and death.
 
 > 此居合恐者粟散邊土於堺不審之儀不可有之唯依靈夢處也
 
@@ -22,7 +22,7 @@ It began with a man called Hayashizaki Jinsuke Shigenobu of Ōshū. Aspiring to 
 
 > 汝以此太刀常胸中憶持者得勝怨敵云々
 
-"If you always keep this sword art in your heart, you shall gain victory over your hated enemies."
+"If you hold this sword art always in your heart, you shall gain victory over your hated enemies."
 
 > 則如靈夢有得大利以腰刀三尺三寸勝九寸五分事
 
@@ -30,19 +30,19 @@ And so, just as in the divine dream, he gained great benefit: with a sword of th
 
 > 柄口六寸勝之妙不思義之極意一國一人之相傳也
 
-The marvel of victory six sun from the hilt is an incredible ultimate secret to be transmitted only to a single person in a single country.
+The marvel of victory six sun from the hilt is an incredible ultimate secret to be transmitted only to a single person in a single land.
 
 > 腰刀三尺三寸三毒則三部尓但脇差九寸五分九曜五古之内證也
 
-The waist sword of three shaku three sun represents the Three Poisons; that is, the Three Divisions. However, the side sword of nine sun five bu represents the Nine Luminaries and the Five Wisdoms – these are internal teachings.
+The waist sword of three shaku three sun represents the Three Poisons; that is, the Three Virtues. However, the side sword of nine sun five bu represents the Nine Luminaries and the Five Wisdoms – these are internal teachings.
 
 > 敵味方成事是亦前生之業感也生死一體戦場浄土也
 
-Becoming an enemy or an ally is also the result of karma from previous lives. Life and death are one; the battlefield is the Pure Land.
+Whether someone becomes an enemy or an ally is also the result of karma from previous lives. Life and death are one; the battlefield is the Pure Land.
 
 > 如此観則現世蒙大聖摩利支尊天加護来世成佛成緑之事豈有疑哉
 
-With this view, one will receive the divine protection of the Great Sage Marishiten in this life, and be able to attain Enlightenment in the next life – how could there be any doubt?
+With this view, one will receive the divine protection of the Great Sage Marishiten in this life, and be able to attain Buddhahood in the next life – how could there be any doubt?
 
 > 此居合雖積千金不眞實之人者堅不可授之恐天罰唯授一人傳之云々
 
@@ -57,4 +57,4 @@ An old saying goes: "He who advances swiftly, also retreats swiftly." In this sp
 > 又古語日  
 > 夫百錬之搆在則第茨荘都與兵利心懸者夜白思之神明佛陀祈者則忽得利方是依心潜身事燦然
 
-Another old saying goes: "With well-tempered skill, even in a humble thatched-roof hut in a rural village, one who devotes himself to the martial arts and prays earnestly to the gods and the Buddhas at night, will immediately gain insight. When one devotes oneself wholeheartedly, one's whole being becomes radiant."
+Another old saying goes: "With well-tempered skill, even in a humble thatched-roof hut in a rural village, one who devotes himself to the martial arts and prays earnestly to the gods and the Buddhas at night, will suddenly gain insight. When one devotes oneself wholeheartedly, one's whole being radiates with excellence."
