@@ -39,7 +39,7 @@ And so, just as in the divine dream, he gained great benefit: with a sword of th
 
 The waist sword of three shaku three sun represents the Three Poisons; that is, the Three Divisions. However, the side sword of nine sun five bu represents the Nine Luminaries and the Five Wisdoms – these are internal teachings.
 
-Becoming an enemy or an ally is also the result of karma from previous lives. Life and death are indivisible; the battlefield is the Pure Land. With this view, one will receive the divine protection of the Great Sage Marishiten in this life, and be able to attain Enlightenment in the next life – how could there be any doubt?
+Becoming an enemy or an ally is also the result of karma from previous lives. Life and death are one; the battlefield is the Pure Land. With this view, one will receive the divine protection of the Great Sage Marishiten in this life, and be able to attain Enlightenment in the next life – how could there be any doubt?
 
 Even if someone were to offer a thousand pieces of gold, this iai must absolutely not be taught to an insincere person. For fear of divine punishment, it must be transmitted to a sole successor.
 
