@@ -26,7 +26,7 @@ It began with a man called Hayashizaki Jinsuke Shigenobu of Ōshū. Aspiring to 
 
 > 則如㚑夢有得大利以腰刀三尺三寸勝九寸五分事
 
-And so, just as in the revelation, he gained great benefit: with a sword of three shaku and three sun at his waist, he was able to defeat one of nine sun and five bu.
+And so, just as in the revelation, he gained great advantage: with a sword of three shaku and three sun at his waist, he was able to defeat one of nine sun and five bu.
 
 > 柄口六寸勝之妙不思義之極意一國一人之相傳也
 
