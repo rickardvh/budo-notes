@@ -34,7 +34,7 @@ The marvel of victory six sun from the hilt is an ultimate secret beyond compreh
 
 > 腰刀三尺三寸三毒則三部尓但脇差九寸五分九曜五古之内證也
 
-The waist sword of three shaku three sun represents the Three Poisons; that is, the Three Virtues. However, the side sword of nine sun five bu represents the Nine Luminaries and the Five Wisdoms – these are internal teachings.
+The waist sword of three shaku three sun represents the Three Poisons, which are the Three Parts. However, the side sword of nine sun five bu represents the Nine Celestial Bodies and the Five-pronged Vajra – these are internal teachings.
 
 > 敵味方成㕝是亦前生之業感也生死一體戰場浄土也
 
