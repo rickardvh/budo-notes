@@ -57,4 +57,4 @@ An old saying goes: "He who advances swiftly, also retreats swiftly." In this sp
 > 又古語曰  
 > 夫百錬之搆在則苐茨荘鄙與兵利心懸者夜白思之神明佛陀祈者則忽得利方是依心潜身事燦然
 
-Another old saying goes: "With a well-tempered character, even in a humble thatched-roof hut in a rural village, one who devotes himself to the martial arts and contemplates the gods and the Buddhas at night, will suddenly gain insight." By these means, one's mind will be stilled and one's whole being radiate with excellence.
+Another old saying goes: "Even in a humble thatched-roof hut in a rural village, one tempered by a hundred trials who devotes himself to refinement in the martial arts, who contemplates their principles deep into the night and prays to the gods and the Buddhas, may suddenly grasp the advantageous way." By relying on one's heart and living a quiet life, one's whole being will radiate with excellence.
