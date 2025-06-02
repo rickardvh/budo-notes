@@ -6,15 +6,15 @@ To begin with, this which is called iai was received in a divine dream from the 
 
 > 夫兵術者上古中古雖有数多之違佗流大人小人無力剛力不嫌合兵用云々
 
-As for martial arts, though in ancient and mediaeval times there have been many other different schools, this art can be employed in battle by people of large or small stature, by those without strength or those with great strength, and so on and so forth without discrimination.
+As for martial arts, though in ancient and mediaeval times there have been many other different schools, there are methods that can be employed in battle equally by people of large or small stature, by those without strength or those with great strength, and so on and so forth.
 
 > 末代爲相應之太刀尓云手近勝一命有無之極
 
-In these latter days, it is considered a sword art most suitable for the current age. It is said: victory at close quarters is the very line between life and death.
+In these latter days, it is said about sword arts most suitable for the current age: victory at close quarters is the ultimate line between life and death.
 
-> 此居合恐者粟散邊土於堺不審之儀不可有之唯依靈夢處也
+> 此居合恐者粟散邊土於堺不審之儀不可有之唯依㚑夢處也
 
-Regarding this iai, there should be no matter of doubt concerning its provenance: it stems solely from a divine dream.
+Regarding this iai, even in faraway lands there can surely be no doubt, as it stems solely from a divine dream.
 
 > 此始尋奥州林崎神助重信ト云者因有兵術望之林之明神一百有日令参籠其満暁夢中老翁重信告曰
 
@@ -30,7 +30,7 @@ And so, just as in the revelation, he gained great benefit: with a sword of thre
 
 > 柄口六寸勝之妙不思義之極意一國一人之相傳也
 
-The marvel of victory six sun from the hilt is an incredible ultimate secret to be transmitted only to a single person in a single land.
+The marvel of victory six sun from the hilt is an ultimate secret beyond comprehension to be transmitted only to a single person in a single land.
 
 > 腰刀三尺三寸三毒則三部尓但脇差九寸五分九曜五古之内證也
 
