@@ -2,7 +2,7 @@
 
 > 抑此居合ト申者日本奥州林之従大明神夢想に〆奉傳之
 
-To begin with, this which is called iai was received in a divine dream from the Great Deity of Hayashi in the Ōshū region of Japan.
+To begin with, this which is called iai has been reverently transmitted as revealed in a divine dream from the Great Deity of Hayashi in the Ōshū region of Japan.
 
 > 夫兵術者上古中古雖有数多之違佗流大人小人無力剛力不嫌合兵用云々
 
