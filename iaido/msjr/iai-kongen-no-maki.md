@@ -14,7 +14,7 @@ In these latter days, it is said about sword arts most suitable for the current 
 
 > 此居合恐者粟散邊土於堺不審之儀不可有之唯依㚑夢處也
 
-Regarding this iai, even in faraway lands there can surely be no doubt, as it stems solely from divine revelation.
+Even in faraway lands there can surely be no doubt regarding this iai, as it stems solely from divine revelation.
 
 > 此始尋奥州林崎神助重信ト云者因有兵術望之林之明神一百有日令参籠其満暁夢中老翁重信告曰
 
