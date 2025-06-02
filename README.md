@@ -17,6 +17,8 @@ Rickard von Haugwitz
 
 #### [ZNKR Iaidō](iaido/znkr/README.md)
 
+#### [Musō Shinden Jūshin-ryū Iaijutsu](iaido/msjr/README.md)
+
 ### Jōdō
 
 #### ZNKR Jōdō \[to be added\]
