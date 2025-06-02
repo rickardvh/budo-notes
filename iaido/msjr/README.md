@@ -1,4 +1,4 @@
-# Musō Shinden Jūshin-ryū 
+# Musō Shinden Jūshin-ryū
 
 ## Table of contents
 
