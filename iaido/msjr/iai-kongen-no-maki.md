@@ -30,7 +30,7 @@ And so, just as in the revelation, he gained great advantage: with a sword of th
 
 > 柄口六寸勝之妙不思義之極意一國一人之相傳也
 
-The marvel of victory six sun from the hilt is an ultimate secret beyond comprehension to be transmitted only to a single person in a single land.
+The marvel of victory by six sun of the hilt-opening is an ultimate secret beyond comprehension to be transmitted only to a single person in a single land.
 
 > 腰刀三尺三寸三毒則三部尓但脇差九寸五分九曜五古之内證也
 
