@@ -14,7 +14,7 @@ In these latter days, it is said about sword arts most suitable for the current 
 
 > 此居合恐者粟散邊土於堺不審之儀不可有之唯依㚑夢處也
 
-Even in faraway lands there can surely be no doubt regarding this iai, as it stems solely from divine revelation.
+Even in faraway lands there can surely be no doubt regarding this iai, for it stems solely from divine revelation.
 
 > 此始尋奥州林崎神助重信ト云者因有兵術望之林之明神一百有日令参籠其満暁夢中老翁重信告曰
 
@@ -34,7 +34,7 @@ The marvel of victory by six sun of the hilt-opening is an ultimate secret beyon
 
 > 腰刀三尺三寸三毒則三部尓但脇差九寸五分九曜五古之内證也
 
-The waist sword of three shaku three sun represents the Three Poisons, which are the Three Parts. However, the side sword of nine sun five bu represents the Nine Luminaries and the Five-pronged Vajra – these are internal teachings.
+The waist sword of three shaku three sun represents the Three Poisons, which are the Three Divisions. However, the side sword of nine sun five bu represents the Nine Luminaries and the Five-pronged Vajra – these are internal teachings.
 
 > 敵味方成㕝是亦前生之業感也生死一體戰場浄土也
 
@@ -46,7 +46,7 @@ With this view, one will receive the divine protection of the Great Sage Marishi
 
 > 此居合雖積千金不眞實之人者堅不可授之恐天罰唯授一人傳之云々
 
-Even if someone were to offer a thousand pieces of gold, this iai must absolutely not be taught to an insincere person. For fear of divine punishment, it must be passed on to only one person.
+Even if someone were to offer a thousand pieces of gold, this iai must under no circumstances be taught to an insincere person. For fear of divine punishment, it must be passed on to only one person.
 
 > 古語曰  
 > 其進疾者其退速云々  
