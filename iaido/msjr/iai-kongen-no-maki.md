@@ -14,7 +14,7 @@ In these latter days, it is said about sword arts most suitable for the current 
 
 > 此居合恐者粟散邊土於堺不審之儀不可有之唯依㚑夢處也
 
-Even in faraway lands there can surely be no doubt regarding this iai, for it stems solely from divine revelation.
+Even in the remote provinces there can surely be no doubt regarding this iai, for it stems solely from divine revelation.
 
 > 此始尋奥州林崎神助重信ト云者因有兵術望之林之明神一百有日令参籠其満暁夢中老翁重信告曰
 
@@ -58,3 +58,67 @@ An old saying goes: "He who advances swiftly, also retreats swiftly." In this sp
 > 夫百錬之搆在則苐茨荘鄙與兵利心懸者夜白思之神明佛陀祈者則忽得利方是依心潜身事燦然
 
 Another old saying goes: "Even in a humble thatched-roof hut in a rural village, one tempered by a hundred trials who devotes himself to refinement in the martial arts, who contemplates their principles deep into the night and prays to the gods and the Buddhas, will immediately grasp the advantageous way." By relying on one's heart and living a quiet life, one's whole being will radiate with excellence.
+
+## Commentary and translation notes
+
+> 抑此居合ト申者日本奥州林之従大明神夢想に〆奉傳之
+
+"The Great Deity of Hayashi" is rendered from 林之従大明神, which literally means "the great and bright god of Hayashi". 大明神 (*daimyōjin*) is listed in my dictionary as "deity with extraordinary spiritual powers", and this god was the head deity of the Hayashi area. This place called Hayashi is synonymous to or surrounds the village of Hayashizaki, located in present-day Murayama, Yamagata. Elsewhere, the deity is referred to as Hayashizaki Daimyōjin. Ōshū (奥州) is the old name for the Tōhoku region of northeastern Honshū.
+
+> 夫兵術者上古中古雖有数多之違佗流大人小人無力剛力不嫌合兵用云々
+
+This paragraph discusses martial arts (兵術, *heijutsu*) of the past, saying that there have been many "different schools" (違佗流). This word 違佗流 (*idaryū*) is somewhat mysterious: 違 means "different", but 佗 is "proud" or "lonely". The meaning could therefore be something like "different schools, each unique and standing apart", but the wording is slightly odd. Yamakoshi Masaki-sensei of Musō Jikiden Eishin-ryū has a different interpretation[^1], taking 違佗 to be a mistaken version of 韋陀 (*Ida*) as in the name of the Buddhist guardian deity Skanda (韋陀天 *Idaten*). With Idaten being a warrior deity, Yamakoshi-sensei's rendering of 韋陀流 would refer to schools either dedicated to this god or, alternatively, more generally claiming an origin in divine revelation. Idaten is usually written 韋駄天, however, so in order not to read too much into the word, I decided to translate 違佗流 simply as "different schools". Either way, the various schools are described as being employed in battle without favouring large nor small people, the strong nor the weak, "and so on" (云々 *unnun*). Note that this is the only place I have chosen to keep 云々 in the translation, as I felt it disturbed the flow more than it contributed elsewhere in English.
+
+> 末代爲相應之太刀尓云手近勝一命有無之極
+
+A more literal translation here would be "it is said about the sword (technique) suitable for the latter (read: current) age that victory at close range is the ultimate decider of the existence or nonexistence of life". The important point is that although there have been many and varying schools for different people and circumstances in the past, iai specialises in defeating an enemy at extremely close quarters, as this is identified as being the essential skill for the new age of swordsmanship.
+
+> 此居合恐者粟散邊土於堺不審之儀不可有之唯依㚑夢處也
+
+Here, 粟散邊土 (*sokusanhendo*) literally means "borderlands (like) scattered millet/grain", referring to remote regions of Japan even at its very borders (於堺). Although the exact wording is that there is "likely" (恐 *osoraku*) no "matter of doubt" (不審之儀 *fushin no gi*), I chose a slightly stronger wording of "surely no doubt"[^2].
+
+> 此始尋奥州林崎神助重信ト云者因有兵術望之林之明神一百有日令参籠其満暁夢中老翁重信告曰
+
+It is worth noting here that Hayashizaki Jinsuke Shigenobu was not this man's birthname. He was born Asano Tamimaru (浅野民丸) or Tamiharu (民治), and after his divine revelation took the new family name Hayashizaki to honour the deity. The revelation happened in the fifth month of the 23rd year of the Tenmon era (1554), when Tamimaru was 13 years old. Upon turning 14 the following year, he changed his name to Hayashizaki and took the adult names of Jinsuke and Shigenobu in honour of his father. Jinsuke was his father's childhood name, and Shigenari (重成), in which Shigenobu changed the second kanji, the father's adult name.
+
+> 汝以此太刀常胸中憶持者得勝怨敵云々
+
+This quote from the dream ends with 云々, indicating that there was more to the message than this short sentence. As this seems fairly obvious, and it felt somewhat improper to end a quote from a deity with "and so on" in English, I left it out.
+
+> 則如㚑夢有得大利以腰刀三尺三寸勝九寸五分事
+
+And so, just as in the revelation, he gained great advantage: with a sword of three shaku and three sun at his waist, he was able to defeat one of nine sun and five bu.
+
+> 柄口六寸勝之妙不思義之極意一國一人之相傳也
+
+The marvel of victory by six sun of the hilt-opening is an ultimate secret beyond comprehension to be transmitted only to a single person in a single land.
+
+> 腰刀三尺三寸三毒則三部尓但脇差九寸五分九曜五古之内證也
+
+The waist sword of three shaku three sun represents the Three Poisons, which are the Three Divisions. However, the side sword of nine sun five bu represents the Nine Luminaries and the Five-pronged Vajra – these are internal teachings.
+
+> 敵味方成㕝是亦前生之業感也生死一體戰場浄土也
+
+Whether someone becomes an enemy or an ally is also the result of karma from previous lives. Life and death are one; the battlefield is the Pure Land.
+
+> 如此観則現世蒙大聖摩利支尊天加護来世成佛成縁之㕝豈有疑哉
+
+With this view, one will receive the divine protection of the Great Sage Marishiten in this life, and be able to attain Buddhahood in the next life – how could there be any doubt?
+
+> 此居合雖積千金不眞實之人者堅不可授之恐天罰唯授一人傳之云々
+
+Even if someone were to offer a thousand pieces of gold, this iai must under no circumstances be taught to an insincere person. For fear of divine punishment, it must be passed on to only one person.
+
+> 古語曰  
+> 其進疾者其退速云々  
+> 此意以貴賎尊卑無隔不謂前後輩達其所作者許目録印可等無相違
+
+An old saying goes: "He who advances swiftly, also retreats swiftly." In this spirit, there shall be no distinction between noble and base, high and low rank; without regard for seniority or juniority, licenses and techniques shall be bestowed without prejudice.
+
+> 又古語曰  
+> 夫百錬之搆在則苐茨荘鄙與兵利心懸者夜白思之神明佛陀祈者則忽得利方是依心潜身事燦然
+
+Another old saying goes: "Even in a humble thatched-roof hut in a rural village, one tempered by a hundred trials who devotes himself to refinement in the martial arts, who contemplates their principles deep into the night and prays to the gods and the Buddhas, will immediately grasp the advantageous way." By relying on one's heart and living a quiet life, one's whole being will radiate with excellence.
+
+[^1]: <http://yamauchiiai.la.coocan.jp/YamauchiIai/KongenNoMaki0.html>
+[^2]: On a related note, the logical leap of thinking the claim of divine revelation would be *less* cause for doubt amuses me greatly: "A god told this to me in a dream!" -- "Oh, all right then, then it must be legit."
