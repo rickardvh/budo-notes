@@ -63,7 +63,7 @@ Another old saying goes: "Even in a humble thatched-roof hut in a rural village,
 
 > 抑此居合ト申者日本奥州林之従大明神夢想に〆奉傳之
 
-"The Great Deity of Hayashi" is rendered from 林之従大明神, which literally means "the great and bright god of Hayashi". 大明神 (*daimyōjin*) is listed in my dictionary as "deity with extraordinary spiritual powers", and this god was the head deity of the Hayashi area. This place called Hayashi is synonymous to or surrounds the village of Hayashizaki, located in present-day Murayama, Yamagata. Elsewhere, the deity is referred to as Hayashizaki Daimyōjin. Ōshū (奥州) is the old name for the Tōhoku region of northeastern Honshū.
+"The Great Deity of Hayashi" is rendered from 林之従大明神, which literally means "the great and bright god of Hayashi". 大明神 (*daimyōjin*) is listed in my dictionary as "deity with extraordinary spiritual powers", and this god was the head deity of the Hayashi area. This place called Hayashi is synonymous to or surrounds the village of Hayashizaki, located in present-day Murayama, Yamagata. In other texts, the deity is referred to as Hayashizaki Daimyōjin. Ōshū (奥州) is the old name for the Tōhoku region of northeastern Honshū.
 
 > 夫兵術者上古中古雖有数多之違佗流大人小人無力剛力不嫌合兵用云々
 
