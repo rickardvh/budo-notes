@@ -75,25 +75,27 @@ A more literal translation here would be "it is said about the sword (technique)
 
 > 此居合恐者粟散邊土於堺不審之儀不可有之唯依㚑夢處也
 
-Here, 粟散邊土 (*sokusanhendo*) literally means "borderlands (like) scattered millet/grain", referring to remote regions of Japan even at its very borders (於堺). Although the exact wording is that there is "likely" (恐 *osoraku*) no "matter of doubt" (不審之儀 *fushin no gi*), I chose a slightly stronger wording of "surely no doubt"[^2].
+Here, 粟散邊土 (*sokusanhendo*) literally means "borderlands (like) scattered millet/grain", referring to remote regions of Japan even at its very borders (於堺). Although the exact wording is that there is "likely" (恐 *osoraku*) no "matter of doubt" (不審之儀), I chose a slightly stronger wording of "surely no doubt". The message is that iai is not something created by men, but simply passed on as instructed by the gods, wherefore no one should harbour any doubt about it[^2].
 
 > 此始尋奥州林崎神助重信ト云者因有兵術望之林之明神一百有日令参籠其満暁夢中老翁重信告曰
 
-It is worth noting here that Hayashizaki Jinsuke Shigenobu was not this man's birthname. He was born Asano Tamimaru (浅野民丸) or Tamiharu (民治), and after his divine revelation took the new family name Hayashizaki to honour the deity. The revelation happened in the fifth month of the 23rd year of the Tenmon era (1554), when Tamimaru was 13 years old. Upon turning 14 the following year, he changed his name to Hayashizaki and took the adult names of Jinsuke and Shigenobu in honour of his father. Jinsuke was his father's childhood name, and Shigenari (重成), in which Shigenobu changed the second kanji, the father's adult name.
+It is interesting to note here that Jinsuke is written here as 神助 rather than the actual name 甚助. Although it could be a simple mistake, it seems likely that the author is trying to reinforce the divine connection by using the kanji for god, 神. "At the dawn of its fulfilment" (満暁) is to be taken literally: at dawn on the final day of Shigenobu's retreat, an old man appeared to him at his bedside and passed on to him the secrets of iai.
 
 > 汝以此太刀常胸中憶持者得勝怨敵云々
 
-This quote from the dream ends with 云々, indicating that there was more to the message than this short sentence. As this seems fairly obvious, and it felt somewhat improper to end a quote from a deity with "and so on" in English, I left it out.
+This quote from the dream ends with 云々, indicating that there was more to the message than this short sentence. As this seems fairly obvious, and it felt somewhat improper to end a quote from a deity with "and so on" in English, I left it out. In any event, this sentence was the final message in the dream, said after the old man had instructed Shigenobu in swordsmanship.
 
 > 則如㚑夢有得大利以腰刀三尺三寸勝九寸五分事
 
-And so, just as in the revelation, he gained great advantage: with a sword of three shaku and three sun at his waist, he was able to defeat one of nine sun and five bu.
+This passage is rather straightforward: a "waist sword" three shaku and three sun (~1 m) long defeating \[a sword measuring\] nine sun and five bu (~28 cm). To an uninitiated reader, this may sound obvious; recall, however, that iai is applied at extremely close range, where the shorter sword would normally have an overwhelming advantage -- even more so considering that both swords are sheathed at the onset. In the first place, wearing such a long sword at the waist like an uchigatana would have been highly unorthodox, as it would have been very difficult to draw.
 
 > 柄口六寸勝之妙不思義之極意一國一人之相傳也
 
-The marvel of victory by six sun of the hilt-opening is an ultimate secret beyond comprehension to be transmitted only to a single person in a single land.
+This term 柄口六寸 (*tsukaguchi rokusun*) literally means "hilt-opening six sun" (~18 cm), but I will henceforth refer to it by its Japanese name. It is clearly *the* ultimate secret of the school, but the word itself is rather mysterious. Unfortunately, the true meaning of tsukaguchi rokusun appears to have been lost within the Tosa line, so unless it has been preserved in Shin-Musō Hayashizaki-ryū, we can only speculate based on scattered references in other scrolls. More on this later.
 
 > 腰刀三尺三寸三毒則三部尓但脇差九寸五分九曜五古之内證也
+
+Here, the author explains the symbolism behind the measurements of the two swords.
 
 The waist sword of three shaku three sun represents the Three Poisons, which are the Three Divisions. However, the side sword of nine sun five bu represents the Nine Luminaries and the Five-pronged Vajra – these are internal teachings.
 
@@ -120,5 +122,13 @@ An old saying goes: "He who advances swiftly, also retreats swiftly." In this sp
 
 Another old saying goes: "Even in a humble thatched-roof hut in a rural village, one tempered by a hundred trials who devotes himself to refinement in the martial arts, who contemplates their principles deep into the night and prays to the gods and the Buddhas, will immediately grasp the advantageous way." By relying on one's heart and living a quiet life, one's whole being will radiate with excellence.
 
+### About Hayashizaki Jinsuke Shigenobu
+
+Hayashizaki Jinsuke Shigenobu was born Asano Tamimaru (浅野民丸) or possibly Tamiharu (民治). The revelation happened in the fifth month of the 23rd year of the Tenmon era (1554), when Tamimaru was 13 years old. Upon turning 14 the following year, he changed his name to Hayashizaki to honour the deity, and took the adult names of Jinsuke and Shigenobu in honour of his father. Jinsuke was his father's childhood name, and Shigenari (重成), in which Shigenobu changed the second kanji, the father's adult name.
+
+## On the nature of tsukaguchi rokusun
+
+...
+
 [^1]: <http://yamauchiiai.la.coocan.jp/YamauchiIai/KongenNoMaki0.html>
-[^2]: On a related note, the logical leap of thinking the claim of divine revelation would be *less* cause for doubt amuses me greatly: "A god told this to me in a dream!" -- "Oh, all right then, then it must be legit."
+[^2]: The logical leap of thinking the claim of divine revelation would be *less* cause for doubt amuses me greatly: "A god told this to me in a dream!" -- "Oh, all right then, then it must be legit."
