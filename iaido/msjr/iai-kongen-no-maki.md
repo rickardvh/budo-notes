@@ -108,7 +108,7 @@ s. 不義ヲニクミ悪ヲ恥ル心物之我ニ有テ天真正云、是ヲ主�
 
 > 抑此居合ト申者日本奥州林之従大明神夢想に〆奉傳之
 
-"The Great Deity of Hayashi" is rendered from 林之従大明神, which literally means "the great and bright god of Hayashi". 大明神 (*daimyōjin*) is listed in my dictionary as "deity with extraordinary spiritual powers", but 明神 was also used more specifically as an epithet for Shintō gods that were thought also to be aspects of one or more Buddhist deities in Japanese syncretism. This god was the head deity of the Hayashi area, synonymous to or surrounding the village of Hayashizaki, located in present-day Murayama, Yamagata. In other texts, the deity is referred to as Hayashizaki Daimyōjin. Ōshū (奥州) is the old name for the Tōhoku region of northeastern Honshū.
+"The Great Deity of Hayashi" is rendered from 林之従大明神, which literally means "the great and bright god of Hayashi". 大明神 (*daimyōjin*) is listed in my dictionary as "deity with extraordinary spiritual powers", but 明神 was also used more specifically as an epithet for Shintō gods that were thought also to be aspects of one or more Buddhist deities in Japanese syncretism. This god was the head deity of the Hayashi area, which is synonymous to or surrounds the village of Hayashizaki, located in present-day Murayama, Yamagata. In other texts and current usage, the deity is referred to as Hayashizaki Daimyōjin. Ōshū (奥州) is the old name for the Tōhoku region of northeastern Honshū.
 
 > 夫兵術者上古中古雖有数多之違佗流大人小人無力剛力不嫌合兵用云々
 
@@ -120,7 +120,7 @@ A more literal translation here would be "it is said about the sword (technique)
 
 > 此居合恐者粟散邊土於堺不審之儀不可有之唯依㚑夢處也
 
-Here, 粟散邊土 (*zokusan hendo*) literally means "borderlands (like) scattered millet/grain", referring to remote regions of Japan even at its very borders (於堺). Although the exact wording is that there is "likely" (恐 *osoraku*) no "matter of doubt" (不審之儀), I chose a slightly stronger wording of "surely no doubt". The message is that iai is not something created by men, but simply passed on as instructed by the gods, wherefore no one should harbour any doubt about it[^3].
+Here, 粟散邊土 (*zokusan hendo*) literally means "borderlands (like) scattered millet/grain", referring to remote regions of Japan even at its very borders (於堺). The word is a Chinese translation of a phrase found in old Buddhist texts, where it described the more than two hundred smaller kingdoms of ancient India as like millet scattered on a plate. Although the exact wording is that there is "likely" (恐 *osoraku*) no "matter of doubt" (不審之儀), I chose a slightly stronger wording of "surely no doubt". The message is that iai is not something created by men, but simply passed on as instructed by the gods, wherefore no one should harbour any doubt about it[^3].
 
 > 此始尋奥州林崎神助重信ト云者因有兵術望之林之明神一百有日令参籠其満暁夢中老翁重信告曰
 
