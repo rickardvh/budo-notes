@@ -63,26 +63,35 @@ Another old saying goes: "Even in a humble thatched-roof hut in a rural village,
 
 The *Tetsugi no maki* (手次之巻)[^1] is a version of the scroll written by Sakai Shichiemon of Hayashizaki Tamiya-ryū in 1706 and conferred as a menkyo kaiden to Sakai Jūbei Nagateru. The scroll contains added commentary, most likely by Nagateru, in the spaces between the lines. I will be referring to these notes below.
 
-<!--   金剛部　フトウ・イタ〔テソン・マ〕  
-　　　　       リンデン、トウシ諸佛ノ事  
+### 三部
 
-三部　　佛部　アミタハシメ  
-　　　　　　　諸佛ノ事  
+- **金剛部**  
+  フトウ・イタ〔テ〕ン・マ  
+  リンデン、トウシ諸佛ノ事
+- **佛部**  
+  アミタハシメ  
+  諸佛ヲノ事
+- **蓮華部**  
+  如来ハシメ諸佛ヲ  
+  申、？ハキヨキナリ  
 
-　　　　蓮華部　如来ハシメ諸佛ヲ  
-　　　　　　　　申、口ハキョキナリ  
+### 三毒
 
-三毒　　瞋　イカル、マコトナ  
-　　　　　　ラサルマコト也  
-
-　　　　癡　オロカ、シャ  
-　　　　　　知ヲ申ナリ  
+- **貪**  
+  ムサホル、ヨ  
+  クヲモウス
+- **瞋**  
+  イカル、マコトナ  
+  ラサルマコト也
+- **癡**  
+  オロカ、シヤ  
+  知ヲ申ナリ
 
 ---
 
-a. 一心悟リナリ、言(重)信サトリタリナリ、  
-b. 「五尺二・三寸」(見せ消し)ヲウレイノ人ハ三尺三寸迄ハ実ノ所ヌカル也、  
-c. 九寸五分ハ九寸五分ノ間合ナケレハタケ不申ノ事、  
+a. 一心悟リナリ、重信サトリタナリ  
+b. ~~五尺二・三寸~~　ツウレイノ人ハ三尺三寸迄ハ実ノ所ヌカルヽ也  
+c. 九寸五分ハ九寸五分ノ間合ナケレハヌケ不申トノ事  
 d. ウケ處ヨハシナレ柄手出サル処、則九寸五分ニ勝ナリ、  
 e. トシ重信ラヲナリ、  
 f. ナメタツ・ヒツサ・ヘへ三也、又曰、「ウタカイハ」(見せ消し)マヨウハ酒色ヨク  
@@ -102,7 +111,7 @@ p. 其人ノ悪フナセハ我モハチナリ、天ハツト知ヘシ、
 q. 前條ノ趣ヲクツナハシタル人ヲ、  
 r. 明心ヲワレハコレニテ筆紙ノ入力〔タリ〕、  
 s. 不義ヲニクミ悪ヲ恥ル心物之我ニ有テ天真正云、是ヲ主人公友云、天真正  
-　スレ之林明神ニ而マシマス也。 -->
+　スレ之林明神ニ而マシマス也。
 
 ## Commentary and translation notes
 
@@ -134,7 +143,7 @@ Regarding the phrase 得勝怨敵, literally "gain victory over your hated enemy
 
 > 則如㚑夢有得大利以腰刀三尺三寸勝九寸五分事
 
-This passage is rather straightforward: a "waist sword" three shaku and three sun (~1 m) long defeating \[a sword measuring\] nine sun and five bu (~28 cm). To an uninitiated reader, this may sound obvious; recall, however, that iai is applied at extremely close range, where the shorter sword would normally have an overwhelming advantage -- even more so considering that both swords are sheathed at the onset. In the first place, wearing such a long sword at the waist like an uchigatana would have been highly unorthodox, as it would have been very difficult to draw. There is a note in the Tetsugi no maki adding that a person of average height (5 shaku 2-3 sun; ~160 cm) should be able to draw a sword of 3 shaku 3 sun, with the implication that this is the maximum length that can be drawn from the waist by a person of that height.
+This passage is rather straightforward: a "waist sword" three shaku and three sun (~1 m) long defeating \[a sword measuring\] nine sun and five bu (~28 cm). To an uninitiated reader, this may sound obvious; recall, however, that iai is applied at extremely close range, where the shorter sword would normally have an overwhelming advantage -- even more so considering that both swords are sheathed at the onset. In the first place, wearing such a long sword at the waist like an uchigatana would have been highly unorthodox, as it would have been very difficult to draw. There is a note in the Tetsugi no maki adding that a person of average height (a crossed-out part specifies a height of 5 shaku 2-3 sun; ~160 cm) should be able to draw a sword of 3 shaku 3 sun, with the implication that this is the maximum length that can be drawn from the waist by a person of that height.
 
 > 柄口六寸勝之妙不思義之極意一國一人之相傳也
 
