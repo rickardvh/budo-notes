@@ -61,7 +61,7 @@ Another old saying goes: "Even in a humble thatched-roof hut in a rural village,
 
 ## Tetsugi no maki　手次之巻
 
-The *Tetsugi no maki* (手次之巻)[^1] is a version of the scroll written by Sakai Shichiemon of Hayashizaki Tamiya-ryū in 1706 and conferred as a menkyo kaiden to Sakai Jūbei Nagateru. The scroll contains added commentary, most likely by Nagateru, in the spaces between the lines. I will be referring to these notes below.
+The *Tetsugi no maki* (手次之巻)[^1] is a version of the scroll written by Sakai Shichiemon of Hayashizaki Tamiya-ryū in 1706 and conferred as a menkyo kaiden to Sakai Jūbei Nagateru. The scroll contains added commentary, most likely by Nagateru, in the spaces between the lines. I have numbered these notes and will be referring to them below at the place where they appear in the scroll.
 
 ### 三部
 
@@ -89,7 +89,7 @@ The *Tetsugi no maki* (手次之巻)[^1] is a version of the scroll written by S
 4. ウケ處ヨリ六寸ハナレ柄手出サル処、則九寸五分ニ勝ナリ
 5. トハ重信ヲ云ナリ
 6. ナメクシリ・ヒツキ・ヘミ也、又曰、~~ウタカイハ~~ マヨウハ酒色ヨクノミツ成、又イロヽヽモウネ念ヲサレト也、三毒ノアラソイニタトヱ、ニクムナナケレトノヲシヘナリ
-7. 佛金蓮ノ事ナリ、キヨキヲキナリ、三毒ヲサツテ無形ニ至ナリ
+7. 佛金蓮ノ事ナリ、キヨキヲ申ナリ、三毒ヲサツテ無形ニ至ナリ
 8. 星ナリ
 9. シン？天タイニ有、ソウレイノ致ニ付、コレヲナラス、死ヲイサキヨクチウフツセヨトナリ、一心ノケツタンノ事ナリ、九寸五分ニ至本也
 10. 無ヨリ出テ無ニカヱテ生死大々一タイナリコヽヲサトリ
@@ -111,7 +111,7 @@ The *Tetsugi no maki* (手次之巻)[^1] is a version of the scroll written by S
 
 > 夫兵術者上古中古雖有数多之違佗流大人小人無力剛力不嫌合兵用云々
 
-This paragraph discusses martial arts (兵術, *heijutsu*) of the past, saying that there have been many "different schools" (違佗流). This word 違佗流 (*idaryū*) is somewhat mysterious: 違 means "different", but 佗 is "proud" or "lonely". The meaning could therefore be something like "different schools, each unique and standing apart", but the wording is slightly odd. Yamakoshi Masaki-sensei of Musō Jikiden Eishin-ryū has a different interpretation[^2], taking 違佗 to be a mistaken version of 韋陀 (*Ida*) as in the name of the Buddhist guardian deity Skanda (韋陀天 *Idaten*). With Idaten being a warrior deity, Yamakoshi-sensei's rendering of 韋陀流 would refer to schools either dedicated to this god or, alternatively, more generally claiming an origin in divine revelation. Idaten is usually written 韋駄天, however, so in order not to read too much into the word, I decided to translate 違佗流 simply as "different schools". Either way, the various schools are described as being employed in battle without favouring large nor small people, the strong nor the weak, "and so on" (云々 *unnun*). Note that this is the only place I have chosen to keep 云々 in the translation, as I felt it disturbed the flow more than it contributed elsewhere in English.
+This paragraph discusses martial arts (兵術 *heijutsu*; literally military tactics or the art of war) of the past, saying that there have been many "different schools" (違佗流). This word 違佗流 (*idaryū*) is somewhat mysterious: 違 means "different", but 佗 is "proud" or "lonely". The meaning could therefore be something like "different schools, each unique and standing apart", but the wording is slightly odd. Yamakoshi Masaki-sensei of Musō Jikiden Eishin-ryū has a different interpretation[^2], taking 違佗 to be a mistaken version of 韋陀 (*Ida*) as in the name of the Buddhist guardian deity Skanda (韋陀天 *Idaten*). With Idaten being a warrior deity, Yamakoshi-sensei's rendering of 韋陀流 would refer to schools either dedicated to this god or, alternatively, more generally claiming an origin in divine revelation. Idaten is usually written 韋駄天, however, so in order not to read too much into the word, I decided to translate 違佗流 simply as "different schools". Either way, the various schools are described as being employed in battle without favouring large nor small people, the strong nor the weak, "and so on" (云々 *unnun*). Note that this is the only place I have chosen to keep 云々 in the translation, as I felt it disturbed the flow more than it contributed elsewhere in English.
 
 > 末代爲相應之太刀尓云手近勝一命有無之極
 
@@ -129,17 +129,21 @@ It is interesting to note here that Jinsuke is written here as 神助 rather tha
 
 This quote from the dream ends with 云々, indicating that there was more to the message than this short sentence. As this seems fairly obvious, and it felt somewhat improper to end a quote from a deity with "and so on" in English, I left it out. In any event, this sentence was the final message in the dream, said after the old man had instructed Shigenobu in swordsmanship.
 
-Regarding the phrase 得勝怨敵, literally "gain victory over your hated enemy", there are two possible, though not mutually exclusive, interpretations. The literal interpretation is that the revelation allowed Shigenobu to avenge his murdered father, and given that preparation for this quest was what led him to seclude himself in prayer and training in the first place, this seems more than plausible. Trenson (2014)[^1] offers a more figurative interpretation, which fits well into the esoteric theme of the scroll: 怨敵 (*onteki*) was sometimes used in esoteric Buddhist contexts to refer to the obstacles ("enemies") to enlightenment; the wordly desires or evil passions called *klesha* (煩悩 *bonnō*). The Tetsugi no maki appears to confirm this with a note stating that Shigenobu awakened to the "One Mind" (一心 *isshin*), a state of unity with the gods and the universe.
+Regarding the phrase 得勝怨敵, literally "gain victory over your hated enemy", there are two possible, though not mutually exclusive, interpretations. The literal interpretation is that the revelation allowed Shigenobu to avenge his murdered father, and given that preparation for this quest was what led him to seclude himself in prayer and training in the first place, this seems more than plausible. Trenson (2014)[^1] offers a more figurative interpretation, which fits well into the esoteric theme of the scroll: 怨敵 (*onteki*) was sometimes used in esoteric Buddhist contexts to refer to the obstacles ("enemies") to enlightenment; the wordly desires or evil passions called *klesha* (煩悩 *bonnō*).
 
-> 則如㚑夢有得大利以腰刀三尺三寸勝九寸五分事
+> 則如㚑夢有得大利\[1\]以腰刀三尺三寸\[2\]勝九寸五分\[3\]事
 
-This passage is rather straightforward: a "waist sword" three shaku and three sun (~1 m) long defeating \[a sword measuring\] nine sun and five bu (~28 cm). To an uninitiated reader, this may sound obvious; recall, however, that iai is applied at extremely close range, where the shorter sword would normally have an overwhelming advantage -- even more so considering that both swords are sheathed at the onset. In the first place, wearing such a long sword at the waist like an uchigatana would have been highly unorthodox, as it would have been very difficult to draw. There is a note in the Tetsugi no maki adding that a person of average height (a crossed-out part specifies a height of 5 shaku 2-3 sun; ~160 cm) should be able to draw a sword of 3 shaku 3 sun, with the implication that this is the maximum length that can be drawn from the waist by a person of that height.
+Shigenobu is stated here to have gained "great advantage" or "great benefit" (大利), and note 1 in the Tetsugi no maki explains that this means Shigenobu awakened (悟り *satori*; Buddhist enlightenment) to the "One Mind" (一心 *isshin*), a state of unity with the gods, Buddhas, and the universe.
 
-> 柄口六寸勝之妙不思義之極意一國一人之相傳也
+The rest of this passage is rather straightforward: a "waist sword" three shaku and three sun (~1 m) long defeating \[a sword measuring\] nine sun and five bu (~28 cm). To an uninitiated reader, this may sound obvious; recall, however, that iai is applied at extremely close range, where the shorter sword would normally have an overwhelming advantage -- even more so considering that both swords are sheathed at the onset. In the first place, wearing such a long sword at the waist like an uchigatana would have been highly unorthodox, as it would have been very difficult to draw. Note 2 in the Tetsugi no maki adds that a person of average height (a crossed-out part specifies a height of 5 shaku 2-3 sun; ~160 cm) should be able to draw a sword of 3 shaku 3 sun, with the implication that this is the maximum length that can be drawn from the waist by a person of that height.
 
-This term 柄口六寸 (*tsukaguchi rokusun*) literally means "hilt-opening six sun" (~18 cm), but I will henceforth refer to it by its Japanese name. It is clearly *the* ultimate secret of the school, but the word itself is rather mysterious. Unfortunately, the true meaning of tsukaguchi rokusun appears to have been mostly forgotten within the Tosa line, so unless it has been preserved in Shin-Musō Hayashizaki-ryū, we can only speculate based on scattered references in other scrolls (more on this later). The Tetsugi no maki adds that the phrase refers to a point six sun away from the "receiving point" (the enemy's body or target of the attack?) before the hand has started to draw.
+Note 3 says that the short sword of 9 sun 5 bu can only be drawn at the range of 9 sun 5 bu. The wording seems to refer to the effective range (間合 *ma-ai*) of the short sword rather than the exact distance, as the short sword itself is only referred to by its measurement in the whole text. Rephrasing, then, the short sword can only be drawn at its own effective range.
 
-"One person in one land" (一國一人) is clarified in the Tetsugi no maki as referring to Shigenobu himself.
+> 柄口六寸\[4\]勝之妙不思義之極意一國一人\[5\]之相傳也
+
+This term 柄口六寸 (*tsukaguchi rokusun*) literally means "hilt-opening six sun" (~18 cm), but I will henceforth refer to it by its Japanese name. It is clearly *the* ultimate secret of the school, but the word itself is rather mysterious. Unfortunately, the true meaning of tsukaguchi rokusun appears to have been mostly forgotten within the Tosa line, so unless it has been preserved in Shin-Musō Hayashizaki-ryū, we can only speculate based on scattered references in other extant scrolls (more on this later). The Tetsugi no maki adds in note 4 that the phrase refers to a point six sun away from the "receiving point" (ウケ處 *ukedokoro*; the target of the attack?) before the hand has started to draw.
+
+"One person in one land" (一國一人) is clarified in note 5 as referring to Shigenobu himself, meaning he was the only recipient of the revelation in all of Japan.
 
 > 腰刀三尺三寸三毒則三部尓但脇差九寸五分九曜五古之内證也
 
