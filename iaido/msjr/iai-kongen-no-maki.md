@@ -83,15 +83,6 @@ The *Tetsugi no maki* (手次之巻)[^1] is a version of the scroll written by S
 
 ---
 
-1. 一心悟リナリ、言重信サトリタナリ
-2. ~~五尺二・三寸~~　ツウレイノ人ハ三尺三寸迄ハ実ノ所ヌカルヽ也
-3. 九寸五分ハ九寸五分ノ間合ナケレハヌケ不申トノ事
-4. ウケ處ヨリ六寸ハナレ柄手出サル処、則九寸五分ニ勝ナリ
-5. トハ重信ヲ云ナリ
-6. ナメクシリ・ヒツキ・ヘミ也、又曰、~~ウタカイハ~~ マヨウハ酒色ヨクノミツ成、又イロヽヽモウネ念ヲサレト也、三毒ノアラソイニタトヱ、ニクムナナケレトノヲシヘナリ
-7. 佛金蓮ノ事ナリ、キヨキヲ申ナリ、三毒ヲサツテ無形ニ至ナリ
-8. 星ナリ
-9. シン？天タイニ有、ソウレイノ致ニ付、コレヲナラス、死ヲイサキヨクチウフツセヨトナリ、一心ノケツタンノ事ナリ、九寸五分ニ至本也
 10. 無ヨリ出テ無ニカヱテ生死大々一タイナリコヽヲサトリ
 11. 死スルハ我一人ノケツタンセヨト也、為儀与志死ネト申ナリ
 12. 生テ人前ニ顔ノムケラレヌヨリハシヽテコクラクト思ヘト也
@@ -133,6 +124,10 @@ Regarding the phrase 得勝怨敵, literally "gain victory over your hated enemy
 
 > 則如㚑夢有得大利\[1\]以腰刀三尺三寸\[2\]勝九寸五分\[3\]事
 
+> 1. 一心悟リナリ、言重信サトリタナリ
+> 2. ~~五尺二・三寸~~　ツウレイノ人ハ三尺三寸迄ハ実ノ所ヌカルヽ也
+> 3. 九寸五分ハ九寸五分ノ間合ナケレハヌケ不申トノ事
+
 Shigenobu is stated here to have gained "great advantage" or "great benefit" (大利), and note 1 in the Tetsugi no maki explains that this means Shigenobu awakened (悟り *satori*; Buddhist enlightenment) to the "One Mind" (一心 *isshin*), a state of unity with the gods, Buddhas, and the universe.
 
 The rest of this passage is rather straightforward: a "waist sword" three shaku and three sun (~1 m) long defeating \[a sword measuring\] nine sun and five bu (~28 cm). To an uninitiated reader, this may sound obvious; recall, however, that iai is applied at extremely close range, where the shorter sword would normally have an overwhelming advantage -- even more so considering that both swords are sheathed at the onset. In the first place, wearing such a long sword at the waist like an uchigatana would have been highly unorthodox, as it would have been very difficult to draw. Note 2 in the Tetsugi no maki adds that a person of average height (a crossed-out part specifies a height of 5 shaku 2-3 sun; ~160 cm) should be able to draw a sword of 3 shaku 3 sun, with the implication that this is the maximum length that can be drawn from the waist by a person of that height.
@@ -141,13 +136,21 @@ Note 3 says that the short sword of 9 sun 5 bu can only be drawn at the range of
 
 > 柄口六寸\[4\]勝之妙不思義之極意一國一人\[5\]之相傳也
 
+> 4. ウケ處ヨリ六寸ハナレ柄手出サル処、則九寸五分ニ勝ナリ
+> 5. トハ重信ヲ云ナリ
+
 This term 柄口六寸 (*tsukaguchi rokusun*) literally means "hilt-opening six sun" (~18 cm), but I will henceforth refer to it by its Japanese name. It is clearly *the* ultimate secret of the school, but the word itself is rather mysterious. Unfortunately, the true meaning of tsukaguchi rokusun appears to have been mostly forgotten within the Tosa line, so unless it has been preserved in Shin-Musō Hayashizaki-ryū, we can only speculate based on scattered references in other extant scrolls (more on this later). The Tetsugi no maki adds in note 4 that the phrase refers to a point six sun away from the "receiving point" (ウケ處 *ukedokoro*; the target of the attack?) before the hand has started to draw.
 
 "One person in one land" (一國一人) is clarified in note 5 as referring to Shigenobu himself, meaning he was the only recipient of the revelation in all of Japan.
 
 > 腰刀三尺三寸三毒\[6\]則三部\[7\]尓但脇差九寸五分九曜\[8\]五古\[9\]之内證也
 
-Here, the author explains the symbolism behind the measurements of the two swords. Tetsugi no maki contains several explanatory notes, as well as a separate section on the Three Poisons and Three Divisions.
+> 6. ナメクシリ・ヒツキ・ヘミ也、又曰、~~ウタカイハ~~ マヨウハ酒色ヨクノミツ成、又イロヽヽモウネ念ヲサレト也、三毒ノアラソイニタトヱ、ニクムナナケレトノヲシヘナリ
+> 7. 佛金蓮ノ事ナリ、キヨキヲ申ナリ、三毒ヲサツテ無形ニ至ナリ
+> 8. 星ナリ
+> 9. シン？天タイニ有、ソウレイノ致ニ付、コレヲナラス、死ヲイサキヨクチウフツセヨトナリ、一心ノケツタンノ事ナリ、九寸五分ニ至本也
+
+Here, the author explains the symbolism behind the measurements of the two swords. The Tetsugi no maki contains several explanatory notes, as well as a separate section on the Three Poisons and Three Divisions.
 
 The Three Poisons (三毒 *sandoku*) in Buddhism are the three root *kleshas*; the character flaws that cause suffering and keep souls trapped in the cycle of rebirth. They are: Attachment (*rāga*; also Desire or Greed), Aversion (*dveṣa*; also Anger or Hatred), and Delusion (*moha*; also Ignorance). Note 6 expounds upon the Three Poisons, associating them with slugs, toads, and snakes. It then goes on to say that a wavering mind falls to alcohol, lust, and greed, and that the teachings admonish against hatred by likening the struggle against delusions to that against the Three Poisons.
 
@@ -155,11 +158,9 @@ According to note 7, the "Three Divisions" (三部 *sanbu*) refer to three of th
 
 Regarding the Nine Luminaries (九曜 *kuyō*), there is only a short comment (note 8) saying "these are celestial bodies", but the term refers to the so-called Navagraha of Hindu mythology. They are the Sun and the Moon, the five classical planets (Mercury, Venus, Mars, Jupiter, and Saturn), and Rahu and Ketu, the ascending and descending nodes of the Moon. In Hindu astrology, these nine (or their deific personifications) were thought to be able to influence the lives of humans.
 
-The five-pronged vajra is a ritual tool or weapon, representing the indestructibility of diamond and the power of a thunderbolt, in Buddhism and Hinduism. Here, the word used for the vajra is 五古 (*goko*), which literally translates to "five ancients"; however, the second character 古 is mistaken and should be 鈷.
-<!-- 
-The waist sword of three shaku three sun represents the Three Poisons, which are the Three Divisions. However, the side sword of nine sun five bu represents the Nine Luminaries and the Five-pronged Vajra – these are internal teachings.
+The five-pronged vajra is a ritual tool or weapon, representing the indestructibility of diamond and the power of a thunderbolt, in Buddhism and Hinduism. Here, the word used for the vajra is 五古 (*goko*), which literally translates to "five ancients"; however, the second character 古 is mistaken (or ateji) and should be 鈷. The vajra is always used together with the bell in Buddhist rituals. Note 9[^4] explains that "it" (the bell/vajra) is rung at funerals, and that the ringing urges the deceased to pass on peacefully into death and ascend to Buddhahood, as well as symbolising their determination to achieve the One Mind. This is the basis of the nine sun and five bu.
 
-シン？天タイニ有、ソウレイノ致ニ付、コレヲナラス、死ヲイサキヨクチウフツセヨトナリ、一心ノケツタンノ事ナリ、九寸五分ニ至本也 -->
+The final clause states that these symbolic meanings are internal teachings (内證) -- the literal translation is closer to "internal certification/verification", so this implies that this secret knowledge could be used within the school to verify licenses.
 
 > 敵味方成㕝是亦前生之業感也生死一體戰場浄土也
 
@@ -195,3 +196,4 @@ Hayashizaki Jinsuke Shigenobu was born Asano Tamimaru (浅野民丸) or possibly
 [^1]: <https://bibliotekanauki.pl/articles/1810557>
 [^2]: <http://yamauchiiai.la.coocan.jp/YamauchiIai/KongenNoMaki0.html>
 [^3]: The logical leap of thinking the claim of divine revelation would be *less* cause for doubt amuses me greatly: "A god told this to me in a dream!" -- "Oh, all right then, then it must be legit."
+[^4]: The first clause of note 9 says that something "is in the celestial bodies" (connecting to the Nine Luminaries), but the last character of the first word is illegible. Trenson (2014) guesses that it should be "humans", and it could refer to the fate of human lives.
