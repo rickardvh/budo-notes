@@ -83,9 +83,6 @@ The *Tetsugi no maki* (手次之巻)[^1] is a version of the scroll written by S
 
 ---
 
-10. 無ヨリ出テ無ニカヱテ生死大々一タイナリコヽヲサトリ
-11. 死スルハ我一人ノケツタンセヨト也、為儀与志死ネト申ナリ
-12. 生テ人前ニ顔ノムケラレヌヨリハシヽテコクラクト思ヘト也
 13. 如此ノ志テコソ神佛モカコアルヘシナリ、生ヲウル事アルヘシトノ事ナリ
 14. 得タル処千金ニモトメタトイハレテモユルスヘキヨウナキナリ
 15. 儀を不知、先ノ趣ニ不合ニ、三毒ノ道理ヲワキマヱヌ者ニ免スナトナリ
@@ -132,7 +129,7 @@ Shigenobu is stated here to have gained "great advantage" or "great benefit" (�
 
 The rest of this passage is rather straightforward: a "waist sword" three shaku and three sun (~1 m) long defeating \[a sword measuring\] nine sun and five bu (~28 cm). To an uninitiated reader, this may sound obvious; recall, however, that iai is applied at extremely close range, where the shorter sword would normally have an overwhelming advantage -- even more so considering that both swords are sheathed at the onset. In the first place, wearing such a long sword at the waist like an uchigatana would have been highly unorthodox, as it would have been very difficult to draw. Note 2 in the Tetsugi no maki adds that a person of average height (a crossed-out part specifies a height of 5 shaku 2-3 sun; ~160 cm) should be able to draw a sword of 3 shaku 3 sun, with the implication that this is the maximum length that can be drawn from the waist by a person of that height.
 
-Note 3 says that the short sword of 9 sun 5 bu can only be drawn at the range of 9 sun 5 bu. The wording seems to refer to the effective range (間合 *ma-ai*) of the short sword rather than the exact distance, as the short sword itself is only referred to by its measurement in the whole text. Rephrasing, then, the short sword can only be drawn at its own effective range.
+Note 3 says that the short sword of 9 sun 5 bu can only be drawn at the range of 9 sun 5 bu. The wording seems to refer to the effective range (間合 *ma-ai*) of the short sword rather than the exact distance. Rephrasing, then, the short sword can only be drawn at its own effective range.
 
 > 柄口六寸\[4\]勝之妙不思義之極意一國一人\[5\]之相傳也
 
@@ -162,9 +159,15 @@ The five-pronged vajra is a ritual tool or weapon, representing the indestructib
 
 The final clause states that these symbolic meanings are internal teachings (内證) -- the literal translation is closer to "internal certification/verification", so this implies that this secret knowledge could be used within the school to verify licenses.
 
-> 敵味方成㕝是亦前生之業感也生死一體戰場浄土也
+> 敵味方成㕝是亦前生之業感也\[10\]生死一體\[11\]戰場浄土\[12\]也
 
-Whether someone becomes an enemy or an ally is also the result of karma from previous lives. Life and death are one; the battlefield is the Pure Land.
+> 10. 無ヨリ出テ無ニカヱテ生死大々一タイナリコヽヲサトリ
+> 11. 死スルハ我一人ノケツタンセヨト也、為儀与志死ネト申ナリ
+> 12. 生テ人前ニ顔ノムケラレヌヨリハシヽテコクラクト思ヘト也
+
+Note 10 expands upon this statement, saying: this is the realisation that everything comes from emptiness and returns to emptiness, wherefore life and death form one great whole.
+
+In note 11, the commentator says that dying must be only one's own resolve, and that this means one must (be prepared to) die for honour/justice (儀 *gi*) or ambition (志 *shi*). 儀 really means "ceremony", but I surmise it is used here instead of 義, meaning "honour", "righteousness", or "justice". 志 is "volition", "intention", or "aspiration", so "ambition" seems like an apt translation in this context.
 
 > 如此観則現世蒙大聖摩利支尊天加護来世成佛成縁之㕝豈有疑哉
 
