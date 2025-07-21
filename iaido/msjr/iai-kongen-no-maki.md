@@ -83,7 +83,6 @@ The *Tetsugi no maki* (手次之巻)[^1] is a version of the scroll written by S
 
 ---
 
-13. 如此ノ志テコソ神佛モカコアルヘシナリ、生ヲウル事アルヘシトノ事ナリ
 14. 得タル処千金ニモトメタトイハレテモユルスヘキヨウナキナリ
 15. 儀を不知、先ノ趣ニ不合ニ、三毒ノ道理ヲワキマヱヌ者ニ免スナトナリ
 16. 其人悪ヲナセハ我モハチナリ、天ハツト知ヘシ
@@ -165,13 +164,17 @@ The final clause states that these symbolic meanings are internal teachings (内
 > 11. 死スルハ我一人ノケツタンセヨト也、為儀与志死ネト申ナリ
 > 12. 生テ人前ニ顔ノムケラレヌヨリハシヽテコクラクト思ヘト也
 
-Note 10 expands upon this statement, saying: this is the realisation that everything comes from emptiness and returns to emptiness, wherefore life and death form one great whole.
+Note 10 expands upon the idea of karma from past lives determining whether someone becomes an ally of an enemy, saying: this is the realisation that everything comes from emptiness and returns to emptiness, wherefore life and death form one great whole.
 
-In note 11, the commentator says that dying must be only one's own resolve, and that this means one must (be prepared to) die for honour/justice (儀 *gi*) or ambition (志 *shi*). 儀 really means "ceremony", but I surmise it is used here instead of 義, meaning "honour", "righteousness", or "justice". 志 is "volition", "intention", or "aspiration", so "ambition" seems like an apt translation in this context.
+In note 11, the commentator says that dying must be only one's own resolve, and that this means one must (be prepared to) die for honour/justice (儀 *gi*) or ambition (志 *shi*). 儀 really means "ceremony", but I surmise it is used here instead of 義, meaning "honour", "righteousness", or "justice". 志 is "volition", "intention", or "resolve", so "ambition" seems like an apt translation in this context.
 
-> 如此観則現世蒙大聖摩利支尊天加護来世成佛成縁之㕝豈有疑哉
+On the topic of the battlefield being the Pure Land, note 12 explains that rather than living on in dishonour and shame, it is better to die and think of it as paradise.
 
-With this view, one will receive the divine protection of the Great Sage Marishiten in this life, and be able to attain Buddhahood in the next life – how could there be any doubt?
+> 如此観則現世蒙大聖摩利支尊天\[13\]加護来世成佛成縁之㕝豈有疑哉
+
+> 13. 如此ノ志テコソ神佛モカコアルヘシナリ、生ヲウル事アルヘシトノ事ナリ
+
+Note 13 adds that the gods (probably mainly referring to deified mortals) and Buddhas, too, had the same resolve in the past, and that the passage means that one will be granted life after death.
 
 > 此居合雖積千金不眞實之人者堅不可授之恐天罰唯授一人傳之云々
 
