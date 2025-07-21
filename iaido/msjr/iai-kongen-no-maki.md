@@ -83,11 +83,7 @@ The *Tetsugi no maki* (手次之巻)[^1] is a version of the scroll written by S
 
 ---
 
-14. 得タル処千金ニモトメタトイハレテモユルスヘキヨウナキナリ
-15. 儀を不知、先ノ趣ニ不合ニ、三毒ノ道理ヲワキマヱヌ者ニ免スナトナリ
-16. 其人悪ヲナセハ我モハチナリ、天ハツト知ヘシ
-17. 前條ノ趣ヨクソナハリタル人ヲ云
-18. 明心ヲウルノトコロニテ筆紙ノヘカタシ
+
 19. 不義ヲニクミ悪ヲ恥ル物之我ニ有ヲ天真ト云、是ヲ主人公友云、天真ヲ正スル之林明神ニ而マシマス也
 
 ## Commentary and translation notes
@@ -176,7 +172,12 @@ On the topic of the battlefield being the Pure Land, note 12 explains that rathe
 
 Note 13 adds that the gods (probably mainly referring to deified mortals) and Buddhas, too, had the same resolve in the past, and that the passage means that one will be granted life after death.
 
-> 此居合雖積千金不眞實之人者堅不可授之恐天罰唯授一人傳之云々
+> 此居合雖積千金\[14\]不眞實之人\[15\]者堅不可授之恐天罰\[16\]唯授一人\[17\]傳之云々
+
+> 14. 得タル処千金ニモトメタトイハレテモユルスヘキヨウナキナリ
+> 15. 儀を不知、先ノ趣ニ不合ニ、三毒ノ道理ヲワキマヱヌ者ニ免スナトナリ
+> 16. 其人悪ヲナセハ我モハチナリ、天ハツト知ヘシ
+> 17. 前條ノ趣ヨクソナハリタル人ヲ云
 
 Even if someone were to offer a thousand pieces of gold, this iai must under no circumstances be taught to an insincere person. For fear of divine punishment, it must be passed on to only one person.
 
@@ -187,7 +188,9 @@ Even if someone were to offer a thousand pieces of gold, this iai must under no 
 An old saying goes: "He who advances swiftly, also retreats swiftly." In this spirit, there shall be no distinction between noble and base, high and low rank; without regard for seniority or juniority, licenses and techniques shall be bestowed without prejudice.
 
 > 又古語曰  
-> 夫百錬之搆在則苐茨荘鄙與兵利心懸者夜白思之神明佛陀祈者則忽得利方是依心潜身事燦然
+> 夫百錬之搆在則苐茨荘鄙\[18\]與兵利心懸者夜白思之神明佛陀祈者則忽得利方是依心潜身事燦然
+
+> 18. 明心ヲウルノトコロニテ筆紙ノヘカタシ
 
 Another old saying goes: "Even in a humble thatched-roof hut in a rural village, one tempered by a hundred trials who devotes himself to refinement in the martial arts, who contemplates their principles deep into the night and prays to the gods and the Buddhas, will immediately grasp the advantageous way." By relying on one's heart and living a quiet life, one's whole being will radiate with excellence.
 
