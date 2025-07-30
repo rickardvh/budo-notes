@@ -83,7 +83,6 @@ The *Tetsugi no maki* (手次之巻)[^1] is a version of the scroll written by S
 
 ---
 
-
 19. 不義ヲニクミ悪ヲ恥ル物之我ニ有ヲ天真ト云、是ヲ主人公友云、天真ヲ正スル之林明神ニ而マシマス也
 
 ## Commentary and translation notes
@@ -115,10 +114,10 @@ This quote from the dream ends with 云々, indicating that there was more to th
 Regarding the phrase 得勝怨敵, literally "gain victory over your hated enemy", there are two possible, though not mutually exclusive, interpretations. The literal interpretation is that the revelation allowed Shigenobu to avenge his murdered father, and given that preparation for this quest was what led him to seclude himself in prayer and training in the first place, this seems more than plausible. Trenson (2014)[^1] offers a more figurative interpretation, which fits well into the esoteric theme of the scroll: 怨敵 (*onteki*) was sometimes used in esoteric Buddhist contexts to refer to the obstacles ("enemies") to enlightenment; the wordly desires or evil passions called *klesha* (煩悩 *bonnō*).
 
 > 則如㚑夢有得大利\[1\]以腰刀三尺三寸\[2\]勝九寸五分\[3\]事
-
-> 1. 一心悟リナリ、言重信サトリタナリ
-> 2. ~~五尺二・三寸~~　ツウレイノ人ハ三尺三寸迄ハ実ノ所ヌカルヽ也
-> 3. 九寸五分ハ九寸五分ノ間合ナケレハヌケ不申トノ事
+>
+>> 1. 一心悟リナリ、言重信サトリタナリ
+>> 2. ~~五尺二・三寸~~　ツウレイノ人ハ三尺三寸迄ハ実ノ所ヌカルヽ也
+>> 3. 九寸五分ハ九寸五分ノ間合ナケレハヌケ不申トノ事
 
 Shigenobu is stated here to have gained "great advantage" or "great benefit" (大利), and note 1 in the Tetsugi no maki explains that this means Shigenobu awakened (悟り *satori*; Buddhist enlightenment) to the "One Mind" (一心 *isshin*), a state of unity with the gods, Buddhas, and the universe.
 
@@ -127,20 +126,20 @@ The rest of this passage is rather straightforward: a "waist sword" three shaku 
 Note 3 says that the short sword of 9 sun 5 bu can only be drawn at the range of 9 sun 5 bu. The wording seems to refer to the effective range (間合 *ma-ai*) of the short sword rather than the exact distance. Rephrasing, then, the short sword can only be drawn at its own effective range.
 
 > 柄口六寸\[4\]勝之妙不思義之極意一國一人\[5\]之相傳也
+>
+>> 4. ウケ處ヨリ六寸ハナレ柄手出サル処、則九寸五分ニ勝ナリ
+>> 5. トハ重信ヲ云ナリ
 
-> 4. ウケ處ヨリ六寸ハナレ柄手出サル処、則九寸五分ニ勝ナリ
-> 5. トハ重信ヲ云ナリ
-
-This term 柄口六寸 (*tsukaguchi rokusun*) literally means "hilt-opening six sun" (~18 cm), but I will henceforth refer to it by its Japanese name. It is clearly *the* ultimate secret of the school, but the word itself is rather mysterious. Unfortunately, the true meaning of tsukaguchi rokusun appears to have been mostly forgotten within the Tosa line, so unless it has been preserved in Shin-Musō Hayashizaki-ryū, we can only speculate based on scattered references in other extant scrolls (more on this later). The Tetsugi no maki adds in note 4 that the phrase refers to a point six sun away from the "receiving point" (ウケ處 *ukedokoro*; the target of the attack?) before the hand has started to draw.
+This term 柄口六寸 (*tsukaguchi rokusun*) literally means "hilt-opening six sun" (~18 cm), but I will henceforth refer to it by its Japanese name. It is clearly *the* ultimate secret of the school, but the word itself is rather mysterious. Unfortunately, the true meaning of tsukaguchi rokusun appears to have been mostly forgotten within the Tosa line, so unless it has been preserved in Shin-Musō Hayashizaki-ryū, we can only speculate based on scattered references in other extant scrolls (more on this later). The Tetsugi no maki adds in note 4 that the phrase refers to a point six sun away from the "receiving point" (ウケ處 *ukedokoro*; the target of the attack?) before the hand has started to move forwards.
 
 "One person in one land" (一國一人) is clarified in note 5 as referring to Shigenobu himself, meaning he was the only recipient of the revelation in all of Japan.
 
 > 腰刀三尺三寸三毒\[6\]則三部\[7\]尓但脇差九寸五分九曜\[8\]五古\[9\]之内證也
-
-> 6. ナメクシリ・ヒツキ・ヘミ也、又曰、~~ウタカイハ~~ マヨウハ酒色ヨクノミツ成、又イロヽヽモウネ念ヲサレト也、三毒ノアラソイニタトヱ、ニクムナナケレトノヲシヘナリ
-> 7. 佛金蓮ノ事ナリ、キヨキヲ申ナリ、三毒ヲサツテ無形ニ至ナリ
-> 8. 星ナリ
-> 9. シン？天タイニ有、ソウレイノ致ニ付、コレヲナラス、死ヲイサキヨクチウフツセヨトナリ、一心ノケツタンノ事ナリ、九寸五分ニ至本也
+>
+>> 6. ナメクシリ・ヒツキ・ヘミ也、又曰、~~ウタカイハ~~ マヨウハ酒色ヨクノミツ成、又イロヽヽモウネ念ヲサレト也、三毒ノアラソイニタトヱ、ニクムナナケレトノヲシヘナリ
+>> 7. 佛金蓮ノ事ナリ、キヨキヲ申ナリ、三毒ヲサツテ無形ニ至ナリ
+>> 8. 星ナリ
+>> 9. シン？天タイニ有、ソウレイノ致ニ付、コレヲナラス、死ヲイサキヨクチウフツセヨトナリ、一心ノケツタンノ事ナリ、九寸五分ニ至本也
 
 Here, the author explains the symbolism behind the measurements of the two swords. The Tetsugi no maki contains several explanatory notes, as well as a separate section on the Three Poisons and Three Divisions.
 
@@ -155,29 +154,29 @@ The five-pronged vajra is a ritual tool or weapon, representing the indestructib
 The final clause states that these symbolic meanings are internal teachings (内證) -- the literal translation is closer to "internal certification/verification", so this implies that this secret knowledge could be used within the school to verify licenses.
 
 > 敵味方成㕝是亦前生之業感也\[10\]生死一體\[11\]戰場浄土\[12\]也
-
-> 10. 無ヨリ出テ無ニカヱテ生死大々一タイナリコヽヲサトリ
-> 11. 死スルハ我一人ノケツタンセヨト也、為儀与志死ネト申ナリ
-> 12. 生テ人前ニ顔ノムケラレヌヨリハシヽテコクラクト思ヘト也
+>
+>> 10. 無ヨリ出テ無ニカヱテ生死大々一タイナリコヽヲサトリ
+>> 11. 死スルハ我一人ノケツタンセヨト也、為儀与志死ネト申ナリ
+>> 12. 生テ人前ニ顔ノムケラレヌヨリハシヽテコクラクト思ヘト也
 
 Note 10 expands upon the idea of karma from past lives determining whether someone becomes an ally of an enemy, saying: this is the realisation that everything comes from emptiness and returns to emptiness, wherefore life and death form one great whole.
 
-In note 11, the commentator says that dying must be only one's own resolve, and that this means one must (be prepared to) die for honour/justice (儀 *gi*) or ambition (志 *shi*). 儀 really means "ceremony", but I surmise it is used here instead of 義, meaning "honour", "righteousness", or "justice". 志 is "volition", "intention", or "resolve", so "ambition" seems like an apt translation in this context.
+In note 11, the commentator says that dying must be only one's own resolve, and that this means one must (be prepared to) die for honour/justice (儀 *gi*) or ambition (志 *shi*). 儀 really means "ceremony" or "matter", but I surmise it is used here instead of 義, meaning "honour", "righteousness", or "justice". Trenson (2014)[^1] renders it as "propriety". 志 is "volition", "intention", or "resolve", so "ambition" seems like an apt translation in this context.
 
 On the topic of the battlefield being the Pure Land, note 12 explains that rather than living on in dishonour and shame, it is better to die and think of it as paradise.
 
 > 如此観則現世蒙大聖摩利支尊天\[13\]加護来世成佛成縁之㕝豈有疑哉
-
-> 13. 如此ノ志テコソ神佛モカコアルヘシナリ、生ヲウル事アルヘシトノ事ナリ
+>
+>> 13. 如此ノ志テコソ神佛モカコアルヘシナリ、生ヲウル事アルヘシトノ事ナリ
 
 Note 13 adds that the gods (probably mainly referring to deified mortals) and Buddhas, too, had the same resolve in the past, and that the passage means that one will be granted life after death.
 
 > 此居合雖積千金\[14\]不眞實之人\[15\]者堅不可授之恐天罰\[16\]唯授一人\[17\]傳之云々
-
-> 14. 得タル処千金ニモトメタトイハレテモユルスヘキヨウナキナリ
-> 15. 儀を不知、先ノ趣ニ不合ニ、三毒ノ道理ヲワキマヱヌ者ニ免スナトナリ
-> 16. 其人悪ヲナセハ我モハチナリ、天ハツト知ヘシ
-> 17. 前條ノ趣ヨクソナハリタル人ヲ云
+>
+>> 14. 得タル処千金ニモトメタトイハレテモユルスヘキヨウナキナリ
+>> 15. 儀を不知、先ノ趣ニ不合ニ、三毒ノ道理ヲワキマヱヌ者ニ免スナトナリ
+>> 16. 其人悪ヲナセハ我モハチナリ、天ハツト知ヘシ
+>> 17. 前條ノ趣ヨクソナハリタル人ヲ云
 
 Even if someone were to offer a thousand pieces of gold, this iai must under no circumstances be taught to an insincere person. For fear of divine punishment, it must be passed on to only one person.
 
@@ -187,10 +186,12 @@ Even if someone were to offer a thousand pieces of gold, this iai must under no 
 
 An old saying goes: "He who advances swiftly, also retreats swiftly." In this spirit, there shall be no distinction between noble and base, high and low rank; without regard for seniority or juniority, licenses and techniques shall be bestowed without prejudice.
 
+This paragraph is not included in the Tetsugi no maki; perhaps it was added later.
+
 > 又古語曰  
 > 夫百錬之搆在則苐茨荘鄙\[18\]與兵利心懸者夜白思之神明佛陀祈者則忽得利方是依心潜身事燦然
-
-> 18. 明心ヲウルノトコロニテ筆紙ノヘカタシ
+>
+>> 18. 明心ヲウルノトコロニテ筆紙ノヘカタシ
 
 Another old saying goes: "Even in a humble thatched-roof hut in a rural village, one tempered by a hundred trials who devotes himself to refinement in the martial arts, who contemplates their principles deep into the night and prays to the gods and the Buddhas, will immediately grasp the advantageous way." By relying on one's heart and living a quiet life, one's whole being will radiate with excellence.
 
