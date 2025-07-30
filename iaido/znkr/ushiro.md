@@ -1,6 +1,6 @@
 # Ushiro　後ろ[^1]
 
-You and the enemy are both seated in seiza, with the enemy sitting behind you and facing towards you. The distance is the same as in [Mae](mae.md): the enemy is unable to reach you, but could reach you with a one-handed cut by raising their hips.
+You and the enemy are both seated in seiza, with the enemy sitting behind you and facing towards you. The distance is somewhat closer than in [Mae](mae.md): the enemy is able to grab you by raising their hips, or to cut you with a one-handed cut from a seated position.
 
 From the starting position facing the front, turn around clockwise to face the rear, and sit down in seiza. The right foot stays in the same place when turning so that, when seated, your right knee is on the same line as the enemy's left knee.
 
