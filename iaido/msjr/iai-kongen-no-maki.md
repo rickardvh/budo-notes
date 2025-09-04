@@ -59,6 +59,80 @@ An old saying goes: "He who advances swiftly, also retreats swiftly." In this sp
 
 Another old saying goes: "Even in a humble thatched-roof hut in a rural village, one tempered by a hundred trials who devotes himself to refinement in the martial arts, who contemplates their principles deep into the night and prays to the gods and the Buddhas, will immediately grasp the advantageous way." By relying on one's heart and living a quiet life, one's whole being will radiate with excellence.
 
+> 天眞正　林明神
+
+Correctly and faithfully // Hayashi Myōjin
+
+> 崎神助重信
+
+Hayashizaki Jinsuke Shigenobu
+
+> 田宮平兵衛尉業正
+
+Tamiya Heibei-no-jō Shigemasa
+
+> 長野無樂入道樵露齋
+
+Nagano Murakusai Nyūdō Kinrosai
+
+> 百々軍兵衛尉光重
+
+Todo Gunbei-no-jō Mitsushige
+
+> 蟻川正左衛門尉宗範
+
+Arikawa Seizaemon-no-jō Munetsugu
+
+> 万野團右衛門尉信員
+
+Banno Dan'emon-no-jō Nobusada
+
+> 長谷川主税助英信
+
+Hasegawa Chikaranosuke Hidenobu
+
+> 荒井勢哲清信
+
+Arai Seitetsu Kiyonobu
+
+> 林　六大夫守政
+
+Hayashi Rokudayū Morimasa
+
+> 林　安太夫政誠
+
+Hayashi Yasudayū Masakusu
+
+> 大黒元右衛門清勝
+
+Ōguro Gen'emon Kiyokatsu
+
+> 松吉貞助久盛
+
+Matsuyoshi Sadasuke Hisamori
+
+> 山川久蔵幸雅
+
+Yamakawa Kyūzō Yukimasa
+
+> 貴殿多年御練望ニ付令相傳候猶向後御修行依其切極意可堅  
+> 可授者也厚御心懇肝要之事ニ候仍而奥書如件
+
+Since you have for many years shown great diligence in your training, I hereby transmit this tradition to you. From now on, continue your practice, and with utmost sincerity pursue and uphold the essential teachings. I therefore record this in writing.
+
+> 慶應三丙寅  
+> 十二月吉日
+
+On an auspicious day of the twelfth month of Keiō 3 (Year of the Tiger)
+
+> 嶋村善馬殿
+
+To Shimamura Zenba-dono
+
+> 下村茂市　㊞
+
+Shimomura Shigeichi \[seal\]
+
 ## Tetsugi no maki　手次之巻
 
 The *Tetsugi no maki* (手次之巻)[^1] is a version of the scroll written by Sakai Shichiemon of Hayashizaki Tamiya-ryū in 1706 and conferred as a menkyo kaiden to Sakai Jūbei Nagateru. The scroll contains added commentary, most likely by Nagateru, in the spaces between the lines. I have numbered these notes and will be referring to them below at the place where they appear in the scroll.
@@ -101,7 +175,7 @@ A more literal translation here would be "it is said about the sword (technique)
 
 > 此居合恐者粟散邊土於堺不審之儀不可有之唯依㚑夢處也
 
-Here, 粟散邊土 (*zokusan hendo*) literally means "borderlands (like) scattered millet/grain", referring to remote regions of Japan even at its very borders (於堺). The word is a Chinese translation of a phrase found in old Buddhist texts, where it described the more than two hundred smaller kingdoms of ancient India as like millet scattered on a plate. Although the exact wording is that there is "likely" (恐 *osoraku*) no "matter of doubt" (不審之儀), I chose a slightly stronger wording of "surely no doubt". The message is that iai is not something created by men, but simply passed on as instructed by the gods, wherefore no one should harbour any doubt about it[^3].
+Here, 粟散邊土 (*zokusan hendo*) literally means "borderlands (like) scattered millet", referring to remote regions of Japan even at its very borders (於堺). The word is a Chinese translation of a phrase found in old Buddhist texts, where it described the more than two hundred smaller kingdoms of ancient India as like millet scattered on a plate. Although the exact wording is that there is "likely" (恐) no "matter of doubt" (不審之儀), I chose a slightly stronger wording of "surely no doubt". The message is that iai is not something created by men, but simply passed on as instructed by the gods, wherefore no one should harbour any doubt about it[^3].
 
 > 此始尋奥州林崎神助重信ト云者因有兵術望之林之明神一百有日令参籠其満暁夢中老翁重信告曰
 
