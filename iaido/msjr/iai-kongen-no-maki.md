@@ -59,60 +59,38 @@ An old saying goes: "He who advances swiftly, also retreats swiftly." In this sp
 
 Another old saying goes: "Even in a humble thatched-roof hut in a rural village, one tempered by a hundred trials who devotes himself to refinement in the martial arts, who contemplates their principles deep into the night and prays to the gods and the Buddhas, will immediately grasp the advantageous way." By relying on one's heart and living a quiet life, one's whole being will radiate with excellence.
 
-> 天眞正　林明神
+> 天眞正  
+> 林明神
 
-Correctly and faithfully // Hayashi Myōjin
+Correctly and faithfully  
+Hayashi Myōjin
 
-> 崎神助重信
-
-Hayashizaki Jinsuke Shigenobu
-
-> 田宮平兵衛尉業正
-
-Tamiya Heibei-no-jō Shigemasa
-
-> 長野無樂入道樵露齋
-
-Nagano Murakusai Nyūdō Kinrosai
-
-> 百々軍兵衛尉光重
-
-Todo Gunbei-no-jō Mitsushige
-
-> 蟻川正左衛門尉宗範
-
-Arikawa Seizaemon-no-jō Munetsugu
-
-> 万野團右衛門尉信員
-
-Banno Dan'emon-no-jō Nobusada
-
-> 長谷川主税助英信
-
-Hasegawa Chikaranosuke Hidenobu
-
-> 荒井勢哲清信
-
-Arai Seitetsu Kiyonobu
-
-> 林　六大夫守政
-
-Hayashi Rokudayū Morimasa
-
-> 林　安太夫政誠
-
-Hayashi Yasudayū Masakusu
-
-> 大黒元右衛門清勝
-
-Ōguro Gen'emon Kiyokatsu
-
-> 松吉貞助久盛
-
-Matsuyoshi Sadasuke Hisamori
-
+> 崎神助重信  
+> 田宮平兵衛尉業正  
+> 長野無樂入道樵露齋  
+> 百々軍兵衛尉光重  
+> 蟻川正左衛門尉宗範  
+> 万野團右衛門尉信員  
+> 長谷川主税助英信  
+> 荒井勢哲清信  
+> 林　六大夫守政  
+> 林　安太夫政誠  
+> 大黒元右衛門清勝  
+> 松吉貞助久盛  
 > 山川久蔵幸雅
 
+Hayashizaki Jinsuke Shigenobu  
+Tamiya Heibei no jō Shigemasa  
+Nagano Muraku Nyūdō Kinrosai  
+Todo Gunbei no jō Mitsushige  
+Arikawa Seizaemon no jō Munetsugu  
+Banno Dan'emon no jō Nobusada  
+Hasegawa Chikaranosuke Hidenobu  
+Arai Seitetsu Kiyonobu  
+Hayashi Rokudayū Morimasa  
+Hayashi Yasudayū Masakusu  
+Ōguro Gen'emon Kiyokatsu  
+Matsuyoshi Sadasuke Hisamori  
 Yamakawa Kyūzō Yukimasa
 
 > 貴殿多年御練望ニ付令相傳候猶向後御修行依其切極意可堅  
