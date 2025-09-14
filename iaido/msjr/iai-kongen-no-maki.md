@@ -62,7 +62,7 @@ Another old saying goes: "Even in a humble thatched-roof hut in a rural village,
 > 天眞正  
 > 林明神
 
-Correctly and faithfully  
+Tenshinshō  
 Hayashi Myōjin
 
 > 崎神助重信  
@@ -105,7 +105,7 @@ On an auspicious day of the twelfth month of Keiō 3 (Year of the Tiger)
 
 > 嶋村善馬殿
 
-To Shimamura Zenba-dono
+To Shimamura Zenma-dono
 
 > 下村茂市　㊞
 
@@ -132,10 +132,6 @@ The *Tetsugi no maki* (手次之巻)[^1] is a version of the scroll written by S
   イカル、マコトナラサルマコト也
 - **癡**  
   オロカ、シヤ知ヲ申ナリ
-
----
-
-19. 不義ヲニクミ悪ヲ恥ル物之我ニ有ヲ天真ト云、是ヲ主人公友云、天真ヲ正スル之林明神ニ而マシマス也
 
 ## Commentary and translation notes
 
@@ -236,9 +232,9 @@ Even if someone were to offer a thousand pieces of gold, this iai must under no 
 > 其進疾者其退速云々  
 > 此意以貴賎尊卑無隔不謂前後輩達其所作者許目録印可等無相違
 
-An old saying goes: "He who advances swiftly, also retreats swiftly." In this spirit, there shall be no distinction between noble and base, high and low rank; without regard for seniority or juniority, licenses and techniques shall be bestowed without prejudice.
+From the context, the message of this old saying appears to be that people who rise quickly in the ranks by being promoted for reasons other than hard work and genuine effort tend not to take their responsibilities seriously and give up easily when faced, as one inevitably eventually is, with hardship and setbacks. The author therefore instructs the reader to promote their students based on merit alone.
 
-This paragraph is not included in the Tetsugi no maki; perhaps it was added later.
+This paragraph is not included in the Tetsugi no maki; perhaps it was added later in the Tosa line.
 
 > 又古語曰  
 > 夫百錬之搆在則苐茨荘鄙\[18\]與兵利心懸者夜白思之神明佛陀祈者則忽得利方是依心潜身事燦然
@@ -246,6 +242,13 @@ This paragraph is not included in the Tetsugi no maki; perhaps it was added late
 >> 18. 明心ヲウルノトコロニテ筆紙ノヘカタシ
 
 Another old saying goes: "Even in a humble thatched-roof hut in a rural village, one tempered by a hundred trials who devotes himself to refinement in the martial arts, who contemplates their principles deep into the night and prays to the gods and the Buddhas, will immediately grasp the advantageous way." By relying on one's heart and living a quiet life, one's whole being will radiate with excellence.
+
+> 天眞正  
+> 林明神
+>
+>> 19. 不義ヲニクミ悪ヲ恥ル物之我ニ有ヲ天真ト云、是ヲ主人公友云、天真ヲ正スル之林明神ニ而マシマス也
+
+The word *tenshinshō* (天眞正) is somewhat mysterious. If not for the Tetsugi no maki, I would have translated it as "faithfully and correctly", 
 
 ## About Hayashizaki Jinsuke Shigenobu
 
