@@ -4,8 +4,6 @@
 
 To begin with, this which is called iai has been reverently transmitted as revealed in a divine dream from the Great Deity of Hayashi in the Ōshū region of Japan.
 
-> 夫兵術者上古中古雖有数多之違佗流大人小人無力剛力不嫌合兵用云々
-
 As for martial arts, although in ancient and mediaeval times there have been many other different schools, there are methods that can be employed in battle equally by people of large or small stature, by those without strength or those with great strength, and so on and so forth.
 
 > 末代爲相應之太刀尓云手近勝一命有無之極
@@ -113,25 +111,7 @@ Shimomura Shigeichi \[seal\]
 
 ## Tetsugi no maki　手次之巻
 
-The *Tetsugi no maki* (手次之巻)[^1] is a version of the scroll written by Sakai Shichiemon of Hayashizaki Tamiya-ryū in 1706 and conferred as a menkyo kaiden to Sakai Jūbei Nagateru. The scroll contains added commentary, most likely by Nagateru, in the spaces between the lines. I have numbered these notes and will be referring to them below at the place where they appear in the scroll.
-
-### 三部
-
-- **金剛部**  
-  フトウ・イタテン・マリシテン、トウシ諸佛ノ事
-- **佛部**  
-  アミタハシメ諸佛ヲノ事
-- **蓮華部**  
-  如来ハシメ諸佛ヲ申、？ハキヨキナリ  
-
-### 三毒
-
-- **貪**  
-  ムサホル、ヨクヲモウス
-- **瞋**  
-  イカル、マコトナラサルマコト也
-- **癡**  
-  オロカ、シヤ知ヲ申ナリ
+The *Tetsugi no maki* (手次之巻)[^1] is a version of the scroll written by Sakai Shichiemon of Hayashizaki Tamiya-ryū in 1706 and conferred as a menkyo kaiden to Sakai Jūbei Nagateru. The scroll contains added commentary, most likely by Nagateru, in the spaces between the lines. I have numbered these notes and will be referring to them below at the place where they appear in the scroll. In a few places, the character is illegible or could otherwise not be transcribed, and has been replaced with the glyph ☐.
 
 ## Commentary and translation notes
 
@@ -167,7 +147,7 @@ Regarding the phrase 得勝怨敵, literally "gain victory over your hated enemy
 >> 2. ~~五尺二・三寸~~　ツウレイノ人ハ三尺三寸迄ハ実ノ所ヌカルヽ也
 >> 3. 九寸五分ハ九寸五分ノ間合ナケレハヌケ不申トノ事
 
-Shigenobu is stated here to have gained "great advantage" or "great benefit" (大利), and note 1 in the Tetsugi no maki explains that this means Shigenobu awakened (悟り *satori*; Buddhist enlightenment) to the "One Mind" (一心 *isshin*), a state of unity with the gods, Buddhas, and the universe.
+Shigenobu is stated here to have gained "great advantage" or "great benefit" (大利), and note 1 in the Tetsugi no maki explains that this means Shigenobu awakened (悟り *satori*; Buddhist enlightenment) to the "One Mind" (一心 *isshin*): a state of unity with the gods, Buddhas, and the universe.
 
 The rest of this passage is rather straightforward: a "waist sword" three shaku and three sun (~1 m) long defeating \[a sword measuring\] nine sun and five bu (~28 cm). To an uninitiated reader, this may sound obvious; recall, however, that iai is applied at extremely close range, where the shorter sword would normally have an overwhelming advantage -- even more so considering that both swords are sheathed at the onset. In the first place, wearing such a long sword at the waist like an uchigatana would have been highly unorthodox, as it would have been very difficult to draw. Note 2 in the Tetsugi no maki adds that a person of average height (a crossed-out part specifies a height of 5 shaku 2-3 sun; ~160 cm) should be able to draw a sword of 3 shaku 3 sun, with the implication that this is the maximum length that can be drawn from the waist by a person of that height.
 
@@ -187,7 +167,25 @@ This term 柄口六寸 (*tsukaguchi rokusun*) literally means "hilt-opening six 
 >> 6. ナメクシリ・ヒツキ・ヘミ也、又曰、~~ウタカイハ~~ マヨウハ酒色ヨクノミツ成、又イロヽヽモウネ念ヲサレト也、三毒ノアラソイニタトヱ、ニクムナナケレトノヲシヘナリ
 >> 7. 佛金蓮ノ事ナリ、キヨキヲ申ナリ、三毒ヲサツテ無形ニ至ナリ
 >> 8. 星ナリ
->> 9. シン？天タイニ有、ソウレイノ致ニ付、コレヲナラス、死ヲイサキヨクチウフツセヨトナリ、一心ノケツタンノ事ナリ、九寸五分ニ至本也
+>> 9. シン☐天タイニ有、ソウレイノ致ニ付、コレヲナラス、死ヲイサキヨクチウフツセヨトナリ、一心ノケツタンノ事ナリ、九寸五分ニ至本也
+>>
+>> **三部**
+>>
+>> - **金剛部**  
+>>   フトウ・イタテン・マリシテン、トウシ諸佛ノ事
+>> - **佛部**  
+>>   アミタハシメ諸佛ヲノ事
+>> - **蓮華部**  
+>>   如来ハシメ諸佛ヲ申、☐ハキヨキナリ  
+>>
+>> **三毒**
+>>
+>> - **貪**  
+>>   ムサホル、ヨクヲモウス
+>> - **瞋**  
+>>   イカル、マコトナラサルマコト也
+>> - **癡**  
+>>   オロカ、シヤ知ヲ申ナリ
 
 Here, the author explains the symbolism behind the measurements of the two swords. The Tetsugi no maki contains several explanatory notes, as well as a separate section on the Three Poisons and Three Divisions.
 
@@ -209,7 +207,7 @@ The final clause states that these symbolic meanings are internal teachings (内
 
 Note 10 expands upon the idea of karma from past lives determining whether someone becomes an ally of an enemy, saying: this is the realisation that everything comes from emptiness and returns to emptiness, wherefore life and death form one great whole.
 
-In note 11, the commentator says that dying must be only one's own resolve, and that this means one must (be prepared to) die for honour/justice (儀 *gi*) or ambition (志 *shi*). 儀 really means "ceremony" or "matter", but I surmise it is used here instead of 義, meaning "honour", "righteousness", or "justice". Trenson (2014)[^1] renders it as "propriety". 志 is "volition", "intention", or "resolve", so "ambition" seems like an apt translation in this context.
+In note 11, the commentator says that dying must be only one's own resolve, and that this means one must (be prepared to) die for honour/justice (儀 *gi*) or ambition (志 *shi*). 儀 really means "ceremony" or "matter", but I surmise it is used here instead of 義, meaning "honour", "righteousness", or "justice". Trenson (2014)[^1] renders it as "propriety". 志 is "volition", "intention", or "resolve", so "ambition" seems like an apt translation in this context as contrasted with dying in the service of another.
 
 On the topic of the battlefield being the Pure Land, note 12 explains that rather than living on in dishonour and shame, it is better to die and think of it as paradise.
 
@@ -226,7 +224,13 @@ Note 13 adds that the gods (probably mainly referring to deified mortals) and Bu
 >> 16. 其人悪ヲナセハ我モハチナリ、天ハツト知ヘシ
 >> 17. 前條ノ趣ヨクソナハリタル人ヲ云
 
-Even if someone were to offer a thousand pieces of gold, this iai must under no circumstances be taught to an insincere person. For fear of divine punishment, it must be passed on to only one person.
+Note 14 says that even if someone were to offer something with the value of a thousand pieces (i.e. a lot) of gold in exchange for the art, it must never be relinquished.
+
+Note 15 explains what is meant by "an insincere person" to whom the art must not be transmitted: someone who does not know decorum, who does not follow what is written here, and who does not understand the principle of the three poisons.
+
+On "divine punishment", note 16 says that if the person commits acts of evil, the teacher too shall be punished, as Heaven will know they have taught the art to an unworthy recipient.
+
+"Only one person" is explained in note 17 to be a person who is well possessed of the qualities described in previous articles.
 
 > 古語曰  
 > 其進疾者其退速云々  
@@ -241,14 +245,20 @@ This paragraph is not included in the Tetsugi no maki; perhaps it was added late
 >
 >> 18. 明心ヲウルノトコロニテ筆紙ノヘカタシ
 
-Another old saying goes: "Even in a humble thatched-roof hut in a rural village, one tempered by a hundred trials who devotes himself to refinement in the martial arts, who contemplates their principles deep into the night and prays to the gods and the Buddhas, will immediately grasp the advantageous way." By relying on one's heart and living a quiet life, one's whole being will radiate with excellence.
+The phrase 苐茨荘鄙 deserves closer scrutiny: although 荘鄙 means roughly "countryside" in a wider sense, 苐茨 ("number thorn") is with all certainty intended to be 第茅, where 第 is "residence" and 茅 is a type of grass specifically used for thatching. 苐茨荘鄙 is then a home with thatched roof on the countryside. Note 18, while admitting it is difficult to express on paper, says it is a place where one can attain a clear and serence mind.
+
+百錬之搆 ("tempered by a hundred trials") is difficult to translate well. 搆 is the same *kamae* as in a fighting stance, but in this case probably means a spiritual readiness or more broadly one's character. 百錬 means "a hundred temperings", and is used metaphorically as having overcome adversity many times in life. 百錬之搆 would then be character forged strong through strict discipline.
+
+"Grasping the advantageous way" (得利方), going by previous notes, might mean to attain enlightenment.
+
+是依心潜身事燦然 ("(therefore,) by relying on one's heart and living a quiet life, one's whole being will radiate with excellence") is another somewhat opaque sentence. 依心 means to "entrust \[oneself to\] one's heart", and is used in Classical Chinese in the sense of following one's heart and innate sense of morality. 潜身 really means "hiding/submerging one's body", and this, too, is a phrase from Classical Chinese meaning to go into hiding or living in quiet obscurity away from the eyes of the world. By these means (事), one might shine brilliantly (燦然). 燦然 is "radiant" or "resplendent", and is often used, as it is here, about virtuous character.
 
 > 天眞正  
 > 林明神
 >
 >> 19. 不義ヲニクミ悪ヲ恥ル物之我ニ有ヲ天真ト云、是ヲ主人公友云、天真ヲ正スル之林明神ニ而マシマス也
 
-The word *tenshinshō* (天眞正) is somewhat mysterious. If not for the Tetsugi no maki, I would have translated it as "faithfully and correctly", 
+The word *tenshinshō* (天眞正) is somewhat mysterious. If not for the Tetsugi no maki, I would have translated it as "faithfully and correctly", as 天眞 (a Buddhist term, also meaning "naïveté") means "true to Heaven" (as divinely received, without embellishments or alterations), and 正 is "correct". However, note 19 explains it in more specific terms: "the thing in us that hates unrighteousness and is ashamed of evil is called *tenshin*; it is called the friend of the hero, and \[*tenshinshō*\] is Hayashi Myōjin, who corrects *tenshin*." That is to say, Hayashi Myōjin is the god which restores the divine sense of right and wrong in our minds, and *tenshinshō* should thus be taken as an appellation of the kami. Of course, it is entirely possible that Sakai, writing more than 80 years after the death of Hayashizaki, added his own speculative interpretations in his commentary, so I am still inclined to apply Occam's Razor and suggest the word simply means what it means in other contexts: that the text and art have been faithfully and correctly transmitted. Nevertheless, I left the word untranslated above so as not to impose my own conclusions.
 
 ## About Hayashizaki Jinsuke Shigenobu
 
