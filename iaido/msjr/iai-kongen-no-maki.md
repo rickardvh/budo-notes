@@ -16,7 +16,7 @@ Even in the remote provinces there can surely be no doubt regarding this iai, fo
 
 > 此始尋奥州林崎神助重信ト云者因有兵術望之林之明神一百有日令参籠其満暁夢中老翁重信告曰
 
-It began with a man called Hayashizaki Jinsuke Shigenobu of Ōshū. Aspiring to mastery of the martial arts, he undertook a retreat of over one hundred days of seclusion and prayer to the Hayashi Myōjin. At the dawn of its fulfilment, an old man appeared to Shigenobu in a dream and declared thus:
+It began with a man called Hayashizaki Jinsuke Shigenobu of Ōshū. Aspiring to mastery of the martial arts, he undertook a retreat of over one hundred days of seclusion and prayer to the Hayashi Myōjin. At the dawn of its fulfilment, an old man appeared to him in a dream and declared thus:
 
 > 汝以此太刀常胸中憶持者得勝怨敵云々
 
