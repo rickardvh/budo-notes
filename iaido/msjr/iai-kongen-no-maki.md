@@ -20,11 +20,11 @@ It began with a man called Hayashizaki Jinsuke Shigenobu of Ōshū. Aspiring to 
 
 > 汝以此太刀常胸中憶持者得勝怨敵云々
 
-"If you hold this sword art always in your heart, you shall gain victory over your hated enemies."
+"If you hold this sword art always in your heart, you shall gain victory over your hated enemy."
 
 > 則如㚑夢有得大利以腰刀三尺三寸勝九寸五分事
 
-And so, just as in the revelation, he gained great advantage: with a sword of three shaku and three sun at his waist, he was able to defeat one of nine sun and five bu.
+And so, just as in the revelation, he gained great benefit: with a sword of three shaku and three sun at his waist, he was able to defeat one of nine sun and five bu.
 
 > 柄口六寸勝之妙不思義之極意一國一人之相傳也
 
@@ -121,7 +121,7 @@ The *Tetsugi no maki* (手次之巻)[^1] is a version of the scroll written by S
 
 > 夫兵術者上古中古雖有数多之違佗流大人小人無力剛力不嫌合兵用云々
 
-This paragraph discusses martial arts (兵術 *heijutsu*; literally military tactics or the art of war) of the past, saying that there have been many "different schools" (違佗流). This word 違佗流 (*idaryū*) is somewhat mysterious: 違 means "different", but 佗 is "proud" or "lonely". The meaning could therefore be something like "different schools, each unique and standing apart", but the wording is slightly odd. Yamakoshi Masaki-sensei of Musō Jikiden Eishin-ryū has a different interpretation[^2], taking 違佗 to be a mistaken version of 韋陀 (*Ida*) as in the name of the Buddhist guardian deity Skanda (韋陀天 *Idaten*). With Idaten being a warrior deity, Yamakoshi-sensei's rendering of 韋陀流 would refer to schools either dedicated to this god or, alternatively, more generally claiming an origin in divine revelation. Idaten is usually written 韋駄天, however, so in order not to read too much into the word, I decided to translate 違佗流 simply as "different schools". Either way, the various schools are described as being employed in battle without favouring large nor small people, the strong nor the weak, "and so on" (云々 *unnun*). Note that this is the only place I have chosen to keep 云々 in the translation, as I felt it disturbed the flow more than it contributed elsewhere in English.
+This paragraph discusses martial arts (兵術 *heijutsu*; literally military tactics or the art of war) of the past, saying that there have been many "different schools" (違佗流). This word 違佗流 (*idaryū*) is somewhat mysterious: 違 means "different", but 佗 is "proud" or "solitary". The meaning could therefore be something like "different schools, each unique and standing apart", but the wording is slightly odd. Yamakoshi Masaki-sensei of Musō Jikiden Eishin-ryū has a different interpretation[^2], taking 違佗 to be a variation of 韋陀 (*Ida*) as in the name of the Buddhist guardian deity Skanda (韋陀天 *Idaten*). With Idaten being a warrior deity, Yamakoshi-sensei's rendering of 韋陀流 would refer to schools either dedicated to this god or, alternatively, claiming an origin in divine revelation. In order not to read too much into the word, I decided to translate 違佗流 simply as "different schools". Either way, the various schools are described as being employed in battle without favouring large nor small people, the strong nor the weak, "and so on" (云々 *unnun*). Note that this is the only place I have chosen to keep 云々 in the translation, as I felt it disturbed the flow more than it contributed elsewhere in English.
 
 > 末代爲相應之太刀尓云手近勝一命有無之極
 
@@ -129,7 +129,9 @@ A more literal translation here would be "it is said about the sword (technique)
 
 > 此居合恐者粟散邊土於堺不審之儀不可有之唯依㚑夢處也
 
-Here, 粟散邊土 (*zokusan hendo*) literally means "borderlands (like) scattered millet", referring to remote regions of Japan even at its very borders (於堺). The word is a Chinese translation of a phrase found in old Buddhist texts, where it described the more than two hundred smaller kingdoms of ancient India as like millet scattered on a plate. Although the exact wording is that there is "likely" (恐) no "matter of doubt" (不審之儀), I chose a slightly stronger wording of "surely no doubt". The message is that iai is not something created by men, but simply passed on as instructed by the gods, wherefore no one should harbour any doubt about it[^3].
+Here, 粟散邊土 (*zokusan hendo*) literally means "borderlands (like) scattered millet", referring to remote regions of Japan even at its very borders (於堺). The word is a Chinese translation of a phrase found in old Buddhist texts, where it described the more than two hundred smaller kingdoms of ancient India as like millet scattered on a plate. It carries a connotation of places far from the Dharma, where the teachings of the Buddha may not have fully reached.
+
+Although the exact wording is that there is "likely" (恐) no "matter of doubt" (不審之儀), I chose a slightly stronger wording of "surely no doubt". The message is that iai is not something created by men, but simply passed on as instructed by the gods, wherefore no one should harbour any doubt about it[^3].
 
 > 此始尋奥州林崎神助重信ト云者因有兵術望之林之明神一百有日令参籠其満暁夢中老翁重信告曰
 
@@ -139,7 +141,7 @@ It is interesting to note here that Jinsuke is written here as 神助 rather tha
 
 This quote from the dream ends with 云々, indicating that there was more to the message than this short sentence. As this seems fairly obvious, and it felt somewhat improper to end a quote from a deity with "and so on" in English, I left it out. In any event, this sentence was the final message in the dream, said after the old man had instructed Shigenobu in swordsmanship.
 
-Regarding the phrase 得勝怨敵, literally "gain victory over your hated enemy", there are two possible, though not mutually exclusive, interpretations. The literal interpretation is that the revelation allowed Shigenobu to avenge his murdered father, and given that preparation for this quest was what led him to seclude himself in prayer and training in the first place, this seems more than plausible. Trenson (2014)[^1] offers a more figurative interpretation, which fits well into the esoteric theme of the scroll: 怨敵 (*onteki*) was sometimes used in esoteric Buddhist contexts to refer to the obstacles ("enemies") to enlightenment; the wordly desires or evil passions called *klesha* (煩悩 *bonnō*).
+Regarding the phrase 得勝怨敵, literally "gain victory over your hated enemy", there are two possible, though not mutually exclusive, interpretations. The literal interpretation is that the revelation allowed Shigenobu to avenge his murdered father, and given that preparation for this quest was what led him to seclude himself in prayer and training in the first place, this seems more than plausible. Trenson (2014)[^1] offers a more figurative interpretation, which fits well into the esoteric theme of the scroll: 怨敵 (*onteki*) was sometimes used in esoteric Buddhist contexts to refer to the obstacles ("enemies") to enlightenment; the wordly desires or evil passions called *klesha* (煩悩 *bonnō*) or the obstructive demon Māra (魔羅) who tried to stop Siddhartha Gautama from awakening and becoming the Buddha. In Shingon and Tendai Buddhism, in particular, 怨敵 frequently refers to inner obstacles that need to be subdued.
 
 > 則如㚑夢有得大利\[1\]以腰刀三尺三寸\[2\]勝九寸五分\[3\]事
 >
@@ -147,7 +149,7 @@ Regarding the phrase 得勝怨敵, literally "gain victory over your hated enemy
 >> 2. ~~五尺二・三寸~~　ツウレイノ人ハ三尺三寸迄ハ実ノ所ヌカルヽ也
 >> 3. 九寸五分ハ九寸五分ノ間合ナケレハヌケ不申トノ事
 
-Shigenobu is stated here to have gained "great advantage" or "great benefit" (大利), and note 1 in the Tetsugi no maki explains that this means Shigenobu awakened (悟り *satori*; Buddhist enlightenment) to the "One Mind" (一心 *isshin*): a state of unity with the gods, Buddhas, and the universe.
+Shigenobu is stated here to have gained "great benefit" or "great advantage" (大利), and note 1 in the Tetsugi no maki explains that this means Shigenobu awakened (悟り *satori*; Buddhist enlightenment) to the "One Mind" (一心 *isshin*): a state of unity with the gods, Buddhas, and the universe.
 
 The rest of this passage is rather straightforward: a "waist sword" three shaku and three sun (~1 m) long defeating \[a sword measuring\] nine sun and five bu (~28 cm). To an uninitiated reader, this may sound obvious; recall, however, that iai is applied at extremely close range, where the shorter sword would normally have an overwhelming advantage -- even more so considering that both swords are sheathed at the onset. In the first place, wearing such a long sword at the waist like an uchigatana would have been highly unorthodox, as it would have been very difficult to draw. Note 2 in the Tetsugi no maki adds that a person of average height (a crossed-out part specifies a height of 5 shaku 2-3 sun; ~160 cm) should be able to draw a sword of 3 shaku 3 sun, with the implication that this is the maximum length that can be drawn from the waist by a person of that height.
 
@@ -158,9 +160,9 @@ Note 3 says that the short sword of 9 sun 5 bu can only be drawn at the range of
 >> 4. ウケ處ヨリ六寸ハナレ柄手出サル処、則九寸五分ニ勝ナリ
 >> 5. トハ重信ヲ云ナリ
 
-This term 柄口六寸 (*tsukaguchi rokusun*) literally means "hilt-opening six sun" (~18 cm), but I will henceforth refer to it by its Japanese name. It is clearly *the* ultimate secret of the school, but the word itself is rather mysterious. Unfortunately, the true meaning of tsukaguchi rokusun appears to have been mostly forgotten within the Tosa line, so unless it has been preserved in Shin-Musō Hayashizaki-ryū, we can only speculate based on scattered references in other extant scrolls (more on this later). The Tetsugi no maki adds in note 4 that the phrase refers to a point six sun away from the "receiving point" (ウケ處 *ukedokoro*; the target of the attack?) before the hand has started to move forwards.
+This term 柄口六寸 (*tsukaguchi rokusun*) literally means "hilt-opening six sun" (~18 cm), but I will henceforth refer to it by its Japanese name. It is clearly *the* ultimate secret of the school, but the word itself is rather mysterious. Unfortunately, the true meaning of tsukaguchi rokusun appears to have been mostly forgotten within the Tosa line, so unless it has been preserved in one of the Musō Hayashizaki-ryū lineages, we can only speculate based on scattered references in other extant scrolls (more on this later). The Tetsugi no maki adds in note 4 that the phrase refers to a point six sun away from the "receiving point" or "point of engagement" (ウケ處 *ukedokoro*; the target of the attack?) before the hand has started to move forwards.
 
-"One person in one land" (一國一人) is clarified in note 5 as referring to Shigenobu himself, meaning he was the only recipient of the revelation in all of Japan.
+"One person in one land/province" (一國一人) is clarified in note 5 as referring to Shigenobu himself, meaning he was the only recipient of the revelation in all of Japan.
 
 > 腰刀三尺三寸三毒\[6\]則三部\[7\]尓但脇差九寸五分九曜\[8\]五古\[9\]之内證也
 >
@@ -197,13 +199,15 @@ According to note 7, the "Three Divisions" (三部 *sanbu*) refer to the three B
 - The Buddha family (佛部), symbolising awakening and containing, among others, the Amida Buddha. Transforms delusion.
 - The Lotus family (蓮華部), symbolising purity and compassion and containing Avalokiteśvara and other Nyorai Buddhas. Transforms attachment.
 
+There are two more families (tathāgata), namely: the Jewel and Karma families. However, they handle poisons other than the main three.
+
 The gloss continues by saying that by overcoming the Three Poisons, one may reach a state of formlessness (無形 *mukei*). "Formlessness" here refers to a state of enlightenment where one is not bound by physical or mental form.
 
 The symbolism of the long sword is of cutting through the Three Poisons and transforming them into enlightened wisdom of the Three Buddha Families.
 
 Regarding the Nine Luminaries (九曜 *kuyō*), there is only a short comment (note 8) saying "these are celestial bodies", but the term refers to the so-called Navagraha of Hindu mythology, as transmitted to Japan through Chinese astrology. They are: the Sun and the Moon, the five classical planets (Mercury, Venus, Mars, Jupiter, and Saturn), and Rahu and Ketu, the ascending and descending nodes of the Moon. In Hindu and Chinese astrology, these nine (or their deific personifications) were thought to be able to influence the lives of humans.
 
-The five-pronged vajra is a ritual tool or weapon, representing the indestructibility of diamond and the power of a thunderbolt, in Buddhism and Hinduism. Here, the word used for the vajra is 五古 (*goko*), which literally translates to "five ancients"; however, the second character 古 is mistaken (or ateji) and should be 鈷. The vajra is always used together with the bell in Buddhist rituals. Note 9[^4] explains that "it" (the bell/vajra) is rung at funerals, and that the ringing urges the deceased to pass on peacefully into death and ascend to Buddhahood. The vajra and the bell symbolise the determination to achieve the One Mind.
+The five-pronged vajra is a ritual tool or weapon, representing the indestructibility of diamond and the power of a thunderbolt, in Buddhism and Hinduism. Here, the word used for the vajra is 五古 (*goko*), which literally translates to "five ancients"; however, the second character 古 is an ateji and should be 鈷. The vajra is always used together with the bell in Buddhist rituals. Note 9[^4] explains that "it" (the bell/vajra) is rung at funerals, and that the ringing urges the deceased to pass on peacefully into death and ascend to Buddhahood. This ritual is meant to guide the soul through the intermediate state between death and rebirth known as *bardo* (中有 *chūu*). The vajra and the bell symbolise the determination to achieve the One Mind.
 
 The final clause states that these symbolic meanings are internal teachings (内證) -- secret esoteric interpretations that was taught only to license holders of a certain level.
 
@@ -217,7 +221,7 @@ Note 10 expands upon the idea of karma from past lives determining whether someo
 
 In note 11, the commentator says that dying must be only one's own resolve, and that this means one must (be prepared to) die for honour/justice (儀 *gi*) or ambition (志 *shi*). 儀 really means "ceremony" or "matter", but I surmise it is used here instead of 義, meaning "honour", "righteousness", or "justice". Trenson (2014)[^1] renders it as "propriety". 志 is "volition", "intention", or "resolve", so "ambition" seems like an apt translation in this context as contrasted with dying in the service of another.
 
-On the topic of the battlefield being the Pure Land, note 12 explains that rather than living on in dishonour and shame, it is better to die and think of it as paradise.
+On the topic of the battlefield being the Pure Land, note 12 explains that rather than living on in dishonour and shame, it is better to die and think of it as paradise. This echoes the Jōdo Buddhism teaching that one can be reborn in Amida's paradise through a righteous death.
 
 > 如此観則現世蒙大聖摩利支尊天\[13\]加護来世成佛成縁之㕝豈有疑哉
 >
@@ -266,7 +270,7 @@ The phrase 苐茨荘鄙 deserves closer scrutiny: although 荘鄙 means roughly 
 >
 >> 19. 不義ヲニクミ悪ヲ恥ル物之我ニ有ヲ天真ト云、是ヲ主人公友云、天真ヲ正スル之林明神ニ而マシマス也
 
-The word *tenshinshō* (天眞正) cannot be straightforwardly translated. If not for the Tetsugi no maki, I would have translated it as "faithfully and correctly", as 天眞 (a Buddhist term, also meaning "naïveté") means "true to Heaven" (as divinely received, without embellishments or alterations), and 正 is "correct". However, note 19 explains it in more specific terms: "the thing in us that hates unrighteousness and is ashamed of evil is called *tenshin*; it is called the friend of the hero, and \[*tenshinshō*\] is Hayashi Myōjin, who corrects *tenshin*." That is to say, Hayashi Myōjin is the god which restores the divine sense of right and wrong in our minds, and *tenshinshō* should thus be taken as an appellation of the kami. Of course, it is entirely possible that Sakai, writing more than 80 years after the death of Hayashizaki, added his own speculative interpretations in his commentary, so I am still inclined to apply Occam's Razor and suggest the word simply means what it means in other contexts: that the text and the art have been faithfully and correctly transmitted. Nevertheless, I left the word untranslated above so as not to impose my own conclusions.
+The word *tenshinshō* (天眞正) cannot be straightforwardly translated. If not for the Tetsugi no maki, I would have translated it as "faithfully and correctly", as 天眞 (a Buddhist term, also meaning "naïveté") means "true to Heaven" (as divinely received, without embellishments or alterations), and 正 is "correct". However, note 19 explains it in more specific terms: "the thing in us that hates unrighteousness and is ashamed of evil is called *tenshin*; it is called the friend of the hero, and \[*tenshinshō*\] is Hayashi Myōjin, who corrects *tenshin*." That is to say, Hayashi Myōjin is the god which restores the divine sense of right and wrong in our minds, and *tenshinshō* should thus be taken as an appellation of the kami. Of course, it is entirely possible that Sakai, writing more than 80 years after the death of Hayashizaki, added his own speculative interpretations in his commentary, so I am still inclined to apply Occam's Razor and suggest the word simply means what it means in other contexts: that the text and the art have been faithfully and correctly transmitted. The word 天眞 also appears in Chinese Daoist texts with the sense "primordial natural truth" or "heavenly truth". Nevertheless, I left the word untranslated above so as not to impose my own conclusions.
 
 ## About Hayashizaki Jinsuke Shigenobu
 
