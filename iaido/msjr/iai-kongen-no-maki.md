@@ -259,7 +259,7 @@ This paragraph is not included in the Tetsugi no maki; perhaps it was added late
 
 百錬之搆 is difficult to translate well. 搆 is the same *kamae* as in a fighting stance, but in this case probably means a spiritual readiness or more broadly one's character. 百錬 means "a hundred temperings", and is used metaphorically as having overcome hardship many times in life. 百錬之搆 would then be character forged strong through strict discipline.
 
-The phrase 苐茨荘鄙 deserves closer scrutiny: although 荘鄙 means roughly "countryside" in a wider sense, 苐茨 ("number thorn") is with all certainty intended to be 第茅, where 第 is "residence" and 茅 is a type of grass specifically used for thatching. 第茅荘鄙 is then a home with thatched roof on the countryside. Note 18, while admitting it is difficult to express in writing, says it is a place where one can attain a clear and serence mind.
+The phrase 苐茨荘鄙 deserves closer scrutiny: although 荘鄙 means roughly "countryside" in a wider sense, 苐茨 ("number thorn") is with all certainty intended to be 第茅, where 第 is "residence" and 茅 is a type of grass specifically used for thatching. 第茅荘鄙 is then a home with thatched roof on the countryside. Note 18, while admitting it is difficult to express in writing, says it is a place where one can attain a clear and serene mind.
 
 "Grasping the advantageous way" (得利方), going by previous notes, might mean to attain enlightenment.
 
