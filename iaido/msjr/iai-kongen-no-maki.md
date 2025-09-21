@@ -193,13 +193,15 @@ The Three Poisons (三毒 *sandoku*) in Buddhism are the three root *kleshas*; t
 
 According to note 7, the "Three Divisions" (三部 *sanbu*) refer to the three Buddha Families associated with the Three Poisons: 
 
-- the Vajra family (金剛部), symbolising unshakable wisdom and protection and containing Fudō Myō-ō, Idaten, Marishiten, and various other martial Buddhas;
-- the Buddha family (佛部), symbolising awakening and containing, among others, the Amida Buddha;
-- the Lotus (*Padma*) family (蓮華部), symbolising purity and compassion and containing the Nyorai Buddhas.
+- The Vajra family (金剛部), symbolising unshakable wisdom and protection and containing Fudō Myō-ō, Idaten, Marishiten, and various other martial Buddhas. Transforms aversion.
+- The Buddha family (佛部), symbolising awakening and containing, among others, the Amida Buddha. Transforms delusion.
+- The Lotus family (蓮華部), symbolising purity and compassion and containing Avalokiteśvara and other Nyorai Buddhas. Transforms attachment.
 
 The gloss continues by saying that by overcoming the Three Poisons, one may reach a state of formlessness (無形 *mukei*). "Formlessness" here refers to a state of enlightenment where one is not bound by physical or mental form.
 
-Regarding the Nine Luminaries (九曜 *kuyō*), there is only a short comment (note 8) saying "these are celestial bodies", but the term refers to the so-called Navagraha of Hindu mythology. They are the Sun and the Moon, the five classical planets (Mercury, Venus, Mars, Jupiter, and Saturn), and Rahu and Ketu, the ascending and descending nodes of the Moon. In Hindu astrology, these nine (or their deific personifications) were thought to be able to influence the lives of humans.
+The symbolism of the long sword is of cutting through the Three Poisons and transforming them into enlightened wisdom of the Three Buddha Families.
+
+Regarding the Nine Luminaries (九曜 *kuyō*), there is only a short comment (note 8) saying "these are celestial bodies", but the term refers to the so-called Navagraha of Hindu mythology, as transmitted to Japan through Chinese astrology. They are: the Sun and the Moon, the five classical planets (Mercury, Venus, Mars, Jupiter, and Saturn), and Rahu and Ketu, the ascending and descending nodes of the Moon. In Hindu and Chinese astrology, these nine (or their deific personifications) were thought to be able to influence the lives of humans.
 
 The five-pronged vajra is a ritual tool or weapon, representing the indestructibility of diamond and the power of a thunderbolt, in Buddhism and Hinduism. Here, the word used for the vajra is 五古 (*goko*), which literally translates to "five ancients"; however, the second character 古 is mistaken (or ateji) and should be 鈷. The vajra is always used together with the bell in Buddhist rituals. Note 9[^4] explains that "it" (the bell/vajra) is rung at funerals, and that the ringing urges the deceased to pass on peacefully into death and ascend to Buddhahood, as well as symbolising their determination to achieve the One Mind. This is the basis of the nine sun and five bu.
 
