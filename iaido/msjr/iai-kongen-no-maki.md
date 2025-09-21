@@ -199,7 +199,7 @@ According to note 7, the "Three Divisions" (三部 *sanbu*) refer to the three B
 - The Buddha family (佛部), symbolising awakening and containing, among others, the Amida Buddha. Transforms delusion.
 - The Lotus family (蓮華部), symbolising purity and compassion and containing Avalokiteśvara and other Nyorai Buddhas. Transforms attachment.
 
-There are two more families (tathāgata), namely: the Jewel and Karma families. However, they handle poisons other than the main three.
+There are two more families (tathāgata), namely: the Jewel and Karma families. However, they handle poisons other than the main three, and the three families above have been selected for their association with the Three Poisons.
 
 The gloss continues by saying that by overcoming the Three Poisons, one may reach a state of formlessness (無形 *mukei*). "Formlessness" here refers to a state of enlightenment where one is not bound by physical or mental form.
 
