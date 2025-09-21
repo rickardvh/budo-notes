@@ -189,9 +189,15 @@ This term 柄口六寸 (*tsukaguchi rokusun*) literally means "hilt-opening six 
 
 Here, the author explains the symbolism behind the measurements of the two swords. The Tetsugi no maki contains several explanatory notes, as well as a separate section on the Three Poisons and Three Divisions.
 
-The Three Poisons (三毒 *sandoku*) in Buddhism are the three root *kleshas*; the character flaws that cause suffering and keep souls trapped in the cycle of rebirth. They are: Attachment (貪; *rāga*; also Desire or Greed), Aversion (瞋; *dveṣa*; also Anger or Hatred), and Delusion (癡; *moha*; also Ignorance). Note 6 expounds upon the Three Poisons, associating them with slugs, toads, and snakes. It then goes on to say that a wavering mind falls to alcohol, lust, and greed, and that the teachings admonish against hatred by likening the struggle against delusions to that against the Three Poisons.
+The Three Poisons (三毒 *sandoku*) in Buddhism are the three root *kleshas*; the character flaws that cause suffering and keep souls trapped in the cycle of rebirth. They are: Attachment (貪; *rāga*; also Desire or Greed), Aversion (瞋; *dveṣa*; also Anger or Hatred), and Delusion (癡; *moha*; also Ignorance). Gloss 6 associates the Three Poisons with slugs, toads, and snakes. It then explains that a wavering mind falls to alcohol, lust, and greed, and that the struggle against the Three Poisons is used as an analogy teaching us not to harbour hatred.
 
-According to note 7, the "Three Divisions" (三部 *sanbu*) refer to three of the Five Buddha Families; specifically, the three associated with the Three Poisons. These three, as explained in the Tetsugi no maki, are: the Vajra family (金剛部; containing Fudō, Idaten, Marishiten, and various other martial Buddhas), the Buddha family (佛部; containing, among others, the Amida Buddha), and the Lotus (*Padma*) family (蓮華部; containing the Nyorai Buddhas, representing purity). Note 7 continues by saying that by overcoming the Three Poisons, one may reach a state of formlessness (無形 *mukei*). "Formlessness" here refers to a state of enlightenment where one is not bound by physical or mental form.
+According to note 7, the "Three Divisions" (三部 *sanbu*) refer to the three Buddha Families associated with the Three Poisons: 
+
+- the Vajra family (金剛部), symbolising unshakable wisdom and protection and containing Fudō Myō-ō, Idaten, Marishiten, and various other martial Buddhas;
+- the Buddha family (佛部), symbolising awakening and containing, among others, the Amida Buddha;
+- the Lotus (*Padma*) family (蓮華部), symbolising purity and compassion and containing the Nyorai Buddhas.
+
+The gloss continues by saying that by overcoming the Three Poisons, one may reach a state of formlessness (無形 *mukei*). "Formlessness" here refers to a state of enlightenment where one is not bound by physical or mental form.
 
 Regarding the Nine Luminaries (九曜 *kuyō*), there is only a short comment (note 8) saying "these are celestial bodies", but the term refers to the so-called Navagraha of Hindu mythology. They are the Sun and the Moon, the five classical planets (Mercury, Venus, Mars, Jupiter, and Saturn), and Rahu and Ketu, the ascending and descending nodes of the Moon. In Hindu astrology, these nine (or their deific personifications) were thought to be able to influence the lives of humans.
 
