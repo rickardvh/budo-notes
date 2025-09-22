@@ -310,7 +310,9 @@ Shimomura Shigeichi was the thirteenth headmaster, and this line of the school i
 
 ## About Hayashizaki Jinsuke Shigenobu
 
-Hayashizaki Jinsuke Shigenobu was born Asano Tamimaru (浅野民丸) or possibly Tamiharu (民治) on the 12th day of the first month of the 11th year of the Tenmon era (1542). The revelation happened in the fifth month of the 23rd year of the Tenmon era (1554), when Tamimaru was 13 years old. Upon turning 14 the following year, he changed his name to Hayashizaki to honour the deity, and took the adult names of Jinsuke and Shigenobu in honour of his father. Jinsuke was his father's childhood name, and Shigenari (重成), in which Shigenobu changed the second kanji, the father's adult name.
+Hayashizaki Jinsuke Shigenobu was born Asano Tamimaru (浅野民丸) or possibly Tamiharu (民治) on the 12th day of the first month of the 11th year of the Tenmon era (1542). When Tamimaru was three years old, his father, Asano Kazuma Shigenari (浅野数馬重成), was murdered by a man named Sakakawa (or Sakakami) Ichiunsai.
+
+The revelation happened in the fifth month of the 23rd year of the Tenmon era (1554), when Tamimaru was 13 years old. Upon turning 14 the following year, he changed his name to Hayashizaki after his birthplace, and took the adult names of Jinsuke and Shigenobu in honour of his father. Jinsuke was his father's childhood name, and Shigenari (重成), in which Shigenobu changed the second kanji, the father's adult name.
 
 ## On the nature of tsukaguchi rokusun
 
