@@ -91,8 +91,8 @@ Hayashi Yasudayū Masakusu
 Matsuyoshi Sadasuke Hisamori  
 Yamakawa Kyūzō Yukimasa
 
-> 貴殿多年御練望ニ付令相傳候猶向後御修行依其切極意可堅  
-> 可授者也厚御心懇肝要之事ニ候仍而奥書如件
+> 貴殿多年御深望ニ付令相傳候猶向後御修行依其切極意印可等  
+> 可授者也厚御心懸肝要之事ニ候仍而奥書如件
 
 Since you have for many years shown great diligence in your training, I hereby transmit this tradition to you. From now on, continue your practice, and with utmost sincerity pursue and uphold the essential teachings. I therefore record this in writing.
 
@@ -271,6 +271,24 @@ The phrase 苐茨荘鄙 deserves closer scrutiny: although 荘鄙 means roughly 
 >> 19. 不義ヲニクミ悪ヲ恥ル物之我ニ有ヲ天真ト云、是ヲ主人公友云、天真ヲ正スル之林明神ニ而マシマス也
 
 The word *tenshinshō* (天眞正) cannot be straightforwardly translated. If not for the Tetsugi no maki, I would have translated it as "faithfully and correctly", as 天眞 (a Buddhist term, also meaning "naïveté") means "true to Heaven" (as divinely received, without embellishments or alterations), and 正 is "correct". However, note 19 explains it in more specific terms: "the thing in us that hates unrighteousness and is ashamed of evil is called *tenshin*; it is called the friend of the hero, and \[*tenshinshō*\] is Hayashi Myōjin, who corrects *tenshin*." That is to say, Hayashi Myōjin is the god which restores the divine sense of right and wrong in our minds, and *tenshinshō* should thus be taken as an appellation of the kami. Of course, it is entirely possible that Sakai, writing more than 80 years after the death of Hayashizaki, added his own speculative interpretations in his commentary, so I am still inclined to apply Occam's Razor and suggest the word simply means what it means in other contexts: that the text and the art have been faithfully and correctly transmitted. The word 天眞 also appears in Chinese Daoist texts with the sense "primordial natural truth" or "heavenly truth". Nevertheless, I left the word untranslated above so as not to impose my own conclusions.
+
+> 崎神助重信  
+> 田宮平兵衛尉業正  
+> 長野無樂入道樵露齋  
+> 百々軍兵衛尉光重  
+> 蟻川正左衛門尉宗範  
+> 万野團右衛門尉信員  
+> 長谷川主税助英信  
+> 荒井勢哲清信  
+> 林　六大夫守政  
+> 林　安太夫政誠  
+> 大黒元右衛門清勝  
+> 松吉貞助久盛  
+> 山川久蔵幸雅
+
+This is a list of the past headmasters of the school. 尉 (*jō*, "inspector") is the third highest of the four administrative ranks of the ritsuryō system, and is thus not a name as such.
+
+The seventh headmaster Hasegawa Chikaranosuke Hidenobu (Eishin) was known as a swordsman of incredible skill, and the school was renamed Hasegawa Eishin-ryū in recognition of his contribution to the art. Hayashi Rokudayū Morimasa, the ninth headmaster, relocated the school to Tosa (thus creating the Tosa Eishin-ryū lineage), and incorporated Ōmori-ryū into the curriculum.
 
 ## About Hayashizaki Jinsuke Shigenobu
 
