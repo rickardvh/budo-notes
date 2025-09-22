@@ -93,7 +93,7 @@ Yamakawa Kyūzō Yukimasa
 
 > 貴殿多年御深望ニ付令相傳候猶向後御修行依其切極意印可等可授者也厚御心懸肝要之事ニ候仍而奥書如件
 
-Since you have for many years shown deep aspiration, I hereby transmit this tradition to you. Furthermore, henceforth in your training, in accordance with the essential principles, you are authorised to confer inner teachings, licenses, and the like. It is of vital importance that you keep this deeply in your heart. I therefore record this in writing.
+Since you have for many years shown deep aspiration, I hereby transmit this to you. Furthermore, henceforth in your training, you are authorised to confer inner teachings, licenses, and the like, in accordance with the essential principles. It is of vital importance that you earnestly devote yourself to this. Accordingly, the colophon is as set forth above.
 
 > 慶應三丙寅  
 > 十二月吉日
@@ -288,6 +288,21 @@ The word *tenshinshō* (天眞正) cannot be straightforwardly translated. If no
 This is a list of the past headmasters of the school. 尉 (*jō*, "inspector") is the third highest of the four administrative ranks of the ritsuryō system, and is thus not a name as such.
 
 The seventh headmaster Hasegawa Chikaranosuke Hidenobu (Eishin) was known as a swordsman of incredible skill, and the school was renamed Hasegawa Eishin-ryū in recognition of his contribution to the art. Hayashi Rokudayū Morimasa, the ninth headmaster, relocated the school to Tosa (thus creating the Tosa Eishin-ryū lineage), and incorporated Ōmori-ryū into the curriculum.
+
+> 貴殿多年御深望ニ付令相傳候猶向後御修行依其切極意印可等可授者也厚御心懸肝要之事ニ候仍而奥書如件
+
+This closing statement or colophon (奥書) verifies this document as a menkyo kaiden (免許皆伝; licence of full transmission). The recipient, in recognition of long and dedicated practice, is confirmed to have received the full tradition and is formally authorised to pass it on in its entirety, as well as being instructed to uphold the core principles of the school.
+
+> 慶應三丙寅  
+> 十二月吉日
+
+The twelfth month of the third year of the Keiō era lasted between the end of December 1867 until three weeks into January 1868 in the Gregorian calendar. This places this document right around the Meiji restoration, which was proclaimed on the 3rd of January 1868.
+
+> 嶋村善馬殿
+
+Shimamura Zenma was born on the 24th of December 1849, making him barely 19 years old when receiving his menkyo kaiden. His father, Shimamura Umanosuke (島村右馬丞) was the fifteenth headmaster. The next year, in 1869, he changed his name to Hosokawa Yoshimasa, and later became the sixteenth headmaster of the school, which he called Musō Shinden Eishin-ryū. He went on to teach Nakayama Hakudō, who used it as the foundation for his Musō Shinden-ryū.
+
+> 下村茂市　㊞
 
 ## About Hayashizaki Jinsuke Shigenobu
 
