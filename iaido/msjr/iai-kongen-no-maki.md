@@ -93,7 +93,7 @@ Yamakawa Kyūzō Yukimasa
 
 > 貴殿多年御深望ニ付令相傳候猶向後御修行依其切極意印可等可授者也厚御心懸肝要之事ニ候仍而奥書如件
 
-Since you have for many years shown deep aspiration, I hereby transmit this tradition to you. Furthermore, henceforth in your training, in accordance with the essential principles, the inner teachings, licenses, and the like are permitted to be conferred upon you. It is of vital importance that you keep this deeply in your heart. I therefore record this in writing.
+Since you have for many years shown deep aspiration, I hereby transmit this tradition to you. Furthermore, henceforth in your training, in accordance with the essential principles, you are authorised to confer inner teachings, licenses, and the like. It is of vital importance that you keep this deeply in your heart. I therefore record this in writing.
 
 > 慶應三丙寅  
 > 十二月吉日
