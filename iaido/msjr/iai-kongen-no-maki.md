@@ -300,9 +300,11 @@ The twelfth month of the third year of the Keiō era lasted between the end of D
 
 > 嶋村善馬殿
 
-Shimamura Zenma was born on the 24th of December 1849, making him barely 19 years old when receiving his menkyo kaiden. His father, Shimamura Umanosuke (島村右馬丞) was the fifteenth headmaster. The next year, in 1869, he changed his name to Hosokawa Yoshimasa, and later became the sixteenth headmaster of the school, which he called Musō Shinden Eishin-ryū. He went on to teach Nakayama Hakudō, who used it as the foundation for his Musō Shinden-ryū.
+Shimamura Zenma was born on the 24th of December 1849, making him barely 19 years old when receiving his menkyo kaiden. His father, Shimamura Umanosuke (島村右馬丞) was the fifteenth headmaster. The next year, in 1869, he changed his name to Hosokawa Yoshimasa, and later became the sixteenth headmaster of the school, which he called Musō Shinden Eishin-ryū. He went on to teach Nakayama Hakudō, who called it Musō Shinden Jūshin-ryū and used it as the foundation for his Musō Shinden-ryū.
 
 > 下村茂市　㊞
+
+Shimomura Shigeichi was the thirteenth headmaster, and this line of the school is still often referred to as Shimomura-ha Hasegawa Eishin-ryū. His direct successor, the fourteenth headmaster, was Tsubouchi Seisuke Chōjun (坪内清助長順).
 
 ## About Hayashizaki Jinsuke Shigenobu
 
