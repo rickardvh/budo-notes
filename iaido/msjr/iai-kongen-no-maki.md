@@ -114,6 +114,8 @@ The *Tetsugi no maki* (手次之巻)[^1] is a version of the scroll written by S
 
 ## Commentary and translation notes
 
+The name 居合根元之巻 (*iai kongen no maki*) means "the scroll of the origins of iai". It is more commonly known as simply *kongen no maki* (the scroll of the origin), and is the oldest scroll of transmission in all the descendant schools, where it is copied and given as a menkyo kaiden (免許皆伝, licence of total transmission) to certify full mastery of the school's teachings.
+
 > 抑此居合ト申者日本奥州林之従大明神夢想に〆奉傳之
 
 "The Great Deity of Hayashi" is rendered from 林之従大明神, which literally means "the great and bright god of Hayashi". 大明神 (*daimyōjin*) is listed in my dictionary as "deity with extraordinary spiritual powers", but 明神 was also used more specifically as an epithet for Shintō gods that were thought also to be aspects of one or more Buddhist deities in Japanese syncretism. This god was the head deity of the Hayashi area, which is synonymous to or surrounds the village of Hayashizaki, located in present-day Murayama, Yamagata. In other texts and current usage, the deity is referred to as Hayashizaki Daimyōjin. Ōshū (奥州) is the old name for the Tōhoku region of northeastern Honshū.
@@ -291,7 +293,7 @@ The seventh headmaster Hasegawa Chikaranosuke Hidenobu (Eishin) was known as a s
 
 > 貴殿多年御深望ニ付令相傳候猶向後御修行依其切極意印可等可授者也厚御心懸肝要之事ニ候仍而奥書如件
 
-This closing statement or colophon (奥書) verifies this document as a menkyo kaiden (免許皆伝; licence of full transmission). The recipient, in recognition of long and dedicated practice, is confirmed to have received the full tradition and is formally authorised to pass it on in its entirety, as well as being instructed to uphold the core principles of the school.
+This closing statement or colophon (奥書) verifies this document as a menkyo kaiden. The recipient, in recognition of long and dedicated practice, is confirmed to have received the full tradition and is formally authorised to pass it on in its entirety, as well as being instructed to uphold the core principles of the school.
 
 > 慶應三丙寅  
 > 十二月吉日
@@ -308,7 +310,7 @@ Shimomura Shigeichi was the thirteenth headmaster, and this line of the school i
 
 ## About Hayashizaki Jinsuke Shigenobu
 
-Hayashizaki Jinsuke Shigenobu was born Asano Tamimaru (浅野民丸) or possibly Tamiharu (民治). The revelation happened in the fifth month of the 23rd year of the Tenmon era (1554), when Tamimaru was 13 years old. Upon turning 14 the following year, he changed his name to Hayashizaki to honour the deity, and took the adult names of Jinsuke and Shigenobu in honour of his father. Jinsuke was his father's childhood name, and Shigenari (重成), in which Shigenobu changed the second kanji, the father's adult name.
+Hayashizaki Jinsuke Shigenobu was born Asano Tamimaru (浅野民丸) or possibly Tamiharu (民治) on the 12th day of the first month of the 11th year of the Tenmon era (1542). The revelation happened in the fifth month of the 23rd year of the Tenmon era (1554), when Tamimaru was 13 years old. Upon turning 14 the following year, he changed his name to Hayashizaki to honour the deity, and took the adult names of Jinsuke and Shigenobu in honour of his father. Jinsuke was his father's childhood name, and Shigenari (重成), in which Shigenobu changed the second kanji, the father's adult name.
 
 ## On the nature of tsukaguchi rokusun
 
