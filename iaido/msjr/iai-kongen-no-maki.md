@@ -328,6 +328,8 @@ The central moral teachings that Shigenobu received from the Hayashi Myōjin are
 
 "Strike them down with *kesa*" (袈裟打ちかけて) could refer to kesagiri, describing the style of cut, or to the intent of the cut being that of a monk disciplining a sinner and leading their soul towards Buddhahood. I personally tend more towards the latter interpretation, given the context. However, the final, decisive cut in Shin-Musō Hayashizaki-ryū is typically a kesagiri, so it is entirely conceivable that it was originally intended as both.
 
+These teachings are absolutely central to iai. The main reason given for why Ōmori-ryū was incorporated into Tosa Eishin-ryū was because it was viewed as embodying the intent of *kesa no hitotachi*.
+
 ## On the nature of tsukaguchi rokusun
 
 ...
