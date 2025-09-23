@@ -163,7 +163,7 @@ Note 3 says that the short sword of 9 sun 5 bu can only be drawn at the range of
 >> 4. ウケ處ヨリ六寸ハナレ柄手出サル処、則九寸五分ニ勝ナリ
 >> 5. トハ重信ヲ云ナリ
 
-This term 柄口六寸 (*tsukaguchi rokusun*) literally means "hilt-opening six sun" (~18 cm), but I will henceforth refer to it by its Japanese name. It is clearly *the* ultimate secret of the school, but the word itself is rather mysterious. Unfortunately, the true meaning of tsukaguchi rokusun appears to have been mostly forgotten within the Tosa line, so unless it has been preserved in one of the Musō Hayashizaki-ryū lineages, we can only speculate based on scattered references in other extant scrolls (more on this later). The Tetsugi no maki adds in note 4 that the phrase refers to a point six sun away from the "receiving point" or "point of engagement" (ウケ處 *ukedokoro*; the target of the attack?) before the hand has started to move forwards.
+This term 柄口六寸 (*tsukaguchi rokusun*) literally means "hilt-opening six sun" (~18 cm), but I will henceforth refer to it by its Japanese name. It is clearly *the* ultimate secret of the school, but the word itself is rather mysterious. Unfortunately, the true meaning of tsukaguchi rokusun appears to have been mostly forgotten within the Tosa line, so unless it has been preserved in Shin-Musō Hayashizaki-ryū, we can only speculate based on scattered references in other extant scrolls (more on this later). The Tetsugi no maki adds in note 4 that the phrase refers to a point six sun away from the "receiving point" or "point of engagement" (ウケ處 *ukedokoro*; the target of the attack?) before the hand has started to move forwards.
 
 "One person in one land/province" (一國一人) is clarified in note 5 as referring to Shigenobu himself, meaning he was the only recipient of the revelation in all of Japan.
 
@@ -328,7 +328,7 @@ The central moral teachings that Shigenobu received from the Hayashi Myōjin are
 
 "Strike them down with *kesa*" (袈裟打ちかけて) could refer to kesagiri, describing the style of cut, or to the intent of the cut being that of a monk disciplining a sinner and leading their soul towards Buddhahood. I personally tend more towards the latter interpretation, given the context. However, the final, decisive cut in Shin-Musō Hayashizaki-ryū is typically a kesagiri, so it is entirely conceivable that it was originally intended as both.
 
-These teachings are absolutely central to iai. The main reason given for why Ōmori-ryū was incorporated into Tosa Eishin-ryū was because it was viewed as embodying the intent of *kesa no hitotachi*.
+These teachings are absolutely central to iai. A basic pattern in Shin-Musō Hayashizaki-ryū is first to warn or restrain the enemy as they move their hand to draw the short sword; then to strike the wrist to limit their fighting ability as they draw and attack anyway; and finally to cut *kesa* as they insist on attacking again. The main reason given for why Ōmori-ryū was incorporated into Tosa Eishin-ryū was because it was viewed as embodying the intent of *kesa no hitotachi*, and many forms can be understood in those terms: sense the enemy's hostile intent and begin to draw before they do, in a manner that allows them the option to back down without violence; when they persist, draw and make a warning or non-lethal cut to stop or incapacitate them; finally, when no other recourse remains, make a single decisive cut to kill them.
 
 ## On the nature of tsukaguchi rokusun
 
