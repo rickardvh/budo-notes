@@ -63,6 +63,8 @@ Another old saying goes: "Even in a humble thatched-roof hut in a rural village,
 Tenshinshō  
 Hayashi Myōjin
 
+---
+
 > 崎神助重信  
 > 田宮平兵衛尉業正  
 > 長野無樂入道樵露齋  
@@ -194,7 +196,7 @@ Here, the author explains the symbolism behind the measurements of the two sword
 
 The Three Poisons (三毒 *sandoku*) in Buddhism are the three root *kleshas*; the character flaws that cause suffering and keep souls trapped in the cycle of rebirth. They are: Attachment (貪; *rāga*; also Desire or Greed), Aversion (瞋; *dveṣa*; also Anger or Hatred), and Delusion (癡; *moha*; also Ignorance). Gloss 6 associates the Three Poisons with slugs, toads, and snakes. It then explains that a wavering mind falls to alcohol, lust, and greed, and that the struggle against the Three Poisons is used as an analogy teaching us not to harbour hatred.
 
-According to note 7, the "Three Divisions" (三部 *sanbu*) refer to the three Buddha Families associated with the Three Poisons: 
+According to note 7, the "Three Divisions" (三部 *sanbu*) refer to the three Buddha Families associated with the Three Poisons:
 
 - The Vajra family (金剛部), symbolising unshakable wisdom and protection and containing Fudō Myō-ō, Idaten, Marishiten, and various other martial Buddhas. Transforms aversion.
 - The Buddha family (佛部), symbolising awakening and containing, among others, the Amida Buddha. Transforms delusion.
@@ -203,8 +205,6 @@ According to note 7, the "Three Divisions" (三部 *sanbu*) refer to the three B
 There are two more families (tathāgata), namely: the Jewel and Karma families. However, they handle poisons other than the main three, and the three families above have been selected for their association with the Three Poisons.
 
 The gloss continues by saying that by overcoming the Three Poisons, one may reach a state of formlessness (無形 *mukei*). "Formlessness" here refers to a state of enlightenment where one is not bound by physical or mental form.
-
-The symbolism of the long sword is of cutting through the Three Poisons and transforming them into enlightened wisdom of the Three Buddha Families.
 
 Regarding the Nine Luminaries (九曜 *kuyō*), there is only a short comment (note 8) saying "these are celestial bodies", but the term refers to the so-called Navagraha of Hindu mythology, as transmitted to Japan through Chinese astrology. They are: the Sun and the Moon, the five classical planets (Mercury, Venus, Mars, Jupiter, and Saturn), and Rahu and Ketu, the ascending and descending nodes of the Moon. In Hindu and Chinese astrology, these nine (or their deific personifications) were thought to be able to influence the lives of humans.
 
@@ -273,6 +273,8 @@ The phrase 苐茨荘鄙 deserves closer scrutiny: although 荘鄙 means roughly 
 
 The word *tenshinshō* (天眞正) cannot be straightforwardly translated. If not for the Tetsugi no maki, I would have translated it as "faithfully and correctly", as 天眞 (a Buddhist term, also meaning "naïveté") means "true to Heaven" (as divinely received, without embellishments or alterations), and 正 is "correct". However, note 19 explains it in more specific terms: "the thing in us that hates unrighteousness and is ashamed of evil is called *tenshin*; it is called the friend of the hero, and \[*tenshinshō*\] is Hayashi Myōjin, who corrects *tenshin*." That is to say, Hayashi Myōjin is the god which restores the divine sense of right and wrong in our minds, and *tenshinshō* should thus be taken as an appellation of the kami. Of course, it is entirely possible that Sakai, writing more than 80 years after the death of Hayashizaki, added his own speculative interpretations in his commentary, so I am still inclined to apply Occam's Razor and suggest the word simply means what it means in other contexts: that the text and the art have been faithfully and correctly transmitted. The word 天眞 also appears in Chinese Daoist texts with the sense "primordial natural truth" or "heavenly truth". Nevertheless, I left the word untranslated above so as not to impose my own conclusions.
 
+---
+
 > 崎神助重信  
 > 田宮平兵衛尉業正  
 > 長野無樂入道樵露齋  
@@ -313,6 +315,18 @@ Shimomura Shigeichi was the thirteenth headmaster, and this line of the school i
 Hayashizaki Jinsuke Shigenobu was born Asano Tamimaru (浅野民丸) or possibly Tamiharu (民治) on the 12th day of the first month of the 11th year of the Tenmon era (1542). When Tamimaru was three years old, his father, Asano Kazuma Shigenari (浅野数馬重成), was murdered by a man named Sakakawa (or Sakakami) Ichiunsai.
 
 The revelation happened in the fifth month of the 23rd year of the Tenmon era (1554), when Tamimaru was 13 years old. Upon turning 14 the following year, he changed his name to Hayashizaki after his birthplace, and took the adult names of Jinsuke and Shigenobu in honour of his father. Jinsuke was his father's childhood name, and Shigenari (重成), in which Shigenobu changed the second kanji, the father's adult name.
+
+## Interpretation of the moral symbolism
+
+The symbolism of the 3-shaku-3-sun long sword is of cutting through the Three Poisons and transforming them into enlightened wisdom of the Three Buddha Families. We are taught, and reminded by wielding the sword, to live a virtuous life on the path towards enlightenment, shunning hatred, avarice, and ignorance.
+
+The short sword of 9 sun and 5 bu remind us that circumstance is but a product of fate, as decided by karma and the Nine Luminaries: an enemy in this life could be an ally in the next. Moreover, as the bell and the five-pronged vajra guide the soul towards rebirth and symbolise the determination to attain the One Mind, we are instructed to strike down the enemy with the compassionate mindset of guiding their lost soul back onto the right path for the next life.
+
+The central moral teachings that Shigenobu received from the Hayashi Myōjin are known as the *kesa no hitotachi* (袈裟の一太刀), or loosely "the monk's single cut" (*kesa* being a monk's raiment). It has been passed down in these words:
+
+> Even if you are confronted by a great sinner, do not draw your sword, nor let them draw; do not cut, nor let them cut; do not kill, and do not be killed. Speak to them, preach gently and earnestly, and lead them to goodness. If, by some chance, they refuse to submit and there is absolutely no other recourse, then strike them down with *kesa* and make them attain Buddhahood.
+
+"Strike them down with *kesa*" (袈裟打ちかけて) could refer to kesagiri, describing the style of cut, or to the intent of the cut being that of a monk disciplining a sinner and leading their soul towards Buddhahood. I personally tend more towards the latter interpretation, given the context. However, the final, decisive cut in Shin-Musō Hayashizaki-ryū is typically a kesagiri, so it is entirely conceivable that it was originally intended as both.
 
 ## On the nature of tsukaguchi rokusun
 
