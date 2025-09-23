@@ -312,9 +312,13 @@ Shimomura Shigeichi was the thirteenth headmaster, and this line of the school i
 
 ## About Hayashizaki Jinsuke Shigenobu
 
-Hayashizaki Jinsuke Shigenobu was born Asano Tamimaru (浅野民丸) or possibly Tamiharu (民治)[^5] on the 12th day of the first month of the 11th year of the Tenmon era (1542). When Tamimaru was three years old, his father, Asano Kazuma Shigenari (浅野数馬重成), was murdered by a man named Sakakawa (or Sakakami) Ichiunsai (坂川（坂上）一雲斎), who fled the province. Tamimaru's widowed mother, daughter of a Tateoka retainer named Takamori, raised him alone in poverty, praying every day at the Hayashizaki shrine for her late husband to be avenged.
+Hayashizaki Jinsuke Shigenobu was born Asano Tamimaru (浅野民丸) or possibly Tamiharu (民治)[^5] on the 12th day of the first month of the 11th year of the Tenmon era (1542). When Tamimaru was three years old, his father, Asano Kazuma Shigenari (浅野数馬重成), who had served as a palace guard in Kyōto, was murdered by a man named Sakakawa (or Sakakami) Ichiunsai (坂川（坂上）一雲斎). Shigenari's widow, a daughter of a Tateoka retainer named Takamori, raised Tamimaru alone in poverty, praying every day at the Hayashizaki shrine with her son for his future success in avenging his dead father.
 
 At the age of 8, Tamimaru began training in Kyō-ryū (京流) kenjutsu under Higashine Jirōdayū (東根二郎太夫). The revelation happened in the fifth month of the 23rd year of the Tenmon era (1554), when Tamimaru was 13 years old. Upon turning 14 the following year, he changed his name to Hayashizaki after his birthplace, and took the adult names of Jinsuke and Shigenobu in honour of his father. Jinsuke was his father's childhood name, and Shigenari (重成), in which Shigenobu changed the second kanji, the father's adult name.
+
+Swearing an oath at the shrine to avenge his father, Shigenobu left Hayashizaki and travelled to Kyōto, where he studied under renowned swordsmen of his day and even attracted students of his own. Notable among these were Tamiya Heibei and Nagano Murakusai, the second and third headmasters, respectively, of Shigenobu's school.
+
+In 1560, when Shigenobu was 19, he finally discovered the whereabouts of his father's killer, who gone into hiding in Fushimi under the name of Yagoyama Daizen Toshitaka. Shigenobu promptly petitioned the authorities for permission to carry out a vendetta (仇討ち, *katakiuchi*), which was granted. On the 17th day of the fifth month that year, he successfully ambushed and slew Sakakawa on the Tanba Road.
 
 ## Interpretation of the moral symbolism
 
