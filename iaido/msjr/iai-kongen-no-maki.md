@@ -318,7 +318,7 @@ At the age of 8, Tamimaru began training in Kyō-ryū (京流) kenjutsu under Hi
 
 Swearing an oath at the shrine to avenge his father, Shigenobu left Hayashizaki and travelled to Kyōto, where he studied under renowned swordsmen of his day and even attracted students of his own. Notable among these were Tamiya Heibei and Nagano Murakusai, the second and third headmasters, respectively, of Shigenobu's school.
 
-In 1560, when Shigenobu was 19, he finally discovered the whereabouts of his father's killer, who gone into hiding in Fushimi under the name of Yagoyama Daizen Toshitaka. Shigenobu promptly petitioned the authorities for permission to carry out a vendetta (仇討ち, *katakiuchi*), which was granted. On the 17th day of the fifth month that year, he successfully ambushed and slew Sakakawa on the Tanba Road.
+In 1560, when Shigenobu was 19, he finally discovered the whereabouts of his father's killer, who had gone into hiding in Fushimi under the name of Yagoyama Daizen Toshitaka. Shigenobu promptly petitioned the authorities for permission to carry out a vendetta (仇討ち, *katakiuchi*), which was granted. On the 17th day of the fifth month that year, he successfully ambushed and slew Sakakawa on the Tanba Road.
 
 ## Interpretation of the moral symbolism
 
