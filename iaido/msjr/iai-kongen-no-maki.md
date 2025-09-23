@@ -312,9 +312,9 @@ Shimomura Shigeichi was the thirteenth headmaster, and this line of the school i
 
 ## About Hayashizaki Jinsuke Shigenobu
 
-Hayashizaki Jinsuke Shigenobu was born Asano Tamimaru (浅野民丸) or possibly Tamiharu (民治) on the 12th day of the first month of the 11th year of the Tenmon era (1542). When Tamimaru was three years old, his father, Asano Kazuma Shigenari (浅野数馬重成), was murdered by a man named Sakakawa (or Sakakami) Ichiunsai.
+Hayashizaki Jinsuke Shigenobu was born Asano Tamimaru (浅野民丸) or possibly Tamiharu (民治)[^5] on the 12th day of the first month of the 11th year of the Tenmon era (1542). When Tamimaru was three years old, his father, Asano Kazuma Shigenari (浅野数馬重成), was murdered by a man named Sakakawa (or Sakakami) Ichiunsai (坂川（坂上）一雲斎), who fled the province. Tamimaru's widowed mother, daughter of a Tateoka retainer named Takamori, raised him alone in poverty, praying every day at the Hayashizaki shrine for her late husband to be avenged.
 
-The revelation happened in the fifth month of the 23rd year of the Tenmon era (1554), when Tamimaru was 13 years old. Upon turning 14 the following year, he changed his name to Hayashizaki after his birthplace, and took the adult names of Jinsuke and Shigenobu in honour of his father. Jinsuke was his father's childhood name, and Shigenari (重成), in which Shigenobu changed the second kanji, the father's adult name.
+At the age of 8, Tamimaru began training in Kyō-ryū kenjutsu under Higashine Jirōdayū. The revelation happened in the fifth month of the 23rd year of the Tenmon era (1554), when Tamimaru was 13 years old. Upon turning 14 the following year, he changed his name to Hayashizaki after his birthplace, and took the adult names of Jinsuke and Shigenobu in honour of his father. Jinsuke was his father's childhood name, and Shigenari (重成), in which Shigenobu changed the second kanji, the father's adult name.
 
 ## Interpretation of the moral symbolism
 
@@ -328,7 +328,7 @@ The central moral teachings that Shigenobu received from the Hayashi Myōjin are
 
 "Strike them down with *kesa*" (袈裟打ちかけて) could refer to kesagiri, describing the style of cut, or to the intent of the cut being that of a monk disciplining a sinner and leading their soul towards Buddhahood. I personally tend more towards the latter interpretation, given the context. However, the final, decisive cut in Shin-Musō Hayashizaki-ryū is typically a kesagiri, so it is entirely conceivable that it was originally intended as both.
 
-These teachings are absolutely central to iai. A basic pattern in Shin-Musō Hayashizaki-ryū is first to warn or restrain the enemy as they move their hand to draw the short sword; then to strike the wrist to limit their fighting ability as they draw and attack anyway; and finally to cut *kesa* as they insist on attacking again. The main reason given for why Ōmori-ryū was incorporated into Tosa Eishin-ryū was because it was viewed as embodying the intent of *kesa no hitotachi*, and many forms can be understood in those terms: sense the enemy's hostile intent and begin to draw before they do, in a manner that allows them the option to back down without violence; when they persist, draw and make a warning or non-lethal cut to stop or incapacitate them; finally, when no other recourse remains, make a single decisive cut to kill them.
+These teachings are absolutely central to iai. A basic pattern in Shin-Musō Hayashizaki-ryū is first to warn or restrain the enemy as they move their hand to draw the short sword; then to strike the wrist to limit their fighting ability as they draw and attack anyway; and finally to cut *kesa* as they insist on attacking again. The main reason given for why Ōmori-ryū was incorporated into Tosa Eishin-ryū was because it was viewed as embodying the intent of *kesa no hitotachi*, and many forms can be understood in those terms: sense the enemy's hostile intent and begin to draw before they do, in a manner that allows them the option to back down without violence; when they persist, draw and make a warning or non-lethal cut to stop or incapacitate them; finally, when no other recourse remains, kill with a single, decisive cut.
 
 ## On the nature of tsukaguchi rokusun
 
@@ -338,3 +338,4 @@ These teachings are absolutely central to iai. A basic pattern in Shin-Musō Hay
 [^2]: <http://yamauchiiai.la.coocan.jp/YamauchiIai/KongenNoMaki0.html>
 [^3]: The logical leap of thinking the claim of divine revelation would be *less* cause for doubt amuses me greatly: "A god told this to me in a dream!" -- "Oh, all right then, then it must be legit."
 [^4]: The first clause of note 9 says that something "is in the celestial bodies" (connecting to the Nine Luminaries), but the last character of the first word is illegible. Trenson (2014) guesses that it should be "humans", and it could refer to the fate of human lives.
+[^5]: One sometimes also sees Tamijimaru (民治丸).
