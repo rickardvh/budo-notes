@@ -289,7 +289,7 @@ The word *tenshinshō* (天眞正) cannot be straightforwardly translated. If no
 > 松吉貞助久盛  
 > 山川久蔵幸雅
 
-This is a list of the past headmasters of the school. 尉 (*jō*, "inspector") is the third highest of the four administrative ranks of the ritsuryō system, and is thus not a name as such.
+This is a list of the past headmasters of the school. 尉 (*jō*, "inspector") is the third highest of the four administrative ranks of the ritsuryō system, and is thus not a name as such. Similarly, 太夫 (*dayū*, "lord steward") was the fifth court rank.
 
 The seventh headmaster Hasegawa Chikaranosuke Hidenobu (Eishin) was known as a swordsman of incredible skill, and the school was renamed Hasegawa Eishin-ryū in recognition of his contribution to the art. Hayashi Rokudayū Morimasa, the ninth headmaster, relocated the school to Tosa (thus creating the Tosa Eishin-ryū lineage), and incorporated Ōmori-ryū into the curriculum.
 
@@ -314,7 +314,7 @@ Shimomura Shigeichi was the thirteenth headmaster, and this line of the school i
 
 Hayashizaki Jinsuke Shigenobu was born Asano Tamimaru (浅野民丸) or possibly Tamiharu (民治)[^5] on the 12th day of the first month of the 11th year of the Tenmon era (1542). When Tamimaru was three years old, his father, Asano Kazuma Shigenari (浅野数馬重成), was murdered by a man named Sakakawa (or Sakakami) Ichiunsai (坂川（坂上）一雲斎), who fled the province. Tamimaru's widowed mother, daughter of a Tateoka retainer named Takamori, raised him alone in poverty, praying every day at the Hayashizaki shrine for her late husband to be avenged.
 
-At the age of 8, Tamimaru began training in Kyō-ryū kenjutsu under Higashine Jirōdayū. The revelation happened in the fifth month of the 23rd year of the Tenmon era (1554), when Tamimaru was 13 years old. Upon turning 14 the following year, he changed his name to Hayashizaki after his birthplace, and took the adult names of Jinsuke and Shigenobu in honour of his father. Jinsuke was his father's childhood name, and Shigenari (重成), in which Shigenobu changed the second kanji, the father's adult name.
+At the age of 8, Tamimaru began training in Kyō-ryū (京流) kenjutsu under Higashine Jirōdayū (東根二郎太夫). The revelation happened in the fifth month of the 23rd year of the Tenmon era (1554), when Tamimaru was 13 years old. Upon turning 14 the following year, he changed his name to Hayashizaki after his birthplace, and took the adult names of Jinsuke and Shigenobu in honour of his father. Jinsuke was his father's childhood name, and Shigenari (重成), in which Shigenobu changed the second kanji, the father's adult name.
 
 ## Interpretation of the moral symbolism
 
@@ -328,7 +328,7 @@ The central moral teachings that Shigenobu received from the Hayashi Myōjin are
 
 "Strike them down with *kesa*" (袈裟打ちかけて) could refer to kesagiri, describing the style of cut, or to the intent of the cut being that of a monk disciplining a sinner and leading their soul towards Buddhahood. I personally tend more towards the latter interpretation, given the context. However, the final, decisive cut in Shin-Musō Hayashizaki-ryū is typically a kesagiri, so it is entirely conceivable that it was originally intended as both.
 
-These teachings are absolutely central to iai. A basic pattern in Shin-Musō Hayashizaki-ryū is first to warn or restrain the enemy as they move their hand to draw the short sword; then to strike the wrist to limit their fighting ability as they draw and attack anyway; and finally to cut *kesa* as they insist on attacking again. The main reason given for why Ōmori-ryū was incorporated into Tosa Eishin-ryū was because it was viewed as embodying the intent of *kesa no hitotachi*, and many forms can be understood in those terms: sense the enemy's hostile intent and begin to draw before they do, in a manner that allows them the option to back down without violence; when they persist, draw and make a warning or non-lethal cut to stop or incapacitate them; finally, when no other recourse remains, kill with a single, decisive cut.
+These teachings are absolutely central to iai. A basic pattern in Shin-Musō Hayashizaki-ryū is first to warn or restrain the enemy as they move their hand to draw the short sword; then to strike the wrist to limit their fighting ability as they draw and attack anyway; and finally to cut *kesa* as they insist on attacking again. The main reason given as for why Ōmori-ryū was incorporated into Tosa Eishin-ryū was because it was viewed as embodying the intent of *kesa no hitotachi*, and many forms can be understood in those terms: sense the enemy's hostile intent and begin to draw before they do, in a manner that allows them the option to back down without violence; when they persist, draw and make a warning or non-lethal cut to stop or incapacitate them; finally, when no other recourse remains, kill with a single, decisive cut.
 
 ## On the nature of tsukaguchi rokusun
 
