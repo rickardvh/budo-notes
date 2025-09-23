@@ -322,7 +322,9 @@ In 1560, when Shigenobu was 19, he finally discovered the whereabouts of his fat
 
 The deed made him famous in Kyōto. After holding memorial rites for his enemy, he hurriedly returned home to Hayashizaki, presented the head at his father’s grave, and offered thanks at the Hayashizaki Daimyōjin shrine, where the villagers celebrated the fulfilment of his vow.
 
-The following year, 1561, Shigenobu travelled to Kashima, where he studied Tenshin Shintō-ryū (Kashima Shintō-ryū) for about three years under the legendary Tsukahara Bokuden.
+The following year, 1561, Shigenobu went to Kashima, where he studied Tenshin Shintō-ryū (Kashima Shintō-ryū) kenjutsu for about three years under the legendary Tsukahara Bokuden. Afterwards, he continued his travels across the provinces, refining and testing his skills. He is recorded to have fought under Takeda Shingen, and accepted an invitation from the Hōjō clan to settle down and teach his sword art. His fame attracted many famous students from all across Japan, and he devoted himself to teaching for years.
+
+In his later years, Shigenobu returned to his native village of Hayashizaki, after which not much is known about him, including the year of his death.
 
 ## Interpretation of the moral symbolism
 
