@@ -320,7 +320,7 @@ Swearing an oath at the shrine to avenge his father, Shigenobu left Hayashizaki 
 
 In 1560, when Shigenobu was 19, he finally discovered the whereabouts of his father's killer, who had gone into hiding in Fushimi under the name of Yagurayama Daizen Toshitaka. Shigenobu promptly petitioned the authorities for permission to carry out a vendetta (仇討ち, *katakiuchi*), which was granted. On the 17th day of the fifth month that year, he successfully ambushed and slew Sakakawa on the Tanba Road.
 
-The deed made him famous in Kyōto. After holding memorial rites for his enemy, he returned home to Hayashizaki, presented the head at his father’s grave, and offered thanks at the Hayashizaki Daimyōjin shrine, where the villagers celebrated the fulfillment of his vow.
+The deed made him famous in Kyōto. After holding memorial rites for his enemy, he returned home to Hayashizaki, presented the head at his father’s grave, and offered thanks at the Hayashizaki Daimyōjin shrine, where the villagers celebrated the fulfilment of his vow.
 
 ## Interpretation of the moral symbolism
 
