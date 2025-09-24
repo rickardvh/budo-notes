@@ -342,7 +342,13 @@ These teachings are absolutely central to iai. A basic pattern in Shin-Musō Hay
 
 ## On the nature of tsukaguchi rokusun
 
-...
+Although tsukaguchi rokusun is never explicitly explained in full, there are several notes and references that allow us to make qualified deductions about what it really is. Including the gloss from the Tetsugi no maki above, we have the following:
+
+- It refers to a point six sun from the point of engagement before the hand has begun moving forwards.
+- It refers to the *enemy's* tsukaguchi rokusun.
+- The secret technique Raiden-ken consists of striking the hand holding the tsuka, "in other words tsukaguchi rokusun".
+- There is an illustration of tsukaguchi rokusun showing a swordsman striking the wrist of an enemy in the middle of a downwards cut.
+- Owari Yagyū writings describe something called "the matter of six sun" (六寸の事), which is explained as the last three sun of the blade adding up with the three-sun width of the hand holding the tsuka to make a total of six sun when cutting the hand.
 
 [^1]: <https://bibliotekanauki.pl/articles/1810557>
 [^2]: <http://yamauchiiai.la.coocan.jp/YamauchiIai/KongenNoMaki0.html>
