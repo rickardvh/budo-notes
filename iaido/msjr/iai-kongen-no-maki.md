@@ -350,6 +350,8 @@ Although tsukaguchi rokusun is never explicitly explained in full, there are sev
 - There is an illustration of tsukaguchi rokusun showing a swordsman striking the wrist of an enemy in the middle of a downwards cut.
 - Owari Yagyū writings describe something called "the matter of six sun" (六寸の事), which is explained as the last three sun of the blade adding up with the three-sun width of the hand holding the tsuka to make a total of six sun when cutting the hand.
 
+From these references, we can conclude that tsukaguchi rokusun is likely an attack to the hand or the wrist of the hand holding the tsuka, aimed at a point six sun in front of the tsukaguchi (the opening at the top of the tsuka into which the tang of the sword is inserted) right before the enemy attacks. In fact, this type of cut is frequently used in Shin-Musō Hayashizaki-ryū: the opponent attempts to thrust with the short sword, and this attack is countered by evading to the side and cutting down on the wrist so that both thrust and cut finish simultaneously. When the counterattack commences, the opponent's hand has not yet moved into its final position, so the cut has to be aimed in front of where the hand starts its movement.
+
 [^1]: <https://bibliotekanauki.pl/articles/1810557>
 [^2]: <http://yamauchiiai.la.coocan.jp/YamauchiIai/KongenNoMaki0.html>
 [^3]: The logical leap of thinking the claim of divine revelation would be *less* cause for doubt amuses me greatly: "A god told this to me in a dream!" -- "Oh, all right then, then it must be legit."
