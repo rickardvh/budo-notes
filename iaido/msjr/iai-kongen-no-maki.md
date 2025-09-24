@@ -4,6 +4,8 @@
 
 To begin with, this which is called iai has been reverently transmitted as revealed in a divine dream from the Great Deity of Hayashi in the Ōshū region of Japan.
 
+> 夫兵術者上古中古雖有数多之違佗流大人小人無力剛力不嫌合兵用云々
+
 As for martial arts, although in ancient and mediaeval times there have been many other different schools, there are methods that can be employed in battle equally by people of large or small stature, by those without strength or those with great strength, and so on and so forth.
 
 > 末代爲相應之太刀尓云手近勝一命有無之極
