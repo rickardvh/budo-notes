@@ -6,11 +6,11 @@
 Preface to the Shintō Musō-ryū bōjutsu  
 With articles
 
-> 將刀鎗相闘者古今共及殺害故恐叨用之
+> 将刀鎗相闘者古今共及殺害故恐叨用之
 
 When swords and spears are crossed in combat, from ancient times to the present it has always led to killing. For that reason, people feared to use them recklessly.
 
-> 將夫棍棒者雖傷人亦隕其命者鮮矣是以世人日用爲竒仗且一取其勝利也却優於刀鎗等術也
+> 将夫棍棒者雖傷人亦隕其命者鮮矣是以世人日用爲竒仗且一取其勝利也却優於刀鎗等術也
 
 The staff, though it may wound, rarely takes a life. Thus, people of the world commonly rely upon it as a trusty weapon, and by it attain victory. Indeed, it excels over the arts of the sword and spear.
 
@@ -28,7 +28,7 @@ One night, in a dream, he encountered a divine youth who imparted to him the inn
 
 > 於是終爲一家之秘術權之助自号夢想比故也欽哉
 
-Thus, in the end, he brought the teaching to perfection, and it became the secret art of a single household. Gonnosuke styled himself “Musō” for this reason. Joyous indeed!
+Thus, in the end, he brought the teaching to perfection, and it became the secret art of a single household. For this reason, Gonnosuke styled himself “Musō”. Joyous indeed!
 
 > 傳術誓書授受
 
