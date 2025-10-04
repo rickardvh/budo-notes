@@ -23,6 +23,8 @@ Rickard von Haugwitz
 
 #### ZNKR Jōdō \[to be added\]
 
+#### [Shintō Musō-ryū Jōjutsu](jodo/smr/README.md)
+
 ### Kendō
 
 #### [Nihon Kendō Kata](kendo/nihon_kendo_kata/README.md)
