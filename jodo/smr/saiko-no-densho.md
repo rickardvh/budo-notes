@@ -12,7 +12,7 @@ When swords and spears are crossed in combat, from ancient times to the present 
 
 > 将夫棍棒者雖傷人亦隕其命者鮮矣是以世人日用爲竒仗且一取其勝利也却優於刀鎗等術也
 
-The staff, though it may wound, rarely takes a life. Thus, people of the world commonly rely upon it as a trusty weapon, and by it attain victory. Indeed, it excels over the arts of the sword and spear and other weapons.
+The staff, though it may wound, rarely takes a life. Thus, people of the world commonly rely upon it as a trusty weapon, and by it seek to attain victory. Indeed, it excels over the arts of the sword and spear and other weapons.
 
 > 古者以棒爲藝中魁首其手足攻擊之法不能外于此也冝哉
 
