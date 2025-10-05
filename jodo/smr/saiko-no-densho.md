@@ -14,7 +14,7 @@ When swords and spears are crossed in combat, from ancient times to the present 
 
 The staff, though it may wound, rarely takes a life. Thus, people of the world commonly rely upon it as a trusty weapon, and by it attain victory. Indeed, it excels over the arts of the sword and spear.
 
-> 古者以棒爲藝中魁首其手足攻擊之法不能外于此也宜哉
+> 古者以棒爲藝中魁首其手足攻擊之法不能外于此也冝哉
 
 In former times, the staff was regarded as foremost among martial arts. The methods of striking at the hands and legs fall entirely within its principles; none lie beyond them. How fitting this is!
 
