@@ -53,7 +53,7 @@ It is worth noting that Shintō is written here as 眞道 ("true path"), and not
 
 > 将夫棍棒者雖傷人亦隕其命者鮮矣是以世人日用爲竒仗且一取其勝利也却優於刀鎗等術也
 
-竒仗 is an odd phrase, literally meaning "strange cane". 竒 is in all likelihood intended to be 倚, meaning "to lean on". This would give us 倚仗, which in Chinese means "to rely on" something, as one leans on a cane. 仗, then, probably does not refer to the weapon itself here.
+竒仗 is an odd phrase, literally meaning "strange cane". 竒 is in all likelihood intended to be 倚, meaning "to lean on". This would give us 倚仗, which in Chinese means "to rely on" something, as one leans on a cane. 仗, then, probably does not refer to the weapon itself here, and should not be taken on its own.
 
 > 古者以棒爲藝中魁首其手足攻擊之法不能外于此也冝哉
 
