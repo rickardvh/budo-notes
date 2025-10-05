@@ -38,7 +38,7 @@ Thus the art is transmitted — sworn in writing, bestowed and received.
 
 This scroll is translated from the scanned original document and the accompanying *yomikudashi-bun* (transcription of Classical Chinese into Japanese) provided by Matsui Kenji in his book 天真正伝神道夢想流杖術 (*Tenshin Shōden Shintō Musō-ryū Jōjutsu*), written under supervision of Otofuji Ichizō. Matsui-sensei admits that there are several unclear passages of which even he is unsure, wherefore there might be mistakes in the transcription. For this reason, whenever ambiguities have arisen, I have turned to the original text as the authoritative version, and provide these translation notes for transparency and clarity. However, since the transcription is not in the public domain, I have not included it here in its entirety.
 
-The scroll itself is the oldest verifiable scroll of transmission in Shintō Musō-ryū, and dates from 1720, when it was given as a licence by the fourth headmaster Higuchi Han'emon (樋口半衛門) to Yokota Hanzaburō (横田半三郎宛). It later passed into the possession of the Yajima family, and Yajima Yanosuke graciously allowed Matsui-sensei to photograph it for his book.
+The scroll itself is the oldest verifiable scroll of transmission in Shintō Musō-ryū, and dates from 1720, when it was given as a licence by the fourth headmaster Higuchi Han'emon (樋口半衛門) to Yokota Hanzaburō (横田半三郎). It later passed into the possession of the Yajima family, and Yajima Yanosuke graciously allowed Matsui-sensei to photograph it for his book.
 
 ---
 
