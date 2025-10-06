@@ -8,11 +8,11 @@ With articles
 
 > 将刀鎗相闘者古今共及殺害故恐叨用之
 
-When swords and spears are crossed in combat, from ancient times to the present it has always led to killing. For that reason, people feared to use them recklessly.
+When swords and spears are crossed in combat, from ancient times to the present, it has ever led to killing; for that reason, people feared to use them recklessly.
 
 > 将夫棍棒者雖傷人亦隕其命者鮮矣是以世人日用爲竒仗且一取其勝利也却優於刀鎗等術也
 
-The staff, though it may wound, rarely takes a life. Thus, people of the world commonly rely upon it as a trusty weapon, and by it seek to attain victory. Indeed, it excels over the arts of the sword and spear and other weapons.
+The staff, though it may wound, rarely takes a life. Thus people of the world commonly rely upon it as a trusty weapon, and by it seek to attain victory. Indeed, it excels over the arts of the sword and spear and other weapons.
 
 > 古者以棒爲藝中魁首其手足攻擊之法不能外于此也冝哉
 
@@ -42,7 +42,7 @@ Thus the art is transmitted — sworn in writing, bestowed and received.
 
 This scroll is translated from the scanned original document and the accompanying *yomikudashi-bun* (transcription of Classical Chinese into Japanese) provided by Matsui Kenji in his book 天真正伝神道夢想流杖術 (*Tenshin Shōden Shintō Musō-ryū Jōjutsu*), written under supervision of Otofuji Ichizō. Matsui-sensei admits that there are several unclear passages of which even he is unsure, wherefore there might be mistakes in the transcription. For this reason, whenever ambiguities have arisen, I have turned to the original text as the authoritative version, and provide these translation notes for transparency and clarity. However, since the transcription is not in the public domain, I have not included it here in its entirety.
 
-The scroll itself is the oldest verifiable scroll of transmission in Shintō Musō-ryū, and dates from 1720, when it was given as a licence by the fourth headmaster Higuchi Han'emon (樋口半衛門) to Yokota Hanzaburō (横田半三郎). It later passed into the possession of the Yajima family, and Yajima Yanosuke graciously allowed Matsui-sensei to photograph it for his book.
+The scroll itself is the oldest verifiable extant scroll of transmission in Shintō Musō-ryū, and dates from 1720, when it was given as a licence by the fourth headmaster Higuchi Han'emon (樋口半衛門) to Yokota Hanzaburō (横田半三郎). It later passed into the possession of the Yajima family, and Yajima Yanosuke graciously allowed Matsui-sensei to photograph it for his book.
 
 ---
 
