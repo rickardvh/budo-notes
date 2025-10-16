@@ -130,7 +130,7 @@
 * Enkin-suigetsu 遠近水月
 * Gaiken 外剣
 * Tsurubegaeshi 釣瓶返
-* Chirari-fūsha 智羅離風車
+* Chirari-fūsha 知羅離風車
 
 ---
 
