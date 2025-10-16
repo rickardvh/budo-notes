@@ -144,7 +144,7 @@
 * Essentials for the sleeping quarters
 * Regarding the wrapping of the obi
 
-Raiden-Kasumi is the culmination of swordsmanship: all the many techniques are of a single mind.  (Oral transmission)
+Raiden Kasumi is the culmination of swordsmanship: a myriad of techniques from a single mind.  (Oral transmission)
 
 ---
 
