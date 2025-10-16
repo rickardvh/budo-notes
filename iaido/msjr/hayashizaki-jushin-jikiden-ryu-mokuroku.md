@@ -118,19 +118,19 @@
 
 ---
 
-## 極意之大事
+## Essentials of the inner teachings
 
-* 暇乞
-* 獅子洞入
-* 地獄捜
-* 野中幕
-* 逢意時雨
-* 火村風
-* 鉄石
-* 遠近水月
-* 外剣
-* 釣瓶返
-* 智羅離風車
+* Itomagoi 暇乞
+* Shishidō-iri 獅子洞入
+* Jigokusaguri 地獄捜
+* Nonaka-maku 野中幕
+* Aishigure 逢意時雨
+* Homurakaze 火村風
+* Tesseki 鉄石
+* Enkin-suigetsu 遠近水月
+* Gaiken 外剣
+* Tsurubegaeshi 釣瓶返
+* Chirari-fūsha 智羅離風車
 
 ---
 
