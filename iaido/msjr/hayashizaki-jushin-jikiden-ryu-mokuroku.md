@@ -71,7 +71,7 @@
 * Migifuse 右伏
 * Hidarifuse 左伏
 * Yamakagezume 山影詰
-* Shimetori 〆捕
+* Shimedori 〆捕
 * Sodesurigaeshi 袖摺返
 * Tsubauchigaeshi 鍔打返
 * Koppōgaeshi 骨防返
