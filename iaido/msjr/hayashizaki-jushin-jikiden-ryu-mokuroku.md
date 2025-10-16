@@ -134,15 +134,15 @@
 
 ---
 
-## 抜刀兵術真心肝要之大事
+## The most important essentials of the true heart of sword-drawing
 
-* 立相心之大事
-* 太刀組附位之㕝
-* 太刀目付之㕝
-* 軍場之剣
-* 夜之太刀
-* 閨之大事
-* 帯車之事
+* Essentials regarding the mindset in man-on-man combat
+* Grappling with swords
+* Gaze in sword-fighting
+* The battlefield sword
+* The sword at night
+* Essentials for the sleeping quarters
+* Regarding the wrapping of the obi
 
 雷電霞是極刀萬法一心　口傳
 
