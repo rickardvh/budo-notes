@@ -136,7 +136,7 @@
 
 ## The most important essentials of the true heart of sword-drawing
 
-* Essentials regarding the mindset in man-on-man combat
+* Essentials regarding the mindset in one-on-one combat
 * Grappling with swords
 * Gaze in sword-fighting
 * The battlefield sword
