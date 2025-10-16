@@ -41,7 +41,7 @@
 * Deai 出合
 * Tsukekomi 附込
 * Ukenagashi 請流
-* Ukeire 請込
+* Ukeire 請入
 * Tsukikage 月影
 * Zetsumyōken 絶妙剣
 * Suigetsutō 水月刀
