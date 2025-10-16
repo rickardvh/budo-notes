@@ -144,7 +144,7 @@
 * Essentials for the sleeping quarters
 * Regarding the wrapping of the obi
 
-雷電霞是極刀萬法一心　口傳
+Raiden-Kasumi is the culmination of swordsmanship: all the many techniques are of a single mind.  (Oral transmission)
 
 ---
 
