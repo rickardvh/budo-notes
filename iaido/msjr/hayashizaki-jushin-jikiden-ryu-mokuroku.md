@@ -4,35 +4,35 @@
 
 ## Forms
 
-### Front
+### Front 向身
 
 * Yokogumo 横雲
 * Tora-issoku 虎一足
 * Inazuma 稲妻
 
-### Left
+### Left 左身
 
 * Ukigumo 浮雲
 * Yamaoroshi 山下
 
-### Right
+### Right 右身
 
 * Iwanami 岩浪
 * Urokogaeshi 鱗返
 
-### Rear
+### Rear 後身
 
 * Namigaeshi 波返
 * Takiotoshi 瀧落
 
 ---
 
-### Cutting in four directions[^1]
+### Cutting in four directions 四方切[^1]
 
-* Front
-* Right
-* Left
-* Rear
+* Front 向
+* Right 右
+* Left 左
+* Rear 後
 
 ---
 
@@ -83,7 +83,7 @@
 
 *Oral transmissions*
 
-## Essentials of external engagement
+## Essentials of external engagement 外之物之大事
 
 * Yukizure 行連
 * Tsuredachi 連達
@@ -92,7 +92,7 @@
 * Raiden 雷電
 * Kasumi 霞
 
-## Essentials of acting under orders
+## Essentials of acting under orders 上意之大事
 
 * Torabashiri 虎走
 * Ryōzume 両詰
@@ -110,7 +110,7 @@
 * Jūmonji 十文字
 * Shuriken 手離剣
 
-## Essentials of the inner teachings
+## Essentials of the inner teachings 極意之大事
 
 * Itomagoi 暇乞
 * Shishidō-iri 獅子洞入
@@ -124,15 +124,17 @@
 * Tsurubegaeshi 釣瓶返
 * Chirari-fūsha 知羅離風車
 
-## The most important essentials of the true heart of sword-drawing
+## The most important essentials of the true heart of sword-drawing 抜刀兵術真心肝要之大事
 
-* Essentials regarding the mindset in one-on-one combat
-* Grappling with swords
-* Gaze in sword-fighting
-* Battlefield applications
-* Nighttime applications
-* Essentials for the sleeping quarters
-* Regarding the wrapping of the obi
+* Essentials regarding the mindset in one-on-one combat 立相心之大事
+* Grappling with swords 太刀組附位之㕝
+* Gaze in sword-fighting 太刀目付之㕝
+* Battlefield applications 軍場之剣
+* Nighttime applications 夜之太刀
+* Essentials for the sleeping quarters 閨之大事
+* Regarding the wrapping of the obi 帯車之㕝
+
+> 雷電霞是極刀萬法一心
 
 Raiden Kasumi is the culmination of swordsmanship: a myriad applications of a single mind.  
 (Oral transmission)
