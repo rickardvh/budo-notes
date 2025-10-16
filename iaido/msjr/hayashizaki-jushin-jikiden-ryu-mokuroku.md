@@ -57,7 +57,7 @@
 * Urokogaeshi 鱗返
 * Kuraiyurumi 位弛
 * Tsubamegaeshi 燕返
-* Gansekiotoshi 眼関落
+* Gansekiotoshi 眼關落
 * Suigetsutō 水月刀
 * Kasumiken 霞剣
 
