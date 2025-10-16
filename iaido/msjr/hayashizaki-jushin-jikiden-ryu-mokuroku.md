@@ -4,23 +4,23 @@
 
 ## Forms
 
-### Front-facing
+### Front
 
 * Yokogumo 横雲
 * Tora-issoku 虎一足
 * Inazuma 稲妻
 
-### Left side
+### Left
 
 * Ukigumo 浮雲
 * Yamaoroshi 山下
 
-### Right side
+### Right
 
 * Iwanami 岩浪
 * Urokogaeshi 鱗返
 
-### To the rear
+### Rear
 
 * Namigaeshi 波返
 * Takiotoshi 瀧落
@@ -85,14 +85,16 @@
 
 ---
 
-## 外之物之大事
+*Oral transmissions*
 
-* 行連
-* 連達
-* 遂懸切（追懸切）
-* 総捲
-* 雷電
-* 霞
+## Essentials of external engagement
+
+* Yukizure 行連
+* Tsuredachi 連達
+* Tsuigakegiri 遂懸切
+* Sōmakuri 総捲
+* Raiden 雷電
+* Kasumi 霞
 
 ---
 
