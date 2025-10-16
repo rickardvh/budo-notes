@@ -104,7 +104,7 @@
 * Kabezoe 壁添
 * Tanashita 棚下
 * Kojirigaeshi 鐺返
-* Yukizure 行違
+* Yukichigai 行違
 * Te no uchi 手之内
 * Wa no uchi 輪之内
 * Jūmonji 十文字
