@@ -129,34 +129,13 @@
 * Essentials regarding the mindset in one-on-one combat
 * Grappling with swords
 * Gaze in sword-fighting
-* The battlefield sword
-* The sword at night
+* Battlefield applications
+* Nighttime applications
 * Essentials for the sleeping quarters
 * Regarding the wrapping of the obi
 
 Raiden Kasumi is the culmination of swordsmanship: a myriad applications of a single mind.  
 (Oral transmission)
-
----
-
-These nine articles are the deepest secrets of the esoteric teachings; unless one is a true and sincere person, they must by no means be transmitted.
-
-To you, who for many years have devoted yourself to the Hayashizaki Jinsuke Shigenobu-ryū art of iai, I have now transmitted in full the method of sword-drawing. Henceforth, apply yourself to its mastery alone. Accordingly, this catalogue and licence are hereby granted.
-
-慶應三丙寅　十二月吉日
-
-嶋村善馬　殿
-
-長谷川内藏助　英信／荒井〔□〕〔□〕／林六太夫　清信／林安太夫　政朝／大黑元右衛門　清勝／松吉良助　久盛／山川久藏　幸雅　（ほか）
-
-下村茂市　印
-
----
-
-> 備考：
->
-> * 写真判読により「浪返／波返」「岩浪／岩波」等の異体が存在し得るため、表記は写真優先で採録。再確認の上、適宜訂補ください。
-> * 奥書の一部に読めない箇所があり〔□〕で示した。原本・高精細画像での再検討を要す。
 
 [^1]: This heading is listed slightly differently from the others, and seems to be neither a section under Forms nor a completely separate heading, as it is written lower than the surrounding headings almost so as to fit in with the preceding section.
 [^2]: This character 鈠 does not exist in Japanese character sets, and in the transcription I have assumed it to be a variant of 鍛 (*kitae*). It has since been dropped from the kata name, which is now 骨防, variously read as *Koppō*, *Kobbō*, or *Kotsubō*. On the face of it, *Kotsubō* seems like the most likely reading, but *Koppō* appears to be the most common in Shimomura-ha lineages, wherefore I have chosen to go with that.
