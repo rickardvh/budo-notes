@@ -32,7 +32,7 @@
 * Front
 * Right
 * Left
-* Behind
+* Rear
 
 ---
 
@@ -48,8 +48,6 @@
 * Dokumyōken 獨妙剣
 * Shinmyōken 心明見
 
----
-
 ## Tsumeai no kurai 詰合之位
 
 * Hassō 八相
@@ -62,8 +60,6 @@
 * Gansekiotoshi 眼関落
 * Suigetsutō 水月刀
 * Kasumiken 霞剣
-
----
 
 ## Daishōzume no kurai 大小詰之位
 
@@ -96,8 +92,6 @@
 * Raiden 雷電
 * Kasumi 霞
 
----
-
 ## Essentials of acting under orders
 
 * Torabashiri 虎走
@@ -116,8 +110,6 @@
 * Jūmonji 十文字
 * Shuriken 手離剣
 
----
-
 ## Essentials of the inner teachings
 
 * Itomagoi 暇乞
@@ -131,8 +123,6 @@
 * Gaiken 外剣
 * Tsurubegaeshi 釣瓶返
 * Chirari-fūsha 知羅離風車
-
----
 
 ## The most important essentials of the true heart of sword-drawing
 
@@ -149,11 +139,9 @@ Raiden Kasumi is the culmination of swordsmanship: a myriad applications of a si
 
 ---
 
-## 奥書
+These nine articles are the deepest secrets of the esoteric teachings; unless one is a true and sincere person, they must by no means be transmitted.
 
-右九ヶ條者　深祕之極意也　非眞實之人者　努々不可有相傳者也
-
-貴殿無雙直傳英信流居合就多年御執心　太刀次悉令相傳候　向後御〔□〕専要候　若御所望之仁於有之者　兼而其人之取罰　又指南尤可　仍免許之狀如件
+To you, who for many years have devoted yourself to the Hayashizaki Jinsuke Shigenobu-ryū art of iai, I have now transmitted in full the method of sword-drawing. Henceforth, apply yourself to its mastery alone. Accordingly, this catalogue and licence are hereby granted.
 
 慶應三丙寅　十二月吉日
 
