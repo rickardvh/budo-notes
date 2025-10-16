@@ -87,7 +87,7 @@
 
 * Yukizure 行連
 * Tsuredachi 連達
-* Tsuigakegiri 遂懸切
+* Oikakegiri 遂懸切
 * Sōmakuri 総捲
 * Raiden 雷電
 * Kasumi 霞
