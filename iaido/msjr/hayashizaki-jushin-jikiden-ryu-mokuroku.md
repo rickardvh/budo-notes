@@ -98,23 +98,23 @@
 
 ---
 
-## 上意之大事
+## Essentials of acting under orders
 
-* 虎走
-* 両詰
-* 三角
-* 四角
-* 門入
-* 戸詰
-* 戸脇
-* 壁添
-* 棚下
-* 鐺返
-* 行違
-* 手之内
-* 輪之内
-* 十文字
-* 手離剣
+* Torabashiri 虎走
+* Ryōzume 両詰
+* Sankaku 三角
+* Shikaku 四角
+* Mon-iri 門入
+* Tozume 戸詰
+* Towaki 戸脇
+* Kabezoe 壁添
+* Tanashita 棚下
+* Kojirigaeshi 鐺返
+* Yukizure 行違
+* Te no uchi 手之内
+* Wa no uchi 輪之内
+* Jūmonji 十文字
+* Shuriken 手離剣
 
 ---
 
