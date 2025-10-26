@@ -130,7 +130,7 @@
 * Grappling with swords 太刀組附位之㕝
 * Gaze in sword-fighting 太刀目付之㕝
 * Battlefield swordsmanship 軍場之剣
-* Nighttime fighting 夜之太刀
+* Fighting at night 夜之太刀
 * Essentials for the sleeping quarters 閨之大事
 * Regarding the wrapping of the obi 帯車之㕝
 
