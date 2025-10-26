@@ -129,14 +129,14 @@
 * Essentials regarding the mindset in one-on-one combat 立相心之大事
 * Grappling with swords 太刀組附位之㕝
 * Gaze in sword-fighting 太刀目付之㕝
-* Battlefield applications 軍場之剣
-* Nighttime applications 夜之太刀
+* Battlefield swordsmanship 軍場之剣
+* Nighttime fighting 夜之太刀
 * Essentials for the sleeping quarters 閨之大事
 * Regarding the wrapping of the obi 帯車之㕝
 
 > 雷電霞是極刀萬法一心
 
-Raiden Kasumi is the culmination of swordsmanship: a myriad applications of a single mind.  
+Raiden and Kasumi are the culmination of swordsmanship: a myriad applications of a single mind.  
 (Oral transmission)
 
 [^1]: This heading is listed slightly differently from the others, and seems to be neither a section under Forms nor a completely separate heading, as it is written lower than the surrounding headings almost so as to fit in with the preceding section.
