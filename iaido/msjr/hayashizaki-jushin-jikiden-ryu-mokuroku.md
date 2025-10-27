@@ -142,7 +142,14 @@ Raiden and Kasumi are the culmination of swordsmanship: a myriad applications of
 ---
 
 > 此九ヶ條者深秘之極意也非真實之人者　努々不可有相傳者也
-> 林崎甚助重信流居合兵法貴殿就多年御執心抜刀一術悉相傳已[^3]向後御暁月專要候依而目録免許如件
+
+These nine articles are the deepest secrets of the esoteric teachings; unless the recipient is a true and sincere person, they must by no means be transmitted.
+
+> 林崎甚助重信流居合兵法貴殿就多年御執心抜刀一術悉相傳已[^3]向後御嗜專要候依而目録免許如件
+
+To you, who for many years have earnestly devoted yourself to the study of the Hayashizaki Jinsuke Shigenobu-ryū Iai Heihō, I have now transmitted in full the single art of sword-drawing. Having completed this transmission, henceforth apply yourself wholeheartedly to its cultivation.
+
+Accordingly, the catalogue and licence are hereby granted as stated.
 
 慶應三丙寅　十二月吉日
 嶋村善馬　殿
@@ -150,4 +157,4 @@ Raiden and Kasumi are the culmination of swordsmanship: a myriad applications of
 
 [^1]: This heading is listed slightly differently from the others, and seems to be neither a section under Forms nor a completely separate heading, as it is written lower than the surrounding headings almost so as to fit in with the preceding section.
 [^2]: This character 鈠 does not exist in Japanese character sets, and in the transcription I have assumed it to be a variant of 鍛 (*kitae*). It has since been dropped from the kata name, which is now 骨防, variously read as *Koppō*, *Kobbō*, or *Kotsubō*. On the face of it, *Kotsubō* seems like the most likely reading, but *Koppō* appears to be the most common in Shimomura-ha lineages, wherefore I have chosen to go with that.
-[^3]: Thr actual character used here is an old shorthand variant. It is included in Unicode extension block B with the character point U+20B0B, but cannot be rendered in common fonts.
+[^3]: The actual character used here is an old shorthand variant. It is included in Unicode extension block B with the character point U+20B0B, but cannot be rendered in common fonts.
