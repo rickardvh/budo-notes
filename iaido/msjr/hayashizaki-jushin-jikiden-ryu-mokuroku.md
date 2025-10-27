@@ -169,7 +169,7 @@ Yamakawa Kyūzō Yukimasa
 
 > 慶應三丙寅　十二月吉日
 
-On an auspicious day of the twelfth month of Keiō 3, year of the tiger
+On an auspicious day of the twelfth month of Keiō 3 (Year of the Fire Tiger)
 
 > 嶋村善馬殿
 
@@ -178,6 +178,10 @@ To Shimamura Zenma
 > 下村茂市　㊞
 
 Shimomura Shigeichi (seal)
+
+## Commentary and translation notes
+
+Although many of the names under the "essentials" headings will look familiar to practitioners of Musō Shinden-ryū and Musō Jikiden Eishin-ryū, they are, in fact, not (yet) kata as such. Rather, they are instructions for how to act in different situations, as will become clear in later scrolls.
 
 [^1]: This heading is listed slightly differently from the others, and seems to be neither a section under Forms nor a completely separate heading, as it is written lower than the surrounding headings almost so as to fit in with the preceding section.
 
