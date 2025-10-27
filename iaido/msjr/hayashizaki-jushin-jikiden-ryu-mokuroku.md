@@ -180,5 +180,8 @@ To Shimamura Zenma
 Shimomura Shigeichi (seal)
 
 [^1]: This heading is listed slightly differently from the others, and seems to be neither a section under Forms nor a completely separate heading, as it is written lower than the surrounding headings almost so as to fit in with the preceding section.
-[^2]: This character 鈠 does not exist in Japanese, and I am unsure how to read it. 鈠 is rare even in Chinese, but refers to a type of small spear. Based on this, the kun'yomi reading would likely be *hoko*, and *eki* or *yaku* in on'yomi. However, the character might as well be used here as a variant of 鍛 (*kitae*), meaning "to strengthen". 鈠 has since been dropped from the kata name, which is now 骨防, variously read as *Koppō*, *Kobbō*, or *Kotsubō*. On the face of it, *Kotsubō* seems like the most likely reading, but *Koppō* appears to be the most common in Shimomura-ha lineages, wherefore I have chosen to go with that.
+
+[^2]: The character 鈠 does not occur in standard Japanese usage, and its reading in this context is uncertain. It is a [rare Chinese character](https://dict.variants.moe.edu.tw/dictView.jsp?ID=106643) denoting a type of small spear. By analogy, the likely kun’yomi would be ほこ (*hoko*), and the on’yomi エキ/ヤク (*eki*/*yaku*). However, it may also have been used here as a variant or scribal substitution for 鍛 (*kitae*), meaning "to forge" or "to strengthen".  
+鈠 has since been dropped from the kata name, which is now simply 骨防, variously read as *Koppō*, *Kobbō*, or *Kotsubō*. On the face of it, *Kotsubō* seems like the most likely reading, but *Koppō* appears to be the most common in Shimomura-ha lineages, wherefore I have chosen to go with that.
+
 [^3]: The actual character used here is an old shorthand variant. It is included in Unicode extension block B with the character point U+20B0B, but cannot be rendered in common fonts.
