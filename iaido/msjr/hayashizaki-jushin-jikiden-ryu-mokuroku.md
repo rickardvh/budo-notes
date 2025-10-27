@@ -2,7 +2,7 @@
 
 ---
 
-## Forms
+## Forms 事形
 
 ### Front 向身
 
@@ -150,6 +150,22 @@ These nine articles are the deepest secrets of the esoteric teachings; unless th
 To you, who for many years have earnestly devoted yourself to the study of the Hayashizaki Jinsuke Shigenobu-ryū Iai Heihō, I have now transmitted in full this art of sword-drawing. Having completed this transmission, henceforth apply yourself wholeheartedly to its cultivation.
 
 Accordingly, the catalogue and licence are hereby granted as stated.
+
+> 長谷川内藏助　英信  
+> 荒井勢哲　清信  
+> 林　六太夫　守政  
+> 林　安太夫　政詡  
+> 大黒元右衛門　清勝  
+> 松吉貞助　久盛  
+> 山川久藏　幸雅
+
+Hasegawa Chikaranosuke Hidenobu  
+Arai Seitetsu Kiyonobu  
+Hayashi Rokudayū Morimasa  
+Hayashi Yasudayū Masakusu  
+Ōguro Gen'emon Kiyokatsu  
+Matsuyoshi Sadasuke Hisamori  
+Yamakawa Kyūzō Yukimasa
 
 > 慶應三丙寅　十二月吉日
 
