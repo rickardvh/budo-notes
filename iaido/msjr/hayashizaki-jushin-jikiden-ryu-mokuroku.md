@@ -83,7 +83,7 @@
 
 *Oral transmissions*
 
-## Essentials of 3xternal engagement 外之物之大事
+## Essentials of external engagement 外之物之大事
 
 * Yukizure 行連
 * Tsuredachi 連達
