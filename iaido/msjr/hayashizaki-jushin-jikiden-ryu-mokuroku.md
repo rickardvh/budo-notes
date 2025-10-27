@@ -29,7 +29,7 @@
 
 ### Cutting in four directions 四方切[^1]
 
-* Front 向
+* Front 向[^2]
 * Right 右
 * Left 左
 * Rear 後
@@ -64,7 +64,7 @@
 ## Daishōzume no kurai 大小詰之位
 
 * Dakizume 抱詰
-* Koppō-? 骨防鈠[^2]
+* Koppō-? 骨防鈠[^3]
 * Tsukadome 柄留
 * Kotedome 小手留
 * Munedori 胸捕
@@ -83,7 +83,7 @@
 
 *Oral transmissions*
 
-## Essentials of external engagement 外之物之大事
+## Essentials of 3xternal engagement 外之物之大事
 
 * Yukizure 行連
 * Tsuredachi 連達
@@ -145,7 +145,7 @@ Raiden and Kasumi are the culmination of swordsmanship: a myriad applications of
 
 These nine articles are the deepest secrets of the esoteric teachings; unless the recipient is a true and sincere person, they must by no means be transmitted.
 
-> 林崎甚助重信流居合兵法貴殿就多年御執心抜刀一術悉相傳已[^3]向後御嗜專要候依而目録免許如件
+> 林崎甚助重信流居合兵法貴殿就多年御執心抜刀一術悉相傳已[^4]向後御嗜專要候依而目録免許如件
 
 To you, who for many years have earnestly devoted yourself to the study of the Hayashizaki Jinsuke Shigenobu-ryū Iai Heihō, I have now transmitted in full this art of sword-drawing. Having completed this transmission, henceforth apply yourself wholeheartedly to its cultivation.
 
@@ -181,7 +181,9 @@ Shimomura Shigeichi (seal)
 
 [^1]: This heading is listed slightly differently from the others, and seems to be neither a section under Forms nor a completely separate heading, as it is written lower than the surrounding headings almost so as to fit in with the preceding section.
 
-[^2]: The character 鈠 does not occur in standard Japanese usage, and its reading in this context is uncertain. It is a [rare Chinese character](https://dict.variants.moe.edu.tw/dictView.jsp?ID=106643) denoting a type of small spear. By analogy, the likely kun’yomi would be ほこ (*hoko*), and the on’yomi エキ/ヤク (*eki*/*yaku*). However, it may also have been used here as a variant or scribal substitution for 鍛 (*kitae*), meaning "to forge" or "to strengthen".  
+[^2]: This one is left out from another version of the scroll.
+
+[^3]: The character 鈠 does not occur in standard Japanese usage, and its reading in this context is uncertain. It is a [rare Chinese character](https://dict.variants.moe.edu.tw/dictView.jsp?ID=106643) denoting a type of small spear. By analogy, the likely kun’yomi would be ほこ (*hoko*), and the on’yomi エキ/ヤク (*eki*/*yaku*). However, it may also have been used here as a variant or scribal substitution for 鍛 (*kitae*), meaning "to forge" or "to strengthen".  
 鈠 has since been dropped from the kata name, which is now simply 骨防, variously read as *Koppō*, *Kobbō*, or *Kotsubō*. On the face of it, *Kotsubō* seems like the most likely reading, but *Koppō* appears to be the most common in Shimomura-ha lineages, wherefore I have chosen to go with that.
 
-[^3]: The actual character used here is an old shorthand variant. It is included in Unicode extension block B with the character point U+20B0B, but cannot be rendered in common fonts.
+[^4]: The actual character used here is an old shorthand variant. It is included in Unicode extension block B with the character point U+20B0B, but cannot be rendered in common fonts.
