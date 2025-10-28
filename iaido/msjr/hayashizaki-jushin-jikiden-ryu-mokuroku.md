@@ -143,7 +143,7 @@ Raiden and Kasumi are the culmination of swordsmanship: a myriad applications of
 
 > 此九ヶ條者深秘之極意也非真實之人者　努々不可有相傳者也
 
-These nine articles are the deepest secrets of the esoteric teachings; unless the recipient is a true and sincere person, they must by no means be transmitted.
+These nine articles are the deepest secrets of the innermost teachings; unless the recipient is a true and sincere person, they must by no means be transmitted.
 
 > 林崎甚助重信流居合兵法貴殿就多年御執心抜刀一術悉相傳已[^4]向後御嗜專要候依而目録免許如件
 
