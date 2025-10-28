@@ -117,7 +117,7 @@
 * Jigokusaguri 地獄捜
 * Nonaka-maku 野中幕
 * Aishigure 逢意時雨
-* Homurakaze 火村風
+* Kasonkaze 火村風
 * Tesseki 鉄石
 * Enkin-suigetsu 遠近水月
 * Gaiken 外剣
