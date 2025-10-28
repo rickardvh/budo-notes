@@ -116,7 +116,7 @@
 * Shishidō-iri 獅子洞入
 * Jigokusaguri 地獄捜
 * Nonaka-maku 野中幕
-* Aishigure 逢意時雨
+* Hōishigure 逢意時雨
 * Kasonkaze 火村風
 * Tesseki 鉄石
 * Enkin-suigetsu 遠近水月
