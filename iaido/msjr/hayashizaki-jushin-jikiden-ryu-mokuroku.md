@@ -64,18 +64,18 @@
 ## Daishōzume no kurai 大小詰之位
 
 * Dakizume 抱詰
-* Koppō-? 骨防鈠[^3]
+* Honemogiatsukai 骨防鈠[^3]
 * Tsukadome 柄留
 * Kotedome 小手留
 * Munedori 胸捕
 * Migifuse 右伏
 * Hidarifuse 左伏
 * Yamakagezume 山影詰
-* Shimedori 〆捕
+* Shimetori 〆捕
 * Sodesurigaeshi 袖摺返
 * Tsubauchigaeshi 鍔打返
-* Koppōgaeshi 骨防返
-* Tonbogaeshi 蜻蛉返
+* Honemogikaeshi 骨防返
+* Tonbogaeshi[^4] 蜻蛉返
 * Rankyoku 乱曲
 * Denkōsekka 電光石火
 
@@ -83,7 +83,7 @@
 
 *Oral transmissions*
 
-## Essentials of external engagement 外之物之大事
+## Essentials of outside engagement 外之物之大事
 
 * Yukizure 行連
 * Tsuredachi 連達
@@ -116,8 +116,8 @@
 * Shishidō-iri 獅子洞入
 * Jigokusaguri 地獄捜
 * Nonaka-maku 野中幕
-* Hōishigure 逢意時雨
-* Kasonkaze 火村風
+* Hōishigure[^5] 逢意時雨
+* Kasonkaze[^6] 火村風
 * Tesseki 鉄石
 * Enkin-suigetsu 遠近水月
 * Gaiken 外剣
@@ -145,7 +145,7 @@ Raiden and Kasumi are the culmination of swordsmanship: a myriad applications of
 
 These nine articles are the deepest secrets of the innermost teachings; unless the recipient is a true and sincere person, they must by no means be transmitted.
 
-> 林崎甚助重信流居合兵法貴殿就多年御執心抜刀一術悉相傳已[^4]向後御嗜專要候依而目録免許如件
+> 林崎甚助重信流居合兵法貴殿就多年御執心抜刀一術悉相傳已[^7]向後御嗜專要候依而目録免許如件
 
 To you, who for many years have earnestly devoted yourself to the study of the Hayashizaki Jinsuke Shigenobu-ryū Iai Heihō, I have now transmitted in full this art of sword-drawing. Having completed this transmission, henceforth apply yourself wholeheartedly to its cultivation.
 
@@ -187,7 +187,12 @@ Although many of the names under the "essentials" headings will look familiar to
 
 [^2]: This one is left out from another version of the scroll.
 
-[^3]: The character 鈠 does not occur in standard Japanese usage, and its reading in this context is uncertain. It is a [rare Chinese character](https://dict.variants.moe.edu.tw/dictView.jsp?ID=106643) denoting a type of small spear. By analogy, the likely kun’yomi would be ほこ (*hoko*), and the on’yomi エキ/ヤク (*eki*/*yaku*). However, it may also have been used here as a variant or scribal substitution for 鍛 (*kitae*), meaning "to forge" or "to strengthen".  
-鈠 has since been dropped from the kata name, which is now simply 骨防, variously read as *Koppō*, *Kobbō*, or *Kotsubō*. On the face of it, *Kotsubō* seems like the most likely reading, but *Koppō* appears to be the most common in Shimomura-ha lineages, wherefore I have chosen to go with that.
+[^3]: The character 鈠, a [rare Chinese character](https://dict.variants.moe.edu.tw/dictView.jsp?ID=106643) denoting a type of small spear, does not occur in standard Japanese usage. However, it appears to be been used here as a variant or scribal substitution for 扱 (*atsuka(u)*), meaning "to handle" or "to deal with". Soda-sensei put the name as 骨防扱 and the reading as ホネモギアツカヒ (*honemogiatsukai*), so I have treated this as authoritative. 鈠/扱 has since been dropped from the kata name, which is now simply 骨防, usually read as *Koppō* or *Kobbō*.
 
-[^4]: The actual character used here is an old shorthand variant. It is included in Unicode extension block B with the character point U+20B0B, but cannot be rendered in common fonts.
+[^4]: Or *yanmagaeshi*.
+
+[^5]: Or possibly *Auishigure* (which would have been pronounced *Ōishigure*) or *Aiishigure*.
+
+[^6]: My first instinct was to read this as *Homurakaze*, but Soda-sensei left a note above the name saying it should be read *Kasonkaze*.
+
+[^7]: The actual character used here is an old shorthand variant. It is included in Unicode extension block B with the character point U+20B0B, but cannot be rendered in common fonts.
