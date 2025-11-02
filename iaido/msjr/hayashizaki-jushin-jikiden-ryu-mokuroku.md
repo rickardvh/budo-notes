@@ -179,11 +179,11 @@ To Shimamura Zenma
 
 Shimomura Shigeichi (seal)
 
-## Commentary and translation notes
+## Comments
 
 Although many of the names under the "essentials" headings will look familiar to practitioners of Musō Shinden-ryū and Musō Jikiden Eishin-ryū, they are, in fact, not (yet) kata as such. Rather, they are instructions for how to act in different situations, as will become clear in later scrolls.
 
-What is now known as the Tachi uchi no kurai (太刀打の位, "sword-striking set") is listed as Tachiai no kurai (立合之位), meaning something more like "the standing set". Given that all other sets are (at least predominantly) seated, the naming makes more sense.
+What is now known as the Tachi uchi no kurai (太刀打の位, "sword-striking set") is listed as Tachiai no kurai (立合之位), meaning something more like "the standing set". Given that all other sets are (at least predominantly) seated, this naming makes more sense.
 
 Daishōzume no kurai has not yet been split into Daishōzume and Daishō tachizume, but is listed under one heading.
 
