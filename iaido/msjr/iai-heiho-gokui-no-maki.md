@@ -3,7 +3,6 @@
 Iai Heihō Gokui no Maki
 Scroll of the Esoteric Principles of Iai Swordsmanship
 
-
 ---
 
 一　日中之事
@@ -78,7 +77,6 @@ Jōnori no koto — Concerning scaling a castle
 
 Nomachi-geki no koto — Concerning fighting in the fields or town
 
-
 ---
 
 神心八相之㕝
@@ -92,19 +90,25 @@ Eight Aspects of the Divine Mind
 虎亂劍之事 — Koran-ken no koto — The “Tiger’s Chaos” sword
 軍中首取樣之事 — Gunchū kubi-tori-sama no koto — On the manner of taking a head in battle
 
-
 ---
 
-知 — Chi — Wisdom
-雷電劍 — Raiden-ken — The lightning sword
-神妙劍 — Shinmyō-ken — The wondrous sword
-軍場劍 — Gunba-ken — The battlefield sword
-勇 — Yū — Courage
-仁 — Jin — Benevolence
-心 — Kokoro — Heart
-足 — Ashi — Footwork
-眼 — Manako — The gaze
-
+```text
+    勇   仁   知
+    │    │    │
+    ╰────┼────╯
+      　 ⬤
+    ╭────┼────╮
+    │    │    │
+    軍   神   雷
+    場   妙   電
+    劔　 劔   劔
+    │    │    │
+    ╰────┼────╯
+      　 ⬤
+    ╭────┼────╮
+    │    │    │
+    足　 心 　眼
+```
 
 ---
 
@@ -144,7 +148,6 @@ To-kabe shōji no koto — Concerning doors, walls, and sliding screens
 
 Kaku-monko no koto — Concerning barred gates and doors
 
-
 ---
 
 介錯口傳
@@ -164,7 +167,6 @@ Zan gokui inka go-ka-jō — Five secret essentials of the final licence
 △　螺曲尺 — Rakyoku-shaku — The spiral rule
 ◎　水月一角心 — Suigetsu ikkaku no kokoro — The single-horned heart of water and moon
 
-
 ---
 
 附哥三ツ
@@ -183,7 +185,6 @@ If you think it stops, you err—still it goes;
 Even when you have arrived, do not relax your heart,
 for the fisherman’s small boat knows no day without wind between the waves.
 
-
 ---
 
 林明神 — Hayashi Myōjin
@@ -191,7 +192,6 @@ for the fisherman’s small boat knows no day without wind between the waves.
 田宮平兵衛尉業正 — Tamiya Heibei no jō Narimasa
 長野無樂入道樵露齋 — Nagano Muraku Nyūdō Kinrosai
 百々軍兵衛尉光重 — Todo Gunbei no jō Mitsushige
-
 
 ---
 
