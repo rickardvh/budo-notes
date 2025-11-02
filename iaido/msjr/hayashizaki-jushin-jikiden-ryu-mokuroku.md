@@ -187,7 +187,8 @@ Although many of the names under the "essentials" headings will look familiar to
 
 [^2]: This one is left out from another version of the scroll.
 
-[^3]: The character 鈠, a [rare Chinese character](https://dict.variants.moe.edu.tw/dictView.jsp?ID=106643) denoting a type of small spear, does not occur in standard Japanese usage. However, it appears to be been used here as a variant or scribal substitution for 扱 (*atsuka(u)*), meaning "to handle" or "to deal with". Soda-sensei put the name as 骨防扱 and the reading as ホネモギアツカヒ (*honemogiatsukai*), so I have treated this as authoritative. 鈠/扱 has since been dropped from the kata name, which is now simply 骨防, usually read as *Koppō* or *Kobbō*.
+[^3]: The character 鈠, a [rare Chinese character](https://dict.variants.moe.edu.tw/dictView.jsp?ID=106643) denoting a type of small spear, does not occur in standard Japanese usage. However, it appears to be been used here as a variant or scribal substitution for 扱 (*atsuka(u)*), meaning "to handle" or "to deal with". Soda-sensei put the name as 骨防扱 and the reading as ホネモギアツカヒ (*honemogiatsukai*), so I have treated this as authoritative. This makes 防, too, a substitute for 捥 (*mogi*, "to come off"; "to be broken"; "to bend the wrist"), so the original name was 骨捥扱.  
+鈠/扱 has since been dropped from the kata name, which is now simply 骨防, usually read as *Koppō* or *Kobbō*.
 
 [^4]: Or *yanmagaeshi*.
 
