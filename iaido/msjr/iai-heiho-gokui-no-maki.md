@@ -131,7 +131,7 @@ graph TD
     NB --- H
     NB --- I
 
-classDef label fill:#0000,stroke-width:0;
+classDef label fill:#0000,stroke-width:0,font-size:24px;
 ```
 
 ---
