@@ -92,22 +92,46 @@ Eight Aspects of the Divine Mind
 
 ---
 
-```text
-    勇   仁   知
-    │    │    │
-    ╰────┼────╯
-      　 ⬤
-    ╭────┼────╮
-    │    │    │
-    軍   神   雷
-    場   妙   電
-    劔　 劔   劔
-    │    │    │
-    ╰────┼────╯
-      　 ⬤
-    ╭────┼────╮
-    │    │    │
-    足　 心 　眼
+```mermaid
+---
+config:
+  flowchart:
+    curve: monotoneY
+---
+
+graph TD
+    A(勇):::label; B(仁):::label; C(知):::label
+    NT@{ shape: f-circ }
+    D(
+        軍
+        場
+        劔
+    ):::label; E(
+        神
+        妙
+        劔
+    ):::label; F(
+        雷
+        電
+        劔
+    ):::label
+    NB@{ shape: f-circ }
+    G(足):::label; H(心):::label; I(眼):::label
+
+    A --- NT
+    B --- NT
+    C --- NT
+    NT --- D
+    NT --- E
+    NT --- F
+    D --- NB
+    E --- NB
+    F --- NB
+    NB --- G
+    NB --- H
+    NB --- I
+
+classDef label fill:#0000,stroke-width:0;
 ```
 
 ---
