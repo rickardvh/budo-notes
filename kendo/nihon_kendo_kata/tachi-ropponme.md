@@ -30,7 +30,7 @@ Instead of leaving an opening for shidachi to attack, uchidachi retreats into j�
 
 ## Kote-suriage-kote
 
-Their plans having been foiled again by shidachi's seme, uchidachi is forced to step back once more into chūdan. Here uchidachi is counting on shidachi to adjust their kamae by bringing the kensen back down and slightly to the left into the centre (if they do not, they will be leaving an opening for a men cut), thus potentially leaving an opening for a quick kote strike. Grasping this opportunity, uchidachi makes a small cut to shidachi's right wrist -- a large cut would not be fast enough to make use of that very small opening[^2].
+Their plans having been foiled again by shidachi's seme, uchidachi is forced to step back once more into chūdan. Here uchidachi is counting on shidachi to adjust their kamae by bringing the kensen back down and slightly to the left into the centre (if they do not, they will be leaving an opening for a men cut), thus potentially leaving an opening for a quick kote strike. Grasping this opportunity, uchidachi makes a small cut to shidachi's right wrist — a large cut would not be fast enough to make use of that very small opening[^2].
 
 Shidachi is expecting an attack and immediately counters it with a small suriage going into a small cut at uchidachi's own right wrist. As in the previous kata, the suriage must be made with the shinogi of the blade to be effective and to avoid damaging the edge. It must also not be a harai-like sweeping strike, as the impact of such a technique on the side of the blade would risk breaking it. The suriage is a small semicircular sliding action along the side of uchidachi's blade to move it off centre, as the left foot steps out to the side to bring the body off uchidachi's centre line. When the sword continues from the suriage into a small and quick counterstrike, the right foot simultaneously steps towards uchidachi on the new centre line.
 
@@ -46,7 +46,7 @@ This is the "triple-kill method"[^3] (三殺法 *sansatsuhō*): killing the swor
 
 Finally, "killing the spirit" is what forces uchidachi to finally give up in this form. Backed into a corner with no way to fight back, they have no choice but to surrender. It is an example of kuraizume, which is more expressly utilised in [tachi sanbonme](tachi-sanbonme.md#kuraizume).
 
-Through effective use of the triple-kill method, one can achieve complete victory even without killing -- or indeed even necessarily injuring -- the enemy. It is when one is able to do all three that one's kendō is most effective. This is the lesson of the sixth long-sword form.
+Through effective use of the triple-kill method, one can achieve complete victory even without killing — or indeed even necessarily injuring — the enemy. It is when one is able to do all three that one's kendō is most effective. This is the lesson of the sixth long-sword form.
 
 ----
 

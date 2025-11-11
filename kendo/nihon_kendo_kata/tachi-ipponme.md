@@ -30,9 +30,9 @@ When entering into fighting distance in the beginning of the kata, uchidachi sho
 
 ### Why lean forwards?
 
-Uchidachi's cut from jōdan seems strange for two reasons: that it ends at a position below gedan, and that uchidachi inclines forwards during the cut. Normally in kendō, one would keep a straight posture at all times, and anyone who has done iaidō knows that a standing shōmen cut usually ends at the horizontal level -- and if at all possible, one would try to stop the sword (*kiritsuke*) at chūdan height if the cut is evaded, so as to keep strong seme and stop the enemy from counterattacking. Why break your posture and cut all the way down, creating a prime opening? Is uchidachi stupid? Of course not, they are the teacher -- but as already established, this kata is not about demonstrating proper technique, but about demonstrating ma-ai and letting the student improve their judgement of distance.
+Uchidachi's cut from jōdan seems strange for two reasons: that it ends at a position below gedan, and that uchidachi inclines forwards during the cut. Normally in kendō, one would keep a straight posture at all times, and anyone who has done iaidō knows that a standing shōmen cut usually ends at the horizontal level — and if at all possible, one would try to stop the sword (*kiritsuke*) at chūdan height if the cut is evaded, so as to keep strong seme and stop the enemy from counterattacking. Why break your posture and cut all the way down, creating a prime opening? Is uchidachi stupid? Of course not, they are the teacher — but as already established, this kata is not about demonstrating proper technique, but about demonstrating ma-ai and letting the student improve their judgement of distance.
 
-From this perspective, it makes perfect sense to cut all the way down, because otherwise the sword would get in the way of shidachi's counterattack. Furthermore, since uchidachi is demonstrating the maximum reach of a cut from issoku-ittō no ma-ai, they lean slightly forwards -- thereby further increasing their reach.
+From this perspective, it makes perfect sense to cut all the way down, because otherwise the sword would get in the way of shidachi's counterattack. Furthermore, since uchidachi is demonstrating the maximum reach of a cut from issoku-ittō no ma-ai, they lean slightly forwards — thereby further increasing their reach.
 
 One sometimes hears the extremely contrived explanation that uchidachi simply cuts too hard and is unable to stop the sword, ending up instead in an inclined position with the sword down. That would look different. We already established that uchidachi is not an idiot, so it is important that they incline the upper body as the hands are in front of the face in order to reach further, and not at the end of the cut because they get pulled down. Just letting the sword pull one forwards is enough.
 
@@ -71,4 +71,4 @@ The use of jōdan no kamae, in this context, can be seen as an affirmation of ri
 
 [^3]: See what I did there.
 
-[^4]: Interestingly, migi-jōdan is like a mirror image of hidari-jōdan, connecting back to the Yata no Kagami. Now, I do believe this to be a coincidence, but it is still worth noting that the two sides are like reflections in a mirror -- opposite, and yet the same.
+[^4]: Interestingly, migi-jōdan is like a mirror image of hidari-jōdan, connecting back to the Yata no Kagami. Now, I do believe this to be a coincidence, but it is still worth noting that the two sides are like reflections in a mirror — opposite, and yet the same.
