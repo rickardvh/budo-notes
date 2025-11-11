@@ -18,4 +18,8 @@ Therefore, gathering the transmission lists from Lord Hidetsuna through Lord Mun
 
 > 折ふし関東へひとゝせ下りしに、夏の稽古はしまりける寛永拾四年五月初日より、秋終に至テ是ヲ学、老父ノ相伝一々書留テ、此ヲ寄スル也。此左に寄シタル数々の習、重々の心持ヲ三ツにわけて、三つを亦ひとつに寄シテ予の得道とせり。
 
-On one occasion I went down to the Kantō region for a year. From when the summer training began on the first day of the fifth month of Kan’ei 14 (1637) until the end of autumn I studied this art. My venerable father recorded each oral transmission in writing, and I drew upon these notes. The various teachings and the many states of mind gathered in this record I divided into three, and then united the three again into one, making this the path of my own attainment.
+On one occasion I went down to the Kantō region for a year. From when the summer training began on the first day of the fifth month of Kan’ei 14 (1637) until the end of autumn I studied this art. My venerable father recorded each transmission in writing, and I drew upon these notes. The various teachings and the many states of mind gathered in this record I divided into three, and then united the three again into one, making this the path of my own attainment.
+
+> 然とも、向ふまたかくのことく我にひとしくあらん敵ニハ、勝負いかんとも心得かたし。さるによつて、おもふその至極を一巻ニ述る。老父に捧ㇾ捧ハ父の云ク、これ不ㇾ残やき捨タランニしくハあらしと也。
+
+Nevertheless, if faced with an adversary equal to myself, I could not tell whether I would win or lose. Therefore I have set down what I believe to be the ultimate principle in a single volume.　When I offered it in reverence to my venerable father, he said, "Perhaps you'd do best to burn all of this."
