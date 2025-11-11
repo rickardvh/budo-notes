@@ -3,92 +3,40 @@
 Iai Heihō Gokui no Maki
 Scroll of the Esoteric Principles of Iai Swordsmanship
 
----
-
-一　日中之事
-
-Nitchū no koto — Concerning actions in broad daylight
-
-一　月夜之事
-
-Tsukiyo no koto — Concerning a moonlit night
-
-一　闇夜之事
-
-An’ya no koto — Concerning a dark night
-
-一　風吹之事
-
-Kaze fuku no koto — Concerning times when the wind blows
-
-一　雨中之事
-
-Uchū no koto — Concerning times of rain
-
-一　雪中之事
-
-Secchū no koto — Concerning times of snow
-
-一　寒天之事
-
-Kanten no koto — Concerning cold weather
-
-一　雷電之事
-
-Raiden no koto — Concerning thunder and lightning
-
-一　相間之事
-
-Aima no koto — Concerning intervals and distance (ma-ai)
-
-一　山坂之事
-
-Yamasaka no koto — Concerning slopes and mountains
-
-一　細道之事
-
-Hosomichi no koto — Concerning narrow paths
-
-一　絶道之事
-
-Zetsudō no koto — Concerning impassable routes
-
-一　大道之事
-
-Daīdō no koto — Concerning broad roads
-
-一　脇道之事
-
-Wakimichi no koto — Concerning side paths
-
-一　後用捨之事
-
-Kōyōsha no koto — Concerning later use and abandonment
-
-一　桝石壇之事
-
-Masu-ishidan no koto — Concerning the stone platform
-
-一　城乗之事
-
-Jōnori no koto — Concerning scaling a castle
-
-一　野町擊之事
-
-Nomachi-geki no koto — Concerning fighting in the fields or town
+- 日中之事 Concerning actions in broad daylight
+- 月夜之事 Concerning moonlit nights
+- 闇夜之事 Concerning dark nights
+- 風吹之事 Concerning times when the wind blows
+- 雨中之事 Concerning times of rain
+- 雪中之事 Concerning times of snow
+- 寒天之事 Concerning cold weather
+- 雷電之事 Concerning thunder and lightning
+- 相間之事 Concerning distance
+- 山坂之事 Concerning slopes and mountains
+- 細道之事 Concerning narrow paths
+- 絶道之事 Concerning impassable routes
+- 大道之事 Concerning wide roads
+- 脇道之事 Concerning side paths
+- 後用捨之事 Concerning later use and abandonment
+- 桝石壇之事 Concerning stone platforms
+- 城乗之事 Concerning scaling a castle
+- 野町擊之事 Concerning fighting in the fields or in town
 
 ---
 
-神心八相之㕝
+## 神心八相之㕝
 
 Shinshin Hassō no Koto
-Eight Aspects of the Divine Mind
 
-柄口六寸之㕝 — Tsukaguchi rokusun no koto — On the six-sun measure at the hilt mouth
-軍場太刀 — Gunba-tachi — The sword of the battlefield
-手リケン — Shuriken — The throwing blade (ken written phonetically as リケン)
-虎亂劍之事 — Koran-ken no koto — The “Tiger’s Chaos” sword
-軍中首取樣之事 — Gunchū kubi-tori-sama no koto — On the manner of taking a head in battle
+柄口六寸之㕝 Concerning *tsukaguchi rokusun*
+
+軍場太刀 *Gunba-tachi*
+
+手リケン *Shuriken*
+
+虎亂劍之事 Concerning koran-ken
+
+軍中首取樣之事 On the manner of taking a head in battle
 
 ---
 
@@ -136,41 +84,15 @@ classDef label fill:#0000,stroke-width:0,font-size:24px;
 
 ---
 
-一　倒臥之事
-
-Tōga no koto — Concerning falling or lying down
-
-一　中天之大事
-
-Chūten no daiji — The great matter of mid-heaven
-
-一　翔通之事
-
-Shōtsū no koto — Concerning soaring freely and passing through obstacles
-
-一　多勢一人之㕝
-
-Tasei ichinin no koto — Concerning one against many
-
-一　壹人大勢之事
-
-Ichinin taisei no koto — Concerning one facing a multitude
-
-一　二人一人之事
-
-Ninin ichinin no koto — Concerning two against one
-
-一　森林之事
-
-Shinrin no koto — Concerning combat in a forest
-
-一　戸壁障子之事
-
-To-kabe shōji no koto — Concerning doors, walls, and sliding screens
-
-一　隔門戸之事
-
-Kaku-monko no koto — Concerning barred gates and doors
+- 倒臥之事 Concerning falling or lying down
+- 中夭之大事 Concerning early death
+- 翔通之事 Concerning passing through obstacles
+- 多勢一人之㕝 Concerning many against one
+- 壹人大勢之事 Concerning one against many
+- 二人一人之事 Concerning two against one
+- 森林之事 Concerning forests
+- 戸壁障子之事 Concerning doors, walls, and sliding screens
+- 隔門戸之事 Concerning barred gates and doors
 
 ---
 
@@ -178,8 +100,7 @@ Kaku-monko no koto — Concerning barred gates and doors
 
 Kaishaku Kuden
 Oral Transmission on Kaishaku — the act of the finishing stroke
-
-一　殘極意印可五ヶ條
+- 殘極意印可五ヶ條
 Zan gokui inka go-ka-jō — Five secret essentials of the final licence
 
 真之仕合前後之㕝 — Makoto no shiai zengo no koto — On true combat, before and after
