@@ -35,7 +35,7 @@ At that time I laid my troubles before the Great Priest Takuan. He gave me a sin
 *He who travels by night needs his staff to feel his way,  
 but once the moon has risen, he needs it no longer.*
 
-For this reason, I have named this text *Treatise on the Moon*. Now that I have come to this point, I feel deep reverence and gratitude for the words once spoken by my venerable father. To speak in this way is as though I have attained complete freedom. This is not so. In order to know the moon, one must contemplate it in the darkness.
+For this reason, I have named this text *Reflections on the Moon*. Now that I have come to this point, I feel deep reverence and gratitude for the words once spoken by my venerable father. To speak in this way is as though I have attained complete freedom. This is not so. In order to know the moon, one must contemplate it in the darkness.
 
 > 月よゝしよゝしと人のつけくれ  
 > 　　とまたいてやらぬ山影のいほ
