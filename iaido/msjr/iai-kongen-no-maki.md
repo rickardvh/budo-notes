@@ -156,7 +156,7 @@ Regarding the phrase 得勝怨敵, literally "gain victory over your hated enemy
 
 Shigenobu is stated here to have gained "great benefit" or "great advantage" (大利), and note 1 in the Tetsugi no maki explains that this means Shigenobu awakened (悟り *satori*; Buddhist enlightenment) to the "One Mind" (一心 *isshin*): a state of unity with the gods, Buddhas, and the universe.
 
-The rest of this passage is rather straightforward: a "waist sword" three shaku and three sun (~1 m) long defeating \[a sword measuring\] nine sun and five bu (~28 cm). To an uninitiated reader, this may sound obvious; recall, however, that iai is applied at extremely close range, where the shorter sword would normally have an overwhelming advantage -- even more so considering that both swords are sheathed at the onset. In the first place, wearing such a long sword at the waist like an uchigatana would have been highly unorthodox, as it would have been very difficult to draw. Note 2 in the Tetsugi no maki adds that a person of average height (a crossed-out part specifies a height of 5 shaku 2-3 sun; ~160 cm) should be able to draw a sword of 3 shaku 3 sun, with the implication that this is the maximum length that can be drawn from the waist by a person of that height.
+The rest of this passage is rather straightforward: a "waist sword" three shaku and three sun (~1 m) long defeating \[a sword measuring\] nine sun and five bu (~28 cm). To an uninitiated reader, this may sound obvious; recall, however, that iai is applied at extremely close range, where the shorter sword would normally have an overwhelming advantage — even more so considering that both swords are sheathed at the onset. In the first place, wearing such a long sword at the waist like an uchigatana would have been highly unorthodox, as it would have been very difficult to draw. Note 2 in the Tetsugi no maki adds that a person of average height (a crossed-out part specifies a height of 5 shaku 2-3 sun; ~160 cm) should be able to draw a sword of 3 shaku 3 sun, with the implication that this is the maximum length that can be drawn from the waist by a person of that height.
 
 Note 3 says that the short sword of 9 sun 5 bu can only be drawn at the range of 9 sun 5 bu. The wording seems to refer to the effective range (間合 *ma-ai*) of the short sword rather than the exact distance. Rephrasing, then, the short sword can only be drawn at its own effective range.
 
@@ -212,7 +212,7 @@ Regarding the Nine Luminaries (九曜 *kuyō*), there is only a short comment (n
 
 The five-pronged vajra is a ritual tool or weapon, representing the indestructibility of diamond and the power of a thunderbolt, in Buddhism and Hinduism. Here, the word used for the vajra is 五古 (*goko*), which literally translates to "five ancients"; however, the second character 古 is an ateji and should be 鈷. The vajra is always used together with the bell in Buddhist rituals. Note 9[^4] explains that "it" (the bell/vajra) is rung at funerals, and that the ringing urges the deceased to pass on peacefully into death and ascend to Buddhahood. This ritual is meant to guide the soul through the intermediate state between death and rebirth known as *bardo* (中有 *chūu*). The vajra and the bell symbolise the determination to achieve the One Mind.
 
-The final clause states that these symbolic meanings are internal teachings (内證) -- secret esoteric interpretations that was taught only to license holders of a certain level.
+The final clause states that these symbolic meanings are internal teachings (内證) — secret esoteric interpretations that was taught only to license holders of a certain level.
 
 > 敵味方成㕝是亦前生之業感也\[10\]生死一體\[11\]戰場浄土\[12\]也
 >
@@ -356,7 +356,7 @@ From these references, we can conclude that tsukaguchi rokusun is most likely an
 
 [^1]: <https://bibliotekanauki.pl/articles/1810557>
 [^2]: <http://yamauchiiai.la.coocan.jp/YamauchiIai/KongenNoMaki0.html>
-[^3]: The logical leap of thinking the claim of divine revelation would be *less* cause for doubt amuses me greatly: "A god told this to me in a dream!" -- "Oh, all right then, then it must be legit."
+[^3]: The logical leap of thinking the claim of divine revelation would be *less* cause for doubt amuses me greatly: "A god told this to me in a dream!" — "Oh, all right then, then it must be legit."
 [^4]: The first clause of note 9 says that something "is in the celestial bodies" (connecting to the Nine Luminaries), but the last character of the first word is illegible. Trenson (2014) guesses that it should be "humans", and it could refer to the fate of human lives.
 [^5]: One sometimes also sees Tamijimaru (民治丸).
 [^6]: 居合兵法極意巻秘訣　印可部、神心八相事
