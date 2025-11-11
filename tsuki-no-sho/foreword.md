@@ -48,3 +48,8 @@ yet it has not yet risen above my hut in the mountain's shadow.*
 > 寛永拾九壬午二月吉辰筆ヲ染。
 
 On an auspicious day in the second month of Kan'ei 19 (1642), I set my brush to ink.
+
+---
+---
+
+[Index](README.md)
