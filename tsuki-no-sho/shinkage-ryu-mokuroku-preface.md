@@ -20,6 +20,10 @@ When the gentleman attains it, he orders his household; when the general attains
 
 It is the principle of using war to end war. Therefore, the valiant warrior and the brave commander — all who would establish their authority under Heaven — must rely upon the martial arts.
 
+> 而兵術之要、莫大珍必克彼此相対、臨下欲交鋒接刃端皈彼可以来我可以往。彼人也。我人也。
+
+The essence of the martial art lies in nothing greater than this: when he and I face each other, on the verge of crossing blades, he may come and I may go. He is a man; I am a man.
+
 [^1]: The identity of this Elder Kan (関長老 *Kan-chōrō*) is uncertain, but he was a Rinzai Zen elder, possibly Takuan Sōhō himself.
 
 [^2]: This passage is a reference to a famous line in Confucius's book The Great Learning (大學):「修身、齊家、治國、平天下」. It describes the ladder of ethical priorities with which a ruler should be concerned: better yourself, bring your household into order, rule the realm, and bring peace to all under Heaven.
