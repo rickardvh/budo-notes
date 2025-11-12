@@ -18,7 +18,7 @@ On one occasion I went down to the Kantō region for a year. From when the summe
 
 > 然とも、向ふまたかくのことく我にひとしくあらん敵ニハ、勝負いかんとも心得かたし。さるによつて、おもふその至極を一巻ニ述る。老父に捧捧ハ父の云ク、これ不残やき捨タランニしくハあらしと也。
 
-Nevertheless, if faced with an adversary equal to myself, I could not tell whether I would win or lose. Therefore I have set down what I believe to be the ultimate principle in a single volume. When I offered it in reverence to my venerable father, he said, "It would be best to burn all of this."
+Nevertheless, if faced with an adversary equal to myself, I could not tell whether I would win or lose. Therefore I set down what I believe to be the ultimate principle in a single volume. When I offered it in reverence to my venerable father, he said, "It would be best to burn all of this."
 
 > 尤至々極々せりと思ふ心は心のにこり成と得とくしてはあれとも、其にこりなき心を自由に用得事かたいかな。
 
