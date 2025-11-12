@@ -2,11 +2,11 @@
 
 > 寛永三年拾月日、さることありて、君之御前ヲ退テ、私ならず山にわけ入ぬれば、みつから世をのかるゝと人は云めれと、物うき山のすまひ、柴の庵りの風のみあれて、かけひならては、つゆ音ノウモノナシ。
 
-In the tenth month of Kan'ei 3 (1626), certain circumstances led me to withdraw from service before my lord. It was not out of self-interest, but when I entered the mountains, people said that I had turned my back on the world. In truth, in these melancholy mountains, only the wind disturbs my brushwood hermitage; were it not for the bamboo waterspout, even the dew would make no sound.
+In the tenth month of Kan'ei 3 (1626), certain circumstances led me to withdraw from service before my lord. It was not out of self-interest, but when I entered the mountains, people said that I had turned my back on the world. In truth, amid those melancholy mountains, only the wind disturbed my brushwood hermitage; were it not for the bamboo waterspout, even the dew would have made no sound.
 
 > 此世の外ハよそならし、侘ても至つれつれ、先祖の跡をたつね、兵法の道を学といへとも、習之心持やすからす、殊更此比は自得一味ヲあけて、名を付、習とせしかたはら多かりけれは、根本之習をもぬしぬしが得たる方に聞請テ、門弟たりといへとも、二人の覚は二理と成て理さたまらす。
 
-Here outside the world, all seems a realm apart; austere as it may be, it has reached the height of tedium. Following in the footsteps of my ancestors, I have studied the martial arts, yet the true spirit of the pursuit is not easily attained. Especially lately, every man who achieves some fragment of understanding gives his name to it and calls it a "school" — there are many such cases. Even having learnt the fundamentals from the teachers who themselves attained them, though they be fellow disciples, two men's realisation becomes two principles, and the Principle itself is left unsettled.
+There outside the world, all seemed a realm apart; austere as it may have been, it soon reached the height of tedium. Following in the footsteps of my ancestors, I had studied the martial arts, yet the true spirit of the pursuit was not easily attained. Especially lately, every man who achieves some fragment of understanding gives his name to it and calls it a "school" — there are many such cases. Even having learnt the fundamentals from the teachers who themselves attained them, though they be fellow disciples, two men's realisation becomes two principles, and the Principle itself is left unsettled.
 
 > さるにより、秀綱公より宗厳公、今宗矩公ノ目録ヲ取あつめ、ながれをうる其人々にとへは、かれは知り、かれは不ㇾ知、かれ知たるハ、則これに寄シ、かれ不ㇾ知ハ又知たる方ニテ是をたつねて書シ、聞つくし見つくし、大形習の心持ならん事ヲよせて書附ハ、詞にハいひものへやせむ、身に得事やすからす。
 
