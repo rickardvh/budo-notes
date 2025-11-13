@@ -36,6 +36,10 @@ At such a moment, if one seeks to decide victory before bared blades, then unles
 
 Even if a man's physical strength far surpassed that of others — able to uproot mountains, hoist cauldrons, or move boats upon dry land — if he has not attained the art of the sword, he will inevitably fall to the enemy.
 
-[^1]: The identity of this Elder Kan (関長老 *Kan chōrō*) is uncertain, but he was a Rinzai Zen elder, possibly Takuan Sōhō himself.
+> 仮令雖有人持于如将・莫耶・大阿・竜泉、天下之妙剣、亦不得剣術者、必為敵所檎者也。昔荆軻為秦王被誅者是也。故史記云、荆軻惜不講刺剣之術。
+
+Even should a man bear in his hand the finest swords under Heaven — *Ganjiang*, *Moye*, *Tai'a*, and *Longquan* — if he has not attained swordsmanship, he will surely become the prey of the enemy. In ancient times, Jing Ke, who was slain by the King of Qin, is an example of this. For as the *Records of the Historian* say: "Jing Ke’s regret was that he had not studied the art of the thrusting sword."
+
+[^1]: The identity of this Elder Kan (関長老 *Kan chōrō*) is uncertain, but he was a Rinzai Zen elder, likely Takuan Sōhō himself.
 
 [^2]: This passage is a reference to a famous line in Confucius's book The Great Learning (大學):「修身、齊家、治國、平天下」. It describes the ladder of ethical priorities with which a ruler should be concerned: better the self, bring the household into order, govern the realm, and bring peace to all under Heaven.
