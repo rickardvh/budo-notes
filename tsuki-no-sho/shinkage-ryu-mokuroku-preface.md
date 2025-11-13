@@ -77,6 +77,36 @@ His swiftness is like the wind, his sudden force like the thunder. Beyond human 
 
 When naked blades first meet — pressing straight, lifting from the side, cutting horizontally, the vertical severing stroke; a single blow cleaving in two, red flesh and white bone — it is like cutting the spring breeze in the shadow of lightning. Ah — how consummate!
 
+---
+
+> 男有上泉武蔵守秀綱公者、東関之豪英也。遍拍天下剣客之門、至其閫奥、於陰之流最珍、升堂入室。
+
+Now then, there was a man called Kamiizumi Musashi-no-kami Hidetsuna — a heroic genius of the Eastern Provinces. He knocked upon the gates of swordsmen throughout the realm, and penetrated to the innermost threshold of their arts. In the school of the Hidden Lineage he ascended the hall and entered the inner chamber.
+
+> 世謂之新陰流。以弱制強、以強勝弱、以長入短、以短入長、吹毛横按、金翅劈海、莫耶竪扣、怒雷破天。天下無当其鋒者。
+
+The world called this the Shinkage-ryū. With weakness he subdued strength; with strength he overcame weakness. With the long he entered the short; with the short he entered the long. He pressed across a hair blown sideways; he split the sea with the golden pinion; he smote Moye vertically. With thunderous wrath he split the heavens. None under Heaven could stand against his blade.
+
+> 柳生氏但馬守平宗厳公者、和州之英産也。齠齔自志於剣術、泝諸流而求其淵源。
+
+There was also one called Yagyū Tajima-no-kami Munetoshi of the Yagyū clan — a prodigy born in Yamato, in the village of Yagyū. From childhood he devoted himself to swordsmanship, tracing the various streams back to their sources.
+
+> 知新陰之最秀、従秀綱公而遊者幾温涼。造次於兵、顛沛於兵。是以得其妙、探其頤、而迥観其師遠矣。
+
+Knowing that the most excellent of all was the Shinkage school, he travelled with Lord Hidetsuna for many seasons. In sudden moments he was in the Way of War; in perilous moments he was likewise in the Way of War. Thus he attained its subtle essence, and even sought out its hidden depths, yet in measuring his mastery against his teacher, the distance was still great.
+
+> 到其用兵者、七縦八横、千変万化、半合半開、双発双収、如見風使帆、似見兎放鷹。
+
+ When he came to apply its methods, he displayed seven vertical and eight horizontal lines, a thousand transformations and ten thousand changes; half joined, half parted; twin initiations and twin withdrawals. It was like seeing a sail before the wind, or seeing a hawk loosed after a fleeing hare.
+
+> 揮一刀則三千剣客改容失色。振長鎩則八万豼貅動心駭目。如虎靠山、似竜拏雲。
+
+With a single stroke he made three thousand swordsmen alter their posture and lose their colour. When he brandished the long spear, he stirred the hearts of eighty thousand warriors and made their eyes startle. He was like a tiger leaning upon a mountain, or a dragon clutching the clouds.
+
+> 実為兵道冠冕。天下剣客靡然無不入其門者。
+
+Truly he was the crown and summit of the martial Way. Among all the swordsmen under Heaven, there was none who did not bow and enter his gate.
+
 [^1]: The identity of this Elder Kan (関長老 *Kan chōrō*) is uncertain, but he was a Rinzai Zen elder, likely Takuan Sōhō himself.
 
 [^2]: This passage is a reference to a famous line in Confucius's book The Great Learning (大學):「修身、齊家、治國、平天下」. It describes the ladder of ethical priorities with which a ruler should be concerned: better the self, bring the household into order, govern the realm, and bring peace to all under Heaven.
