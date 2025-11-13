@@ -28,7 +28,10 @@ Now, as for the essence of the martial art, there is nothing greater than this: 
 
 Even bees and scorpions possess venom; how much more so human beings. And moreover, in battle, both sides cannot win, and both sides cannot lose. Where strength and weakness are decided, where life and death come to bear, danger is at its extreme. How could one not be cautious?
 
-> 于此時欲決勝於白刃之前、則自非得剣闘之妙術者、豈能得必勝之利乎。仮令雖有人膂力迥人、如抜山扛鼎、陸地盪舟。
+> 于此時欲決勝於白刃之前、則自非得剣闘之妙術者、豈能得必勝之利乎。
+
+
+> 仮令雖有人膂力迥人、如抜山扛鼎、陸地盪舟。亦不得剣術者、必為敵所捿。
 
 [^1]: The identity of this Elder Kan (関長老 *Kan chōrō*) is uncertain, but he was a Rinzai Zen elder, possibly Takuan Sōhō himself.
 
