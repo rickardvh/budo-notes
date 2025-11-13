@@ -22,7 +22,11 @@ It is the principle of using war to end war. Therefore, the valiant warrior and 
 
 > 而兵術之要、莫大珍必克彼此相対、臨下欲交鋒接刃端皈彼可以来我可以往。彼人也。我人也。
 
-The essence of the martial art lies in nothing greater than this: when he and I face each other, on the verge of crossing blades, he may come and I may go. He is a man; I am a man.
+Now, as for the essence of the martial art, there is nothing greater than this: when he and I face each other, on the verge of crossing blades, he may come and I may go. He is a man; I am a man.
+
+> 蜂蠆猶有毒、況於人乎。而又兵不両勝、不両負。強弱所分、生死所罹、危之至也。可不慎乎。
+
+Even bees and scorpions possess venom; how much more so human beings. And moreover, in battle, both sides cannot win, and both sides cannot lose. Where strength and weakness are decided, where life and death come to bear, danger is at its extreme. How could one not be cautious?
 
 [^1]: The identity of this Elder Kan (関長老 *Kan-chōrō*) is uncertain, but he was a Rinzai Zen elder, possibly Takuan Sōhō himself.
 
