@@ -28,6 +28,8 @@ Now, as for the essence of the martial art, there is nothing greater than this: 
 
 Even bees and scorpions possess venom; how much more so human beings. And moreover, in battle, both sides cannot win, and both sides cannot lose. Where strength and weakness are decided, where life and death come to bear, danger is at its extreme. How could one not be cautious?
 
-[^1]: The identity of this Elder Kan (関長老 *Kan-chōrō*) is uncertain, but he was a Rinzai Zen elder, possibly Takuan Sōhō himself.
+> 于此時欲決勝於白刃之前、則自非得剣闘之妙術者、豈能得必勝之利乎。仮令雖有人膂力迥人、如抜山扛鼎、陸地盪舟。
+
+[^1]: The identity of this Elder Kan (関長老 *Kan chōrō*) is uncertain, but he was a Rinzai Zen elder, possibly Takuan Sōhō himself.
 
 [^2]: This passage is a reference to a famous line in Confucius's book The Great Learning (大學):「修身、齊家、治國、平天下」. It describes the ladder of ethical priorities with which a ruler should be concerned: better the self, bring the household into order, govern the realm, and bring peace to all under Heaven.
