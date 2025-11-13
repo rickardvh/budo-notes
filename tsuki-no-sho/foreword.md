@@ -1,8 +1,8 @@
-# Tsuki no shō — preface
+# Tsuki no shō — foreword
 
 > 寛永三年拾月日、さることありて、君之御前ヲ退テ、私ならず山にわけ入ぬれば、みつから世をのかるゝと人は云めれと、物うき山のすまひ、柴の庵りの風のみあれて、かけひならては、つゆ音ノウモノナシ。
 
-In the tenth month of Kan'ei 3 (1626), certain circumstances led me to withdraw from service before my lord. It was not out of self-interest, but when I entered the mountains, people said that I had turned my back on the world. In truth, amid those melancholy mountains, only the wind disturbed my brushwood hermitage; were it not for the bamboo waterspout, even the dew would have made no sound.
+In the tenth month of Kan'ei 3 (1626), certain circumstances led me to withdraw from service before my lord. It was not out of self-interest, but when I entered the mountains people said that I had turned my back on the world. In truth, amid those melancholy mountains, only the wind disturbed my brushwood hermitage; were it not for the bamboo waterspout, even the dew would have made no sound.
 
 > 此世の外ハよそならし、侘ても至つれつれ、先祖の跡をたつね、兵法の道を学といへとも、習之心持やすからす、殊更此比は自得一味ヲあけて、名を付、習とせしかたはら多かりけれは、根本之習をもぬしぬしが得たる方に聞請テ、門弟たりといへとも、二人の覚は二理と成て理さたまらす。
 
@@ -14,7 +14,7 @@ Therefore, gathering the transmission lists from Lord Hidetsuna through Lord Mun
 
 > 折ふし関東へひとゝせ下りしに、夏の稽古はしまりける寛永拾四年五月初日より、秋終に至テ是ヲ学、老父ノ相伝一々書留テ、此ヲ寄スル也。此左に寄シタル数々の習、重々の心持ヲ三ツにわけて、三つを亦ひとつに寄シテ予の得道とせり。
 
-On one occasion I went down to the Kantō region for a year. From when the summer training began on the first day of the fifth month of Kan’ei 14 (1637) until the end of autumn I studied this art. My venerable father recorded each transmission in writing, and I drew upon these notes. The various teachings and the many states of mind gathered in this record I divided into three, and then united the three again into one, making this the path of my own attainment.
+On one occasion I went down to the Kantō region for a year. From when the summer training began on the first day of the fifth month of Kan'ei 14 (1637) until the end of autumn I studied this art. My venerable father recorded each transmission in writing, and I drew upon these notes. The various teachings and the many states of mind gathered in this record I divided into three, and then united the three again into one, making this the path of my own attainment.
 
 > 然とも、向ふまたかくのことく我にひとしくあらん敵ニハ、勝負いかんとも心得かたし。さるによつて、おもふその至極を一巻ニ述る。老父に捧捧ハ父の云ク、これ不残やき捨タランニしくハあらしと也。
 
