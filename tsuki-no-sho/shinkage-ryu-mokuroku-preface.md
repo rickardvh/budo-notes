@@ -75,7 +75,7 @@ His swiftness is like the wind, his sudden force like the thunder. Beyond human 
 
 > 白刃始合、正按・傍提・横斬・竪截、一刀両断、赤肉白骨電光影中斬春風者乎。嗟至哉。
 
-When naked blades first meet — pressing straight, lifting from the side, cutting horizontally, the vertical severing stroke, a single blow cleaving in two, red flesh and white bone — it is like cutting the spring breeze in the shadow of lightning. Ah — how consummate!
+When naked blades first meet — pressing straight, lifting from the side, cutting horizontally, the vertical severing stroke; a single blow cleaving in two, red flesh and white bone — it is like cutting the spring breeze in the shadow of lightning. Ah — how consummate!
 
 [^1]: The identity of this Elder Kan (関長老 *Kan chōrō*) is uncertain, but he was a Rinzai Zen elder, likely Takuan Sōhō himself.
 
