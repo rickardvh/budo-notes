@@ -30,8 +30,11 @@ Even bees and scorpions possess venom; how much more so human beings. And moreov
 
 > 于此時欲決勝於白刃之前、則自非得剣闘之妙術者、豈能得必勝之利乎。
 
+At such a moment, if one seeks to decide victory before bared blades, then unless one has truly attained the subtle art of sword-fighting, how could one possibly gain the advantage of certain victory?
 
 > 仮令雖有人膂力迥人、如抜山扛鼎、陸地盪舟。亦不得剣術者、必為敵所捿。
+
+Even if a man's physical strength far surpassed that of others — able to uproot mountains, hoist cauldrons, or move boats upon dry land — if he has not attained the art of the sword, he will inevitably fall to the enemy.
 
 [^1]: The identity of this Elder Kan (関長老 *Kan chōrō*) is uncertain, but he was a Rinzai Zen elder, possibly Takuan Sōhō himself.
 
