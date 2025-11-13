@@ -30,4 +30,4 @@ Even bees and scorpions possess venom; how much more so human beings. And moreov
 
 [^1]: The identity of this Elder Kan (関長老 *Kan-chōrō*) is uncertain, but he was a Rinzai Zen elder, possibly Takuan Sōhō himself.
 
-[^2]: This passage is a reference to a famous line in Confucius's book The Great Learning (大學):「修身、齊家、治國、平天下」. It describes the ladder of ethical priorities with which a ruler should be concerned: better yourself, bring your household into order, rule the realm, and bring peace to all under Heaven.
+[^2]: This passage is a reference to a famous line in Confucius's book The Great Learning (大學):「修身、齊家、治國、平天下」. It describes the ladder of ethical priorities with which a ruler should be concerned: better the self, bring the household into order, govern the realm, and bring peace to all under Heaven.
