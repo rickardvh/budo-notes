@@ -40,6 +40,17 @@ Even if a man's physical strength far surpassed that of others — able to uproo
 
 Even should a man bear in his hand the finest swords under Heaven — *Ganjiang*, *Moye*, *Tai'a*, and *Longquan* — if he has not attained swordsmanship, he will surely become the prey of the enemy. In ancient times, Jing Ke, who was slain by the King of Qin, is an example of this. For as the *Records of the Historian* say: "Jing Ke’s regret was that he had not studied the art of the thrusting sword."
 
+> 大史公亦貴剣術如此。楚項羽学剣不成曰、剣一人敵、不足学、我学万人敵。此言似是非者乎。不能学一人敵、豈能学万人敵。
+
+The Grand Historian[^3] likewise held swordsmanship in high esteem. Xiang Yu of Chu once studied the sword but did not master it, saying:
+"The sword is for facing one man — not worth learning. I shall learn how to face ten thousand." Yet is this not a saying that seems right but is wrong? If one cannot learn to face a single man, how could one possibly learn to face ten thousand?
+
+> 一人万人、多寡雖異、至亡敵道者一也。項王身死国亡、取笑於天下者亦宜哉。
+
+Whether one faces a single man or ten thousand, though the numbers differ, the Way of overcoming the enemy is one and the same. Xiang Yu lost his life and brought his state to ruin, becoming a laughingstock to all under Heaven — this too was only fitting.
+
 [^1]: The identity of this Elder Kan (関長老 *Kan chōrō*) is uncertain, but he was a Rinzai Zen elder, likely Takuan Sōhō himself.
 
 [^2]: This passage is a reference to a famous line in Confucius's book The Great Learning (大學):「修身、齊家、治國、平天下」. It describes the ladder of ethical priorities with which a ruler should be concerned: better the self, bring the household into order, govern the realm, and bring peace to all under Heaven.
+
+[^3]: Sima Qian, early Han-dynasty historian and author of the *Shiji*.
