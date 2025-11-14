@@ -26,7 +26,7 @@ Now, as for the essence of the martial art, there is nothing greater than this: 
 
 > 蜂蠆猶有毒、況於人乎。而又兵不両勝、不両負。強弱所分、生死所罹、危之至也。可不慎乎。
 
-Even bees and scorpions possess venom; how much more so human beings. And moreover, in battle, both sides cannot win, and both sides cannot lose. Where strength and weakness are decided, where life and death come to bear, danger is at its extreme. How could one not be cautious?
+Even bees and scorpions possess venom; how much more so human beings. And moreover, in battle, both sides cannot win, and both sides cannot lose. Where strength and weakness are decided, where life and death come to bear, danger is at its extreme. How could one be anything but cautious?
 
 > 于此時欲決勝於白刃之前、則自非得剣闘之妙術者、豈能得必勝之利乎。
 
@@ -34,7 +34,7 @@ At such a moment, if one seeks to decide victory before bared blades, then unles
 
 > 仮令雖有人膂力迥人、如抜山扛鼎、陸地盪舟。亦不得剣術者、必為敵所捿。
 
-Even if a man's physical strength far surpassed that of others — able to uproot mountains, hoist cauldrons, or move boats upon dry land — if he has not attained the art of the sword, he will inevitably fall to the enemy.
+Even if a man's physical strength far surpassed that of others — able to uproot mountains, hoist cauldrons, or move boats upon dry land — if he has not mastered the art of the sword, he will inevitably fall to the enemy.
 
 > 仮令雖有人持于如将・莫耶・大阿・竜泉、天下之妙剣、亦不得剣術者、必為敵所檎者也。昔荆軻為秦王被誅者是也。故史記云、荆軻惜不講刺剣之術。
 
@@ -79,11 +79,11 @@ When naked blades first meet — pressing straight, lifting from the side, cutti
 
 > 粤有上泉武蔵守秀綱公者、東関之豪英也。遍扣天下剣客之門至其閫奥。最於陰之流、升堂入室。
 
-Here there was a man called Kamiizumi Musashi-no-kami Hidetsuna, a heroic genius of the Eastern Provinces. He knocked upon the gates of swordsmen throughout the realm and reached the innermost threshold of their arts. In the Kage lineage[^6] he ascended the hall and entered the inner chamber.
+Now then, there was a man called Kamiizumi Musashi-no-kami Hidetsuna, a heroic genius of the Eastern Provinces. He knocked upon the gates of swordsmen throughout the realm and reached the innermost threshold of their arts. In the Kage lineage[^6] he ascended the hall and entered the inner chamber.
 
 > 世謂之新陰流。以弱制強、以強勝弱、以長入短、以短入長、横按吹毛、金翅劈海、竪拓莫耶、怒雷破天。天下無当其鋒者。
 
-The world called his art *Shinkage-ryū*, the New Kage School. With weakness it subdued strength; with strength it overcame weakness. With the long it entered the short; with the short it entered the long. It lightly strokes across a single strand of hair; it splits the sea with the golden wing; it strikes down like *Moye*[^7]. With the fury of thunder it rends the sky. Under Heaven there is none who can stand against its blade.
+The world called his art *Shinkage-ryū*, the New Kage School. With weakness it subdued strength; with strength it overcame weakness. With the long it entered the short; with the short it entered the long. It lightly stroked across a single strand of hair; it split the sea like the golden wing; it struck down like *Moye*[^7]. With the fury of thunder it rent the sky. Under Heaven there were none who could stand against its blade.
 
 ---
 
