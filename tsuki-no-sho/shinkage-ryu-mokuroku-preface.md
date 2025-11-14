@@ -77,15 +77,15 @@ His swiftness is like the wind, his sudden force like the thunder. Beyond human 
 
 When naked blades first meet — pressing straight, lifting from the side, cutting horizontally, the vertical severing stroke; a single blow cleaving in two, red flesh and white bone — it is like cutting the spring breeze in the shadow of lightning. Ah — how consummate!
 
----
-
 > 粤有上泉武蔵守秀綱公者、東関之豪英也。遍扣天下剣客之門至其閫奥。最於陰之流、升堂入室。
 
 Here there was a man called Kamiizumi Musashi-no-kami Hidetsuna, a heroic genius of the Eastern Provinces. He knocked upon the gates of swordsmen throughout the realm and reached the innermost threshold of their arts. In the Kage lineage[^6] he ascended the hall and entered the inner chamber.
 
-> 世謂之新陰流。以弱制強、以強勝弱、以長入短、以短入長、吹毛横按、金翅劈海、莫耶竪扣、怒雷破天。天下無当其鋒者。
+> 世謂之新陰流。以弱制強、以強勝弱、以長入短、以短入長、横按吹毛、金翅劈海、竪拓莫耶、怒雷破天。天下無当其鋒者。
 
-The world called this the Shinkage-ryū. With weakness he subdued strength; with strength he overcame weakness. With the long he entered the short; with the short he entered the long. He pressed across a hair blown sideways; he split the sea with the golden pinion; he smote Moye vertically. With thunderous wrath he split the heavens. None under Heaven could stand against his blade.
+The world called his art *Shinkage-ryū*, the New Kage School. With weakness it subdued strength; with strength it overcame weakness. With the long it entered the short; with the short it entered the long. It lightly strokes across a single strand of hair; it splits the sea with the golden wing; it strikes down like *Moye*[^7]. With the fury of thunder it rends the sky. Under Heaven there is none who can stand against its blade.
+
+---
 
 > 柳生氏但馬守平宗厳公者、和州之英産也。齠齔自志於剣術、泝諸流而求其淵源。
 
@@ -117,4 +117,6 @@ Truly he was the crown and summit of the martial Way. Among all the swordsmen un
 
 [^5]: Bian the wheelwright (輪扁) is another famous artisan from the *Zhuangzi*, who explains that true skill cannot be transferred by words, only realised through embodied practice.
 
-[^6]: Kage-ryū is a non-extant school of kenjutsu founded by Aizu Hyūga-no-Kami Iko.
+[^6]: Kage-ryū was a school of kenjutsu founded by Aizu Hyūga-no-Kami Iko.
+
+[^7]: These three images draw on Chinese literary and Buddhist motifs: "stroking a single hair" echoes a Chan expression for extremely delicate, precise action; the "golden wing" evokes the Golden-Winged Great Peng bird whose wings part the sea; and "like Moye" invokes the legendary Spring and Autumn sword of that name, one of the most celebrated blades in Chinese lore.
