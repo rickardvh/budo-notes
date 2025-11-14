@@ -79,9 +79,9 @@ When naked blades first meet — pressing straight, lifting from the side, cutti
 
 ---
 
-> 男有上泉武蔵守秀綱公者、東関之豪英也。遍拍天下剣客之門、至其閫奥、於陰之流最珍、升堂入室。
+> 粤有上泉武蔵守秀綱公者、東関之豪英也。遍扣天下剣客之門至其閫奥。最於陰之流、升堂入室。
 
-Now then, there was a man called Kamiizumi Musashi-no-kami Hidetsuna — a heroic genius of the Eastern Provinces. He knocked upon the gates of swordsmen throughout the realm, and penetrated to the innermost threshold of their arts. In the school of the Hidden Lineage he ascended the hall and entered the inner chamber.
+Here there was a man called Kamiizumi Musashi-no-kami Hidetsuna, a heroic genius of the Eastern Provinces. He knocked upon the gates of swordsmen throughout the realm and reached the innermost threshold of their arts. In the Kage lineage[^6] he ascended the hall and entered the inner chamber.
 
 > 世謂之新陰流。以弱制強、以強勝弱、以長入短、以短入長、吹毛横按、金翅劈海、莫耶竪扣、怒雷破天。天下無当其鋒者。
 
@@ -116,3 +116,5 @@ Truly he was the crown and summit of the martial Way. Among all the swordsmen un
 [^4]: Ying the craftsman (郢工) is classical figure from the *Zhuangzi* and later Chinese literature. To "cut clay like Ying" is a proverb for effortless mastery: the blade moves without resistance because the skill is perfect.
 
 [^5]: Bian the wheelwright (輪扁) is another famous artisan from the *Zhuangzi*, who explains that true skill cannot be transferred by words, only realised through embodied practice.
+
+[^6]: Kage-ryū is a non-extant school of kenjutsu founded by Aizu Hyūga-no-Kami Iko.
