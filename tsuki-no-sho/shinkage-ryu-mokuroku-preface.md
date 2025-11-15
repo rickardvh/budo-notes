@@ -109,7 +109,7 @@ Truly he was the crown and summit of the martial Way. Among all the swordsmen un
 
 [^1]: The identity of this Elder Kan (関長老 *Kan chōrō*) is uncertain, but he was a Rinzai Zen elder, likely Takuan Sōhō himself.
 
-[^2]: This passage is a reference to a famous line in Confucius's book The Great Learning (大學):「修身、齊家、治國、平天下」. It describes the ladder of ethical priorities with which a ruler should be concerned: better the self, bring the household into order, govern the realm, and bring peace to all under Heaven.
+[^2]: This passage is a reference to a famous line by Confucius in The Great Learning (大學):「修身、齊家、治國、平天下」. It describes the ladder of ethical priorities with which a ruler should be concerned: better the self, bring the household into order, govern the realm, and bring peace to all under Heaven.
 
 [^3]: Sima Qian, early Han-dynasty historian and author of the *Shiji*.
 
