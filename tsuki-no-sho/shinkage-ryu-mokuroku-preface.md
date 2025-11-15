@@ -8,13 +8,9 @@
 
 The martial art is the way by which one preserves oneself, destroys the enemy, brings the household into order, governs the army, rules the realm, and brings peace to all under Heaven.[^2]
 
-> 庶人得之則保身、勇士得之則亡敵。
+> 庶人得之則保身、勇士得之則亡敵。大夫得之其斉家。戦将得之則治軍。諸候得之則制国。天子得之平二天下。
 
-When the common man attains it, he preserves himself; when the warrior attains it, he destroys his enemy.
-
-> 大夫得之其斉家。戦将得之則治軍。諸候得之則制国。天子得之平二天下。
-
-When the gentleman attains it, he orders his household; when the general attains it, he governs his army; when the lord attains it, he rules his realm; when the Son of Heaven attains it, he brings peace to all under Heaven.
+When the common man attains it, he preserves himself; when the warrior attains it, he destroys his enemy. When the gentleman attains it, he orders his household; when the general attains it, he governs his army; when the lord attains it, he rules his realm; when the Son of Heaven attains it, he brings peace to all under Heaven.
 
 > 以戦止戦之意也。是故銃(鋭)士勇将、欲立威珍天下者、無不由兵術。
 
