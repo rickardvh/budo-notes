@@ -91,7 +91,7 @@ Knowing that the Shinkage school was the most excellent of all, he travelled and
 
 > 到其用兵者、七縦八横、千変万化、半合半開、双発双収、如見風使帆、似見兎放鷹。
 
-When it came to applying the art of war, he displayed seven vertical and eight horizontal lines[^8], a thousand transformations and ten thousand changes; half joining, half opening; paired initiations and paired withdrawals. It was like seeing a sail filled by the wind, or like watching a hawk loosed after a fleeing hare.
+When it came to applying the art of war, he displayed seven vertical and eight horizontal lines, a thousand transformations and ten thousand changes; half joining, half opening; paired initiations and paired withdrawals. It was like seeing a sail filled by the wind, or like watching a hawk loosed after a fleeing hare.[^8]
 
 ---
 
