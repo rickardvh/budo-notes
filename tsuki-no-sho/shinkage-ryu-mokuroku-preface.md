@@ -99,7 +99,39 @@ With a single stroke of his blade, he made three thousand swordsmen change their
 
 > 実為兵道冠冕。天下剣客靡然無不入其門矣。
 
-Truly he became the very crown of the martial Way. Among all the swordsmen under Heaven, there were none who were not drawn to him and sought his instruction.
+Truly he became the very crown of the martial Way. Among all the swordsmen under Heaven, there were none who were not drawn to him and who did not seek his instruction.
+
+> 当時宗厳公思凝於兵術曰、持万剣以制敵者、非格外玄術也。豈無赤手殺人之手段乎。
+
+> 於是工夫日積、煅鍊累年、別出新意、忽得白戦之術。鍛然彼揮剣撃我、翻然飛去、右転左転、歩歩風起、在前忽在後。
+
+> 手不持寸刃而却抑逼人、身不施寸縄而却縛殺敵。
+
+> 如下赤手捕長蛇、不施控勤、騎生馬、掠奪他万剣、却晴其眼刳之如、一時捉敗者、寔出人意表。
+
+> 超然之才、絶倫之識、非此、豈能如此乎。
+
+> 此時魔外乞命、賁育拱手、芟虎搏下、項羽叱人、亦立下風者也。
+
+> 天下学兵者、捨之何求乎。吁、盛哉。
+
+> 睠夫師之伝道、不識其人而妄伝、則却受其害。后羿伝射於逢蒙、飛衛伝射於紀昌者是也。
+
+> 若以剣術伝人、則撰庚公斯類者伝之可乎。不其人、勿伝其道。
+
+> 蓋聞、師資相承、恰似瀉器之水於一器、如分一燈成百千燈、始無殊異。
+
+> 然有士夫之浅深、鍛錬之厚薄、而其術亦有工拙軽重。
+
+> 業精則平、嬉荒則敗、行成則思随、毀随則思乱。
+
+> 研精罩思、而後可至其至微也。
+
+> 精微要妙者、不可以言宣、只在乎熟而已。
+
+> 賢士大夫以武名世者、不可不学。光陰荏苒、時可惜也。
+
+> 老而悔、何及哉。勉旃。
 
 [^1]: The identity of this Elder Kan (関長老 *Kan chōrō*) is uncertain, but he would have been a Rinzai Zen elder connected to the Yagyū, possibly even Takuan Sōhō himself.
 
