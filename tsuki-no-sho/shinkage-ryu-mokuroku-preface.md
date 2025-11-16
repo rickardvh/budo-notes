@@ -81,19 +81,19 @@ Now then, there was a man called Kamiizumi Musashi-no-kami Hidetsuna, a heroic g
 
 The world called his art *Shinkage-ryū*, the New Kage School. With weakness it subdued strength; with strength it overcame weakness. With the long it entered the short; with the short it entered the long. It lightly stroked across a single strand of hair; it split the sea like the golden wing; it struck down like *Moye*[^7]. With the fury of thunder it rent the sky. Under Heaven there were none who could stand against its blade.
 
----
+> 柳生氏但馬守平宗厳公者、和州之英産也。自齠齔遊志於剣術、泝諸流也淵源。
 
-> 柳生氏但馬守平宗厳公者、和州之英産也。齠齔自志於剣術、泝諸流而求其淵源。
+There was also one called Yagyū Tajima-no-kami Munetoshi of the Yagyū clan, a prodigy born in Yamato Province. From early childhood, before his milk teeth had even fallen, he devoted himself to swordsmanship, tracing the various lineages back to their sources.
 
-There was also one called Yagyū Tajima-no-kami Munetoshi of the Yagyū clan — a prodigy born in Yamato, in the village of Yagyū. From childhood he devoted himself to swordsmanship, tracing the various streams back to their sources.
+> 知新陰之最秀。而従秀綱公而遊者幾温涼。造次於兵、顚沛於兵。是以得其妙、探其頤、見迥於師遠矣。
 
-> 知新陰之最秀、従秀綱公而遊者幾温涼。造次於兵、顛沛於兵。是以得其妙、探其頤、而迥観其師遠矣。
-
-Knowing that the most excellent of all was the Shinkage school, he travelled with Lord Hidetsuna for many seasons. In sudden moments he was in the Way of War; in perilous moments he was likewise in the Way of War. Thus he attained its subtle essence, and even sought out its hidden depths, yet in measuring his mastery against his teacher, the distance was still great.
+Knowing that the Shinkage school was the most excellent of all, he travelled and trained with Lord Hidetsuna for many seasons. Whether in sudden crises or in times of peril, he was always in the art of war. Thus he attained its subtle essence and sought out its hidden depths, yet when he looked back and measured himself against his teacher, the distance between them was still great.
 
 > 到其用兵者、七縦八横、千変万化、半合半開、双発双収、如見風使帆、似見兎放鷹。
 
- When he came to apply its methods, he displayed seven vertical and eight horizontal lines, a thousand transformations and ten thousand changes; half joined, half parted; twin initiations and twin withdrawals. It was like seeing a sail before the wind, or seeing a hawk loosed after a fleeing hare.
+When it came to applying the art of war, he displayed seven vertical and eight horizontal lines[^8], a thousand transformations and ten thousand changes; half joining, half opening; paired initiations and paired withdrawals. It was like seeing a sail filled by the wind, or like watching a hawk loosed after a fleeing hare.
+
+---
 
 > 揮一刀則三千剣客改容失色。振長鎩則八万豼貅動心駭目。如虎靠山、似竜拏雲。
 
@@ -116,3 +116,5 @@ Truly he was the crown and summit of the martial Way. Among all the swordsmen un
 [^6]: Kage-ryū was a school of kenjutsu founded by Aizu Hyūga-no-Kami Iko.
 
 [^7]: These three images draw on Chinese literary and Buddhist motifs: "stroking a single hair" echoes a Chan expression for extremely delicate, precise action; the "golden wing" evokes the Golden-Winged Great Peng bird whose wings part the sea; and "like Moye" invokes the legendary Spring and Autumn sword of that name, one of the most celebrated blades in Chinese lore.
+
+[^8]: 七縦八横, "seven verticals and eight horizontals", is a Chinese idiom for movement in all directions; complete tactical freedom.
