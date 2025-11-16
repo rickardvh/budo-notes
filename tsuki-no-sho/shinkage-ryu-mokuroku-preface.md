@@ -101,7 +101,7 @@ With a single stroke of his blade, he made three thousand swordsmen change their
 
 Truly he became the very crown of the martial Way. Among all the swordsmen under Heaven, there were none who were not drawn to him and who did not seek his instruction.
 
-> 当時宗厳公思凝於兵術曰、持万剣以制敵者、非格外玄術也。豈無赤手殺人之手段乎。
+> 当時宗厳公凝思於兵術曰、持刀剣以制敵者、非格外玄術也。豈無赤手殺人之手段乎。
 
 > 於是工夫日積、煅鍊累年、別出新意、忽得白戦之術。鍛然彼揮剣撃我、翻然飛去、右転左転、歩歩風起、在前忽在後。
 
