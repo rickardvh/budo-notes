@@ -101,9 +101,9 @@ With a single stroke of his blade, he made three thousand swordsmen change their
 
 Truly he became the very crown of the martial Way. Among all the swordsmen under Heaven, there were none who were not drawn to him and sought his instruction.
 
-[^1]: The identity of this Elder Kan (関長老 *Kan chōrō*) is uncertain, but he was a Rinzai Zen elder, likely Takuan Sōhō himself.
+[^1]: The identity of this Elder Kan (関長老 *Kan chōrō*) is uncertain, but he would have been a Rinzai Zen elder connected to the Yagyū, possibly even Takuan Sōhō himself.
 
-[^2]: This passage is a reference to a famous line by Confucius in The Great Learning (大學):「修身、齊家、治國、平天下」. It describes the ladder of ethical priorities with which a ruler should be concerned: better the self, bring the household into order, govern the realm, and bring peace to all under Heaven.
+[^2]: This passage is a reference to a famous line in the Confucian book The Great Learning (大學):「修身、齊家、治國、平天下」. It describes the ladder of ethical priorities with which a ruler should be concerned: better the self, bring the household into order, govern the realm, and bring peace to all under Heaven.
 
 [^3]: Sima Qian, early Han-dynasty historian and author of the *Shiji*.
 
@@ -111,7 +111,7 @@ Truly he became the very crown of the martial Way. Among all the swordsmen under
 
 [^5]: Bian the wheelwright (輪扁) is another famous artisan from the *Zhuangzi*, who explains that true skill cannot be transferred by words, only realised through embodied practice.
 
-[^6]: Kage-ryū was a school of kenjutsu founded by Aizu Hyūga-no-Kami Iko.
+[^6]: Kage-ryū was a school of kenjutsu founded by Aisu Ikōsai Hisatada.
 
 [^7]: These three images draw on Chinese literary and Buddhist motifs: "stroking a single hair" echoes a Chan expression for extremely delicate, precise action; the "golden wing" evokes the Golden-Winged Great Peng bird whose wings part the sea; and "like Moye" invokes the legendary Spring and Autumn sword of that name, one of the most celebrated blades in Chinese lore.
 
