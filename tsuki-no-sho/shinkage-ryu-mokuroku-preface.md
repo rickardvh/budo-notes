@@ -109,9 +109,9 @@ At that time, Lord Munetoshi devoted his thought to the martial arts and said: "
 
 Thereupon his training accumulated day by day, his forging and tempering over the years increased, and he brought forth fresh insight. Suddenly he attained the art of "white combat", fighting unarmed. At the instant his opponent swung his sword to strike him, he slipped away in a flash, turning right and left, each step stirring the wind. One moment he was before him; in the next, suddenly behind.
 
-> 手不持寸刃而却抑逼人、身不施寸縄而却縛殺敵。
+> 手不持寸刃而却抑逼人。身不施寸縄而却縛殺敵、如赤手捕長蛇、不施控勤騎生馬掠奪他刀剣刳却侘眼晴。一時捉敗者、寔出人意表。
 
-> 如下赤手捕長蛇、不施控勤、騎生馬、掠奪他万剣、却晴其眼刳之如、一時捉敗者、寔出人意表。
+Without even an inch of blade in his hand, he could subdue and press back an assailant. Without binding him with even an inch of cord, he could seize and kill his enemy. With bare hands he caught foes as one might grasp a writhing serpent; holding nothing back, he mounted a living horse, snatched away the enemy's sword, and gouged out his eyes. In an instant he had seized the defeated enemy — actions truly beyond all human expectation.
 
 > 超然之才、絶倫之識、非此、豈能如此乎。
 
