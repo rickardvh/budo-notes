@@ -107,7 +107,7 @@ At that time, Lord Munetoshi devoted his thought to the martial arts and said: "
 
 > 於是、工夫日積、煅煉累年、別出新意、忽得白戦之術。鍛然彼揮剣撃我、飜然飛去、右転左転、歩々風起、在前忽焉在後。
 
-Thereupon his training accumulated day by day, his forging and tempering over the years increased, and he brought forth fresh insight. Suddenly he attained the art of unarmed combat. At the instant his opponent swung his sword to strike him, he slipped away in a flash, turning right and left, each step stirring the wind. One moment he was before him; in the next, suddenly behind.
+Thereupon his training accumulated day by day, his forging and tempering over the years increased, and he brought forth fresh insight, until all at once he grasped the art of unarmed combat. At the instant his opponent swung his sword to strike him, he slipped away in a flash, turning right and left, each step stirring the wind. One moment he was before him; in the next, suddenly behind.
 
 > 手不持寸刃而却抑逼人。身不施寸縄而却縛殺敵、如赤手捕長蛇、不施控勤騎生馬掠奪他刀剣刳却侘眼晴。一時捉敗者、寔出人意表。
 
