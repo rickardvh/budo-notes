@@ -91,7 +91,7 @@ Knowing that the Shinkage school was the most excellent of all, he travelled and
 
 > 到其用兵者、七縦八横、千変万化、半合半開、双発双収、如見風使帆、似見兎放鷹。
 
-When it came to applying the art of war, he displayed seven vertical and eight horizontal lines, a thousand transformations and ten thousand changes; half joining, half opening; paired initiations and paired withdrawals. It was like seeing a sail filled by the wind, or like watching a hawk loosed after a fleeing hare.[^8]
+When it came to applying the art of war, he displayed free movement in all directions[^8], a thousand transformations and ten thousand changes; half joining, half opening; paired initiations and paired withdrawals. It was like seeing a sail filled by the wind, or like watching a hawk loosed after a fleeing hare.[^9]
 
 > 揮一刀三千剣客改容失色。振長鎩則八万豼貅動心駭目。如虎靠山、似竜拏雲。
 
@@ -147,4 +147,6 @@ Truly he became the very crown of the martial Way. Among all the swordsmen under
 
 [^7]: These three images draw on Chinese literary and Buddhist motifs: "stroking a single hair" echoes a Chan expression for extremely delicate, precise action; the "golden wing" evokes the Golden-Winged Great Peng bird whose wings part the sea; and "like Moye" invokes the legendary Spring and Autumn sword of that name, one of the most celebrated blades in Chinese lore.
 
-[^8]: The technical expressions in this passage draw on established Chinese martial and literary idioms. "Seven vertical and eight horizontal" (七縦八横) denotes movement in all directions with complete tactical freedom (it can also mean total disarray of an army thrown into chaos, scattering in all directions at once); "a thousand transformations and ten thousand changes" (千変万化) expresses limitless adaptability. "Half joining, half opening" (半合半開) describes *ma-ai* (間合) the dynamic midpoint between engagement and release, while "paired initiations and paired withdrawals" (双発双収) signify the rhythm of simultaneous striking and withdrawing: a hallmark of Yagyū Shinkage-ryū. The metaphors “as a sail filled by the wind” (如見風使帆) and "as a hawk loosed after a hare" (似見兎放鷹) are classical Chinese images of effortless responsiveness and sudden, decisive pursuit.
+[^8]: The actual phrase used is "seven vertical and eight horizontal" (七縦八横), denoting movement in all directions with complete tactical freedom. It can also mean total disarray of an army thrown into chaos, scattering in all directions at once, but the former meaning applies here.
+
+[^9]: The technical expressions in this passage draw on classical Chinese martial and literary idioms. "A thousand transformations and ten thousand changes" (千変万化) expresses limitless adaptability. "Half joining, half opening" (半合半開) describes *ma-ai* (間合) the dynamic midpoint between engagement and release, while "paired initiations and paired withdrawals" (双発双収) signify the rhythm of simultaneous striking and withdrawing: a hallmark of Yagyū Shinkage-ryū. The metaphors “as a sail filled by the wind” (如見風使帆) and "as a hawk loosed after a hare" (似見兎放鷹) are classical Chinese images of effortless responsiveness and sudden, decisive pursuit.
