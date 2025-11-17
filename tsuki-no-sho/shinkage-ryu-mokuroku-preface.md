@@ -103,6 +103,8 @@ Truly he became the very crown of the martial Way. Among all the swordsmen under
 
 > 当時宗厳公凝思於兵術曰、持刀剣以制敵者非格外玄術。豈不有赤手殺人手段乎。
 
+At that time, Lord Munetoshi devoted his thought to the martial arts and said: “To subdue an enemy by wielding a sword is no art of extraordinary mystery. Surely there must be methods of killing a man even with bare hands.”
+
 > 於是工夫日積、煅鍊累年、別出新意、忽得白戦之術。鍛然彼揮剣撃我、翻然飛去、右転左転、歩歩風起、在前忽在後。
 
 > 手不持寸刃而却抑逼人、身不施寸縄而却縛殺敵。
