@@ -111,11 +111,11 @@ Thereupon his training accumulated day by day, his forging and tempering over th
 
 > 手不持寸刃而却抑逼人。身不施寸縄而却縛殺敵、如赤手捕長蛇、不施控勤騎生馬掠奪他刀剣刳却侘眼晴。一時捉敗者、寔出人意表。
 
-Without even an inch of blade in his hand, he could subdue and press back an assailant. Without binding him with even an inch of cord, he could seize and kill his enemy. With bare hands he caught foes as one might grasp a writhing serpent; holding nothing back, he mounted a living horse, snatched away the enemy's sword, and gouged out his eyes. In an instant he had seized the defeated enemy — actions truly beyond all human expectation.
+Without even an inch of blade in his hand, he could subdue and press back an assailant. Without binding him with even an inch of cord, he could seize and kill his enemy. With bare hands he caught foes as one might grasp a writhing serpent; holding nothing back, he mounted live horses, snatched away the enemies' swords, and gouged out their eyes. In an instant he had seized the defeated enemy — actions truly beyond all human expectation.
 
-> 超然之才、絶倫之識、非此、豈能如此乎。
+> 非超然之才、絶倫之識、豈能如此乎。于此時魔外乞命、賁育拱手、下車[^10]搏虎、項羽叱人、亦立下風者也。
 
-> 此時魔外乞命、賁育拱手、芟虎搏下、項羽叱人、亦立下風者也。
+Without a transcendent talent and a peerless understanding, how could one achieve such things? In such moments even demons would beg for their lives; even Ben and Yu would fold their arms; even he who dismounted to grapple a tiger; even Xiang Yu, who could cow men with a shout — all would stand downwind of him.
 
 > 天下学兵者、捨之何求乎。吁、盛哉。
 
@@ -154,3 +154,5 @@ Without even an inch of blade in his hand, he could subdue and press back an ass
 [^8]: The actual phrase used is "seven vertical and eight horizontal" (七縦八横), denoting movement in all directions with complete tactical freedom. It can also mean total disarray of an army thrown into chaos, scattering in all directions at once, but the former meaning applies here.
 
 [^9]: The technical expressions in this passage draw on classical Chinese martial and literary idioms. "A thousand transformations and ten thousand changes" (千変万化) expresses limitless adaptability. "Half joining, half opening" (半合半開) describes *ma-ai* (間合) the dynamic midpoint between engagement and release, while "paired initiations and paired withdrawals" (双発双収) signify the rhythm of simultaneous striking and withdrawing: a hallmark of Yagyū Shinkage-ryū. The metaphors “as a sail filled by the wind” (如見風使帆) and "as a hawk loosed after a hare" (似見兎放鷹) are classical Chinese images of effortless responsiveness and sudden, decisive pursuit.
+
+[^10]: This character 車 is not given as such in the source document; instead we have two transcriptions of characters that don't appear to actually exist. However, [Mencius's parable of Feng Fu](https://ctext.org/dictionary.pl?if=en&id=13929) descending from his carriage to grapple a tiger would have been quite well-known. This story was commonly referenced in the set idiom 下車搏虎 — "to step down from one's carriage and grapple tigers".
