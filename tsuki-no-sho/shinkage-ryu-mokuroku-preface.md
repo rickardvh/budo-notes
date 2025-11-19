@@ -117,9 +117,9 @@ Without even an inch of blade in his hand, he could subdue and press back an ass
 
 Without transcendent talent and peerless understanding, how could one possibly achieve such things? In such moments even demons would beg for their lives; even the strongmen Ben and Yu would fold their arms; even he who stepped off his carriage to grapple a tiger; even Xiang Yu, who cowed men with a shout — all would stand downwind of him.[^11]
 
-> 天下学兵者、捨之何求乎。吁、盛哉。
+> 天下学兵者捨之何求乎。吁盛哉。睠夫師之伝道、不識其人而妄伝則却受其害。后羿伝射於逢衆、飛衛伝射於紀昌者是也。
 
-> 睠夫師之伝道、不識其人而妄伝、則却受其害。后羿伝射於逢蒙、飛衛伝射於紀昌者是也。
+If those in the world who study the art of war were to discard this, what else could they seek? Ah, how abundant it is! Yet when one reflects on the transmission of the Way from master to disciple: if one does not discern the person and passes it on recklessly, one will only incur harm from it. This is like Hou Yi teaching archery to Fengzhong, or Fei Wei teaching archery to Ji Chang.[^12]
 
 > 若以剣術伝人、則撰庚公斯類者伝之可乎。不其人、勿伝其道。
 
@@ -137,7 +137,7 @@ Without transcendent talent and peerless understanding, how could one possibly a
 
 > 老而悔、何及哉。勉旃。
 
-[^1]: The identity of this Elder Kan (関長老 *Kan chōrō*) is uncertain, but he would have been a Rinzai Zen elder connected to the Yagyū, possibly even Takuan Sōhō himself.
+[^1]: The identity of this Elder Kan (関長老 *Kan chōrō*) is uncertain, but he would have been a Rinzai Zen elder associated with the Yagyū, possibly even Takuan Sōhō himself.
 
 [^2]: This passage is a reference to a famous line in the Confucian book The Great Learning (大學):「修身、齊家、治國、平天下」. It describes the ladder of ethical priorities with which a ruler should be concerned: better the self, bring the household into order, govern the realm, and bring peace to all under Heaven.
 
@@ -158,3 +158,5 @@ Without transcendent talent and peerless understanding, how could one possibly a
 [^10]: This character 車 is not given as such in the source document; instead we have two transcriptions of characters that don't appear to actually exist. However, [Mencius's parable of Feng Fu](https://ctext.org/dictionary.pl?if=en&id=13929) descending from his carriage to grapple a tiger would have been quite well-known. This story was commonly referenced in the set idiom 下車搏虎 — "to step down from one's carriage and grapple tigers".
 
 [^11]: This paragraph contains several allusions that an erudite contemporary reader would have recognised from the Chinese classics. [Meng Ben and Xia Yu](https://ctext.org/dictionary.pl?if=en&id=61269) were famed for their physical strength yet dismissed for their lack of cultivated virtue; such men, for all their might, could only fold their arms in helplessness. The scholar Feng Fu, celebrated in Jin for grappling tigers, once rolled up his sleeves and stepped down from his carriage to fight another tiger — an act of empty bravado that delighted the common people but drew the derision of other scholars. Xiang Yu’s overbearing shout could cow other men, yet — as noted earlier in the text — his want of true martial skill ultimately led to his ruin. These figures, each lacking in essential understanding, cannot be measured against Munetoshi.
+
+[^12]: This sentence invokes two well-known cautions from Chinese antiquity about the dangers of teaching the wrong disciple. Hou Yi (后羿), the divine archer, taught his art to Feng Meng (逢蒙; the manuscript gives the corrupted form 逢衆, a common Edo-period miswriting), who later turned his skill against his master and killed him. Likewise, Fei Wei (飛衛) taught archery to Ji Chang (紀昌), whose skill soon surpassed his teacher's and brought him to harm. Both stories warn that indiscriminate transmission invites danger.
