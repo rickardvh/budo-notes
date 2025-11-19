@@ -123,7 +123,7 @@ If those in the world who study the art of war were to discard this, what else c
 
 > 若以剣術伝人則撰庚公之斬者、伝之可乎。非其人勿伝其道。蓋聞、師資相承、恰似瀉一器水於一器、如分一燈成百千燈。
 
-If one would transmit the art of the sword to another, should one choose a man like Geng Gong, who cut down even his own father? Would such a transmission ever be acceptable? If he is not the right person, do not transmit the Way to him. It is said that the succession of master and disciple is like pouring water from one vessel into another, or like dividing one lamp to make a hundred or a thousand lamps.
+If one would transmit the art of the sword to another, should one choose a man like Geng Gong, who cut down even his own father? Would such a transmission ever be acceptable? If he is not the right person, do not transmit the Way to him. It is said that the succession of master and disciple is like pouring water from one vessel into another, or like dividing one flame to make a hundred or a thousand lamps.
 
 > 始無殊異。然有士夫之浅深、鍛錬之厚薄、而其術亦有工拙軽重。
 
