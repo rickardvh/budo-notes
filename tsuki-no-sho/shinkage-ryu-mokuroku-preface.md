@@ -121,9 +121,11 @@ Without transcendent talent and peerless understanding, how could one possibly a
 
 If those in the world who study the art of war were to discard this, what else could they seek? Ah, how abundant it is! Yet when one reflects on the transmission of the Way from master to disciple: if one does not discern the person and passes it on recklessly, one will only incur harm from it. This is like Hou Yi teaching archery to Fengzhong, or Fei Wei teaching archery to Ji Chang.[^12]
 
-> 若以剣術伝人則撰庚公之斬者、伝之可乎。非其人勿伝其道。蓋聞、師資相承、恰似瀉一器水於一器、如分一燈成百千燈。始無殊異。
+> 若以剣術伝人則撰庚公之斬者、伝之可乎。非其人勿伝其道。蓋聞、師資相承、恰似瀉一器水於一器、如分一燈成百千燈。
 
-> 然有士夫之浅深、鍛錬之厚薄、而其術亦有工拙軽重。
+If one would transmit the art of the sword to another, should one choose a man like Geng Gong, who cut down even his own father? Would such a transmission ever be acceptable? If he is not the right person, do not transmit the Way to him. It is said that the succession of master and disciple is like pouring water from one vessel into another, or like dividing one lamp to make a hundred or a thousand lamps.
+
+> 始無殊異。然有士夫之浅深、鍛錬之厚薄、而其術亦有工拙軽重。
 
 > 業精則平、嬉荒則敗、行成則思随、毀随則思乱。
 
