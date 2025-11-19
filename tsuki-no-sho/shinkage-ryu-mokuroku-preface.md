@@ -115,7 +115,7 @@ Without even an inch of blade in his hand, he could subdue and press back an ass
 
 > 非超然之才、絶倫之識、豈能如此乎。于此時魔外乞命、賁育拱手、下車[^10]搏虎、項羽叱人、亦立下風者也。
 
-Without a transcendent talent and a peerless understanding, how could one achieve such things? In such moments even demons would beg for their lives; even Ben and Yu would fold their arms; even he who dismounted to grapple a tiger; even Xiang Yu, who could cow men with a shout — all would stand downwind of him.
+Without a transcendent talent and a peerless understanding, how could one achieve such things? In such moments even demons would beg for their lives; even the strongmen Ben and Yu would fold their arms; even he who stepped off his carriage to grapple a tiger; even Xiang Yu, who could cow men with a shout — all would stand downwind of him.
 
 > 天下学兵者、捨之何求乎。吁、盛哉。
 
