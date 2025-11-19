@@ -121,9 +121,7 @@ Without transcendent talent and peerless understanding, how could one possibly a
 
 If those in the world who study the art of war were to discard this, what else could they seek? Ah, how abundant it is! Yet when one reflects on the transmission of the Way from master to disciple: if one does not discern the person and passes it on recklessly, one will only incur harm from it. This is like Hou Yi teaching archery to Fengzhong, or Fei Wei teaching archery to Ji Chang.[^12]
 
-> 若以剣術伝人、則撰庚公斯類者伝之可乎。不其人、勿伝其道。
-
-> 蓋聞、師資相承、恰似瀉器之水於一器、如分一燈成百千燈、始無殊異。
+> 若以剣術伝人則撰庚公之斬者、伝之可乎。非其人勿伝其道。蓋聞、師資相承、恰似瀉一器水於一器、如分一燈成百千燈。始無殊異。
 
 > 然有士夫之浅深、鍛錬之厚薄、而其術亦有工拙軽重。
 
