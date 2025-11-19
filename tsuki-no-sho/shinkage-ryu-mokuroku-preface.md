@@ -115,7 +115,7 @@ Without even an inch of blade in his hand, he could subdue and press back an ass
 
 > 非超然之才、絶倫之識、豈能如此乎。于此時魔外乞命、賁育拱手、下車[^10]搏虎、項羽叱人、亦立下風者也。
 
-Without a transcendent talent and a peerless understanding, how could one achieve such things? In such moments even demons would beg for their lives; even the strongmen Ben and Yu would fold their arms; even he who stepped off his carriage to grapple a tiger; even Xiang Yu, who could cow men with a shout — all would stand downwind of him.
+Without transcendent talent and peerless understanding, how could one possibly achieve such things? In such moments even demons would beg for their lives; even the strongmen Ben and Yu would fold their arms; even he who stepped off his carriage to grapple a tiger; even Xiang Yu, who cowed men with a shout — all would stand downwind of him.[^11]
 
 > 天下学兵者、捨之何求乎。吁、盛哉。
 
@@ -156,3 +156,5 @@ Without a transcendent talent and a peerless understanding, how could one achiev
 [^9]: The technical expressions in this passage draw on classical Chinese martial and literary idioms. "A thousand transformations and ten thousand changes" (千変万化) expresses limitless adaptability. "Half joining, half opening" (半合半開) describes *ma-ai* (間合) the dynamic midpoint between engagement and release, while "paired initiations and paired withdrawals" (双発双収) signify the rhythm of simultaneous striking and withdrawing: a hallmark of Yagyū Shinkage-ryū. The metaphors “as a sail filled by the wind” (如見風使帆) and "as a hawk loosed after a hare" (似見兎放鷹) are classical Chinese images of effortless responsiveness and sudden, decisive pursuit.
 
 [^10]: This character 車 is not given as such in the source document; instead we have two transcriptions of characters that don't appear to actually exist. However, [Mencius's parable of Feng Fu](https://ctext.org/dictionary.pl?if=en&id=13929) descending from his carriage to grapple a tiger would have been quite well-known. This story was commonly referenced in the set idiom 下車搏虎 — "to step down from one's carriage and grapple tigers".
+
+[^11]: This paragraph again contains a number of references that would have been understood by a contemporary reader versed in the Chinese classics. [Meng Ben and Xia Yu](https://ctext.org/dictionary.pl?if=en&id=61269) were two men renowned for their physical prowess but ridiculed for their lack of virtue, and they would have folded their arms, unable to act. Feng Fu, a strong scholar, rolled up his sleeves and stepped down from his carriage to wrestle a tiger in an act of empty bravado, to the admiration of the common people but ridicule of other scholars. Xiang Yu would viciously scold others into submission, but — as related earlier in the text — his lack of martial training eventually became his undoing. Each of the aforementioned figures lacked in some essential aspect, and could not compare to Munetoshi.
