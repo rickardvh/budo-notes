@@ -125,7 +125,7 @@ If those in the world who study the art of war were to discard this, what else c
 
 If one would transmit the art of the sword to another, should one choose a man like Geng Gong, who cut down even his own father? Would such a transmission ever be acceptable? If he is not the right person, do not transmit the Way to him. It is said that the succession of master and disciple is like pouring water from one vessel into another, or like dividing one flame to make a hundred or a thousand lamps.
 
-> 始無殊異。然有士夫之浅深、鍛錬之厚薄、而其術亦有工拙軽重。
+> 始無殊異。雖然、依有工夫浅深・鍛錬厚薄而其術亦有工拙軽重。
 
 > 業精則平、嬉荒則敗、行成則思随、毀随則思乱。
 
