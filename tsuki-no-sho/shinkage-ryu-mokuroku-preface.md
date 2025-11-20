@@ -127,15 +127,23 @@ If one would transmit the art of the sword to another, should one choose a man l
 
 > 始無殊異。雖然、依有工夫浅深・鍛錬厚薄而其術亦有工拙軽重。
 
-> 業精則平、嬉荒則敗、行成則思随、毀随則思乱。
+From the beginning, there is no real difference. Yet depending on whether one's effort is shallow or deep, and whether one's training is thick or thin, the art itself will likewise show refinement or clumsiness, lightness or heaviness.
+
+> 業精于勤、荒于嬉、行成于思、毀于随。
+
+Skill is perfected through diligence and ruined through play; accomplishment is realised through reflection and destroyed through mere following along.
 
 > 研精罩思、而後可至其至微也。
 
-> 精微要妙者、不可以言宣、只在乎熟而已。
+Only by honing one's endurance and concentrating one's thought can one arrive at its utmost subtleties.
 
-> 賢士大夫以武名世者、不可不学。光陰荏苒、時可惜也。
+> 精微要妙者、不可以言宣。只在乎熟而已。
 
-> 老而悔、何及哉。勉旃。
+These finest and most essential subtleties cannot be expressed in words — they lie solely in familiarity born of long practice.
+
+> 賢士太夫以武名世者、不可不学。光陰荏苒、可惜時也。老而悔、何及哉。勉旃。
+
+The caoable and worthy gentleman who would make his name in the martial arts cannot fail to study them. Time slips away unnoticed — it is a pity to waste it. To grow old and regret is too late. Apply yourself.
 
 [^1]: The identity of this Elder Kan (関長老 *Kan chōrō*) is uncertain, but he would have been a Rinzai Zen elder associated with the Yagyū, possibly even Takuan Sōhō himself.
 
