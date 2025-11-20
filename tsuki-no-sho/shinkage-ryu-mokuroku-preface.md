@@ -99,11 +99,11 @@ With a single stroke of his blade, he made three thousand swordsmen change their
 
 > 実為兵道冠冕。天下剣客靡然無不入其門矣。
 
-Truly he became the very crown of the martial Way. Among all the swordsmen under Heaven, there were none who were not drawn to him and who did not seek his instruction.
+Truly he became the very crown of the martial Way. Among all the swordsmen under Heaven, there were none who were not drawn to him and did not seek his instruction.
 
 > 当時宗厳公凝思於兵術曰、持刀剣以制敵者非格外玄術。豈不有赤手殺人手段乎。
 
-At that time, Lord Munetoshi devoted his thought to the martial arts and said: "To subdue an enemy by wielding a sword is no art of extraordinary mystery. Surely there must be methods of killing a man even with bare hands."
+At that time, Lord Munetoshi devoted his thought to the martial arts and said: "To subdue an enemy by wielding a sword is no art of extraordinary mystery. Surely there must be methods of killing a man even with bare hands?"
 
 > 於是、工夫日積、煅煉累年、別出新意、忽得白戦之術。鍛然彼揮剣撃我、飜然飛去、右転左転、歩々風起、在前忽焉在後。
 
@@ -123,7 +123,7 @@ If those in the world who study the art of war were to discard this, what else c
 
 > 若以剣術伝人則撰庚公之斬者、伝之可乎。非其人勿伝其道。蓋聞、師資相承、恰似瀉一器水於一器、如分一燈成百千燈。
 
-If one would transmit the art of the sword to another, should one choose a man like Geng Gong, who cut down even his own father? Would such a transmission ever be acceptable? If he is not the right person, do not transmit the Way to him. It is said that the succession of master and disciple is like pouring water from one vessel into another, or like dividing one flame to make a hundred or a thousand lamps.
+If one would transmit the art of the sword to another, should one choose a man like Geng Gong, who used his blade for murder? Would such a transmission ever be acceptable? If he is not the right person, do not transmit the Way to him. It is said that the succession of master and disciple is like pouring water from one vessel into another, or like dividing one flame to make a hundred or a thousand lamps.
 
 > 始無殊異。雖然、依有工夫浅深・鍛錬厚薄而其術亦有工拙軽重。
 
@@ -143,7 +143,7 @@ These finest and most essential subtleties cannot be expressed in words — they
 
 > 賢士太夫以武名世者、不可不学。光陰荏苒、可惜時也。老而悔、何及哉。勉旃。
 
-The caoable and worthy gentleman who would make his name in the martial arts cannot fail to study them. Time slips away unnoticed — it is a pity to waste it. To grow old and regret is too late. Apply yourself.
+The capable and worthy gentleman who would make his name in the martial arts cannot fail to study them. Time slips away unnoticed — it is a pity to waste it. To grow old and regret is too late. Apply yourself.
 
 [^1]: The identity of this Elder Kan (関長老 *Kan chōrō*) is uncertain, but he would have been a Rinzai Zen elder associated with the Yagyū, possibly even Takuan Sōhō himself.
 
@@ -165,6 +165,6 @@ The caoable and worthy gentleman who would make his name in the martial arts can
 
 [^10]: This character 車 is not given as such in the source document; instead we have two transcriptions of characters that don't appear to actually exist. However, [Mencius's parable of Feng Fu](https://ctext.org/dictionary.pl?if=en&id=13929) descending from his carriage to grapple a tiger would have been quite well-known. This story was commonly referenced in the set idiom 下車搏虎 — "to step down from one's carriage and grapple tigers".
 
-[^11]: This paragraph contains several allusions that an erudite contemporary reader would have recognised from the Chinese classics. [Meng Ben and Xia Yu](https://ctext.org/dictionary.pl?if=en&id=61269) were famed for their physical strength yet dismissed for their lack of cultivated virtue; such men, for all their might, could only fold their arms in helplessness. The scholar Feng Fu, celebrated in Jin for grappling tigers, once rolled up his sleeves and stepped down from his carriage to fight another tiger — an act of empty bravado that delighted the common people but drew the derision of other scholars. Xiang Yu’s overbearing shout could cow other men, yet — as noted earlier in the text — his want of true martial skill ultimately led to his ruin. These figures, each lacking in essential understanding, cannot be measured against Munetoshi.
+[^11]: This paragraph contains several allusions that an erudite contemporary reader would have recognised from the Chinese classics. [Meng Ben and Xia Yu](https://ctext.org/dictionary.pl?if=en&id=61269) were famed for their physical strength yet dismissed for their lack of cultivated virtue; such men, for all their might, could only fold their arms in helplessness. Feng Fu, celebrated tiger-grappler-turned-scholar, once rolled up his sleeves and stepped down from his carriage to fight another tiger — an act of empty bravado that delighted the common people but drew the derision of other scholars. Xiang Yu’s overbearing shout could cow other men, yet — as noted earlier in the text — his want of true martial skill ultimately led to his ruin. These figures, each lacking in essential understanding, cannot be measured against Munetoshi.
 
 [^12]: This sentence invokes two well-known cautions from Chinese antiquity about the dangers of teaching the wrong disciple. Hou Yi (后羿), the divine archer, taught his art to Feng Meng (逢蒙; the manuscript gives the corrupted form 逢衆, a common Edo-period miswriting), who later turned his skill against his master and killed him. Likewise, Fei Wei (飛衛) taught archery to Ji Chang (紀昌), whose skill soon surpassed his teacher's and brought him to harm. Both stories warn that indiscriminate transmission invites danger.
