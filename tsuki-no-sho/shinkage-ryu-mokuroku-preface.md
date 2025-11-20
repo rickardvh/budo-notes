@@ -12,7 +12,7 @@ The martial art is the way by which one preserves oneself, destroys the enemy, b
 
 When the common man attains it, he preserves himself; when the warrior attains it, he destroys his enemy. When the gentleman attains it, he orders his household; when the general attains it, he governs his army; when the lord attains it, he rules his realm; when the Son of Heaven attains it, he brings peace to all under Heaven.
 
-> 以戦止戦之意也。是故銃(鋭)士勇将、欲立威珍天下者、無不由兵術。
+> 以戦止戦之意也。是故銃士勇将、欲立威珍天下者、無不由兵術。
 
 It is the principle of using war to end war. Therefore, the valiant warrior and the brave commander — all who would establish their authority under Heaven — must rely upon the martial art.
 
