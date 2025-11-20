@@ -12,11 +12,11 @@ The martial art is the way by which one preserves oneself, destroys the enemy, b
 
 When the common man attains it, he preserves himself; when the warrior attains it, he destroys his enemy. When the gentleman attains it, he orders his household; when the general attains it, he governs his army; when the lord attains it, he rules his realm; when the Son of Heaven attains it, he brings peace to all under Heaven.
 
-> 以戦止戦之意也。是故銃士勇将、欲立威珍天下者、無不由兵術。
+> 以戦止戦之意也。是故銃士勇将、欲立威於天下者、無不由兵術。
 
 It is the principle of using war to end war. Therefore, the valiant warrior and the brave commander — all who would establish their authority under Heaven — must rely upon the martial art.
 
-> 而兵術之要、莫大珍必克彼此相対、臨下欲交鋒接刃端皈彼可以来我可以往。彼人也。我人也。
+> 而兵術之要、莫大於必克彼此相対、臨下欲交鋒接刃端皈彼可以来我可以往。彼人也。我人也。
 
 Now, as for the essence of the martial art, there is nothing greater than this: when he and I face each other, on the verge of crossing blades, he may come and I may go. He is a man; I am a man.
 
@@ -32,7 +32,7 @@ At such a moment, if one seeks to decide victory before bared blades, then unles
 
 Even if a man's physical strength far surpassed that of others — able to uproot mountains, hoist cauldrons, or move boats upon dry land — if he has not mastered the art of the sword, he will inevitably fall to the enemy.
 
-> 仮令雖有人持于如将・莫耶・大阿・竜泉、天下之妙剣、亦不得剣術者、必為敵所檎者也。昔荆軻為秦王被誅者是也。故史記云、荆軻惜不講刺剣之術。
+> 仮令雖有人持如于将・莫耶・大阿・竜泉、天下之妙剣、亦不得剣術者、必為敵所擒者也。昔荆軻為秦王被誅者是也。故史記云、荆軻惜不講刺剣之術。
 
 Even should a man bear in his hand the finest swords under Heaven — *Ganjiang*, *Moye*, *Tai'a*, and *Longquan* — if he has not attained swordsmanship, he will surely become the prey of the enemy. In ancient times, Jing Ke, who was slain by the King of Qin, is an example of this. For as the *Records of the Historian* say: "Jing Ke's regret was that he had not studied the art of the thrusting sword."
 
