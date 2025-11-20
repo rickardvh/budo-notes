@@ -119,7 +119,7 @@ Without transcendent talent and peerless understanding, how could one possibly a
 
 > 天下学兵者捨之何求乎。吁盛哉。睠夫師之伝道、不識其人而妄伝則却受其害。后羿伝射於逢衆、飛衛伝射於紀昌者是也。
 
-If those in the world who study the art of war were to discard this, what else could they seek? Ah, how abundant it is! Yet when one reflects on the transmission of the Way from master to disciple: if one does not discern the person and passes it on recklessly, one will only incur harm from it. This is like Hou Yi teaching archery to Fengzhong, or Fei Wei teaching archery to Ji Chang.[^12]
+If those in the world who study the art of war were to discard this, what else could they seek? Ah, how abundant it is! Yet when one reflects on the transmission of the Way from master to disciple: if one does not discern the person and passes it on recklessly, one will only incur harm from it. This is like Hou Yi teaching archery to Feng Meng, or Fei Wei teaching archery to Ji Chang.[^12]
 
 > 若以剣術伝人則撰庚公之斬者、伝之可乎。非其人勿伝其道。蓋聞、師資相承、恰似瀉一器水於一器、如分一燈成百千燈。
 
