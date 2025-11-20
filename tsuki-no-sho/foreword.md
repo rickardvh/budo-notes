@@ -52,4 +52,4 @@ On an auspicious day in the second month of Kan'ei 19 (1642), I set my brush to 
 ---
 ---
 
-[Index](README.md)
+[Index](README.md) | [Next](shinkage-ryu-mokuroku-preface.md)
