@@ -30,3 +30,5 @@ Rickard von Haugwitz
 #### [Nihon Kendō Kata](kendo/nihon_kendo_kata/README.md)
 
 #### [Butokukai Kenjutsu Kata](kendo/butokukai/README.md)
+
+### [Tsuki no Shō](tsuki-no-sho/README.md)
