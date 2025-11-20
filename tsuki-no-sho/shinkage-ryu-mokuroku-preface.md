@@ -168,3 +168,8 @@ The capable and worthy gentleman who would make his name in the martial arts can
 [^11]: This paragraph contains several allusions that an erudite contemporary reader would have recognised from the Chinese classics. [Meng Ben and Xia Yu](https://ctext.org/dictionary.pl?if=en&id=61269) were famed for their physical strength yet dismissed for their lack of cultivated virtue; such men, for all their might, could only fold their arms in helplessness. Feng Fu, celebrated tiger-grappler-turned-scholar, once rolled up his sleeves and stepped down from his carriage to fight another tiger — an act of empty bravado that delighted the common people but drew the derision of other scholars. Xiang Yu’s overbearing shout could cow other men, yet — as noted earlier in the text — his want of true martial skill ultimately led to his ruin. These figures, each lacking in essential understanding, cannot be measured against Munetoshi.
 
 [^12]: This sentence invokes two well-known cautions from Chinese antiquity about the dangers of teaching the wrong disciple. Hou Yi (后羿), the divine archer, taught his art to Feng Meng (逢蒙; the manuscript gives the corrupted form 逢衆, a common Edo-period miswriting), who later turned his skill against his master and killed him. Likewise, Fei Wei (飛衛) taught archery to Ji Chang (紀昌), whose skill soon surpassed his teacher's and brought him to harm. Both stories warn that indiscriminate transmission invites danger.
+
+---
+---
+
+[Index](README.md)
