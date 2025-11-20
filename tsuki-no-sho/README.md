@@ -6,4 +6,6 @@ The source text is taken from 史料柳生新陰流（下巻） (Historical reco
 
 ## [Foreword](foreword.md)
 
+## [Preface to the Shinkage-ryū hyōhō list of transmissions](shinkage-ryu-mokuroku-preface.md)
+
 [^1]: 抄 (*shō*) means "excerpts" or "annotations" — "reflections" sounds better to me in English.
