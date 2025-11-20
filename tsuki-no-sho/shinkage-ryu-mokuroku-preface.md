@@ -149,7 +149,7 @@ The capable and worthy gentleman who would make his name in the martial arts can
 
 [^2]: This passage is a reference to a famous line in the Confucian book The Great Learning (大學):「修身、齊家、治國、平天下」. It describes the ladder of ethical priorities with which a ruler should be concerned: better the self, bring the household into order, govern the realm, and bring peace to all under Heaven.
 
-[^3]: Sima Qian, early Han-dynasty historian and author of the *Shiji*.
+[^3]: Sima Qian, early Han-dynasty historian and author of the Records of the Historian (史記 *Shiji*).
 
 [^4]: Ying the craftsman (郢工) is classical figure from the *Zhuangzi* and later Chinese literature. To "cut clay like Ying" is a proverb for effortless mastery: the blade moves without resistance because the skill is perfect.
 
