@@ -14,7 +14,7 @@ Therefore, gathering the transmission lists from Lord Hidetsuna through Lord Mun
 
 > 折ふし関東へひとゝせ下りしに、夏の稽古はしまりける寛永拾四年五月初日より、秋終に至テ是ヲ学、老父ノ相伝一々書留テ、此ヲ寄スル也。此左に寄シタル数々の習、重々の心持ヲ三ツにわけて、三つを亦ひとつに寄シテ予の得道とせり。
 
-On one occasion I went down to the Kantō region for a year. From when the summer training began on the first day of the fifth month of Kan'ei 14 (1637) until the end of autumn I studied this art. My venerable father recorded each transmission in writing, and I drew upon these notes. The various teachings and the many states of mind gathered in this record I divided into three, and then united the three again into one, making this the path of my own attainment.
+On one occasion I went down to the Kantō region for a year. From when the summer training began on the first day of the fifth month of Kan'ei 14 (1637) until the end of autumn I studied this art. I recorded each of my venerable father's transmissions in writing, and I drew upon these notes. The various teachings and the many states of mind gathered in this record I divided into three, and then united the three again into one, making this the path of my own attainment.
 
 > 然とも、向ふまたかくのことく我にひとしくあらん敵ニハ、勝負いかんとも心得かたし。さるによつて、おもふその至極を一巻ニ述る。老父に捧捧ハ父の云ク、これ不残やき捨タランニしくハあらしと也。
 
