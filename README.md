@@ -17,11 +17,13 @@ Rickard von Haugwitz
 
 #### [ZNKR Iaidō](iaido/znkr/README.md)
 
+#### [Musō Shinden-ryū Iaijutsu](iaido/msr/README.md)
+
 #### [Musō Shinden Jūshin-ryū Iaijutsu](iaido/msjr/README.md)
 
 ### Jōdō
 
-#### ZNKR Jōdō \[to be added\]
+#### [ZNKR Jōdō](jodo/znkr/README.md)
 
 #### [Shintō Musō-ryū Jōjutsu](jodo/smr/README.md)
 
