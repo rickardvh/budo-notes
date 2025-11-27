@@ -76,7 +76,7 @@
 1. 出合 Deai
 2. 附込 Tsukekomi
 3. 請流 Ukenagashi
-4. 請込 Ukeire
+4. 請込 Ukekomi
 5. 月影 Tsukikage
 6. 水月刀 Suigetsutō
 7. 獨妙剣 Dokumyōken
