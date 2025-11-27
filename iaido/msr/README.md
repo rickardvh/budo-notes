@@ -69,7 +69,7 @@
 10. 受流 Ukenagashi
 11. 暇乞（一）（二）（三） Itomagoi (1/2/3)
 
-### Tachi uchi no kurai
+### Tachiuchi no kurai
 
 太刀打之位
 
