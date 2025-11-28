@@ -33,7 +33,7 @@
 1. 太刀落 Tachiotoshi
 2. 鍔割 Tsubawari
 3. 着杖 Tsukizue
-4. 引提げ Hissage
+4. 引提 Hissage
 5. 左貫 Sakan
 6. 右貫 Ukan
 7. 霞 Kasumi
@@ -74,7 +74,7 @@
 1. 太刀落 Tachiotoshi
 2. 鍔割 Tsubawari
 3. 着杖 Tsukizue
-4. 引提げ Hissage
+4. 引提 Hissage
 5. 左貫 Sakan
 6. 右貫 Ukan
 7. 霞 Kasumi
@@ -92,7 +92,7 @@
 2. 十文字 Jūmonji
 3. 小太刀落 Kodachiotoshi
 4. 微塵（表）（裏） Mijin (omote/ura)
-5. 眼潰し Gantsubushi
+5. 眼潰 Gantsubushi
 
 ## Gohon no midare
 
