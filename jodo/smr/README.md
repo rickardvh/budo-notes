@@ -224,9 +224,9 @@
 3. 羽返 Hagaeshi
 4. 無眼 Mugan
 5. 十文字 Jūmonji
-6. 振込　一文字 Furikomi (ichimonji)
-7. 振込　十文字 Furikomi (jūmonji)
-8. 磯之浪 Isono nami
+6. 振込（一文字） Furikomi (ichimonji)
+7. 振込（十文字） Furikomi (jūmonji)
+8. 磯之浪 Iso no nami
 9. 巻落 Makiotoshi
 10. 三所詰 Mitokorozume
 11. 浮船 Ukifune
