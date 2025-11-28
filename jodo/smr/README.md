@@ -125,7 +125,7 @@
 
 極意
 
-- 闇打 Yamuichi
+- 闇打 Yamiuchi
 - 夢枕 Yumemakura
 - 村雲 Murakumo
 - 稲妻 Inazuma
