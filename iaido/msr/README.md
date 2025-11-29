@@ -2,9 +2,16 @@
 
 夢想神伝流
 
-## Table of contents
+- [Musō Shinden-ryū](#musō-shinden-ryū)
+  - [Shoden: Ōmori-ryū](#shoden-ōmori-ryū)
+  - [Chūden: Hasegawa Eishin-ryū](#chūden-hasegawa-eishin-ryū)
+  - [Okuden: Okuiai](#okuden-okuiai)
+    - [Seated forms](#seated-forms)
+    - [Standing forms](#standing-forms)
+  - [Tachiuchi no kurai](#tachiuchi-no-kurai)
+  - [Tsumeai no kurai](#tsumeai-no-kurai)
 
-### Shoden: Ōmori-ryū
+## Shoden: Ōmori-ryū
 
 初伝　大森流
 
@@ -21,7 +28,7 @@
 11. 陰陽進退替業（逆手陰陽進退） In'yō-shintai kaewaza (Sakate In'yō-shintai)
 12. 抜刀（抜打） Battō (Nukiuchi)
 
-### Chūden: Hasegawa Eishin-ryū
+## Chūden: Hasegawa Eishin-ryū
 
 中伝　長谷川英信流
 
@@ -36,11 +43,11 @@
 9. 滝落 Takiotoshi
 10. 抜打 Nukiuchi
 
-### Okuden: Okuiai
+## Okuden: Okuiai
 
 奥伝　奥居合
 
-#### Seated forms
+### Seated forms
 
 居業（座業）
 
@@ -53,7 +60,7 @@
 7. 両詰（向詰） Ryōzume (Mukōzume)
 8. 虎走 Torabashiri
 
-#### Standing forms
+### Standing forms
 
 立業
 
@@ -69,7 +76,7 @@
 10. 受流 Ukenagashi
 11. 暇乞（一）（二）（三） Itomagoi (1/2/3)
 
-### Tachiuchi no kurai
+## Tachiuchi no kurai
 
 太刀打之位
 
@@ -84,7 +91,7 @@
 9. 心明剣 Shinmyōken
 10. 打込 Uchikomi
 
-### Tsumeai no kurai
+## Tsumeai no kurai
 
 詰合之位
 
