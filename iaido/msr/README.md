@@ -86,7 +86,7 @@
 4. 請込 Ukekomi
 5. 月影 Tsukikage
 6. 水月刀 Suigetsutō
-7. 獨妙剣 Dokumyōken
+7. 独妙剣 Dokumyōken
 8. 絶妙剣 Zetsumyōken
 9. 心明剣 Shinmyōken
 10. 打込 Uchikomi
@@ -102,6 +102,6 @@
 5. 鱗返 Urokogaeshi
 6. 位弛 Kuraiyurumi
 7. 燕返 Tsubamegaeshi
-8. 眼關落 Gansekiotoshi
+8. 眼関落 Gansekiotoshi
 9. 水月刀 Suigetsutō
 10. 霞剣 Kasumiken
