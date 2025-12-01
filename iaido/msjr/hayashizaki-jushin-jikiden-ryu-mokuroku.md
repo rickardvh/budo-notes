@@ -1,4 +1,4 @@
-# Hayashizaki Jūshin Jikiden-ryū iai hyōhō　林崎重信直傳流居合兵法
+# Hayashizaki Jūshin Jikiden-ryū iai heihō　林崎重信直傳流居合兵法
 
 ## Forms 事形
 
