@@ -1,12 +1,9 @@
-居合兵法極意巻
+# Scroll of the innermost secrets of iai swordsmanship　居合兵法極意巻
 
-Iai Heihō Gokui no Maki
-Scroll of the Esoteric Principles of Iai Swordsmanship
-
-- 日中之事 Concerning actions in broad daylight
+- 日中之事 Concerning sunny days
 - 月夜之事 Concerning moonlit nights
 - 闇夜之事 Concerning dark nights
-- 風吹之事 Concerning times when the wind blows
+- 風吹之事 Concerning times of wind
 - 雨中之事 Concerning times of rain
 - 雪中之事 Concerning times of snow
 - 寒天之事 Concerning cold weather
@@ -24,9 +21,7 @@ Scroll of the Esoteric Principles of Iai Swordsmanship
 
 ---
 
-## 神心八相之㕝
-
-Shinshin Hassō no Koto
+## Concerning Shinshin Hassō 神心八相之㕝
 
 柄口六寸之㕝 Concerning *tsukaguchi rokusun*
 
