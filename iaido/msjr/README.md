@@ -67,6 +67,11 @@
 18. 抜打 Nukiuchi
 19. 弛抜 Yuruminuki
 
+- 両士引連 Ryōshi hikitsure
+- 賢之事 Katame no koto
+- クゝリ捨 Kukurisute
+- 軍場之大事 Gunba no daiji
+
 ## Tachiuchi no waza
 
 太刀打之業
