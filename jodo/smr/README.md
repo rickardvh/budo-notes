@@ -98,7 +98,7 @@
 
 五本の乱
 
-1. 太刀の乱 Tachi no midare
+1. 太刀落の乱 Tachiotoshi no midare
 2. 左貫の乱 Sakan no midare
 3. 間込の乱 Kengome no midare
 4. 霞の乱 Kasumi no midare
