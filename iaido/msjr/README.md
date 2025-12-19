@@ -17,7 +17,7 @@
   - [Sakahashi-ryū no bō](#sakahashi-ryū-no-bō)
     - [Bōai](#bōai)
     - [Bō tachiai](#bō-tachiai)
-  - [Natsubara-ryū yawara no koto](#natsubara-ryū-yawara-no-koto)
+  - [Natsuhara-ryū yawara no koto](#natsuhara-ryū-yawara-no-koto)
     - [Torite yawara no koto](#torite-yawara-no-koto)
     - [Tachiai](#tachiai)
     - [Kogusoku](#kogusoku)
