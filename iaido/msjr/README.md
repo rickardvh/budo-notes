@@ -13,6 +13,17 @@
   - [Daishōzume](#daishōzume)
   - [Daishō tachizume](#daishō-tachizume)
   - [Daikentori](#daikentori)
+  - [Kodachi no kurai](#kodachi-no-kurai)
+  - [Sakahashi-ryū no bō](#sakahashi-ryū-no-bō)
+    - [Bōai](#bōai)
+    - [Bō tachiai](#bō-tachiai)
+  - [Natsubara-ryū yawara no koto](#natsubara-ryū-yawara-no-koto)
+    - [Torite yawara no koto](#torite-yawara-no-koto)
+    - [Tachiai](#tachiai)
+    - [Kogusoku](#kogusoku)
+    - [Go-tachiai](#go-tachiai)
+    - [Kogusokuwari](#kogusokuwari)
+    - [Te no utsuri](#te-no-utsuri)
 
 ## Ōmori-ryū battō no koto
 
@@ -123,7 +134,7 @@
 大小立詰
 
 1. 袖摺返 Sodesurigaeshi
-2. 骨防返 Honemogikaeshi
+2. 骨防返 Honemogigaeshi
 3. 鍔打返 Tsubauchigaeshi
 4. 〆捕 Shimetori
 5. 蜻蛉返 Tonbogaeshi
@@ -144,3 +155,148 @@
 8. 橇橋 Sorihashi
 9. 雷電 Raiden
 10. 水月 Suigetsu
+
+---
+
+## Kodachi no kurai
+
+小太刀之位
+
+(No longer extant)
+
+1. 左請眼 Hidariseigan
+2. 右請眼 Migiseigan
+3. 中請眼 Chūseigan
+4. 當中剱 Tōchūken
+5. 下段ノ弛 Gedan no hazushi
+6. 上段ノ弛 Jōdan no hazushi
+
+## Sakahashi-ryū no bō
+
+坂橋流之棒
+
+(No longer extant)
+
+### Bōai
+
+棒合
+
+1. 追込 Oikomi
+2. 立合 Tachiai
+3. 請込 Ukeiri
+4. 行違 Yukichigai
+5. 込入 Komiiri
+
+### Bō tachiai
+
+棒太刀合
+
+1. 脛砕 Sunekudaki
+2. 腰車 Koshiguruma
+3. 小手上 Koteage
+4. 小手落 Koteotoshi
+5. 小鬢流 Kobinnagashi
+6. 笠之羽 Kasa no hane
+7. 見返 Mikaeri
+8. 袖返 Sodegaeshi
+
+## Natsubara-ryū yawara no koto
+
+夏原流和之事
+
+(No longer extant)
+
+### Torite yawara no koto
+
+捕手和之事
+
+1. 使者捕 Shishatori
+2. 砂乱 Saran
+3. 弓返 Yumigaeshi
+4. 附入 Tsukeiri
+5. 右転 Uten
+6. 右詰 Migizume
+7. 抜捨 Nukisute
+8. 胸點 Kyōten
+9. 向面 Mukōmen(?)
+10. 遠行 Enkō
+11. 鐺返 Kojirigaeshi
+
+### Tachiai
+
+立合
+
+1. 行違 Yukichigai
+2. 無想 Musō
+3. 裙取 Susotori
+4. 支劔 Shiken
+5. 車附 Kurumazuke
+6. 玉簾 Tamasudare
+7. 燕返 Tsubamegaeshi
+8. 打込 Uchikomi
+9. 杉倒 Sugitaoshi
+10. 追捕 Tsuibu(?)
+11. 水車 Suisha
+
+### Kogusoku
+
+小具足
+
+1. 呪巻 Noroimaki
+2. 劔當詰 Kentōzume
+3. 先手 Sente
+4. 瀧返 Takigaeshi
+5. 繰返 Kurikaeshi
+6. 逆ノ劔 Gyaku no ken
+7. 逆ノ折 Gyaku no ori
+8. 位ノ弛 Kurai no yurumi
+9. 髻附 Motodoritsuke
+10. 靭付 Utsubotsuke
+11. 影切掛 Kagekirikake
+
+### Go-tachiai
+
+後立合
+
+1. 上留 Uwadome
+2. 車返 Kurumagaeshi
+3. 屏風返 Byōbugaeshi
+4. 七里引 Shichiribiki
+5. 柱体 Chūtai
+6. 回腕捕 Kaiwantori
+7. 回腕崩 Kaiwankuzushi
+8. 稲妻 Inazuma
+9. 浪返 Namigaeshi
+10. 大殺 Ōgoroshi
+11. 櫓落 Yaguraotoshi
+
+### Kogusokuwari
+
+小具足割
+
+1. 弛 Yurumi
+2. 向剣 Mukōken
+3. 自籠詰 Jirōzume
+4. 滝落 Takiotoshi
+5. 切返 Kirikaeshi
+6. 村雨 Murasame
+7. 勝句廻 Kachikumawari
+8. 岩波 Iwanami
+9. 逆ノ返 Gyaku no kaeshi
+10. 浦ノ波 Ura no nami
+
+### Te no utsuri
+
+手之移
+
+1. 障子返 Shōjigaeshi
+2. 小車 Koguruma
+3. 山越 Yamagoe
+4. 變ノ弛 Hen no hazushi
+5. 請返 Ukekaeshi
+6. 勝骰 Shōsai
+7. 九寸返 Kusunkaeshi
+8. 坐配謀 Zahaibō(?)
+9. 捫返 Nadegaeshi
+10. 五輪添 Gorinzoe
+11. 支點當 Shiten-ate
