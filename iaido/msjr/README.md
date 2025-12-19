@@ -46,8 +46,8 @@
 
 抜刀心持之事
 
-1. 向拂 Kasumi
-2. 柄留 Sunegakoi
+1. 向拂 Mukōbarai
+2. 柄留 Tsukadome
 3. 向詰 Mukōzume
 4. 両詰 Ryōzume
 5. 三角 Sankaku
