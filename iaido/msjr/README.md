@@ -10,6 +10,9 @@
   - [Battō kokoromochi no koto](#battō-kokoromochi-no-koto)
   - [Tachiuchi no waza](#tachiuchi-no-waza)
   - [Tsumeai](#tsumeai)
+  - [Daishōzume](#daishōzume)
+  - [Daishō tachizume](#daishō-tachizume)
+  - [Daikentori](#daikentori)
 
 ## Ōmori-ryū battō no koto
 
@@ -101,3 +104,43 @@
 8. 柄砕 Tsukakudaki
 9. 水月 Suigetsu
 10. 霞劔 Kasumiken
+
+## Daishōzume
+
+大小詰
+
+1. 抱詰 Dakizume
+2. 骨防扱 Honemogi
+3. 柄留 Tsukadome
+4. 小手留 Kotedome
+5. 胸捕 Munetori
+6. 右伏 Migifuse
+7. 左伏 Hidarifuse
+8. 山影詰 Yamakagezume
+
+## Daishō tachizume
+
+大小立詰
+
+1. 袖摺返 Sodesurigaeshi
+2. 骨防返 Honemogikaeshi
+3. 鍔打返 Tsubauchigaeshi
+4. 〆捕 Shimetori
+5. 蜻蛉返 Tonbogaeshi
+6. 亂曲 Rankyoku
+7. 電光石火 Denkōsekka
+
+## Daikentori
+
+大剣取
+
+1. 無剣 Muken
+2. 水石 Suiseki
+3. 外石 Gaiseki
+4. 鉄石 Tesseki
+5. 栄眼 Eigan
+6. 栄月 Eigetsu
+7. 山風 Yamakaze
+8. 橇橋 Sorihashi
+9. 雷電 Raiden
+10. 水月 Suigetsu

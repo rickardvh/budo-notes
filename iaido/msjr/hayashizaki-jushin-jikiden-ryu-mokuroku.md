@@ -65,7 +65,7 @@
 * Honemogiatsukai 骨防鈠[^3]
 * Tsukadome 柄留
 * Kotedome 小手留
-* Munedori 胸捕
+* Munetori 胸捕
 * Migifuse 右伏
 * Hidarifuse 左伏
 * Yamakagezume 山影詰
