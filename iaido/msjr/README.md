@@ -200,7 +200,7 @@
 7. 見返 Mikaeri
 8. 袖返 Sodegaeshi
 
-## Natsubara-ryū yawara no koto
+## Natsuhara-ryū yawara no koto
 
 夏原流和之事
 
