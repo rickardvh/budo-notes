@@ -60,7 +60,7 @@
 11. 払留 Haraidome
 12. 清眼 Seigan
 
-## Ran-ai
+## (Ran-ai)
 
 乱合
 
@@ -94,7 +94,7 @@
 4. 微塵（表）（裏） Mijin (omote/ura)
 5. 眼潰 Gantsubushi
 
-## Gohon no midare
+## (Gohon no midare)
 
 五本の乱
 
