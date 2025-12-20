@@ -23,7 +23,7 @@
     - [Kogusoku](#kogusoku)
     - [Go-tachiai](#go-tachiai)
     - [Kogusokuwari](#kogusokuwari)
-    - [Te no utsuri](#te-no-utsuri)
+    - [Honte no utsuri](#honte-no-utsuri)
 
 ## Ōmori-ryū battō no koto
 
@@ -285,9 +285,9 @@
 9. 逆ノ返 Gyaku no kaeshi
 10. 浦ノ波 Ura no nami
 
-### Te no utsuri
+### Honte no utsuri
 
-手之移
+本手之移
 
 1. 障子返 Shōjigaeshi
 2. 小車 Koguruma
