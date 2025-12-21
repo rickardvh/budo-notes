@@ -121,7 +121,7 @@
 大小詰
 
 1. 抱詰 Dakizume
-2. 骨防扱 Honemogiatsukai
+2. 骨防扱 Honemogiatsukai (also *Honemogi*)
 3. 柄留 Tsukadome
 4. 小手留 Kotedome
 5. 胸捕 Munetori
