@@ -166,7 +166,7 @@
 
 1. 左請眼 Hidariseigan
 2. 右請眼 Migiseigan
-3. 中請眼 Chūseigan
+3. 中請眼 Nakaseigan
 4. 當中剱 Tōchūken
 5. 下段ノ弛 Gedan no hazushi
 6. 上段ノ弛 Jōdan no hazushi
