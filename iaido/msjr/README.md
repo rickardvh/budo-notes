@@ -1,6 +1,6 @@
 # Musō Shinden Jūshin-ryū
 
-夢想神伝重信流
+夢想神傳重信流
 
 [The origins of iai](iai-kongen-no-maki.md)
 
