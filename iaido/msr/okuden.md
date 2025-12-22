@@ -87,7 +87,8 @@ Traditional name: 放打 *Hanashiuchi*
 
 ### 信夫 Shinobu
 
-Traditional name: 夜之太刀 *Yoru no tachi*
+Traditional name: 夜之太刀 *Yoru no tachi*  
+Other names: 夜の敵 *Yoru no teki*
 
 ### 行違 Yukichigai
 
@@ -95,15 +96,18 @@ Traditional name: 連達 *Tsuredachi*
 
 ### 袖摺返 Sodesurigaeshi
 
-Traditional name: 人中 *Jinchū*
+Traditional name: 人中 *Jinchū*  
+Other names: 賢の事 *Katame no koto*
 
 ### 門入 Mon-iri
 
-Traditional name: --
+Traditional name: --  
+Other names: 隠れ捨 *Kakuresute*
 
 ### 壁添 Kabezoe
 
-Traditional name: 抜打 *Nukiuchi*
+Traditional name: 抜打 *Nukiuchi*  
+Other names: 人中 *Jinchū*
 
 ### 受流 Ukenagashi
 
@@ -111,4 +115,5 @@ Traditional name: 弛抜 *Yuruminuki*
 
 ### 暇乞 Itomagoi
 
-Traditional name: --
+Traditional name: --  
+Other names: 抜打 *Nukiuchi*
