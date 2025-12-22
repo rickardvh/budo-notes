@@ -35,9 +35,13 @@
 
 Traditional name: 向拂 *Mukōbarai*
 
+Mukōbarai means to sweep or clear in front. The name Kasumi ("haze" or "mist") was borrowed from the Soto no mono no daiji, where it describes a "dreamlike" state of mind. In this detached, meditative state, one sees the enemy as through a haze. It was paired with the secret technique Raiden (雷電, "thunder and lightning") where one cuts the enemy's hand on the tsuka from jōdan as they move to attack.
+
 ### 脛囲 Sunegakoi
 
 Traditional name: 柄留 *Tsukadome*
+
+Tsukadome means to stop (with) the tsuka. In the traditional form, one uses the tsuka to press the enemy's sword hand down and stop the draw; as they instead step back and draw from below to cut the leg, one continues as in Tora-issoku.
 
 ### 四方切 Shihōgiri
 
