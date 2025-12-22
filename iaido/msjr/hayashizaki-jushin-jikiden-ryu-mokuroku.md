@@ -81,7 +81,7 @@
 
 *Oral transmissions*
 
-## Essentials of outside engagement 外之物之大事
+## Outside essentials 外之物之大事
 
 * Yukizure 行連
 * Tsuredachi 連達
@@ -181,7 +181,9 @@ Shimomura Shigeichi (seal)
 
 Although many of the names under the "essentials" headings will look familiar to practitioners of Musō Shinden-ryū and Musō Jikiden Eishin-ryū, they are, in fact, not (yet) kata as such. Rather, they are instructions for how to act in different situations, as will become clear in later scrolls.
 
-The functional grouping itself tells us more about the teachings than the modern seated/standing dichotomy of Okuden kata. I have rendered 外之物之大事 as "essentials of outside engagement", and this likely refers to dealing with enemies approaching from outside the very close ma-ai of standard Eishin-ryū iai. 外之物 (*soto no mono*, "outside things"; "things" here being used in a very loose sense) could refer to "outside ma-ai" or to "outsiders" (another group, clan, etc.), but the conclusion is the same. 上意 (*jōi*) in 上意之大事 means a decree from or the will of the shōgun or the emperor, but is used here about orders from one's lord: in other words, this section is about fulfilling official missions, and pertains perilous travel and visits to hostile areas, where one might be ordered to perform a specific task.
+The functional grouping itself tells us more about the teachings than the modern seated/standing dichotomy of Okuden kata. I have rendered 外之物之大事 as "outside essentials": 外之物 (*soto no mono*, "outside things") normally refers to teachings outside the core techniques of a school, such as those from other schools. According to accompanying notes in the *Eishin-ryū iai mokuroku hiketsu*, it is used here about teachings outside the regular *omote* of the school.
+
+上意 (*jōi*) in 上意之大事 means a decree from or the will of the shōgun or the emperor, but is used here about orders from one's lord: in other words, this section is about fulfilling official missions, and pertains perilous travel and visits to hostile areas, where one might be ordered to perform a specific task.
 
 What is now known as the Tachi uchi no kurai (太刀打の位, "sword-striking set") is listed as Tachiai no kurai (立相之位), meaning something more like "the standing set". Given that all other sets are (at least predominantly) seated, this naming makes more sense.
 
