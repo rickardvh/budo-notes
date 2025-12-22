@@ -35,17 +35,19 @@
 
 Traditional name: 向拂 *Mukōbarai*
 
-Mukōbarai means to sweep or clear in front. The name Kasumi ("haze" or "mist") was borrowed from the Soto no mono no daiji, where it describes a "dreamlike" state of mind. In this detached, meditative state, one sees the enemy as through a haze. It was paired with the secret technique Raiden (雷電, "thunder and lightning") where one cuts the enemy's hand on the tsuka from jōdan as they move to attack.
+Mukōbarai means to sweep or clear in front. The name Kasumi ("haze" or "mist") was borrowed from the *Soto no mono no daiji*, where it describes a "dreamlike" state of mind. In this detached, meditative state, one perceives the enemy as through a haze. It was paired with the secret technique Raiden (雷電, "thunder and lightning") where one cuts the enemy's hand on the tsuka from jōdan as they move to attack. These two concepts are described as the innermost of the inner teachings; the very foundation of the school.
 
 ### 脛囲 Sunegakoi
 
 Traditional name: 柄留 *Tsukadome*
 
-Tsukadome means to stop (with) the tsuka. In the traditional form, one uses the tsuka to press the enemy's sword hand down and stop the draw; as they instead step back and draw from below to cut the leg, one continues as in Tora-issoku.
+Tsukadome means to stop (with) the tsuka. In the traditional form, one uses the tsuka to press the enemy's sword hand down and stop the draw; as they instead step back and draw from below to cut the leg, one continues as in Tora-issoku. Sunegakoi ("protecting the shin*) leaves the first part out, resulting in a form essentially identical to Tora-issoku.
 
 ### 四方切 Shihōgiri
 
 Traditional name: 四角 *Shikaku*
+
+The name Shihōgiri ("cuts in four directions") appears in one of the old mokuroku directly following the core Eishin-ryū forms. It is unclear to me what exactly it refers to there, but it appears to be a small set of four kata: 向 (front), 右 (right), 左 (left), and 後 (back). The original name for this kata, Shikaku, simply means "square" or "four corners".
 
 ### 戸詰 Tozume
 
