@@ -41,11 +41,12 @@ Mukōbarai means to sweep or clear in front. The name Kasumi ("haze" or "mist") 
 
 Traditional name: 柄留 *Tsukadome*
 
-Tsukadome means to stop (with) the tsuka. In the traditional form, one uses the tsuka to press the enemy's sword hand down and stop the draw; as they instead step back and draw from below to cut the leg, one continues as in Tora-issoku. Sunegakoi ("protecting the shin*) leaves the first part out, resulting in a form essentially identical to Tora-issoku.
+Tsukadome means to stop (with) the tsuka. In the traditional form, one uses the tsuka to press the enemy's sword hand down and stop the draw; as they instead step back and draw from below to cut the leg, one continues as in Tora-issoku. Sunegakoi ("protecting the shin") leaves the first part out, resulting in a form essentially identical to Tora-issoku.
 
 ### 四方切 Shihōgiri
 
-Traditional name: 四角 *Shikaku*
+Traditional name: 四角 *Shikaku*  
+Other names: 四角 *Yosumi*, *Shisumi*
 
 The name Shihōgiri ("cuts in four directions") appears in one of the old mokuroku directly following the core Eishin-ryū forms. It is unclear to me what exactly it refers to there, but it appears to be a small set of four kata: 向 (front), 右 (right), 左 (left), and 後 (back). The original name for this kata, Shikaku, simply means "square" or "four corners".
 
