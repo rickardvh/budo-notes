@@ -31,6 +31,80 @@
 10. 受流 Ukenagashi
 11. 暇乞（一）（二）（三） Itomagoi (1/2/3)
 
-### Kasumi
+### 霞 Kasumi
 
-霞
+Traditional name: 向拂 *Mukōbarai*
+
+### 脛囲 Sunegakoi
+
+Traditional name: 柄留 *Tsukadome*
+
+### 四方切 Shihōgiri
+
+Traditional name: 四角 *Shikaku*
+
+### 戸詰 Tozume
+
+Traditional name: 両詰 *Ryōzume*
+
+### 戸脇 Towaki
+
+Traditional name: 両詰 *Ryōzume*
+
+### 棚下 Tanashita
+
+Traditional name: 棚下 *Tanashita*
+
+### 両詰（向詰） Ryōzume (Mukōzume)
+
+Traditional name: 向詰 *Mukōzume*
+
+### 虎走 Torabashiri
+
+Traditional name: 虎走 *Torabashiri*
+
+---
+
+### 行連 Yukizure
+
+Traditional name: 行連 *Yukizure*
+
+### 連達 Tsuredachi
+
+Traditional name: 行連 *Yukizure*
+
+### 惣捲 Sōmakuri
+
+Traditional name: 五方切 *Gohōgiri*
+
+### 総留 Sōdome
+
+Traditional name: 放打 *Hanashiuchi*
+
+### 信夫 Shinobu
+
+Traditional name: 夜之太刀 *Yoru no tachi*
+
+### 行違 Yukichigai
+
+Traditional name: 連達 *Tsuredachi*
+
+### 袖摺返 Sodesurigaeshi
+
+Traditional name: 人中 *Jinchū*
+
+### 門入 Mon-iri
+
+Traditional name: --
+
+### 壁添 Kabezoe
+
+Traditional name: 抜打 *Nukiuchi*
+
+### 受流 Ukenagashi
+
+Traditional name: 弛抜 *Yuruminuki*
+
+### 暇乞 Itomagoi
+
+Traditional name: --
