@@ -25,27 +25,37 @@
 
 ## 霞 Kasumi
 
-Traditional name: 向拂 *Mukōbarai*
+Meaning: "haze" or "mist"  
+Traditional name: 向拂 *Mukōbarai* ("sweep/clear in front")
 
-Mukōbarai means to sweep or clear in front. The name Kasumi ("haze" or "mist") was borrowed from the *Soto no mono no daiji*, where it describes a "dreamlike" state of mind. In this detached, meditative state, one perceives the enemy as through a haze. It was paired with the secret technique Raiden (雷電, "thunder and lightning") where one cuts the enemy's hand on the tsuka from jōdan as they move to attack. These two concepts are described as the innermost of the inner teachings; the very foundation of the school.
+The name Kasumi may have borrowed from the *Soto no mono no daiji* (outside essentials), where it describes a detached, "dreamlike" state of mind, in which one perceives the enemy as through a haze. It was paired with the secret technique Raiden (雷電, "thunder and lightning") where one cuts the enemy's hand on the tsuka from jōdan as they move to attack. These two concepts are described as the innermost of the inner teachings; the very foundation of the school.
 
 ## 脛囲 Sunegakoi
 
-Traditional name: 柄留 *Tsukadome*
+Meaning: "protecting the shin"  
+Traditional name: 柄留 *Tsukadome* ("stopping (with) the tsuka")
 
-Tsukadome means to stop (with) the tsuka. In the traditional form, one uses the tsuka to press the enemy's sword hand down and stop the draw; as they instead step back and draw from below to cut the leg, one continues as in Tora-issoku. Sunegakoi ("protecting the shin") leaves the first part out, resulting in a form essentially identical to Tora-issoku.
+In the traditional form, one uses the tsuka to press the enemy's sword hand down and stop the draw; as they instead step back and draw from below to cut the leg, one continues as in Tora-issoku. Sunegakoi leaves the first part out, resulting in a form essentially identical to Tora-issoku.
 
 ## 四方切 Shihōgiri
 
-Traditional name: 四角 *Shikaku*  
+Meaning: "cuts in four directions"  
+Traditional name: 四角 *Shikaku* ("square"/"four corners")  
 Other names: 四角 *Yosumi*, *Shisumi*
 
-The name Shihōgiri ("cuts in four directions") appears in one of the old mokuroku directly following the core Eishin-ryū forms. It is unclear to me what exactly it refers to there, but it appears to be a small set of four kata: 向 (front), 右 (right), 左 (left), and 後 (back). The original name for this kata, Shikaku, simply means "square" or "four corners".
+The name Shihōgiri appears in one of the old mokuroku directly following the core Eishin-ryū forms. It is unclear to me what exactly it refers to there, but it appears to be a small set of four kata: 向 (front), 右 (right), 左 (left), and 後 (back).
 
 ## 戸詰 Tozume
 
-Traditional name: 両詰 *Ryōzume*  
-Other names: 三角 *Sankaku*
+Meaning: "caught in the door"
+Traditional name: 両詰 *Ryōzume* ("pressed on both sides")  
+Other names: 三角 *Sankaku* ("triangle"/"three corners")
+
+Originally, this form dealt with the scenario where you have an enemy close by on both sides, such as when you are sent as an envoy and the guards move to seize you. [Towaki](#戸脇-towaki) was the base form, as it is faster first to thrust to the left before cutting to the right, compared to cutting each enemy in turn. However, if you think the enemy to the right may stop you from drawing, it is prudent to cut him before turning to the one on the left: this kaewaza became Tozume.
+
+Sankaku is another kata completely, where you have one enemy in front and two behind.
+
+As for Tozume, the name comes from an entry in the *Jōi no daiji* (essentials of acting on orders), instructing on what to do if one fears the enemy might slam the sliding door shut on one's head as one bows in the doorway upon entering a room; in this situation, one should place a folding fan in the door groove in the floor and hold it down with one's knee while bowing, in order to block the door.
 
 ## 戸脇 Towaki
 
