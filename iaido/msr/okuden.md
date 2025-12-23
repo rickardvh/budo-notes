@@ -43,7 +43,7 @@ Meaning: "cuts in four directions"
 Traditional name: 四角 *Shikaku* ("square"/"four corners")  
 Other names: 四角 *Yosumi*, *Shisumi*
 
-The name Shihōgiri appears in one of the old mokuroku directly following the core Eishin-ryū forms. It is unclear to me what exactly it refers to there, but it appears to be a small set of four kata: 向 (front), 右 (right), 左 (left), and 後 (back).
+The name Shihōgiri appears in one of the old mokuroku directly following the core Eishin-ryū forms. It is unclear to me what exactly it refers to there, but it appears to be a small set of four kata: 向 (front), 右 (right), 左 (left), and 後 (back). The important lesson of this kata, which comes from instructions in the *Jōi no daiji* (essentials of acting on orders), is that one will not have time to cut each enemy in turn, but has to thrust to the back or back left first, and then cut the remaining three enemies in the specified order, so as to have any chance of winning.
 
 ## 戸詰 Tozume
 
@@ -55,11 +55,14 @@ Originally, this form dealt with the scenario where you have an enemy close by o
 
 Sankaku is another kata completely, where you have one enemy in front and two behind.
 
-As for Tozume, the name comes from an entry in the *Jōi no daiji* (essentials of acting on orders), instructing on what to do if one fears the enemy might slam the sliding door shut on one's head as one bows in the doorway upon entering a room; in this situation, one should place a folding fan in the door groove in the floor and hold it down with one's knee while bowing, in order to block the door.
+As for Tozume, the name comes from an entry in the *Jōi no daiji*, instructing on what to do if you fear the enemy might slam the sliding door shut on your head as you bow in the doorway upon entering a room; in this situation, you should place a folding fan in the door groove in the floor and hold it down with your knee while bowing, in order to block the door.
 
 ## 戸脇 Towaki
 
-Traditional name: 両詰 *Ryōzume*
+Meaning: "beside the door"  
+Traditional name: 両詰 *Ryōzume* ("pressed on both sides")
+
+See [Tozume](#戸詰-tozume). The name Towaki again comes from the *Jōi no daiji*, where it contains instructions on how to enter a room when you suspect an enemy might be hiding to the side of the door waiting to ambush you: enter through the door with one decisive step directly towards where you think the enemy is standing, and pull the sword out together with the saya, using the tsuka to push him back with a strike to the chest, before drawing and thrusting at the staggered enemy. In the case that the enemy has already drawn his sword and cuts down the moment you enter, first block the cut with the tsuba near the fuchigane, the sword still in the saya.
 
 ## 棚下 Tanashita
 
