@@ -47,7 +47,7 @@ The name Shihōgiri appears in one of the old mokuroku directly following the co
 
 ## 戸詰 Tozume
 
-Meaning: "caught in the door"
+Meaning: "caught in the door"  
 Traditional name: 両詰 *Ryōzume* ("pressed on both sides")  
 Other names: 三角 *Sankaku* ("triangle"/"three corners")
 
@@ -62,18 +62,23 @@ As for Tozume, the name comes from an entry in the *Jōi no daiji*, instructing 
 Meaning: "beside the door"  
 Traditional name: 両詰 *Ryōzume* ("pressed on both sides")
 
-See [Tozume](#戸詰-tozume). The name Towaki again comes from the *Jōi no daiji*, where it contains instructions on how to enter a room when you suspect an enemy might be hiding to the side of the door waiting to ambush you: enter through the door with one decisive step directly towards where you think the enemy is standing, and pull the sword out together with the saya, using the tsuka to push him back with a strike to the chest, before drawing and thrusting at the staggered enemy. In the case that the enemy has already drawn his sword and cuts down the moment you enter, first block the cut with the tsuba near the fuchigane, the sword still in the saya.
+See [Tozume](#戸詰-tozume).
+
+The name Towaki again comes from the *Jōi no daiji*, where it contains instructions on how to enter a room when you suspect an enemy might be hiding to the side of the door waiting to ambush you: enter through the door with one decisive step directly towards where you think the enemy is standing, and pull the sword out together with the saya, using the tsuka to push him back with a strike to the chest, before drawing and thrusting at the staggered enemy. In the case that the enemy has already drawn his sword and cuts down the moment you enter, first block the cut with the tsuba near the fuchigane, the sword still in the saya.
 
 ## 棚下 Tanashita
 
+Meaning: "under the shelf"  
 Traditional name: 棚下 *Tanashita*
 
 ## 両詰（向詰） Ryōzume (Mukōzume)
 
+Meaning: "pressed on both sides" (Ryōzume); "pressed in front" (Mukōzume)  
 Traditional name: 向詰 *Mukōzume*
 
 ## 虎走 Torabashiri
 
+Meaning: "tiger run"  
 Traditional name: 虎走 *Torabashiri*
 
 ---
