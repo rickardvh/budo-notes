@@ -41,7 +41,7 @@ In the traditional form, one uses the tsuka to press the enemy's sword hand down
 
 Meaning: "cuts in four directions"  
 Traditional name: 四角 *Shikaku* ("square"/"four corners")  
-Other names: 四角 *Yosumi*, *Shisumi*
+Other names: 四角 *Yosumi*, *Shisumi* ("four corners")
 
 The name Shihōgiri appears in one of the old mokuroku directly following the core Eishin-ryū forms. It is unclear to me what exactly it refers to there, but it appears to be a small set of four kata: 向 (front), 右 (right), 左 (left), and 後 (back). The important lesson of this kata, which comes from instructions in the *Jōi no daiji* (essentials of acting on orders), is that one will not have time to cut each enemy in turn, but has to thrust to the back or back left first, and then cut the remaining three enemies in the specified order, so as to have any chance of winning.
 
@@ -85,50 +85,61 @@ Traditional name: 虎走 *Torabashiri*
 
 ## 行連 Yukizure
 
+Meaning: "going in company"  
 Traditional name: 行連 *Yukizure*
 
 ## 連達 Tsuredachi
 
+Meaning: "in column"  
 Traditional name: 行連 *Yukizure*
 
 ## 惣捲 Sōmakuri
 
-Traditional name: 五方切 *Gohōgiri*  
-Other names: 追いかけ斬 *Oikakegiri*
+Meaning: "completely over and over"  
+Traditional name: 五方切 *Gohōgiri* ("cuts in five directions")  
+Other names: 追いかけ斬 *Oikakegiri* ("pursuing cuts")
 
 ## 総留 Sōdome
 
-Traditional name: 放打 *Hanashiuchi*
+Meaning: "complete stopping"  
+Traditional name: 放打 *Hanashiuchi* ("release-strike")
 
 ## 信夫 Shinobu
 
-Traditional name: 夜之太刀 *Yoru no tachi*  
-Other names: 夜の敵 *Yoru no teki*
+Meaning: ("in stealth")  
+Traditional name: 夜之太刀 *Yoru no tachi* ("sword in the night")  
+Other names: 夜の敵 *Yoru no teki* ("enemy in the night")
 
 ## 行違 Yukichigai
 
+Meaning: "passing by"  
 Traditional name: 連達 *Tsuredachi*
 
 ## 袖摺返 Sodesurigaeshi
 
-Traditional name: 人中 *Jinchū*  
-Other names: 賢の事 *Katame no koto*
+Meaning: "flipping the sleeve"  
+Traditional name: 人中 *Jinchū* ("among people")  
+Other names: 賢の事 *Katame no koto* ("regarding hardening")
 
 ## 門入 Mon-iri
 
+Meaning: "entering through a gate"  
 Traditional name: --  
-Other names: 隠れ捨 *Kakuresute*
+Other names: 隠れ捨 *Kakuresute* ("hiding and discarding")
 
 ## 壁添 Kabezoe
 
-Traditional name: 抜打 *Nukiuchi*  
+Meaning: "along walls"  
+Traditional name: 抜打 *Nukiuchi* ("surprise attack"/"drawing and striking")
 Other names: 人中 *Jinchū*
 
 ## 受流 Ukenagashi
 
-Traditional name: 弛抜 *Yuruminuki*
+Meaning: "warding off (a cut)"  
+Traditional name: 弛抜 *Yuruminuki* ("slack draw")
 
 ## 暇乞 Itomagoi
 
+Meaning: "requesting leave"  
 Traditional name: --  
 Other names: 抜打 *Nukiuchi*
