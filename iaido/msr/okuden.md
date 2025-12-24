@@ -43,7 +43,9 @@ Meaning: "cuts in four directions"
 Traditional name: 四角 *Shikaku* ("square"/"four corners")  
 Other names: 四角 *Yosumi*, *Shisumi* ("four corners")
 
-The name Shihōgiri appears in one of the old mokuroku directly following the core Eishin-ryū forms. It is unclear to me what exactly it refers to there, but it appears to be a small set of four kata: 向 (front), 右 (right), 左 (left), and 後 (back). The important lesson of this kata, which comes from instructions in the *Jōi no daiji* (essentials of acting on orders), is that one will not have time to cut each enemy in turn, but has to thrust to the back or back left first, and then cut the remaining three enemies in the specified order, so as to have any chance of winning.
+The name Shihōgiri appears in one of the old mokuroku directly following the core Eishin-ryū forms. It is unclear to me what exactly it refers to there, but it appears to be a small set of four kata: 向 (front), 右 (right), 左 (left), and 後 (back).
+
+The important lesson of this kata, which comes from instructions in the *Jōi no daiji* (essentials of acting on orders), is that one will not have time to deeply cut each enemy in turn, and that iai relies on "shallow" victory. In order to keep all four enemies at bay precisely long enough to cut all of them in quick succession, the essential action is to make a large sweeping circular cut the moment the kissaki leaves the saya, rotating to the right until reaching the enemy to the rear. Exploiting the opening caused by the instinctive shying away of the enemies, one can then cut each of them with quicker-than-usual cuts. The positioning of the enemies was later rotated 45°, and the instructions were combined with [Ryōzume](#戸脇-towaki) to incorporate a thrust to the rear left enemy before the sweep.
 
 ## 戸詰 Tozume
 
