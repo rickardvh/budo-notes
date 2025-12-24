@@ -22,6 +22,8 @@
   - [壁添 Kabezoe](#壁添-kabezoe)
   - [受流 Ukenagashi](#受流-ukenagashi)
   - [暇乞 Itomagoi](#暇乞-itomagoi)
+  - [(両士引連 Ryōshi-hikitsure)](#両士引連-ryōshi-hikitsure)
+  - [(追掛斬 Oikakegiri)](#追掛斬-oikakegiri)
 
 ## 霞 Kasumi
 
@@ -93,19 +95,20 @@ This form, too, has its origin in the *Jōi no daiji*, and concerns how to execu
 
 ## 行連 Yukizure
 
-Meaning: "going in company"  
+Meaning: "brought along"  
 Traditional name: 行連 *Yukizure*
 
 ## 連達 Tsuredachi
 
-Meaning: "in column"  
+Meaning: "escorted away"  
 Traditional name: 行連 *Yukizure*
+Other names: 連達 *Rentatsu*
 
 ## 惣捲 Sōmakuri
 
-Meaning: "completely over and over"  
+Meaning: "completely and repeatedly"  
 Traditional name: 五方切 *Gohōgiri* ("cuts in five directions")  
-Other names: 追いかけ斬 *Oikakegiri* ("pursuing cuts")
+Other names: 追いかけ斬 *Oikakegiri* ("pursuing and cutting")
 
 ## 総留 Sōdome
 
@@ -143,7 +146,7 @@ Other names: 人中 *Jinchū*
 
 ## 受流 Ukenagashi
 
-Meaning: "warding off (a cut)"  
+Meaning: "deflecting (a cut)"  
 Traditional name: 弛抜 *Yuruminuki* ("slack draw")
 
 ## 暇乞 Itomagoi
@@ -151,3 +154,15 @@ Traditional name: 弛抜 *Yuruminuki* ("slack draw")
 Meaning: "requesting leave"  
 Traditional name: --  
 Other names: 抜打 *Nukiuchi*
+
+---
+
+## (両士引連 Ryōshi-hikitsure)
+
+Meaning: "accompanied by both men"/"bringing both men along"  
+Traditional name: 行違 *Yukichigai*
+
+## (追掛斬 Oikakegiri)
+
+Meaning: "pursuing and cutting"  
+Traditional name: 追掛斬 *Oikakegiri*
