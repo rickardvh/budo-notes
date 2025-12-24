@@ -28,7 +28,7 @@
 Meaning: "haze" or "mist"  
 Traditional name: 向拂 *Mukōbarai* ("sweep/clear in front")
 
-The name Kasumi may have borrowed from the *Soto no mono no daiji* (outside essentials), where it describes a detached, "dreamlike" state of mind, in which one perceives the enemy as through a haze. It was paired with the secret technique Raiden (雷電, "thunder and lightning") where one cuts the enemy's hand on the tsuka from jōdan as they move to attack. These two concepts are described as the innermost of the inner teachings; the very foundation of the school.
+The name Kasumi may have borrowed from the *Soto no mono no daiji* (outside essentials), where it describes a detached, "dreamlike" state of mind, in which one perceives the enemy as through a haze. It was paired with the secret technique Raiden (雷電, "thunder and lightning") where one invites the enemy to attack and cuts their hand on the tsuka as they move to do so. These two concepts are described as the innermost of the inner secrets; the very foundation of the school.
 
 ## 脛囲 Sunegakoi
 
@@ -45,7 +45,7 @@ Other names: 四角 *Yosumi*, *Shisumi* ("four corners")
 
 The name Shihōgiri appears in one of the old mokuroku directly following the core Eishin-ryū forms. It is unclear to me what exactly it refers to there, but it appears to be a small set of four kata: 向 (front), 右 (right), 左 (left), and 後 (back).
 
-The important lesson of this kata, which comes from instructions in the *Jōi no daiji* (essentials of acting on orders), is that one will not have time to deeply cut each enemy in turn, and that iai relies on "shallow" victory. In order to keep all four enemies at bay precisely long enough to cut all of them in quick succession, the essential action is to make a large sweeping circular cut the moment the kissaki leaves the saya, rotating to the right until reaching the enemy to the rear. Exploiting the opening caused by the instinctive shying away of the enemies, one can then cut each of them with quicker-than-usual cuts. The positioning of the enemies was later rotated 45°, and the instructions were combined with [Ryōzume](#戸脇-towaki) to incorporate a thrust to the rear left enemy before the sweep.
+The important lesson of this kata, which comes from instructions in the *Jōi no daiji* (essentials of acting on orders), is that one will not have time to deeply cut each enemy in turn, and that iai relies on "shallow" victory. In order to keep all four enemies at bay precisely long enough to cut all of them in quick succession, the essential action is to make a large sweeping circular cut the moment the kissaki leaves the saya, rotating to the right until reaching the enemy to the rear. Exploiting the opening caused by the instinctive shying away of the enemies, one can then cut each of them with quicker-than-usual cuts, not trying to make fully committed cuts. The positioning of the enemies was later rotated 45°, and the instructions were combined with [Ryōzume (Towaki)](#戸脇-towaki) to incorporate a thrust to the rear left enemy before the sweep.
 
 ## 戸詰 Tozume
 
@@ -53,18 +53,18 @@ Meaning: "caught in the door"
 Traditional name: 両詰 *Ryōzume* ("pressed on both sides")  
 Other names: 三角 *Sankaku* ("triangle"/"three corners")
 
-Originally, this form dealt with the scenario where you have an enemy close by on both sides, such as when you are sent as an envoy and the guards move to seize you. [Towaki](#戸脇-towaki) was the base form, as it is faster first to thrust to the left before cutting to the right, compared to cutting each enemy in turn. However, if you think the enemy to the right may stop you from drawing, it is prudent to cut him before turning to the one on the left: this kaewaza became Tozume.
+Originally, this form dealt with the scenario where you have an enemy close by on both sides, such as when you are sent as an envoy and the guards move to seize you. [Towaki](#戸脇-towaki) was the base form, as it is faster first to thrust to the left before cutting to the right, compared to cutting each enemy in turn. However, if you think the enemy to the right may stop you from drawing, it is prudent to cut him before turning to the one on the left: this kaewaza became Tozume. The positioning of the enemies was changed from directly to the sides to diagonally to the front right and left.
 
 Sankaku is another kata completely, where you have one enemy in front and two behind.
 
-As for Tozume, the name comes from an entry in the *Jōi no daiji*, instructing on what to do if you fear the enemy might slam the sliding door shut on your head as you bow in the doorway upon entering a room; in this situation, you should place a folding fan in the door groove in the floor and hold it down with your knee while bowing, in order to block the door.
+As for the name, Tozume comes from an entry in the *Jōi no daiji*, instructing on what to do if you fear the enemy might slam the sliding door shut on your head as you bow in the doorway upon entering a room; in this situation, you should place a folding fan in the door groove in the floor and hold it down with your knee while bowing, in order to block the door.
 
 ## 戸脇 Towaki
 
 Meaning: "beside the door"  
 Traditional name: 両詰 *Ryōzume* ("pressed on both sides")
 
-See [Tozume](#戸詰-tozume).
+See [Tozume](#戸詰-tozume). The enemies' positions were again shifted from directly to the sides to diagonally to the front right and rear left. Musō Shinden Eishin-ryū in the Hosokawa tradition has a similar kata called Zengozume (前後詰) with one enemy directly in front and another directly behind; Towaki can be considered an in-between version of Zengozume and the original Ryōzume.
 
 The name Towaki again comes from the *Jōi no daiji*, where it contains instructions on how to enter a room when you suspect an enemy might be hiding to the side of the door waiting to ambush you: enter through the door with one decisive step directly towards where you think the enemy is standing, and pull the sword out together with the saya, using the tsuka to push him back with a strike to the chest, before drawing and thrusting at the staggered enemy. In the case that the enemy has already drawn his sword and cuts down the moment you enter, first block the cut with the tsuba near the fuchigane, the sword still in the saya.
 
@@ -73,15 +73,21 @@ The name Towaki again comes from the *Jōi no daiji*, where it contains instruct
 Meaning: "under the shelf"  
 Traditional name: 棚下 *Tanashita*
 
+Tanashita was another entry in the *Jōi no daiji* detailing how to cut when vertical space is limited, such as under a low ceiling. The oldest version in the *Eishin-ryū iai mokuroku hiketsu* said simply to lower one knee to the floor at the moment of cutting, and that once one has understood this, one would also be able to cut without needing to lower the knee. This latter way of cutting is likely what is used in the modern [Mon-iri](#門入-mon-iri) to avoid cutting into the doorframe.
+
 ## 両詰（向詰） Ryōzume (Mukōzume)
 
 Meaning: "pressed on both sides" (Ryōzume); "pressed in front" (Mukōzume)  
 Traditional name: 向詰 *Mukōzume*
 
+The name Ryōzume originally referred to [Towaki](#戸脇-towaki), where one has an enemy on both sides; hence the name. This was reinterpreted in the Gotō (Tanimura) line to mean "obstructed on both sides", and assigned to this form. In fact, as the original name Mukōzume implies, the scenario is that the enemy is seated close opposite to you, and there is not enough space in front to do a horizontal nukitsuke like in Yokogumo (and perhaps no space behind to step back as in the kaewaza). Instead, you draw the sword and bring it between yourself and the enemy, horizontally so as to (I presume) control the enemy's sword hand and stop him from drawing his own sword, and follow with a tsuki to the solar plexus as he attempts to back away.
+
 ## 虎走 Torabashiri
 
 Meaning: "tiger run"  
 Traditional name: 虎走 *Torabashiri*
+
+This form, too, has its origin in the *Jōi no daiji*, and concerns how to execute a kill order on someone in a large room with other people present: stand up, hunch over with your sword pressed close in front so as to seem non-threatening, and walk (not running, despite the name) briskly with your knees close together straight to your target without hesitation. Once in range, draw the sword with the edge down within the line of your body, the purpose being to conceal the draw for as long as possible so as not to alert the nearby enemies, and cut gyaku-kesa, followed by a vertical downwards cut. If you are pursued when retreating, you can apply the same method for going backwards and defending yourself.
 
 ---
 
