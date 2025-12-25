@@ -2,6 +2,19 @@
 
 奥伝　奥居合
 
+The formal name of Okuden is *Battō kokoromochi no koto* (抜刀心持之事): "the mental attitude of sword-drawing". It is also referred to as *Okuiai*, *Eishin-ryū ura*/*oku*, or simply *Jūshin-ryū*. In the densho, it is introduced with the following passage:
+
+>> 格を放れて早く抜く也　重信流
+>
+> *Free yourself from the rules and draw quickly*  
+> *Jūshin-ryū*
+
+Traditionally, Okuden would be taught only once the student had learnt Ōmori-ryū, Eishin-ryū, Tachiuchi no kurai, Tsumeai no kurai, Daishōzume and Daishō tachizume. Going back even further, the various forms did not start out as actual kata at all, but as instructions on how to act in specific situations in which one might find oneself during the course of duty. Most of the kata in the later *Battō kokoromochi no koto* were adapted from entries in the *Soto no mono no daiji* (外之物之大事 "outside essentials"; teachings outside the core curriculum of the school) and the *Jōi no daiji* (上意之大事 "essentials of acting under orders"; instructions for situations that may arise when on a mission) to work as training methods for daily practice. For this reason, although practising the forms will aid in developing speed and technique, without the correct background and knowledge of the scenarios they were originally meant to instruct on, such practice amounts to little more than pointless sword-swinging.
+
+Adding to the confusion, the Okuden that has been passed down in Musō Shinden-ryū has been greatly distorted and the kata names jumbled over time. Although Musō Shinden-ryū is usually regarded as belonging to the Shimomura line of Tosa Eishin-ryū, this is not entirely correct when it comes to Okuden. The Okuden of Musō Shinden-ryū is that which Nakayama Hakudō learnt from Morimoto Tokumi of the Tanimura (Gotō) line, which is why it is nearly identical to that of Musō Jikiden Eishin-ryū. The true Shimomura line as transmitted from Hosokawa Yoshimasa was passed down only to a select few students, first of whom was Kimura Eiju, under the name [Musō Shinden Jūshin-ryū](../msjr/README.md).
+
+Unfortunately, while the densho of the Shimomura line have been published, only the [Kongen no maki](../msjr/iai-kongen-no-maki.md) has ever come out of the Tanimura line, and it appears its teachers have not had access to the old scrolls since the split. While the densho were eventually published in the 1970s, it was already too late as forms and interpretations had calcified, and few teachers actually read the old texts. Making matters worse, the kata names had been rearranged in the Tanimura line, with many forms assigned misleading names originally belonging to unrelated entries in the *Jōi no daiji* and other sections. Later on, with no access to the actual texts, teachers attempted to reconcile the names with the forms, resulting in confusing interpretations that in some cases are far removed from the original scenarios. Although this renaming and rearrangement of Okuden is usually attributed to Ōe Masaji, there is no clear evidence that he did not pass it on as inherited from Gotō Masasuke. Indeed, if Nakayama's Okuden is the one he learnt from Morimoto (himself a student of Gotō), the changes may have happened earlier.
+
 - [Okuden: Okuiai](#okuden-okuiai)
   - [霞 Kasumi](#霞-kasumi)
   - [脛囲 Sunegakoi](#脛囲-sunegakoi)
@@ -30,7 +43,7 @@
 Meaning: "haze" or "mist"  
 Traditional name: 向拂 *Mukōbarai* ("sweep/clear in front")
 
-The name Kasumi may have borrowed from the *Soto no mono no daiji* (outside essentials), where it describes a detached, "dreamlike" state of mind, in which one perceives the enemy as through a haze. It was paired with the secret technique Raiden (雷電, "thunder and lightning") where one invites the enemy to attack and cuts their hand on the tsuka as they move to do so. These two concepts are described as the innermost of the inner secrets; the very foundation of the school.
+The name Kasumi may have borrowed from the *Soto no mono no daiji*, where it describes a detached, "dreamlike" state of mind, in which one perceives the enemy as through a haze. It was paired with the secret technique Raiden (雷電, "thunder and lightning") where one invites the enemy to attack and cuts their hand on the tsuka as they move to do so. These two concepts are described as the innermost of the inner secrets; the very foundation of the school.
 
 ## 脛囲 Sunegakoi
 
@@ -47,7 +60,7 @@ Other names: 四角 *Yosumi*, *Shisumi* ("four corners")
 
 The name Shihōgiri appears in one of the old mokuroku directly following the core Eishin-ryū forms. It is unclear to me what exactly it refers to there, but it appears to be a small set of four kata: 向 (opposite), 右 (right), 左 (left), and 後 (behind).
 
-The important lesson of this kata, which comes from instructions in the *Jōi no daiji* (essentials of acting under orders), is that one will not have time to deeply cut each enemy in turn, and that iai relies on "shallow" victory. In order to keep all four enemies at bay precisely long enough to cut all of them in quick succession, the essential action is to make a large sweeping circular cut the moment the kissaki leaves the saya, rotating to the right until reaching the enemy to the rear. Exploiting the opening caused by the instinctive shying away of the enemies, one can then cut each of them with quicker-than-usual cuts, not trying to make fully committed cuts. The positioning of the enemies was later rotated 45°, and the instructions were combined with [Ryōzume (Towaki)](#戸脇-towaki) to incorporate a thrust to the rear left enemy before the sweep.
+The important lesson of this kata, which comes from instructions in the *Jōi no daiji*, is that one will not have time to deeply cut each enemy in turn, and that iai relies on "shallow" victory. In order to keep all four enemies at bay precisely long enough to cut all of them in quick succession, the essential action is to make a large sweeping circular cut the moment the kissaki leaves the saya, rotating to the right until reaching the enemy to the rear. Exploiting the opening caused by the instinctive shying away of the enemies, one can then cut each of them with quicker-than-usual cuts, not trying to make fully committed cuts. The positioning of the enemies was later rotated 45°, and the instructions were combined with [Ryōzume (Towaki)](#戸脇-towaki) to incorporate a thrust to the rear left enemy before the sweep.
 
 ## 戸詰 Tozume
 
@@ -160,6 +173,8 @@ Traditional name: --
 Other names: 抜打 *Nukiuchi*
 
 ---
+
+(These forms are only practised in a few lines)
 
 ## (両士引連 Ryōshi-hikitsure)
 
