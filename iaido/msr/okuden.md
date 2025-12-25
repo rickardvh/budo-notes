@@ -2,6 +2,35 @@
 
 奥伝　奥居合
 
+- [Okuden: Okuiai](#okuden-okuiai)
+  - [Introduction](#introduction)
+  - [Seated forms](#seated-forms)
+    - [霞 Kasumi](#霞-kasumi)
+    - [脛囲 Sunegakoi](#脛囲-sunegakoi)
+    - [四方切 Shihōgiri](#四方切-shihōgiri)
+    - [戸詰 Tozume](#戸詰-tozume)
+    - [戸脇 Towaki](#戸脇-towaki)
+    - [棚下 Tanashita](#棚下-tanashita)
+    - [両詰（向詰） Ryōzume (Mukōzume)](#両詰向詰-ryōzume-mukōzume)
+    - [虎走 Torabashiri](#虎走-torabashiri)
+  - [Standing forms](#standing-forms)
+    - [行連 Yukizure](#行連-yukizure)
+    - [連達 Tsuredachi](#連達-tsuredachi)
+    - [惣捲 Sōmakuri](#惣捲-sōmakuri)
+    - [総留 Sōdome](#総留-sōdome)
+    - [信夫 Shinobu](#信夫-shinobu)
+    - [行違 Yukichigai](#行違-yukichigai)
+    - [袖摺返 Sodesurigaeshi](#袖摺返-sodesurigaeshi)
+    - [門入 Mon-iri](#門入-mon-iri)
+    - [壁添 Kabezoe](#壁添-kabezoe)
+    - [受流 Ukenagashi](#受流-ukenagashi)
+    - [暇乞 Itomagoi](#暇乞-itomagoi)
+  - [Additional forms](#additional-forms)
+    - [両士引連 Ryōshi-hikitsure](#両士引連-ryōshi-hikitsure)
+    - [追掛斬 Oikakegiri](#追掛斬-oikakegiri)
+
+## Introduction
+
 The formal name of Okuden is *Battō kokoromochi no koto* (抜刀心持之事): "the mental attitude of sword-drawing". It is also referred to as *Okuiai*, *Eishin-ryū ura*/*oku*, or simply *Jūshin-ryū*. In the densho, it is introduced with the following passage:
 
 >> 格を放れて早く抜く也　重信流
@@ -15,44 +44,25 @@ Adding to the confusion, the Okuden that has been passed down in Musō Shinden-r
 
 Unfortunately, while the densho of the Shimomura line have been published, only the [Kongen no maki](../msjr/iai-kongen-no-maki.md) has ever come out of the Tanimura line, and it appears its teachers have not had access to the old scrolls since the split. While the densho were eventually published in the 1970s, it was already too late as forms and interpretations had calcified, and few teachers actually read the old texts. Making matters worse, the kata names had been rearranged in the Tanimura line, with many forms assigned misleading names originally belonging to unrelated entries in the *Jōi no daiji* and other sections. Later on, with no access to the actual texts, teachers attempted to reconcile the names with the forms, resulting in confusing interpretations that in some cases are far removed from the original scenarios. Although this renaming and rearrangement of Okuden is usually attributed to Ōe Masaji, there is no clear evidence that he did not pass it on as inherited from Gotō Masasuke. Indeed, if Nakayama's Okuden is the one he learnt from Morimoto (himself a student of Gotō), the changes may have happened earlier.
 
-- [Okuden: Okuiai](#okuden-okuiai)
-  - [霞 Kasumi](#霞-kasumi)
-  - [脛囲 Sunegakoi](#脛囲-sunegakoi)
-  - [四方切 Shihōgiri](#四方切-shihōgiri)
-  - [戸詰 Tozume](#戸詰-tozume)
-  - [戸脇 Towaki](#戸脇-towaki)
-  - [棚下 Tanashita](#棚下-tanashita)
-  - [両詰（向詰） Ryōzume (Mukōzume)](#両詰向詰-ryōzume-mukōzume)
-  - [虎走 Torabashiri](#虎走-torabashiri)
-  - [行連 Yukizure](#行連-yukizure)
-  - [連達 Tsuredachi](#連達-tsuredachi)
-  - [惣捲 Sōmakuri](#惣捲-sōmakuri)
-  - [総留 Sōdome](#総留-sōdome)
-  - [信夫 Shinobu](#信夫-shinobu)
-  - [行違 Yukichigai](#行違-yukichigai)
-  - [袖摺返 Sodesurigaeshi](#袖摺返-sodesurigaeshi)
-  - [門入 Mon-iri](#門入-mon-iri)
-  - [壁添 Kabezoe](#壁添-kabezoe)
-  - [受流 Ukenagashi](#受流-ukenagashi)
-  - [暇乞 Itomagoi](#暇乞-itomagoi)
-  - [(両士引連 Ryōshi-hikitsure)](#両士引連-ryōshi-hikitsure)
-  - [(追掛斬 Oikakegiri)](#追掛斬-oikakegiri)
+## Seated forms
 
-## 霞 Kasumi
+居業（座業）
+
+### 霞 Kasumi
 
 Meaning: "haze" or "mist"  
 Traditional name: 向拂 *Mukōbarai* ("sweep/clear in front")
 
 The name Kasumi may have borrowed from the *Soto no mono no daiji*, where it describes a detached, "dreamlike" state of mind, in which one perceives the enemy as through a haze. It was paired with the secret technique Raiden (雷電, "thunder and lightning") where one invites the enemy to attack and cuts their hand on the tsuka as they move to do so. These two concepts are described as the innermost of the inner secrets; the very foundation of the school.
 
-## 脛囲 Sunegakoi
+### 脛囲 Sunegakoi
 
 Meaning: "protecting the shin"  
 Traditional name: 柄留 *Tsukadome* ("stopping (with) the tsuka")
 
 In the traditional form, one uses the tsuka to press the enemy's sword hand down and stop the draw; as they instead step back and draw from below to cut the leg, one continues as in Tora-issoku. Sunegakoi leaves the first part out, resulting in a form essentially identical to Tora-issoku.
 
-## 四方切 Shihōgiri
+### 四方切 Shihōgiri
 
 Meaning: "cuts in four directions"  
 Traditional name: 四角 *Shikaku* ("square"/"four corners")  
@@ -62,7 +72,7 @@ The name Shihōgiri appears in one of the old mokuroku directly following the co
 
 The important lesson of this kata, which comes from instructions in the *Jōi no daiji*, is that one will not have time to deeply cut each enemy in turn, and that iai relies on "shallow" victory. In order to keep all four enemies at bay precisely long enough to cut all of them in quick succession, the essential action is to make a large sweeping circular cut the moment the kissaki leaves the saya, rotating to the right until reaching the enemy to the rear. Exploiting the opening caused by the instinctive shying away of the enemies, one can then cut each of them with quicker-than-usual cuts, not trying to make fully committed cuts. The positioning of the enemies was later rotated 45°, and the instructions were combined with [Ryōzume (Towaki)](#戸脇-towaki) to incorporate a thrust to the rear left enemy before the sweep.
 
-## 戸詰 Tozume
+### 戸詰 Tozume
 
 Meaning: "caught in the door"  
 Traditional name: 両詰 *Ryōzume* ("pressed on both sides")  
@@ -74,7 +84,7 @@ Sankaku is another kata completely, where you have one enemy in front and two be
 
 As for the name, Tozume comes from an entry in the *Jōi no daiji*, instructing on what to do if you fear the enemy might slam the sliding door shut on your head as you bow in the doorway upon entering a room; in this situation, you should place a folding fan in the door groove in the floor and hold it down with your knee while bowing, in order to block the door.
 
-## 戸脇 Towaki
+### 戸脇 Towaki
 
 Meaning: "beside the door"  
 Traditional name: 両詰 *Ryōzume* ("pressed on both sides")
@@ -83,37 +93,39 @@ See [Tozume](#戸詰-tozume). The enemies' positions were again shifted from dir
 
 The name Towaki again comes from the *Jōi no daiji*, where it contains instructions on how to enter a room when you suspect an enemy might be hiding to the side of the door waiting to ambush you: enter through the door with one decisive step directly towards where you think the enemy is standing, and pull the sword out together with the saya, using the tsuka to push him back with a strike to the chest, before drawing and thrusting at the staggered enemy. In the case that the enemy has already drawn his sword and cuts down the moment you enter, first block the cut with the tsuba near the fuchigane, the sword still in the saya.
 
-## 棚下 Tanashita
+### 棚下 Tanashita
 
 Meaning: "under the shelf"  
 Traditional name: 棚下 *Tanashita*
 
 Tanashita was another entry in the *Jōi no daiji* detailing how to cut when vertical space is limited, such as under a low ceiling. The oldest version in the *Eishin-ryū iai mokuroku hiketsu* said simply to lower one knee to the floor at the moment of cutting, and that once one has understood this, one would also be able to cut without needing to lower the knee. This latter way of cutting is likely what is used in the modern [Mon-iri](#門入-mon-iri) to avoid cutting into the doorframe.
 
-## 両詰（向詰） Ryōzume (Mukōzume)
+### 両詰（向詰） Ryōzume (Mukōzume)
 
 Meaning: "pressed on both sides" (Ryōzume); "pressed in front" (Mukōzume)  
 Traditional name: 向詰 *Mukōzume*
 
 The name Ryōzume originally referred to [Towaki](#戸脇-towaki), where one has an enemy on both sides; hence the name. This was reinterpreted in the Gotō (Tanimura) line to mean "obstructed on both sides", and assigned to this form. In fact, as the original name Mukōzume implies, the scenario is that the enemy is seated close opposite to you, and there is not enough space in front to do a horizontal nukitsuke like in Yokogumo (and perhaps no space behind to step back as in the kaewaza). Instead, you draw the sword and bring it between yourself and the enemy, horizontally so as to (I presume) control the enemy's sword hand and stop him from drawing his own sword, and follow with a tsuki to the solar plexus as he attempts to back away.
 
-## 虎走 Torabashiri
+### 虎走 Torabashiri
 
 Meaning: "tiger run"  
 Traditional name: 虎走 *Torabashiri*
 
 This form, too, has its origin in the *Jōi no daiji*, and concerns how to execute a kill order on someone in a large room with other people present: stand up, hunch over with your sword pressed close in front so as to seem non-threatening, and walk (not running, despite the name) briskly with your knees close together straight to your target without hesitation. Once in range, draw the sword with the edge down within the line of your body, the purpose being to conceal the draw for as long as possible so as not to alert the nearby enemies, and cut gyaku-kesa, followed by a vertical downwards cut. If you are pursued when retreating, you can apply the same method for going backwards and defending yourself.
 
----
+## Standing forms
 
-## 行連 Yukizure
+立業
+
+### 行連 Yukizure
 
 Meaning: "brought along"  
 Traditional name: 行連 *Yukizure*
 
 Similarly to the relationship between [Tozume](#戸詰-tozume) (of which this is the standing form) and [Towaki](#戸脇-towaki), this was originally a kaewaza of what is now [Tsuredachi](#連達-tsuredachi). The enemies were positioned directly to the sides, and in the basic form one would draw and thrust at the enemy to the left before cutting the enemy to the right. However, an additional note added that one could also cut the enemy to the right with a one-handed cut before cutting the one to the left; this version became the Yukizure of Gotō-ha and later Musō Shinden-ryū. This entry was first included in the *Soto no mono no daiji*, and contained instructions on what to do in the event that enemies try to bring you away by coming from both sides at once.
 
-## 連達 Tsuredachi
+### 連達 Tsuredachi
 
 Meaning: "escorted away"  
 Traditional name: 行連 *Yukizure*
@@ -121,67 +133,67 @@ Other names: 連達 *Rentatsu*
 
 See [Yukizure](#行連-yukizure). The name Tsuredachi traditionally belonged to [Yukichigai](#行違-yukichigai).
 
-## 惣捲 Sōmakuri
+### 惣捲 Sōmakuri
 
 Meaning: "completely and repeatedly"  
 Traditional name: 五方切 *Gohōgiri* ("cuts in five directions")  
 Other names: 追いかけ斬 *Oikakegiri* ("pursuing and cutting")
 
-## 総留 Sōdome
+### 総留 Sōdome
 
 Meaning: "complete stopping"  
 Traditional name: 放打 *Hanashiuchi* ("release-strike")
 
-## 信夫 Shinobu
+### 信夫 Shinobu
 
 Meaning: ("in stealth")  
 Traditional name: 夜之太刀 *Yoru no tachi* ("sword in the night")  
 Other names: 夜の敵 *Yoru no teki* ("enemy in the night")
 
-## 行違 Yukichigai
+### 行違 Yukichigai
 
 Meaning: "passing by"  
 Traditional name: 連達 *Tsuredachi*
 
-## 袖摺返 Sodesurigaeshi
+### 袖摺返 Sodesurigaeshi
 
 Meaning: "flipping the sleeve"  
 Traditional name: 人中 *Jinchū* ("among people")  
 Other names: 賢の事 *Katame no koto* ("regarding hardening")
 
-## 門入 Mon-iri
+### 門入 Mon-iri
 
 Meaning: "entering through a gate"  
 Traditional name: --  
 Other names: 隠れ捨 *Kakuresute* ("hiding and discarding")
 
-## 壁添 Kabezoe
+### 壁添 Kabezoe
 
 Meaning: "along walls"  
 Traditional name: 抜打 *Nukiuchi* ("surprise attack"/"drawing and striking")  
 Other names: 人中 *Jinchū*
 
-## 受流 Ukenagashi
+### 受流 Ukenagashi
 
 Meaning: "deflecting (a cut)"  
 Traditional name: 弛抜 *Yuruminuki* ("slack draw")
 
-## 暇乞 Itomagoi
+### 暇乞 Itomagoi
 
 Meaning: "requesting leave"  
 Traditional name: --  
 Other names: 抜打 *Nukiuchi*
 
----
+## Additional forms
 
 (These forms are only practised in a few lines)
 
-## (両士引連 Ryōshi-hikitsure)
+### 両士引連 Ryōshi-hikitsure
 
 Meaning: "accompanied by both men"/"bringing both men along"  
 Traditional name: 行違 *Yukichigai*
 
-## (追掛斬 Oikakegiri)
+### 追掛斬 Oikakegiri
 
 Meaning: "pursuing and cutting"  
 Traditional name: 追掛斬 *Oikakegiri*
