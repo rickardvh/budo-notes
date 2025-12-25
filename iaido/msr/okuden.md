@@ -98,7 +98,7 @@ This form, too, has its origin in the *Jōi no daiji*, and concerns how to execu
 Meaning: "brought along"  
 Traditional name: 行連 *Yukizure*
 
-Similarly to the relationship between [Tozume](#戸詰-tozume) (of which this is the standing form) and [Towaki](#戸脇-towaki), this was originally a kaewaza of what is now [Tsuredachi](#連達-tsuredachi). The enemies were positioned directly to the sides, and in the basic form one would draw and thrust at the enemy to the left before cutting the enemy to the right. However, an additional node added that one could also cut the enemy to the right with a one-handed cut before cutting the one to the left; this version became the Yukizure of Gotō-ha and later Musō Shinden-ryū. This entry was first included in the *Soto no mono no daiji*, and contained instructions on what to do in the event that enemies try to bring you away by coming from both sides at once.
+Similarly to the relationship between [Tozume](#戸詰-tozume) (of which this is the standing form) and [Towaki](#戸脇-towaki), this was originally a kaewaza of what is now [Tsuredachi](#連達-tsuredachi). The enemies were positioned directly to the sides, and in the basic form one would draw and thrust at the enemy to the left before cutting the enemy to the right. However, an additional note added that one could also cut the enemy to the right with a one-handed cut before cutting the one to the left; this version became the Yukizure of Gotō-ha and later Musō Shinden-ryū. This entry was first included in the *Soto no mono no daiji*, and contained instructions on what to do in the event that enemies try to bring you away by coming from both sides at once.
 
 ## 連達 Tsuredachi
 
