@@ -14,7 +14,7 @@
 - 絶道之事 Concerning impassable routes
 - 大道之事 Concerning wide roads
 - 脇道之事 Concerning side paths
-- 後用捨之事 Concerning later use and abandonment
+- 後用捨之事 Concerning abandoning the use of the rear
 - 桝石壇之事 Concerning stone platforms
 - 城乗之事 Concerning scaling a castle
 - 野町擊之事 Concerning fighting in the fields or in town
