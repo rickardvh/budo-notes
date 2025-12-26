@@ -174,6 +174,8 @@ Other names: 夜の敵 *Yoru no teki* ("enemy in the night")
 
 The name *Yoru no tachi* first appears in the *Battō heijutsu shinshin kanyō no daiji* (抜刀兵術真心肝要之大事; "the most important essentials of the true heart of sword-drawing"), where it is more correctly translated as "nighttime sword-fighting". It suggests wearing white clothing or slipping off one's kimono to expose the white juban underneath so as better to see the enemy's sword and judge the situation and distance more clearly. A low guard is recommended, as is aiming for the enemy's legs; it is also suggested to feint by suddenly dropping low to make the enemy think one has fallen over, and then to sweep at their legs.
 
+A related entry from the *Gokui no daiji* (極意之大事; "essentials of the inner teachings") is 地獄捜 (*jigokusaguri*; searching through Hell); a method for searching for an enemy hiding in pitch darkness. It consists of pulling out the sword with the saya, drawing the blade so that around three sun (~9 cm) remains in the saya, and quietly sweeping the surrounding area to probe with the kojiri. When you feel something, quickly draw the blade out and thrust.
+
 ### 行違 Yukichigai
 
 Meaning: "passing by"  
