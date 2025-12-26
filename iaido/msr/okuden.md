@@ -141,10 +141,30 @@ Other names: 追いかけ斬 *Oikakegiri* ("pursuing and cutting")
 
 Although the corresponding form in the Shimomura line is called Gohōgiri, the original entry in the *Soto no mono no daiji* is actually named Sōmakuri. It describes swinging and cutting "inexhaustably in vertical and horizontal directions", for which reason it is also referred to as Katajū (形十; "cross-shape"); there is a variant by this name in Musō Shinden Jūshin-ryū. According to the *Soto no mono no daiji*, Sōmakuri was performed in regular practice by cutting gradually lower from the neck, shoulder, waist, and shin, before finally making a downwards vertical cut.
 
+[Oikakegiri](#追掛斬-oikakegiri) is another kata entirely.
+
 ### 総留 Sōdome
 
 Meaning: "complete stopping"  
 Traditional name: 放打 *Hanashiuchi* ("release-strike")
+
+Sōdome, on the surface, is difficult to make sense of. There are many contrived explanations as for why one would repeatedly cut and sheathe the sword while walking without performing chiburi in between, but most agree on the following points regarding the scenario:
+
+- You are walking on a narrow path without space to move sideways, such as on a wooden bridge.
+- The time is usually stated to be at night.
+- The enemies are coming one by one from the front; earlier descriptions more specifically state the front right.
+
+No obviously corresponding entries appear in the older densho, and the kata first appears in the *Battō kokoromochi no koto* with the following terse description: "while walking, cut with one hand and sheathe, then cut again; no limit on the number of repetitions." There is, however, one note left by Soda Torahiko under the entry for 手之内 (*te no uchi*) in a later copy of the *Jōi no daiji*. In earlier explanations, *te no uchi* is a technique for taking control of the centre by pressing down on the enemy's hand and following through with a thrust when crossing swords, but in this particular version, it is (perhaps mistakenly due to a mixup) described only as "cut down the enemy (切り捨て) and keep walking", and the note adds "this is not Sōdome". Soda probably thought the description sounded like Sōdome, but, having read about it before, knew that *te no uchi* referred to something else.
+
+Although some later lines perform Sōdome by cutting at the leg and ducking low, the older way of doing it is to cut the torso with kesagiri while lightly dropping the hips for stability. The original name Hanashiuchi implies that the essential point of the form is to draw and cut in one motion. It can fairly safely be assumed that the repeated cuts are a practice method added at a later stage, as commented by Masaoka Katsutane:
+
+> The scenario for Sōdome is: at the instant you meet the opponent, you draw and cut kesagiri, then snap the blade back into the scabbard and pass on by. To give this movement a more formal "shape", you repeat the draw-cut several times, and at the end, just like in other kata, you open the blade to the right and finish by sheathing.
+
+If that is the case, how does the "narrow path" affect the shape of the kata? Why is it relevant that it takes place during the night? Movement is not as visibly constrained as in Kabezoe, and with the target in the earliest versions being to the front right, there appears to be at least enough space for two people to walk side by side. There is also no special consideration given to lighting conditions, unlike in Shinobu. Since these oral traditions have been passed on in multiple lines, however, they must have had some relevance to the original form.
+
+My theory is as follows: the scenario is that you purposely arrange to pass the enemy on a narrow bridge or other location where he is forced to pass close to you, customarily on the right so as to avoid saya clashing. Using this opportunity, you draw and cut in a quick surprise attack, and, without stopping, sheathe while walking on so as not to arouse suspicion from distant onlookers. This must be done at night to keep the risk of detection to a minimum, as it would be difficult in low-light conditions to identify you or tell from a distance what transpired before you have already left the scene.
+
+It may be unrelated, but in the 真傳流居合極秘書 (*Shinden-ryū iai gokuhisho*), there are instructions for how to quickly cut someone down without being seen by the public eye: draw and cut in a surprise attack, then hide the sword as-is under your haori, and sheathe the sword once you have retreated to a place out of sight.
 
 ### 信夫 Shinobu
 
