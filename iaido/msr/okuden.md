@@ -221,8 +221,7 @@ Traditional name: 弛抜 *Yuruminuki* ("slack draw")
 ### 暇乞 Itomagoi
 
 Meaning: "requesting leave"  
-Traditional name: --  
-Other names: 抜打 *Nukiuchi*
+Traditional name: 抜打　上・中・下 *Nukiuchi jō/chū/ge*
 
 ## Additional forms
 
