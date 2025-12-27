@@ -181,6 +181,8 @@ A related entry from the *Gokui no daiji* (極意之大事; "essentials of the i
 Meaning: "passing by"  
 Traditional name: 連達 *Tsuredachi*
 
+The name Yukichigai originally referred to [Ryōshi-hikitsure](#両士引連 Ryōshi-hikitsure); as you dont "pass by" anyone in this Yukichigai, it is difficult to understand the reasoning behind the renaming. Tsuredachi was an entry under the *Soto no mono no daiji*, covering the scenario where two enemies — for example, robbers during travel — try to bring you away by walking in front and behind you. In this situation, you should strike the enemy in front with the tsukagashira on the back of the head, then draw and cut in the moment you turn to the rear, before turning back and cutting the first enemy.
+
 ### 袖摺返 Sodesurigaeshi
 
 Meaning: "flipping the sleeve"  
