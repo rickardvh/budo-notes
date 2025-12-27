@@ -211,6 +211,8 @@ Meaning: "along walls"
 Traditional name: 抜打 *Nukiuchi* ("surprise attack"/"drawing and striking")  
 Other names: 人中 *Jinchū*
 
+Kabezoe is an entry in the *Jōi no daiji* instructing on how to fight in a narrow alley or other places with similarly obstructed sides. Ironically, given the kata that would later take its name, it stresses that if one tries to cut in such a place, one will invariably hit the walls, overhangs or protruding lintels. Instead, one should draw within the line of the body by twisting sideways, and rely on thrusting techniques.
+
 ### 受流 Ukenagashi
 
 Meaning: "deflecting (a cut)"  
