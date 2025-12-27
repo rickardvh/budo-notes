@@ -189,6 +189,10 @@ Meaning: "flipping the sleeve"
 Traditional name: 人中 *Jinchū* ("among people")  
 Other names: 賢の事 *Katame no koto* ("regarding hardening")
 
+This form first appeared in the *Battō kokoromochi no koto*. The name Sodesurigaeshi was borrowed from the first kata of Daishō tachizume, but as the original name Jinchū implies, the scenario is fighting in a thick crowd. For this reason, there being no space in any direction, one needs to draw the sword straight up along the left side of the body, although in most lines of Musō Shinden-ryū this part has been forgotten, and the draw is done forwards instead. Having drawn the sword, it was originally brought around to the right and along the extended right arm so as to avoid cutting innocent bystanders as one parts the crowd and steps in to cut. However, while many lines now teach to hold the sword upright for the same reason (although this could also be risky), many others inexplicably place the sword along the left arm instead, running a great risk of cutting bystanders when parting the crowd.
+
+The alternative name *Katame no koto* (or *Ken no koto*) appears in the *Battō kokoromochi no koto* after the list of kata that are now practised. There is no information about it anywhere, but it does not appear to be an actual kata, as it is listed together with more general strategies. The kanji 賢 actually means "clever", but the reading is given as *katame* ("hardening"), so it should be taken as a miswriting of 堅. However, 賢之事 ("the matter of the clever") is a term from classical Chinese literature, where it instructs a ruler to promote the worthy despite the risk of them being more capable than and overthrowing the ruler himself.
+
 ### 門入 Mon-iri
 
 Meaning: "entering through a gate"  
