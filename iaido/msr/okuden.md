@@ -249,7 +249,7 @@ The scenario of Itomagoi is usually explained as being attacked by surprise (*nu
 There is, however, an entry by the name *Itomagoi* in the *Gokui no daiji*:
 
 > When you have been ordered to deal with someone, go to that person's place and make small talk about this and that; in the midst of that, you should cut them down.
-> If there is no opening, take your sword and, saying "I'll come again soon," as you rise to leave, push them over with the kojiri, then immediately draw and thrust.
+> If there is no opening, take your sword and, saying "I'll come again soon" as you rise to leave, push them over with the kojiri, then immediately draw and thrust.
 > Or, when the host sees you out and comes out with you, watch for that momentary opening, knock them down with the kojiri, then immediately draw and thrust.
 
 ## Additional forms
