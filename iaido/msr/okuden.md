@@ -215,6 +215,17 @@ Other names: 人中 *Jinchū*
 
 Kabezoe is an entry in the *Jōi no daiji* instructing on how to fight in a narrow alley or other places with similarly obstructed sides. Ironically, given the kata that would later take its name, it stresses that if one tries to cut in such a place, one will invariably hit the walls, overhangs or protruding lintels. Instead, one should draw within the line of the body by twisting sideways, and rely on thrusting techniques.
 
+The scenario for Nukiuchi is described as encountering an enemy while walking along a narrow, confined space such as an alley, and seizing the initiative by drawing and cutting before the enemy. Some annotated versions of the *Battō kokoromochi no koto* are more specific, saying that because movement is constrained in all four directions, one has to draw straight up along the left side of the body as the feet are brought together, in the same way as in [Jinchū](#袖摺返-sodesurigaeshi). Nōtō should also be done as in Jinchū, meaning over the shoulder so as to keep the blade within the width of one's body.
+
+Adding to this, oral tradition states that the cut needs to be performed without extending the elbows completely forwards, so as to avoid cutting into the "wall" behind the enemy. Several things about this explanation always struck me as odd:
+
+- It seems highly unlikely that you would unexpectedly encounter an enemy with his back already against another wall, as you are walking down a narrow alley.
+- If you are pursuing the enemy until his back is against a wall, why would you not draw earlier?
+- If you can control the distance by pursuing the enemy, why would you deliberately position yourself so close that you cannot do a normal cut?
+- The instructions in the *Jōi no daiji* specifically say not to cut when you are constrained by walls on both sides.
+
+With this in mind, and the fact that the movements in this form are nearly identical to Jinchū apart from the parting of the crowd, I believe Danzaki Tomoaki not to be entirely wrong in referring to Kabezoe as Jinchū. Most likely, one started out as a kaewaza of the other, and the difference is whether you spot the enemy through the crowd, or only notice him as you literally bump into each other on a busy street with people all around you.
+
 ### 受流 Ukenagashi
 
 Meaning: "deflecting (a cut)"  
