@@ -231,7 +231,7 @@ With this in mind, and the fact that the movements in this form are nearly ident
 Meaning: "deflecting (a cut)"  
 Traditional name: 弛抜 *Yuruminuki* ("slack draw")
 
-On first glance, there does not appear to be much to add about this form; it first appears in the *Battō kokoromochi no koto* under the name *Yuruminuki*, referencing the relaxed grip necessary for ukenagashi, and ukenagashi techniques are, after all, ubiquitous in kenjutsu. However, on closer inspection, the phrasing in the oldest description is not entirely unambiguous and may not match the current technique in every aspect:
+At first glance, there does not appear to be much to add about this form; it first appears in the *Battō kokoromochi no koto* under the name *Yuruminuki*, referencing the relaxed grip necessary for ukenagashi, and ukenagashi techniques are, after all, ubiquitous in kenjutsu. However, on closer inspection, the phrasing in the oldest description is not entirely unambiguous and may not match the current technique in every aspect:
 
 >> 如前歩み行敵より先に打を躰を少し開き弛して抜打也
 >
