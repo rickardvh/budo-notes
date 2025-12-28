@@ -244,6 +244,14 @@ There is no mention of ukenagashi anywhere, and the main point is evading (弛�
 Meaning: "requesting leave"  
 Traditional name: 抜打　上・中・下 *Nukiuchi jō/chū/ge*
 
+The scenario of Itomagoi is usually explained as being attacked by surprise (*nukiuchi*) during a seated bow to someone of lower, equal, or higher rank. However, it is exceedingly unlikely that anyone would have bowed like that while wearing a sword, particularly a long sword, as it would have been a serious breach of etiquette. The current three kata should therefore be taken as pure practice forms, or at most as representing a "but what if?" scenario.
+
+There is, however, an entry by the name *Itomagoi* in the *Gokui no daiji*:
+
+> When you have been ordered to deal with someone, go to that person's place and make small talk about this and that; in the midst of that, you should cut them down.
+> If there is no opening, take your sword and, saying "I'll come again soon," as you rise to leave, push them over with the kojiri, then immediately draw and thrust.
+> Or, when the host sees you out and comes out with you, watch for that momentary opening, knock them down with the kojiri, then immediately draw and thrust.
+
 ## Additional forms
 
 (These forms are only practised in a few lines)
