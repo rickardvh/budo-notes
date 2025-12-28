@@ -213,7 +213,7 @@ Meaning: "along walls"
 Traditional name: 抜打 *Nukiuchi* ("surprise attack"/"drawing and striking")  
 Other names: 人中 *Jinchū*
 
-Kabezoe is an entry in the *Jōi no daiji* instructing on how to fight in a narrow alley or other places with similarly obstructed sides. Ironically, given the kata that would later take its name, it stresses that if one tries to cut in such a place, one will invariably hit the walls, overhangs or protruding lintels. Instead, one should draw within the line of the body by twisting sideways, and rely on thrusting techniques.
+Kabezoe is an entry in the *Jōi no daiji* instructing on how to fight in a narrow alley or other places with similarly obstructed sides. Ironically, given the kata that would later take its name, it stresses that if one tries to cut in such a place, one will invariably hit the walls, overhangs or lintels. Instead, one should draw within the line of the body by twisting sideways, and rely on thrusting techniques.
 
 The scenario for Nukiuchi is described as encountering an enemy while walking along a narrow, confined space such as an alley, and seizing the initiative by drawing and cutting before the enemy. Some annotated versions of the *Battō kokoromochi no koto* are more specific, saying that because movement is constrained in all four directions, one has to draw straight up along the left side of the body as the feet are brought together, in the same way as in [Jinchū](#袖摺返-sodesurigaeshi). Nōtō should also be done as in Jinchū, meaning over the shoulder so as to keep the blade within the width of one's body.
 
