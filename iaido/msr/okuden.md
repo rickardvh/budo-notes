@@ -273,3 +273,5 @@ The name Ryōshi-hikitsure, like Kukurisute and Katame no koto, appear after the
 
 Meaning: "pursuing and cutting"  
 Traditional name: 追掛斬 *Oikakegiri*
+
+Oikakegiri (written 遂懸切) first appears in the *Soto no mono no daiji*. It emphasises that, when pursuing an enemy, you should draw and fix the kissaki at the enemy's left eye, then run and cut him down. The reason given is that if you point your sword at his right side, he will be able to swing his sword around and sweep yours aside.
