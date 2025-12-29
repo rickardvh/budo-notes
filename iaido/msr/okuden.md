@@ -263,6 +263,10 @@ There is, however, an entry by the name *Itomagoi* in the *Gokui no daiji*:
 Meaning: "accompanied by both men"/"bringing both men along"  
 Traditional name: 行違 *Yukichigai*
 
+Although the basic form as practised today consists of slashing the enemy's side while passing him, the original instructions for Yukichigai in the *Jōi no daiji* specifically stated that cutting while passing someone is bad. Instead, it says, one should draw the sword while passing the enemy, keeping him on your left side, and immediately thrust at him. If he starts drawing first, you should swiftly knock him back with the tsukagashira to the chest before drawing your own sword. Both of these variants are practised as kaewaza in Musō Shinden Jūshin-ryū.
+
+The *Jōi no daiji* adds some rather interesting advice under the Yukichigai heading: if you notice someone behaving suspiciously outside at night, you should call out your own family name; if they have hostile intent towards you, they will respond "yes". This method is supposedly also effective during the day when you are out travelling.
+
 ### 追掛斬 Oikakegiri
 
 Meaning: "pursuing and cutting"  
