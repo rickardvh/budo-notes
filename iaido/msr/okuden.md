@@ -98,7 +98,7 @@ The name Towaki again comes from the *Jōi no daiji*, where it contains instruct
 Meaning: "under the shelf"  
 Traditional name: 棚下 *Tanashita*
 
-Tanashita was another entry in the *Jōi no daiji* detailing how to cut when vertical space is limited, such as under a low ceiling. The oldest version in the *Eishin-ryū iai mokuroku hiketsu* said simply to lower one knee to the floor at the moment of cutting, and that once one has understood this, one would also be able to cut without needing to lower the knee. This latter way of cutting is likely what is used in the modern [Mon-iri](#門入-mon-iri) to avoid cutting into the doorframe.
+Tanashita was another entry in the *Jōi no daiji* detailing how to cut when vertical space is limited, such as under a low ceiling. The oldest version in the *Eishin-ryū iai mokuroku hiketsu* said simply to lower one knee to the floor at the moment of cutting, and that once one has understood this, one would also be able to cut without needing to lower the knee. This latter way of cutting is likely what is used in the modern [Mon-iri](#門入-mon-iri) to avoid cutting into the lintel.
 
 ### 両詰（向詰） Ryōzume (Mukōzume)
 
