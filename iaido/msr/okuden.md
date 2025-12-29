@@ -107,7 +107,7 @@ Tanashita was another entry in the *Jōi no daiji* detailing how to cut when ver
 Meaning: "pressed on both sides" (Ryōzume); "pressed in front" (Mukōzume)  
 Traditional name: 向詰 *Mukōzume*
 
-The name Ryōzume originally referred to [Towaki](#戸脇-towaki), where one has an enemy on both sides; hence the name. This was reinterpreted in the Gotō (Tanimura) line to mean "obstructed on both sides", and assigned to this form. In fact, as the original name Mukōzume implies, the scenario is that the enemy is seated close opposite to you, and there is not enough space in front to do a horizontal nukitsuke like in Yokogumo (and perhaps no space behind to step back as in the kaewaza). Instead, you draw the sword and bring it between yourself and the enemy, horizontally so as to (I presume) control the enemy's sword hand and stop him from drawing his own sword, and follow with a tsuki to the solar plexus as he attempts to back away.
+The name Ryōzume originally referred to [Towaki](#戸脇-towaki), where one has an enemy on each side; hence the name. This was reinterpreted in the Gotō (Tanimura) line to mean "obstructed on both sides", and assigned to this form. In fact, as the original name Mukōzume implies, the scenario is that the enemy is seated close opposite to you, and there is not enough space in front to do a horizontal nukitsuke like in Yokogumo (and perhaps no space behind to step back as in the kaewaza). Instead, you draw the sword and bring it between yourself and the enemy, horizontally so as to (I presume) control the enemy's sword hand and stop him from drawing his own sword, and follow with a tsuki to the solar plexus as he attempts to back away.
 
 ### 虎走 Torabashiri
 
