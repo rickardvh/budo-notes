@@ -64,6 +64,8 @@ Traditional name: 柄留 *Tsukadome* ("stopping (with) the tsuka")
 
 In the traditional form, one uses the tsuka to press the enemy's sword hand down and stop the draw; as they instead step back and draw from below to cut the leg, one continues as in Tora-issoku. Sunegakoi leaves the first part out, resulting in a form essentially identical to Tora-issoku.
 
+I once heard that *sune* ("shin") was used in the Tosa dialect about the knee as well as the lower leg; the wording in the *Jōi no daiji* entry for [Tanashita](#棚下-tanashita) seems to confirm this, as it refers to what must be the knee by this word.
+
 ### 四方切 Shihōgiri
 
 Meaning: "cuts in four directions"  
