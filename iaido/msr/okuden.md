@@ -100,7 +100,7 @@ The name Towaki again comes from the *Jōi no daiji*, where it contains instruct
 Meaning: "under the shelf"  
 Traditional name: 棚下 *Tanashita*
 
-Tanashita was another entry in the *Jōi no daiji* detailing how to cut when vertical space is limited, such as under a low ceiling. The oldest version in the *Eishin-ryū iai mokuroku hiketsu* said simply to lower one knee to the floor at the moment of cutting, and that once one has understood this, one would also be able to cut without needing to lower the knee. This latter way of cutting is likely what is used in the modern [Mon-iri](#門入-mon-iri) to avoid cutting into the lintel.
+Tanashita was another entry in the *Jōi no daiji* detailing how to cut when vertical space is limited, such as under a low ceiling. The oldest version in the *Eishin-ryū iai mokuroku hiketsu* said simply to lower one knee to the floor at the moment of cutting, and that once one has understood this, one would also be able to cut without needing to place the knee on the floor.
 
 ### 両詰（向詰） Ryōzume (Mukōzume)
 
@@ -204,8 +204,6 @@ Traditional name: --
 Other names: 隠れ捨 *Kakuresute* ("hiding and discarding"/"coming out of hiding")
 
 Mon-iri is a new form from the Tanimura-ha, and does not exist as a kata in Shimomura-ha or the *Battō kokoromochi no koto*. The name, however, comes from the *Jōi no daiji*. There, it describes a method for entering through a gate when you expect someone to cut at you the moment you exit on the other side: take out the sword with the saya and strap it to your back with the sageo, holding it in place by pulling the end of the sageo with the left hand; crouch down by leaning forwards and run through the gate; as the enemy cuts down on the sword on your back, cut at his legs with your wakizashi. There is also a similar strategy in the *Gokui no daiji* called *Shishidō-iri* or *Shishihora-iri* (獅子洞入; "entering the lion's den"), where you draw the sword and hold it along your back while swinging the wakizashi with the other hand.
-
-As mentioned under [Tanashita](#棚下-tanashita), the method of cutting without hitting the lintel beam in Mon-iri probably comes from the original Tanashita instructions.
 
 The name Kakuresute might be based on *Kukurisute* (クゝリ捨; "tying up and discarding"), another "extra" entry following the kata list in *Battō kokoromochi no koto*. As with Katame no koto, there is no explanation of Kukurisute anywhere in the densho, however.
 
