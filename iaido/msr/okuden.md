@@ -28,6 +28,7 @@
   - [Additional forms](#additional-forms)
     - [両士引連 Ryōshi-hikitsure](#両士引連-ryōshi-hikitsure)
     - [追掛斬 Oikakegiri](#追掛斬-oikakegiri)
+  - [Notes on metsuke and techniques](#notes-on-metsuke-and-techniques)
 
 ## Introduction
 
@@ -281,3 +282,15 @@ Meaning: "pursuing and cutting"
 Traditional name: 追掛斬 *Oikakegiri*
 
 Oikakegiri (written 遂懸切) first appears in the *Soto no mono no daiji*. It emphasises that, when pursuing an enemy, you should draw and fix the kissaki at the enemy's left eye, then run and cut him down. The reason given is that if you point your sword at his right side, he will be able to swing his sword around and sweep yours aside.
+
+## Notes on metsuke and techniques
+
+Due to the outsize influence of kendō on modern iaidō, in particular through ZNKR iaidō, *enzan no metsuke* (遠山の目付; "distant-mountain gaze") has become the default in iai. In solo training, it is convenient as one only has to look in the general direction of the kasōteki, past them into the distance. However, in traditional Eishin-ryū, enzan no metsuke is rarely used. Instead, in seated forms where the enemy is close, *nisei no metsuke* (二星の目付; "two-star gaze") should be employed. This name, like *enzan no metsuke*, probably comes from Shinkage-ryū and is first attested in the [Tsuki no shō](../../tsuki-no-sho/README.md). It is defined as looking at the enemy's both hands (the "two stars"), attention equally divided between them and not fixed at one point. This allows one to accurately detect the enemy's intent at a very early stage. This is not only a matter of gaze, however — in the copy of the *Soto no mono no daiji* written by the tenth headmaster Hayashi Yasudayū Masakusu, the following is explicitly stated:
+
+>> 詰合ハ二星二ツヅマル敵之拳也二星一文字ト云時ハ敵ノコブシヲ抜拂フ事也惣而拳ヲ勝事極意也
+>
+> [Tsumeai](README.md#tsumeai-no-kurai) can be reduced to *nisei*; that is, the enemy's fists. *Nisei ichimonji* means to draw and sweep at the enemy's fists. In general, the secret is to prevail over the fists.
+
+The above quote should have particular bearing on how to interpret [Sunegakoi](#脛囲-sunegakoi) and [Kasumi](#霞-kasumi) on a deeper level, but the theme of targeting the hands goes all the way back to the Kongen no maki, where [Tsukaguchi rokusun](../msjr/iai-kongen-no-maki.md#on-the-nature-of-tsukaguchi-rokusun) is named as the ultimate secret of the school.
+
+Returning to the topic of metsuke, *Tachi metsuke no koto* (太刀目付之㕝; "gaze in sword-fighting") in the *Battō heijutsu shinshin kanyō no daiji* describes another, rather unusual, type of metsuke. It says that when facing an opponent in a (standing) fight, one should look at the enemy's legs and feet. Two reasons are given for this: firstly, it allows one better to "know the situation" (*i.e.* judge distance, timing, and intent); secondly, it helps one stay calm in the face of danger without getting timid.
