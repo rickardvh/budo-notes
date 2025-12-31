@@ -289,7 +289,7 @@ Due to the outsize influence of kendō on modern iaidō, in particular through Z
 
 >> 詰合ハ二星二ツヅマル敵之拳也二星一文字ト云時ハ敵ノコブシヲ抜拂フ事也惣而拳ヲ勝事極意也
 >
-> [Tsumeai](README.md#tsumeai-no-kurai) can be reduced to *nisei*; that is, the enemy's fists. *Nisei ichimonji* means to draw and sweep at the enemy's fists. In general, the secret is to prevail over the fists.
+> [Tsumeai](README.md#tsumeai-no-kurai) comes down to *nisei*; that is, the enemy's fists. *Nisei ichimonji* means to draw and sweep at the enemy's fists. In general, the secret is to defeat the fists.
 
 The above quote should have particular bearing on how to interpret [Sunegakoi](#脛囲-sunegakoi) and [Kasumi](#霞-kasumi) on a deeper level, but the theme of targeting the hands goes all the way back to the Kongen no maki, where [Tsukaguchi rokusun](../msjr/iai-kongen-no-maki.md#on-the-nature-of-tsukaguchi-rokusun) is named as the ultimate secret of the school.
 
