@@ -106,7 +106,7 @@ Tanashita was another entry in the *Jōi no daiji* detailing how to cut when ver
 
 In modern Musō Shinden-ryū, influenced by the Tanimura line, the scenario of Tanashita is usually imagined to be drawing from tatehiza and coming out from under a crawl space or similarly very cramped place before cutting down. Although this scenario exists as a variant in the traditional Shimomura-ha (as does the standing version related above), the oral tradition adds one crucial element: before exiting the crawl space, one should sweep horizontally at the enemy to afford oneself the time to get out.
 
-The standard version in the two current lines of Shimomura-ha emphasise cutting in a vertically constrained space, rather than just exiting from one before cutting. As such, the important point is to make a very compact cut while still leaning forwards to the point of touching the right thigh with the upper body, and only straightening up again once the sword clears the ceiling.
+The standard version in the two current lines of Shimomura-ha emphasises cutting in a vertically constrained space, rather than just exiting from one before cutting. As such, the important point is to make a very compact cut while still leaning forwards to the point of touching the right thigh with the upper body, and only straightening up again once the sword clears the ceiling.
 
 With this background, one cannot help but wonder what the purpose of practising the current Musō Shinden-ryū Tanashita is, other than learning how to crawl forwards with the sword on one's back.
 
