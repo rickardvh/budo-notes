@@ -47,6 +47,8 @@ Unfortunately, while the densho of the Shimomura line have been published, only 
 
 As garbled as the transmission may have become, however, one must not forget that a koryū is a living tradition that is shaped by each of the teachers who have passed it down to the present day. It would therefore be wrong to say that what we are taught is incorrect because it is different from the old tradition, and it is our responsibility to practise and pass it on as we are taught. With this in mind, however, it is also our responsibility to learn and understand where that tradition comes from and why and how it evolved into what it is now. So much is at danger of being forgotten and lost, and this proud and venerable school deserves our best efforts to understand it at a deeper level. In the case of Okuden, this understanding begins with the realisation that the forms are not merely kata, but teach important lessons on how to survive various dangerous situations Edo-period samurai might have expected to find themselves in; in doing so, the kata preserve an intangible piece of the culture iai sprung from.
 
+[**Top**](#okuden-okuiai)
+
 ## Seated forms
 
 居業（座業）
@@ -58,6 +60,8 @@ Traditional name: 向拂 *Mukōbarai* ("sweep/clear in front")
 
 The name Kasumi may have borrowed from the *Soto no mono no daiji*, where it describes a detached, "dreamlike" state of mind, in which one perceives the enemy as through a haze. It was paired with the secret technique Raiden (雷電, "thunder and lightning") where one invites the enemy to attack and cuts their hand on the tsuka as they move to do so. These two concepts are described as the innermost of the inner secrets; the very foundation of the school.
 
+[**Top**](#okuden-okuiai)
+
 ### 脛囲 Sunegakoi
 
 Meaning: "protecting the shin"  
@@ -66,6 +70,8 @@ Traditional name: 柄留 *Tsukadome* ("stopping (with) the tsuka")
 In the traditional form, one uses the tsuka to press the enemy's sword hand down and stop the draw; as they instead step back and draw from below to cut the leg, one continues as in Tora-issoku. Sunegakoi leaves the first part out, resulting in a form essentially identical to Tora-issoku.
 
 I once heard that *sune* ("shin") was used in the Tosa dialect about the knee as well as the lower leg; the wording in the *Jōi no daiji* entry for [Tanashita](#棚下-tanashita) seems to confirm this, as it refers to what must be the knee by this word.
+
+[**Top**](#okuden-okuiai)
 
 ### 四方切 Shihōgiri
 
@@ -76,6 +82,8 @@ Other names: 四角 *Yosumi*, *Shisumi* ("four corners")
 The name Shihōgiri appears in one of the old mokuroku directly following the core Eishin-ryū forms. It is unclear to me what exactly it refers to there, but it appears to be a small set of four kata: 向 (opposite), 右 (right), 左 (left), and 後 (behind).
 
 The important lesson of this kata, which comes from instructions in the *Jōi no daiji*, is that one will not have time to deeply cut each enemy in turn, and that iai relies on "shallow" victory. In order to keep all four enemies at bay precisely long enough to cut all of them in quick succession, the essential action is to make a large sweeping circular cut the moment the kissaki leaves the saya, rotating to the right until reaching the enemy to the rear. Exploiting the opening caused by the instinctive shying away of the enemies, one can then cut each of them with quicker-than-usual cuts, not trying to make fully committed cuts. The positioning of the enemies was later rotated 45°, and the instructions were combined with [Ryōzume (Towaki)](#戸脇-towaki) to incorporate a thrust to the rear left enemy before the sweep.
+
+[**Top**](#okuden-okuiai)
 
 ### 戸詰 Tozume
 
@@ -89,6 +97,8 @@ Sankaku is another kata completely, where you have one enemy in front and two be
 
 As for the name, Tozume comes from an entry in the *Jōi no daiji*, instructing on what to do if you fear the enemy might slam the sliding door shut on your head as you bow in the doorway upon entering a room; in this situation, you should place a folding fan in the door groove in the floor and hold it down with your knee while bowing, in order to block the door.
 
+[**Top**](#okuden-okuiai)
+
 ### 戸脇 Towaki
 
 Meaning: "beside the door"  
@@ -97,6 +107,8 @@ Traditional name: 両詰 *Ryōzume* ("pressed on both sides")
 See [Tozume](#戸詰-tozume). The enemies' positions were again shifted from directly to the sides to diagonally to the front right and rear left. Musō Shinden Eishin-ryū in the Hosokawa tradition has a similar kata called Zengozume (前後詰) with one enemy directly in front and another directly behind; Towaki can be considered an in-between version of Zengozume and the original Ryōzume.
 
 The name Towaki again comes from the *Jōi no daiji*, where it contains instructions on how to enter a room when you suspect an enemy might be hiding to the side of the door waiting to ambush you: enter through the door with one decisive step directly towards where you think the enemy is standing, and pull the sword out together with the saya, using the tsuka to push him back with a strike to the chest, before drawing and thrusting at the staggered enemy. In the case that the enemy has already drawn his sword and cuts down the moment you enter, first block the cut with the tsuba near the fuchigane, the sword still in the saya.
+
+[**Top**](#okuden-okuiai)
 
 ### 棚下 Tanashita
 
@@ -111,6 +123,8 @@ The standard version in the two current lines of Shimomura-ha emphasises cutting
 
 With this background, one cannot help but wonder what the purpose of practising the current Musō Shinden-ryū Tanashita is, other than learning how to crawl forwards with the sword on one's back.
 
+[**Top**](#okuden-okuiai)
+
 ### 両詰（向詰） Ryōzume (Mukōzume)
 
 Meaning: "pressed on both sides" (Ryōzume); "pressed in front" (Mukōzume)  
@@ -118,12 +132,16 @@ Traditional name: 向詰 *Mukōzume*
 
 The name Ryōzume originally referred to [Towaki](#戸脇-towaki), where one has an enemy on each side; hence the name. This was reinterpreted in the Gotō (Tanimura) line to mean "obstructed on both sides", and assigned to this form. In fact, as the original name Mukōzume implies, the scenario is that the enemy is seated close opposite to you, and there is not enough space in front to do a horizontal nukitsuke like in Yokogumo (and perhaps no space behind to step back as in the kaewaza). Instead, you draw the sword and bring it between yourself and the enemy, horizontally so as to (I presume) control the enemy's sword hand and stop him from drawing his own sword, and follow with a tsuki to the solar plexus as he attempts to back away.
 
+[**Top**](#okuden-okuiai)
+
 ### 虎走 Torabashiri
 
 Meaning: "tiger run"  
 Traditional name: 虎走 *Torabashiri*
 
 This form, too, has its origin in the *Jōi no daiji*, and concerns how to execute a kill order on someone in a large room with other people present: stand up, hunch over with your sword pressed close in front so as to seem non-threatening, and walk (not running, despite the name) briskly with your knees close together straight to your target without hesitation. Once in range, draw the sword with the edge down within the line of your body, the purpose being to conceal the draw for as long as possible so as not to alert the nearby enemies, and cut gyaku-kesa, followed by a vertical downwards cut. If you are pursued when retreating, you can apply the same method for going backwards and defending yourself.
+
+[**Top**](#okuden-okuiai)
 
 ## Standing forms
 
@@ -136,6 +154,8 @@ Traditional name: 行連 *Yukizure*
 
 Similarly to the relationship between [Tozume](#戸詰-tozume) (of which this is the standing form) and [Towaki](#戸脇-towaki), this was originally a kaewaza of what is now [Tsuredachi](#連達-tsuredachi). The enemies were positioned directly to the sides, and in the basic form one would draw and thrust at the enemy to the left before cutting the enemy to the right. However, an additional note added that one could also cut the enemy to the right with a one-handed cut before cutting the one to the left; this version became the Yukizure of Gotō-ha and later Musō Shinden-ryū. This entry was first included in the *Soto no mono no daiji*, and contained instructions on what to do in the event that enemies try to bring you away by coming from both sides at once.
 
+[**Top**](#okuden-okuiai)
+
 ### 連達 Tsuredachi
 
 Meaning: "escorted away"  
@@ -143,6 +163,8 @@ Traditional name: 行連 *Yukizure*
 Other names: 連達 *Rentatsu*
 
 See [Yukizure](#行連-yukizure). The name Tsuredachi traditionally belonged to [Yukichigai](#行違-yukichigai).
+
+[**Top**](#okuden-okuiai)
 
 ### 惣捲 Sōmakuri
 
@@ -153,6 +175,8 @@ Other names: 追いかけ斬 *Oikakegiri* ("pursuing and cutting")
 Although the corresponding form in the Shimomura line is called Gohōgiri, the original entry in the *Soto no mono no daiji* is actually named Sōmakuri. It describes swinging and cutting "inexhaustably in vertical and horizontal directions", for which reason it is also referred to as Katajū (形十; "cross-shape"); there is a variant by this name in Musō Shinden Jūshin-ryū. According to the *Soto no mono no daiji*, Sōmakuri was performed in regular practice by cutting gradually lower from the neck, shoulder, waist, and shin, before finally making a downwards vertical cut.
 
 [Oikakegiri](#追掛斬-oikakegiri) is another kata entirely.
+
+[**Top**](#okuden-okuiai)
 
 ### 総留 Sōdome
 
@@ -177,6 +201,8 @@ My theory is as follows: the scenario is that you purposely arrange to pass the 
 
 It may be unrelated, but in the 真傳流居合極秘書 (*Shinden-ryū iai gokuhisho*), there are instructions for how to quickly cut someone down without being seen by the public eye: draw and cut in a surprise attack, then hide the sword as-is under your haori, and sheathe the sword once you have retreated to a place out of sight.
 
+[**Top**](#okuden-okuiai)
+
 ### 信夫 Shinobu
 
 Meaning: ("in stealth")  
@@ -187,12 +213,16 @@ The name *Yoru no tachi* first appears in the *Battō heijutsu shinshin kanyō n
 
 A related entry from the *Gokui no daiji* (極意之大事; "essentials of the inner teachings") is 地獄捜 (*jigokusagashi*; "searching through Hell"); a method for searching for an enemy hiding in pitch darkness. It consists of pulling out the sword with the saya, drawing the blade so that around three sun (~9 cm) remains in the saya, and quietly sweeping the surrounding area to probe with the kojiri. When you feel something, quickly draw the blade out and thrust.
 
+[**Top**](#okuden-okuiai)
+
 ### 行違 Yukichigai
 
 Meaning: "passing by"  
 Traditional name: 連達 *Tsuredachi*
 
 The name Yukichigai originally referred to [Ryōshi-hikitsure](#両士引連-ryōshi-hikitsure); as you dont "pass by" anyone in this Yukichigai, it is difficult to understand the reasoning behind the renaming. Tsuredachi was an entry under the *Soto no mono no daiji*, covering the scenario where two enemies — for example, robbers during travel — try to bring you away by walking in front and behind you. In this situation, you should strike the enemy in front with the tsukagashira on the back of the head, then draw and cut in the moment you turn to the rear, before turning back and cutting the first enemy. In current Musō Shinden-ryū, the scenario is usually thought of as enemies approaching from the front and back, and the target of the tsuka strike as being between the eyebrows or the philtrum.
+
+[**Top**](#okuden-okuiai)
 
 ### 袖摺返 Sodesurigaeshi
 
@@ -204,7 +234,9 @@ This form first appeared in the *Battō kokoromochi no koto*. The name Sodesurig
 
 Nōtō was traditionally performed inside the body width by placing the back ridge of the blade on the shoulder and sheathing vertically, but if there is no risk of hurting the surrounding crowd, it can be done normally.
 
-The alternative name *Katame no koto* (or *Ken no koto*) appears in the *Battō kokoromochi no koto* after the list of kata that are now practised. There is no information about it anywhere, but it does not appear to be an actual kata, as it is listed together with more general strategies. The kanji 賢 actually means "clever", but the reading is given as *katame* ("hardening"), so it should be taken as a miswriting of 堅. However, 賢之事 ("the matter of the clever") is a term from classical Chinese literature, where it instructs a ruler to promote the worthy despite the risk of them being more capable than and overthrowing the ruler himself.
+The alternative name *Katame no koto* (or *Ken no koto*) appears in the *Battō kokoromochi no koto* after the list of kata that are now practised. There is no information about it anywhere, but it does not appear to be an actual kata, as it is listed together with more general strategies. The kanji 賢 actually means "clever", but the reading is given as *katame* ("hardening"), so it should be taken as a miswriting of 堅. However, 賢之事 ("the matter of the clever") is a term from classical Chinese literature, where it instructs a ruler to promote the worthy despite the risk of them being more capable than and overthrowing the ruler himself. If I had to guess what the name means here, I would say that, given the surrounding context, it is probably the same as *tachikatame* (太刀堅; "securing the sword"), a method for binding the sword to the waist when wearing armour.
+
+[**Top**](#okuden-okuiai)
 
 ### 門入 Mon-iri
 
@@ -215,6 +247,8 @@ Other names: 隠れ捨 *Kakuresute* ("hiding and discarding"/"coming out of hidi
 Mon-iri is a new form from the Tanimura-ha, and does not exist as a kata in Shimomura-ha or the *Battō kokoromochi no koto*. The name, however, comes from the *Jōi no daiji*. There, it describes a method for entering through a gate when you expect someone to cut at you the moment you exit on the other side: take out the sword with the saya and strap it to your back with the sageo, holding it in place by pulling the end of the sageo with the left hand; crouch down by leaning forwards and run through the gate; as the enemy cuts down on the sword on your back, cut at his legs with your wakizashi. There is also a similar strategy in the *Gokui no daiji* called *Shishidō-iri* or *Shishihora-iri* (獅子洞入; "entering the lion's den"), where you draw the sword and hold it along your back while swinging the wakizashi with the other hand.
 
 The name Kakuresute might be based on *Kukurisute* (クゝリ捨; "tying up and discarding"), another "extra" entry following the kata list in *Battō kokoromochi no koto*. As with Katame no koto, there is no explanation of Kukurisute anywhere in the densho, however.
+
+[**Top**](#okuden-okuiai)
 
 ### 壁添 Kabezoe
 
@@ -235,6 +269,8 @@ Adding to this, oral tradition states that the cut needs to be performed without
 
 With this in mind, and the fact that the movements in this form are nearly identical to Jinchū apart from the parting of the crowd, I believe Danzaki Tomoaki not to be entirely wrong in referring to Kabezoe as Jinchū. Most likely, one started out as a kaewaza of the other, the difference being whether you spot the enemy through the crowd, or only notice him as you literally bump into each other on a busy street with people all around you.
 
+[**Top**](#okuden-okuiai)
+
 ### 受流 Ukenagashi
 
 Meaning: "deflecting (a cut)"  
@@ -248,6 +284,8 @@ At first glance, there does not appear to be much to add about this form; it fir
 
 There is no mention of ukenagashi anywhere, and the main point is evading (弛し *hazushi*; note that this kanji is the same as *yurumi* in the kata name) the cut by opening the body. The same wording is used in the old [Kodachi no kurai](../msjr/README.md#kodachi-no-kurai) to describe evasion by stepping back or to the side without deflecting the cut, while ukenagashi is referenced as such. Therefore, it is not unthinkable that 弛抜 was originally meant to be read *Hazushinuki* ("evasion draw"), but was later changed into an ukenagashi technique and the reading updated to the current *Yuruminuki*. It is worth noting here that there exists a kaewaza where one opens up to the right while drawing to evade the cut, and simultaneously cuts the enemy's left wrist or forearm from below as he cuts down.
 
+[**Top**](#okuden-okuiai)
+
 ### 暇乞 Itomagoi
 
 Meaning: "requesting leave"  
@@ -260,6 +298,8 @@ There is, however, an entry by the name *Itomagoi* in the *Gokui no daiji*:
 > When you have been ordered to deal with someone, go to that person's place and make small talk about this and that; in the midst of that, you should cut them down.
 > If there is no opening, take your sword and, saying "I'll come again soon" as you rise to leave, push them over with the kojiri, then immediately draw and thrust.
 > Or, when the host sees you out and comes out with you, watch for that momentary opening, knock them down with the kojiri, then immediately draw and thrust.
+
+[**Top**](#okuden-okuiai)
 
 ## Additional forms
 
@@ -276,12 +316,16 @@ The *Jōi no daiji* adds some rather interesting advice under the Yukichigai hea
 
 The name Ryōshi-hikitsure, like Kukurisute and Katame no koto, appear after the list of kata without any further explanation in the *Battō kokoromochi no koto*.
 
+[**Top**](#okuden-okuiai)
+
 ### 追掛斬 Oikakegiri
 
 Meaning: "pursuing and cutting"  
 Traditional name: 追掛斬 *Oikakegiri*
 
 Oikakegiri (written 遂懸切) first appears in the *Soto no mono no daiji*. It emphasises that, when pursuing an enemy, you should draw and fix the kissaki at the enemy's left eye, then run and cut him down. The reason given is that if you point your sword at his right side, he will be able to swing his sword around and sweep yours aside.
+
+[**Top**](#okuden-okuiai)
 
 ## Notes on metsuke and techniques
 
@@ -298,3 +342,5 @@ Returning to the topic of metsuke, *Tachi metsuke no koto* (太刀目付之㕝; 
 In the *Shinden-ryū iai gokuhisho*, it is stated that the essence of iai lies in thrusting techniques, but that thrusts are hidden inside the forms of daily practice; when one feels that it would be a good time to thrust, that is when one should thrust. This is surely doubly true in Okuden, and should be kept in mind during practice.
 
 When moving from a one-handed cut into furikaburi towards another enemy in a different direction, one runs the risk of getting the tsuka stuck in the sleeve opening when wearing a regular kimono. In order to avoid this, Okuden kata employ a technique called *yukiore* (雪折; "breaking under the weight of snow"). It consists of dropping the kissaki and thereby raising the tsukagashira in the direction of the next cut, clearing it from the sleeve opening. The name conjures the image of a tree branch breaking under heavy snow; I once heard it referred to as *yanagiore* (柳折; "willow tree breaking"), which is ironic as the saying goes "the willow tree won't break under the weight of snow" (柳に雪折れなし). In the basic Musō Shinden-ryū forms, this technique applies only to Tozume and Yukizure.
+
+[**Top**](#okuden-okuiai)
