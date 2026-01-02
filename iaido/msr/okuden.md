@@ -182,7 +182,7 @@ While I can find no form or technique listed by that name in current Shinkage-ry
 >
 > Kamiizumi Musashi-no-kami Nobutsuna \[the founder of Shinkage-ryū\] came. He transmitted *Gunbai*, *Torimuki*, ***Sōmakuri***, and the like.
 
-In the *Yagyū-ryū shinpishō* (柳生流新秘抄), there is finally an explanation in the *Tengushō* (天狗抄) chapter of a method for fighting four or five enemies at once: in order not to allow them to surround you, when they come at you from a distance, you should pick one and, closing the distance to him, let loose with repeated strikes from all directions, paying no heed to what happens to your left or right, so as to push him back and break the circle. This method is called 總南風 ("the total south wind"), but the reading is given as *sōmakuri*.
+In the *Yagyū-ryū shinpishō* (柳生流新秘抄), there is finally an explanation in the *Tengushō* (天狗抄) chapter of a method for fighting four or five enemies at once: in order not to allow them to surround you, when they come at you from a distance, you should pick one and, closing the distance to him, let loose with repeated strikes from all directions, paying no heed to what happens on your left or right, so as to push him back and break the circle. This method is called 總南風 ("the total south wind"), but the reading is given as *sōmakuri*.
 
 [Oikakegiri](#追掛斬-oikakegiri) is another kata entirely.
 
