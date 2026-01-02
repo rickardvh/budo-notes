@@ -174,6 +174,16 @@ Other names: 追いかけ斬 *Oikakegiri* ("pursuing and cutting")
 
 Although the corresponding form in the Shimomura line is called Gohōgiri, the original entry in the *Soto no mono no daiji* is actually named Sōmakuri. It describes swinging and cutting "inexhaustably in vertical and horizontal directions", for which reason it is also referred to as Katajū (形十; "cross-shape"); there is a variant by this name in Musō Shinden Jūshin-ryū. According to the *Soto no mono no daiji*, Sōmakuri was performed in regular practice by cutting gradually lower from the neck, shoulder, waist, and shin, before finally making a downwards vertical cut.
 
+There is no explanation anywhere in the densho for the scenario of Sōmakuri. However, there is a very short passage mentioning the name in the *Iai heihō gokui hiketsu* (居合兵法極意秘訣), written by the tenth headmaster Hayashi Yasudayū Masakusu. Writing down what his adoptive father, the ninth headmaster Hayashi Rokudayū Morimasa, told him many years before, he mentions among other things that when doing Sōmakuri: "you should cut with one hand and then grasp with the left hand. It is important to find the balance." While this is interesting in and of itself, the thing to note here is that Morimasa seems to have been talking about Shinkage-ryū (which he learnt from Ōmori Rokurōzaemon Masamitsu). The fact that Sōmakuri first appeared in the *Soto no mono no daiji* may very well support the hypothesis that it is the very same thing brought into the school from outside.
+
+While I can find no form or technique listed by that name in current Shinkage-ryū mokuroku, there is a record in the *Tokitsugu kyōki* (言継卿記; the court diary of Yamashina Tokitsugu) from the 23rd day of the fifth month of the first year of Genki (1570) relating the following:
+
+>> 上泉武蔵守信綱来。軍敗取向総捲等、令相伝之。
+>
+> Kamiizumi Musashi-no-kami Nobutsuna \[the founder of Shinkage-ryū\] came. He transmitted *Gunbai*, *Torimuki*, ***Sōmakuri***, and the like.
+
+In the *Yagyū-ryū shinpishō* (柳生流新秘抄), there is finally an explanation in the *Tengushō* (天狗抄) chapter of a method for fighting four or five enemies at once: in order not to allow them to surround you, when they come at you from a distance, you should pick one and, closing the distance to him, let loose with repeated strikes from all directions, paying no heed to what happens to your left or right, so as to push him back and break the circle. This method is called 總南風 ("the total south wind"), but the reading is given as *sōmakuri*.
+
 [Oikakegiri](#追掛斬-oikakegiri) is another kata entirely.
 
 [**Top**](#okuden-okuiai)
