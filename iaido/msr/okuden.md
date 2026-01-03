@@ -176,7 +176,7 @@ Although the corresponding form in the Shimomura line is called Gohōgiri, the o
 
 There is no explanation anywhere in the densho for the scenario of Sōmakuri. However, there is a very short passage mentioning the name in the *Iai heihō gokui hiketsu* (居合兵法極意秘訣), written by the tenth headmaster Hayashi Yasudayū Masakusu. Writing down what his adoptive father, the ninth headmaster Hayashi Rokudayū Morimasa, told him many years before, he mentions among other things that when doing Sōmakuri: "you should cut with one hand and then grasp with the left hand. It is important to find the balance." While this is interesting in and of itself, the thing to note here is that Morimasa seems to have been talking about Shinkage-ryū (which he learnt from Ōmori Rokurōzaemon Masamitsu). The fact that Sōmakuri first appeared in the *Soto no mono no daiji* may very well support the hypothesis that it is the very same thing brought into the school from outside, as *soto no mono* refers to things from outside the core curriculum, such as from other schools.
 
-While I can find no form or technique listed by that name in current Shinkage-ryū mokuroku, there is a record in the *Tokitsugu kyōki* (言継卿記; the court diary of Yamashina Tokitsugu) from the 23rd day of the fifth month of the first year of Genki (1570) relating the following:
+While I can find no form or technique listed by that name in current Shinkage-ryū mokuroku, there is a record in the *Tokitsugu-kyō-ki* (言継卿記; the court diary of Yamashina Tokitsugu) from the 23rd day of the fifth month of the first year of Genki (1570) relating the following:
 
 >> 上泉武蔵守信綱来。軍敗取向総捲等、令相伝之。
 >
