@@ -288,7 +288,7 @@ Traditional name: 弛抜 *Yuruminuki* ("slack draw")
 
 At first glance, there does not appear to be much to add about this form; it first appears in the *Battō kokoromochi no koto* under the name *Yuruminuki*, referencing the relaxed grip necessary for ukenagashi, and ukenagashi techniques are, after all, ubiquitous in kenjutsu. However, on closer inspection, the phrasing in the oldest description is not entirely unambiguous and may not match the current technique in every aspect:
 
->> 如前歩み行敵より先に打を躰を少し開き弛して抜打也
+>> 如前歩み行敵ゟ先に打を躰を少し開き弛して抜に切る也
 >
 > While walking as before (*i.e.* in [Jinchū](#壁添-kabezoe)), the enemy strikes first; **avoid by opening up the body slightly, then draw and cut**.
 
