@@ -58,7 +58,7 @@ As garbled as the transmission may have become, however, one must not forget tha
 Meaning: "haze" or "mist"  
 Traditional name: 向拂 *Mukōbarai* ("sweep/clear in front")
 
-The name Kasumi may have borrowed from the *Soto no mono no daiji*, where it describes a detached, "dreamlike" state of mind, in which one perceives the enemy as through a haze. This Kasumi, however, is unrelated to the kata, which was originally called Mukōbarai and is first attested in the *Battō kokoromochi no koto*.
+The name Kasumi may have borrowed from the *Soto no mono no daiji*, where it describes a detached, "dreamlike" state of mind, in which one perceives the enemy as through a haze. That Kasumi, however, is unrelated to this kata, which was originally called Mukōbarai and is first attested in the *Battō kokoromochi no koto*.
 
 Danzaki Tomoaki (and possibly others) taught that the scenario of this kata is that you have two enemies in front, and cut one in nukitsuke before turning the sword over and cutting the other one in the return stroke — this is obviously nonsense. Although there is no explanation anywhere in the densho, it is otherwise universally agreed that the enemy evades the first cut, wherefore you advance and cut again to the left. Since this is the case, it is important to make nukitsuke without the prior plan of making a return cut. Nukitsuke is variously thought of as being across the chest, to the face, or to the neck; the return cut is usually to the neck, but it is also possible to aim for the raised right knee.
 
