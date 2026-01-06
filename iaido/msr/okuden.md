@@ -294,7 +294,7 @@ At first glance, there does not appear to be much to add about this form; it fir
 
 >> 如前歩み行敵ゟ先に打を躰を少し開き弛して抜に切る也
 >
-> While walking as before (*i.e.* in [Jinchū](#壁添-kabezoe)), the enemy strikes first; **avoid by opening up the body slightly, then draw and cut**.
+> While walking as before (*i.e.* in [Jinchū](#壁添-kabezoe)), the enemy strikes first; **evade by opening up the body slightly, then draw and cut**.
 
 There is no mention of ukenagashi anywhere, and the main point is evading (弛し *hazushi*; note that this kanji is the same as *yurumi* in the kata name) the cut by opening the body. The same wording is used in the old [Kodachi no kurai](../msjr/README.md#kodachi-no-kurai) to describe evasion by stepping back or to the side without deflecting the cut, while ukenagashi is referenced as such. Therefore, it is not unthinkable that 弛抜 was originally meant to be read *Hazushinuki* ("evasion draw"), but was later changed into an ukenagashi technique and the reading updated to the current *Yuruminuki*. It is worth noting here that there exists a kaewaza where one opens up to the right while drawing to evade the cut, and simultaneously cuts the enemy's left wrist or forearm from below as he cuts down.
 
