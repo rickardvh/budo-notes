@@ -62,7 +62,7 @@ The name Kasumi may have borrowed from the *Soto no mono no daiji*, where it des
 
 Danzaki Tomoaki (and possibly others) taught that the scenario of this kata is that you have two enemies in front, and cut one in nukitsuke before turning the sword over and cutting the other one in the return stroke — this is obviously nonsense. Although there is no explanation anywhere in the densho, it is otherwise universally agreed that the enemy evades the first cut, wherefore you advance and cut again to the left. Since this is the case, it is important to make nukitsuke without the prior plan of making a return cut. Nukitsuke is variously thought of as being across the chest, to the face, or to the neck; the return cut is usually to the neck, but it is also possible to aim for the raised right knee.
 
-An interesting application of the same technique is in the kata Gaiseki from Daikendori, where uchidachi tries to cut first the right knee of the approaching shidachi, then (unsuccessfully) the left knee on the return cut as shidachi steps back to evade.
+An interesting application of the same technique is in the kata Gaiseki from [Daikendori](../msjr/README.md#daikendori), where uchidachi tries to cut first the right knee of the approaching shidachi, then (unsuccessfully) the left knee on the return cut as shidachi steps back to evade.
 
 [**Top**](#okuden-okuiai)
 

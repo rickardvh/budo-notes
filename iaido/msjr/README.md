@@ -12,7 +12,7 @@
   - [Tsumeai](#tsumeai)
   - [Daishōzume](#daishōzume)
   - [Daishō tachizume](#daishō-tachizume)
-  - [Daikentori](#daikentori)
+  - [Daikendori](#daikendori)
   - [Kodachi no kurai](#kodachi-no-kurai)
   - [Sakahashi-ryū no bō](#sakahashi-ryū-no-bō)
     - [Bōai](#bōai)
@@ -141,7 +141,7 @@
 6. 亂曲 Rankyoku
 7. 電光石火 Denkōsekka
 
-## Daikentori
+## Daikendori
 
 大剣取
 
