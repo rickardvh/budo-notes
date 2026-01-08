@@ -112,7 +112,7 @@
 
 * Itomagoi 暇乞
 * Shishidō-iri 獅子洞入
-* Jigokusaguri 地獄捜
+* Jigokusagashi 地獄捜
 * Nonaka-maku 野中幕
 * Hōishigure[^5] 逢意時雨
 * Kasonkaze[^6] 火村風
