@@ -43,7 +43,7 @@
 9. 滝落 Takiotoshi
 10. 抜打 Nukiuchi
 
-## Okuden: Okuiai
+## [Okuden: Okuiai](okuden.md)
 
 奥伝　奥居合
 
