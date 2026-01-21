@@ -248,6 +248,8 @@ This form first appeared in the *Battō kokoromochi no koto*. The name Sodesurig
 
 Nōtō was traditionally performed inside the body width by placing the back ridge of the blade on the shoulder and sheathing vertically, but if there is no risk of hurting the surrounding crowd, it can be done normally.
 
+In the *Shinden-ryū iai gokuhisho*, there is an entry regarding what to do if someone tries to attack you in a crowd: grab a merchant or whatever (yes, that is a verbatim translation of 商人にても何にても) you can find, and push him at the assailant, thereby giving you an opening to gain victory.
+
 The alternative name *Katame no koto* (or *Ken no koto*) appears in the *Battō kokoromochi no koto* after the list of kata that are now practised. There is no information about it anywhere, but it does not appear to be an actual kata, as it is listed together with more general strategies. The kanji 賢 actually means "clever", but the reading is given as *katame* ("hardening"), so it should be taken as a miswriting of 堅. However, 賢之事 ("the matter of the clever") is a term from classical Chinese literature, where it instructs a ruler to promote the worthy despite the risk of them being more capable than and overthrowing the ruler himself. If I had to guess what the name means here, I would say that, given the surrounding context, it is probably the same as *tachikatame* (太刀堅; "securing the sword"), a method for binding the sword to the waist when wearing armour.
 
 [**Top**](#okuden-okuiai)
