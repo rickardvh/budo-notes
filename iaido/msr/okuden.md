@@ -330,7 +330,7 @@ Although the basic form as practised today consists of slashing the enemy's side
 
 The *Jōi no daiji* adds some rather interesting advice under the Yukichigai heading: if you notice someone behaving suspiciously outside at night, you should call out your own family name; if they have hostile intent towards you, they will respond "yes". This method is supposedly also effective during the day when you are out travelling.
 
-The name Ryōshi-hikitsure, like Kukurisute and Katame no koto, appear after the list of kata without any further explanation in the *Battō kokoromochi no koto*.
+The name Ryōshi-hikitsure, like Kukurisute and Katame no koto, appear after the list of kata without any further explanation in the *Battō kokoromochi no koto*. However, it also appears in the *Iai heihō gokuisho* (居合兵法極意書) under the heading 極意軍馬組附. As this name means "inner secrets of warhorse grappling", I suspect it should actually be 軍場組附: "battlefield grappling". I do like the idea of German-suplexing a horse, though.
 
 [**Top**](#okuden-okuiai)
 
@@ -353,7 +353,7 @@ Due to the outsize influence of kendō on modern iaidō, in particular through Z
 
 The above quote should have particular bearing on how to interpret [Sunegakoi](#脛囲-sunegakoi) and [Kasumi](#霞-kasumi) on a deeper level, but the theme of targeting the hands goes all the way back to the Kongen no maki, where [Tsukaguchi rokusun](../msjr/iai-kongen-no-maki.md#on-the-nature-of-tsukaguchi-rokusun) is named as the ultimate secret of the school.
 
-Returning to the topic of metsuke, *Tachi metsuke no koto* (太刀目付之㕝; "gaze in sword-fighting") in the *Battō heijutsu shinshin kanyō no daiji* describes another, rather unusual, type of metsuke. It says that when facing an opponent in a (standing) fight, one should look at the enemy's legs and feet. Two reasons are given for this: firstly, it allows one better to "know the situation" (*i.e.* judge distance, timing, and intent); secondly, it helps one stay calm in the face of danger and not be overcome by fear. In an oral tradition recorded in the later *Iai heihō gokuhisho* (居合兵法極秘書), however, the feet are no longer mentioned: "In general, one should look at the enemy's fists, but adapt to the form at hand. In a desperate situation, one should make the enemy move first, then seize the initiative and sweep horizontally."
+Returning to the topic of metsuke, *Tachi metsuke no koto* (太刀目付之㕝; "gaze in sword-fighting") in the *Battō heijutsu shinshin kanyō no daiji* describes another, rather unusual, type of metsuke. It says that when facing an opponent in a (standing) fight, one should look at the enemy's legs and feet. Two reasons are given for this: firstly, it allows one better to "know the situation" (*i.e.* judge distance, timing, and intent); secondly, it helps one stay calm in the face of danger and not be overcome by fear. In an oral tradition recorded in the later *Iai heihō gokuisho*, however, the feet are no longer mentioned: "In general, one should look at the enemy's fists, but adapt to the form at hand. In a desperate situation, one should make the enemy move first, then seize the initiative and sweep horizontally."
 
 In the *Shinden-ryū iai gokuhisho*, it is stated that the essence of iai lies in thrusting techniques, but that thrusts are hidden inside the forms of daily practice; when one feels that it would be a good time to thrust, that is when one should thrust. This is surely doubly true in Okuden, and should be kept in mind during practice.
 
