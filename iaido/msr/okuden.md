@@ -330,7 +330,7 @@ Although the basic form as practised today consists of slashing the enemy's side
 
 The *Jōi no daiji* adds some rather interesting advice under the Yukichigai heading: if you notice someone behaving suspiciously outside at night, you should call out your own family name; if they have hostile intent towards you, they will respond "yes". This method is supposedly also effective during the day when you are out travelling.
 
-The name Ryōshi-hikitsure, like Kukurisute and Katame no koto, appear after the list of kata without any further explanation in the *Battō kokoromochi no koto*. However, it also appears in the *Iai heihō gokuisho* (居合兵法極意書) under the heading 極意軍馬組附. As this name means "inner secrets of warhorse grappling", I suspect it should actually be 軍場組附: "battlefield grappling". I do like the idea of German-suplexing a horse, though.
+The name Ryōshi-hikitsure, like Kukurisute and Katame no koto, appear after the list of kata without any further explanation in the *Battō kokoromochi no koto*. However, it also appears in the *Iai heihō gokuisho* (居合兵法極意書) under the heading 極意軍馬組附. As this name means "inner secrets of warhorse grappling", I suspect it should actually be 軍場組附: "battlefield grappling". I do like the idea of suplexing a horse, though.
 
 [**Top**](#okuden-okuiai)
 
