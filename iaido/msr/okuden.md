@@ -296,7 +296,7 @@ At first glance, there does not appear to be much to add about this form; it fir
 
 >> 如前歩み行敵ゟ先に打を躰を少し開き弛して抜に切る也
 >
-> While walking as before (*i.e.* in [Jinchū](#壁添-kabezoe)), **forestall the enemy's cut** and **evade by opening up the body slightly**, and **cut in the draw**.
+> While walking as before (*i.e.* in [Nukiuchi](#壁添-kabezoe)), **forestall the enemy's cut** and **evade by opening up the body slightly**, and **cut in the draw**.
 
 There is no mention of ukenagashi anywhere, and instead the main point is evading (弛し *hazushi*; note that this kanji is the same as *yurumi* in the kata name) the cut by opening the body. The same wording is used in the old [Kodachi no kurai](../msjr/README.md#kodachi-no-kurai) to describe evasion by stepping back or to the side without deflecting the cut, while ukenagashi is referenced as such. Furthermore, you do this *before* the enemy can complete his cut (*sen no sen*, not *go no sen*), and the cut is done *by means of* drawing (抜に切る). Nothing about this is consistent with ukenagashi, and the modern form is too simplistic to fit into Okuden.
 
