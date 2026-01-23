@@ -327,14 +327,14 @@ There is, however, an entry by the name *Itomagoi* in the *Gokui no daiji*:
 
 ### 両士引連 Ryōshi-hikitsure
 
-Meaning: "accompanied by both men"/"bringing both men along"  
+Meaning: "both men pulled along"  
 Traditional name: 行違 *Yukichigai*
 
 Although the basic form as practised today consists of slashing the enemy's side while passing him, the original instructions for Yukichigai in the *Jōi no daiji* specifically stated that cutting while passing someone is bad. Instead, it says, one should draw the sword while passing the enemy, keeping him on your left side, and immediately thrust at him. If he starts drawing first, you should swiftly knock him back with the tsukagashira to the chest before drawing your own sword. Both of these variants are practised as kaewaza in Musō Shinden Jūshin-ryū, along with versions for dealing with two enemies.
 
 The *Jōi no daiji* adds some rather interesting advice under the Yukichigai heading: if you notice someone behaving suspiciously outside at night, you should call out your own family name; if they have hostile intent towards you, they will respond "yes". This method is supposedly also effective during the day when you are out travelling.
 
-The name Ryōshi-hikitsure, like Kukurisute and Katame no koto, appear after the list of kata without any further explanation in the *Battō kokoromochi no koto*. However, it also appears in the *Iai heihō gokuisho* (居合兵法極意書) under the heading 極意軍馬組附. As this name means "inner secrets of warhorse grappling", I suspect it should actually be 軍場組附: "battlefield grappling". I do like the idea of suplexing a horse, though.
+The name Ryōshi-hikitsure, like Kukurisute and Katame no koto, appear after the list of kata without any further explanation in the *Battō kokoromochi no koto*. However, it also appears in the *Iai heihō gokuisho* (居合兵法極意書) under the heading 極意軍馬組附. As this name means "inner secrets of warhorse grappling", I suspect it should actually be 軍場組附: "battlefield grappling" (I do like the idea of suplexing a horse, though). Given both contexts in which the name appears, it seems quite likely that it is instructions for some form of grappling while in armour. There is an entry matching this description in the older *Iai heihō gokui hiketsu*, regarding what to do when dragged down on the ground together with the enemy ("both combatants dragged along"), with the enemy on top. In this entry, which is named 組討心持 (*kumiuchi kokoromochi*; "the mental attitude of grappling"), the instructions are to draw one's sashizoe (knife or short sword), fold up the enemy's kusazuri (tassets; the armour skirt), and stab upwards there.
 
 [**Top**](#okuden-okuiai)
 
