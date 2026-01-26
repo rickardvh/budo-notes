@@ -47,6 +47,8 @@ Unfortunately, while the densho of the Shimomura line have been published, only 
 
 As garbled as the transmission may have become, however, one must not forget that a koryū is a living tradition that is shaped by each of the teachers who have passed it down to the present day. It would therefore be wrong to say that what we are taught is incorrect because it is different from the old tradition, and it is our responsibility to practise and pass it on as we are taught. With this in mind, however, it is also our responsibility to learn and understand where that tradition comes from and why and how it evolved into what it is now. So much is at danger of being forgotten and lost, and this proud and venerable school deserves our best efforts to understand it at a deeper level. In the case of Okuden, this understanding begins with the realisation that the forms are not merely kata, but teach important lessons on how to survive various dangerous situations Edo-period samurai might have expected to find themselves in; in doing so, the kata preserve an intangible piece of the culture iai sprung from.
 
+My two main sources for this work have been the book 林崎抜刀術兵法夢想神傳重信流 by Kimura Eiju-hanshi, and the long-running blog [Mitsuhira](http://mat-sekiunn.cocolog-nifty.com/).
+
 [**Top**](#okuden-okuiai)
 
 ## Seated forms
