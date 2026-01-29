@@ -58,11 +58,20 @@ My two main sources for this work have been the book 林崎抜刀術兵法夢想
 ### 霞 Kasumi
 
 Meaning: "haze" or "mist"  
-Traditional name: 向拂 *Mukōbarai* ("sweep/clear in front")
+Traditional name: 向拂 *Mukōbarai* ("sweeping in front")  
+Other names: 撫斬 *Nadegiri* ("caressing cut")
 
 The name Kasumi may have borrowed from the *Soto no mono no daiji*, where it describes a detached, "dreamlike" state of mind, as if "seeing through a haze". That Kasumi, however, is unrelated to this kata, which was originally called Mukōbarai and is first attested in the *Battō kokoromochi no koto*.
 
 Danzaki Tomoaki (and possibly others) taught that the scenario of this kata is that you have two enemies in front, and cut one in nukitsuke before turning the sword over and cutting the other one in the return stroke — this is obviously nonsense. Although there is no explanation anywhere in the densho, it is otherwise universally agreed that the enemy evades the first cut, wherefore you advance and cut again to the left. Since this is the case, it is important to make nukitsuke without the prior plan of making a return cut. Nukitsuke is variously thought of as being across the chest, to the face, or to the neck; the return cut is usually to the neck, but it is also possible to aim for the raised right knee.
+
+Although there is no additional explanation directly referencing Mukōbarai in the densho, there seems to be more to this form than meets the eye, however. To begin with, the name itself emphasises the sweeping motion of the horizontal cuts, and the oldest description says to "sweep" back to the left after nukitsuke. Similarly, Kimura Eiju writes:
+
+>> 拂う心持にて\[...\]抜付け拂い\[...\]右から左に拂い
+>
+> with a feeling of sweeping \[...\] make a sweeping nukitsuke \[...\] sweep from the right to the left
+
+The intent of these sweeping cuts is clearly different from that of the nukitsuke in, for example, Yokogumo, which is not described in these terms. However fast or effective it may be, merely adding another step between nukitsuke and kirioroshi does not seem to encode any deeper understanding of the basic techniques learnt so far, as one would expect of an Okuden kata. There is, however, one entry in the *Soto no mono no daiji* with the heading 詰合ハ二星 ("*Tsumeai* (is) *nisei*"), which explains that the innermost secret of Tsumeai is *nisei ichimonji* (二星一文字). *Ichimonji* describes a horizontal stroke like the character 一, and *nisei* refers to the enemy's hands; this is further explained to mean "drawing and sweeping" (抜拂フ) at the fists (see [Notes on metsuke and techniques](#notes-on-metsuke-and-techniques) for the full quote). It is not entirely clear whether the author is referring to the Tsumeai series of paired kata — although I deem it likely, as the preceding entry explains the inner secrets of Daishōzume — or situations where the enemy and oneself are "pressed close together" in general; remember, however, that Tsumeai would have been taught before the student was introduced to Okuden, and is simply a continuation of the teachings imparted through the Eishin-ryū solo forms. Therefore, one can safely assume that the above statement about the secret of Tsumeai fully applies to forms like Yokogumo and Mukōbarai.
 
 An interesting application of the same technique is in the kata Gaiseki from [Daikendori](../msjr/README.md#daikendori), where uchidachi tries to cut first the right knee of the approaching shidachi, then (unsuccessfully) the left knee on the return cut as shidachi steps back to evade.
 
