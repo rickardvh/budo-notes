@@ -16,7 +16,7 @@ The staff, though it may wound, rarely takes a life. Thus people of the world co
 
 > 古者以棒爲藝中魁首其手足攻擊之法不能外于此也冝哉
 
-In former times, the staff was regarded as foremost among martial arts. The methods of striking at the hands and legs fall entirely within its principles; none lie beyond them. This is truly fitting.
+In former times the staff was regarded as foremost among the martial arts, for the principles governing the use of the hands and feet in attack are all contained within it. This is truly fitting.
 
 > 爰天眞正七代之弟子夢想權之助以棒術鳴世名聲籍甚矣
 
@@ -61,7 +61,7 @@ It is worth noting that Shintō is written here as 眞道 ("true path"), and not
 
 > 古者以棒爲藝中魁首其手足攻擊之法不能外于此也冝哉
 
-It is impossible to tell whether 手足攻擊 refers to attacks *at* or *with* hands and legs/feet, but given the context of a staff art, it makes much more sense for it to be about strikes with the staff, targeting the hands and legs. There are no such attacks one cannot do with the staff.
+手足攻擊之法 refers to the body mechanics of using the hands and feet in offensive use. This passage seems to be paraphrasing Cheng Zongyou's 少林棍法闡宗[^1] (*Exposition of Shaolin Staff Methods*), which states 凡武備衆器，非無妙用，但身手足法，多不能外乎棍: "The point is not that other weapons are useless, but that their essential bodily mechanics, for the most part, do not go beyond the staff."
 
 冝哉 (with 冝 being an unusual variant of 宜) means something like "ah! how good/fitting it is!", but the poetic exclamation does not translate very well into English without sounding a bit silly. The statement refers to the entire preceding paragraph, saying it is fitting to consider the staff as foremost among weapons as it rarely kills and can be used in many ways.
 
@@ -81,10 +81,11 @@ Gonnosuke came to call himself "Musō" (夢想), meaning "dream-vision", in reco
 
 > 欽哉
 
-The final phrase, 欽哉, literally means "ah! how admirable/revered!", but Matsui Kenji rendered this as 欣しき哉 ("how joyous!"), reinterpreting 欽 as the similar 欣 (a rare form of 喜), meaning "to rejoice". Since this is used as a closing statement in a kanbun text, however, I believe it is used as a set phrase, similar to the more common 欽此, from Classical Chinese. There, it was used as a closing statement in imperial edicts, ordering the reader to gravely consider the message as it comes directly from the emperor himself. In that context, 欽 had more of a connotation of "imperial"/"by the emperor personally", but in Japanese usage such as in this text, it would have had the more general meaning of "admiration" or "veneration". In the Shangshu (Book of Documents)[^1], it is used as a moral injunction ("be reverent!"), admonishing the reader to humbly adhere to what is written.
+The final phrase, 欽哉, literally means "ah! how admirable/revered!", but Matsui Kenji rendered this as 欣しき哉 ("how joyous!"), reinterpreting 欽 as the similar 欣 (a rare form of 喜), meaning "to rejoice". Since this is used as a closing statement in a kanbun text, however, I believe it is used as a set phrase, similar to the more common 欽此, from Classical Chinese. There, it was used as a closing statement in imperial edicts, ordering the reader to gravely consider the message as it comes directly from the emperor himself. In that context, 欽 had more of a connotation of "imperial"/"by the emperor personally", but in Japanese usage such as in this text, it would have had the more general meaning of "admiration" or "veneration". In the Shangshu (Book of Documents)[^2], it is used as a moral injunction ("be reverent!"), admonishing the reader to humbly adhere to what is written.
 
 > 傳術誓書授受
 
 This final line marks the scroll as a menkyo (kaiden), a licence of transmission given from teacher to student.
 
-[^1]: <https://ctext.org/shang-shu/yu-shu>
+[^1]: <https://ctext.org/wiki.pl?if=en&chapter=575042>
+[^2]: <https://ctext.org/shang-shu/yu-shu>
