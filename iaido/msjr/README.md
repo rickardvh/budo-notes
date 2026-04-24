@@ -49,7 +49,7 @@
 2. 虎一足 Tora-issoku
 3. 稲妻 Inazuma
 4. 浮雲 Ukigumo
-5. 山下風 Yamaoroshi (also *Yamashitakaze*)
+5. 山下風 Yamashitakaze
 6. 岩浪 Iwanami
 7. 鱗返 Urokogaeshi
 8. 浪返 Namigaeshi
