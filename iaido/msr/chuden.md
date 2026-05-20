@@ -34,10 +34,10 @@ swifter still than its going is its returning step.
 
 Draw the left foot back, draw the sword upside down and check \[the enemy's sword\], then strike in; after that, same as above.
 
-> 意義　敵が前方から我が右臂（みぎひじ）を斬って来るのを抜刀して之を受け、敵の退くに乗じ正面に向ひ斬る業である。  
+> 意義　敵が前方から我が右臂を斬って来るのを抜刀して之を受け、敵の退くに乗じ正面に向ひ斬る業である。  
 > 動作　正面に向ひ箕坐す、刀柄を上から握り、半ば刀を抜きつゝ左足を後方に踏み開き、刀を右足の側方に刀刃を前方にして敵の斬りつける刀を拂ひ受け、刀を頭上に振り被りつゝ左足を右足に引きつけ、右足を僅かに前方に踏みつけて正面を斬り直ちに血振りをする。以下前に同じ。
 
-Meaning: When an enemy cuts at my right arm (elbow area) from the front, I draw and receive it, then, taking advantage of the enemy's retreat, cut towards the front.  
+Meaning: When an enemy cuts at my right arm from the front, I draw and receive it, then, taking advantage of the enemy's retreat, cut towards the front.  
 Action: Face forwards in kiza, grip the hilt from above, half-draw while stepping the left foot open to the rear, place the blade at the side of the right foot with the edge forwards and sweep-receive the enemy's cut, raise overhead while drawing the left foot to the right foot, step the right foot slightly forwards and cut to the front, then immediately perform chiburi. The rest is the same as before.
 
 ## 稲妻 Inazuma
@@ -52,7 +52,7 @@ the thunder that follows the lightning is never heard.
 
 Draw the left foot back, sweep aside the fist that comes cutting in, then strike in; after that, same as above.
 
-> 意義　前方から斬って来る敵之起り頭を乗じ其前臂(ひじ）を斬る業である。  
+> 意義　前方から斬って来る敵之起り頭を乗じ其前臂を斬る業である。  
 > 動作　正面に向ひ箕坐す。右足を左足に引きつけ左足を一歩ひきつゝ中腰の儘で抜刀して敵の前臂を切り（大森流の勢中刀を参照）左膝を右足に引きつけつゝ刀を頭上に振り冠り右足を前に踏みつけて正面を斬る。以下前に同じ。
 
 Meaning: A technique in which, taking the enemy at the instant of his initiation when he cuts from the front, one cuts his forearm.  
