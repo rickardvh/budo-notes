@@ -1,47 +1,97 @@
-# Mental attitude for the beginner
+# Mental attitude for the beginner in battōjutsu
 
 抜刀術童蒙初心之心持
 
-一、抜刀の用たるものは治世のみの事と思る人多し。
-全く左にあらず。戦場にて手近く入たる時、早く抜付るを居合の肝要也。
+> 抜刀の用たるものは治世のみの事と思る人多し。
+全く左にあらず。
+戦場にて手近く入たる時、早く抜付るを居合の肝要也。
 既に祖徠の鈐録に、昔の武士は剣術より居合を専ら修行せし事、古事を廉に引出せり。
-抜刀学ぶ者、此意不可忘事也。
+抜刀学ぶ者此意不可忘事也。
 
-一、先業をなすには、居合刀を組置、着坐して刀を指し、體容を直に、胸のぬけざる様にして、両手を膝に置き、打向ふ敵を見定める心持にて、向へ吐息につれて左右の手を刀にかけ、猶豫なく抜出す事也。
+Many people think that the use of battō belongs only to peaceful times. This is not so at all. On the battlefield, when the opponent has entered close at hand, the essential point of iai is to perform nukitsuke quickly. Already in Sorai’s Kenroku, old examples are cited to show that warriors of former times devoted themselves especially to iai, even more than to kenjutsu. Those who study battō must not forget this meaning.
 
-右の手は柄の平より何となく和らかにかけ、糸を繰出す如く少も滞なく抜出し、離れ際にて鞘をかへす時は、柄の握り自然と心知能所に入来るを、小指より人さし指を次第々々に締て、左の肩腰共後ろへ開き、右の肩ぬけざる様にして、頤を詰て顔をうつむけす、延やかにして、右の手六分、左之手四分の心持にて、無疑念引分け抜付る也。
+> 先業をなすには、居合刀を組置、着坐して刀を指し、體容を直に、胸のぬけざる様にして、両手を膝に置き、
+打向ふ敵を見定める心持にて、向へ吐息につれて左右の手を刀にかけ、猶豫なく抜出す事也。
 
-體は胸を照らし腹を張らし、片身ならず向身ならす、所謂三角の曲尺にて半開半向と成る也。
+When first performing the waza, sit down wearing the iai sword, keep the body straight, do not let the chest collapse, and place both hands on the knees. With the feeling of clearly fixing on the enemy before you, place both hands on the sword as you exhale forward, and draw without hesitation.
 
-委敷事は心持の引歌の書に習も出せり。
-扱、抜付んとて顔色へ顕わし、柄の握り心知を能々味わへ、迫而抜出す有、甚だ悪しきと可知。
+> 右の手は柄の平より何となく和らかにかけ、
+糸を繰出す如く少も滞なく抜出し、
+離れ際にて鞘をかへす時は、柄の握り自然と心知能所に入来るを、
+小指より人さし指を次第々々に締て、
+左の肩腰共後ろへ開き、右の肩ぬけざる様にして、
+頤を詰て顔をうつむけす、延やかにして、
+右の手六分、左之手四分の心持にて、
+無疑念引分け抜付る也。
+
+The right hand should take the tsuka softly, from the flat of the grip, without stiffness. Draw the sword without the slightest obstruction, as though unreeling thread. At the moment the kissaki is about to leave the saya, turn the saya; then the grip of the tsuka will naturally settle into the place that feels right. Tighten the fingers gradually, beginning with the little finger and proceeding towards the index finger. Open both the left shoulder and left hip to the rear, while keeping the right shoulder from collapsing or becoming disconnected. Tuck the chin, but do not bow the face downward; keep the body extended and relaxed. Use the feeling of six parts right hand and four parts left hand. Draw apart with both hands and perform nukitsuke without doubt or hesitation.
+
+> 體は胸を照らし腹を張らし、
+片身ならず向身ならす、
+所謂三角の曲尺にて半開半向と成る也。
+
+The body should open the chest and fill the abdomen. It is neither fully hanmi nor fully square to the front. It becomes what is called sankaku no magarikane — a “triangular square” — that is, a half-open, half-facing body position.
+
+> 委敷事は心持の引歌の書に習も出せり。
+扱、抜付んとて顔色へ顕わし、
+柄の握り心知を能々味わへ、迫而抜出す有、甚だ悪しきと可知。
 兎角、色に顕わさす、柔和にして抜出すべし。
 
-抜付は臍の底に心をしづめ、敵の乳通と心得、色も香もなく抜離すべし。
+The detailed points are also given in the instructional songs on mental attitude. Now, when one is about to perform nukitsuke, it is very bad to show this in the face or expression. There are those who savour the feeling of gripping the tsuka and then force the draw out. This should be understood as extremely poor. In all cases, do not reveal it outwardly. Draw in a soft and natural manner.
+
+> 抜付は臍の底に心をしづめ、
+敵の乳通と心得、色も香もなく抜離すべし。
 敵屈し膝立居る時は、我も同断の心持也。
 刀位は肩より拳により、刀の切先へ水走と知るべし。
-
 水走とて肩へ水を懸、切先迄無滞流れ落るは、あまり切先の下りている也。
 此處、筆に延がたし。
 
-一、同じく、左右の足共直に踏み、後ろ膝の浮さる様に、前の膝内へ倒るるは甚だ弱し。
 
-一、同じく、切上有、かまほこ有、是等は鞘の引様に有。
+
+In nukitsuke, settle the mind in the bottom of the navel — the tanden. Understand the line as the opponent’s chichi-dōri — the breast-line or nipple-line — and draw free without colour or scent, that is, without outward sign or affectation. If the opponent lowers himself and is in a raised-knee posture, you should have the same feeling yourself. Understand the sword’s position as a mizu-hashiri — a water-running line — from the shoulder, through the fist, to the kissaki. However, although it is called “water-running”, if water poured on the shoulder would flow without obstruction all the way down to the kissaki, then the kissaki is too low. This point is difficult to express in writing.
+
+> 同じく、左右の足共直に踏み、
+後ろ膝の浮さる様に、
+前の膝内へ倒るるは甚だ弱し。
+
+
+
+Likewise, both left and right feet must step straight. The rear knee must not float. If the front knee collapses inward, the posture becomes extremely weak.
+
+> 同じく、切上有、かまほこ有、
+是等は鞘の引様に有。
 深く工夫可有事也。
 
-一、業の引合は第一目付きに在り。
+
+
+Likewise, there are faults such as cutting upward, or making a kamaboko shape. These arise from the way the saya is drawn back. This must be studied deeply.
+
+> 業の引合は第一目付きに在り。
 首を左へかたぎ、抜付たる刀をま、視事有、悪し。
 気筋の通らざる故也。
-打込迄は敵の面より拳を見、打込に連て切付たる所へ見所替る也。
+打込迄は敵の面より拳を見、
+打込に連て切付たる所へ見所替る也。
 刀収て坐を立迄、其目付替る支なし。
 
-一、冠は後ろ膝を進み、躰にて冠り込べし。
+
+
+The first point in the proper working of the waza is metsuke. It is bad to tilt the head to the left and look at the sword after nukitsuke. This is because the line of ki does not pass through. Until the downward cut, keep your attention on the opponent’s hands, while maintaining the line of gaze toward his face. As the cut comes down, the place of seeing shifts to the place being cut. Until the sword is sheathed and you rise from the seated posture, do not change that metsuke.
+
+> 冠は後ろ膝を進み、躰にて冠り込べし。
 切先を倒さず、左の肩の上へ突込心持にて可然。
 又、冠る拍子に拳の下る有、業の糸筋続すして甚悪し。
 亦、冠りたる時、目つき鳥渡替、上を見て打込有。
 気筋の貫通せざる故にて、容あしく可慎。
 
-一、打込は手の内のいかにも和らかに冠り、體を能く延、腰に覚えて、小指より順にしめるく打込べし。
+
+
+In furikaburi, advance the rear knee and crown the sword with the body. Do not let the kissaki collapse. It is proper to raise it with the feeling of thrusting it above the left shoulder. There are those whose fists drop at the moment of furikaburi. This is very bad, because the thread-line of the waza does not continue. There are also those who, after raising the sword, slightly change the eyes, look upward, and then strike. This is because the line of ki does not penetrate. It looks poor and must be avoided.
+
+> 打込は手の内のいかにも和らかに冠り、
+體を能く延、腰に覚えて、
+小指より順にしめるく打込べし。
 勿論、刃並くるわす、強きをよしとす。
 亦、右の手勝て、右の小鬢より打込有、曲藝と云へし。
 拳を揃へ締りよく調ふ時は、太刀真直に下りて切れ心知よしと知るべし。
+
+In the downward cut, crown the sword with the hands very soft. Extend the body well and keep awareness in the koshi. Strike while tightening progressively from the little finger. Naturally, the hasuji must not deviate, and a strong cut is best. There are also those whose right hand dominates and who cut down from the right side of the head. This should be called mere acrobatics. When the fists are aligned, well tightened, and properly settled, the sword descends straight, and the feeling of the cut is good.
