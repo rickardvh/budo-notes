@@ -32,7 +32,7 @@ In nukitsuke, settle the mind in the bottom of the navel. Understand the line as
 
 > 同左右の足共直に踏み後ろ膝の浮さる様に前の膝内へ倒るゝは甚だ弱し
 
-Likewise, both left and right feet must step straight. The rear knee must not float. If the front knee collapses inward, the posture becomes extremely weak.
+Likewise, both left and right feet must step straight. The rear knee must not float. If the front knee collapses inwards, the posture becomes extremely weak.
 
 ---
 
