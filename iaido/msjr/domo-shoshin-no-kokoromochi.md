@@ -14,31 +14,21 @@ Many people think that battō is useful only in peaceful times. This is not so a
 
 When first performing the waza, sit down wearing the iaitō, keep the body straight, do not let the chest collapse, and place both hands in your lap. With the feeling of clearly fixing on the enemy before you, place both hands on the sword as the breath goes forwards, and draw without hesitation.
 
-> 右の手は柄の平より何となく和らかにかけ糸を繰出す如く少も滞なく抜出し離れ際にて鞘をかへす時は柄の握り自然と心知能所に入来るを小指より人さし指を次第々々に締て左の肩腰共後ろへ開き右の肩ぬけざる様にして頤を詰て顔をうつむけす延やかにして右の手六分左之手四分の心持にて無疑念引分け抜付る也
+> 右の手は柄の平より何となく和らかにかけ糸を攣[^1]出す如く少も滞なく抜出し離れ際にて鞘をかへす時は柄の握り自然と心知能所に入来るを小指より人さし指を次第々々に締て左の肩腰共後ろへ開き右の肩ぬけざる様にして頤を詰て顔をうつむけす延やかにして右の手六分左之手四分の心持にて無疑念引分け抜付る也
 
 Let the right hand come onto the flat of the tsuka softly and naturally, as though nothing special were happening. Draw the sword out without the slightest obstruction, as though unreeling thread. At the moment the kissaki is about to leave the saya, turn the saya, and the grip of the tsuka will naturally settle into the place that feels right. Tighten the fingers gradually, beginning with the little finger and proceeding towards the index finger. Open both the left shoulder and left hip to the rear, while keeping the right shoulder from collapsing or becoming disconnected. Tuck the chin, but do not bow the face downward; keep the body extended and relaxed. Use the feeling of six parts right hand and four parts left hand. Draw apart with both hands and perform nukitsuke without doubt or hesitation.
 
-> 體は胸を照らし腹を張らし  
-> 片身ならず向身ならす  
-> 所謂三角の曲尺にて半開半向と成る也
+> 體は胸を照らし腹を張らし片身ならず向身ならす所謂三角の曲尺にて半開半向と成る也
 
-The body should open the chest and fill the abdomen. It is neither fully hanmi nor fully square to the front. It becomes what is called sankaku no magarikane, a “triangular square”: a half-open, half-facing body position.
+As for the body, open the chest and fill the abdomen. It is neither fully hanmi nor fully square to the front. It becomes what is called *sankaku no magarikane*, a "triangular carpenter's square": a half-open, half-facing body position.
 
-> 委敷㕝は心持の引歌の書に習も出せり  
-> 扱抜付んとて顔色へ顕わし  
-> 柄の握り心知を能々味わへ迫而抜出す有甚だ悪しきと可知  
-> 兎角色に顕わさす柔和にして抜出すべし
+> 委敷㕝は心持の引歌の書に習も出せり扱抜付んとて顔色へ顕わし柄の握り心知を能々味わへ迫而抜出す有甚だ悪しきと可知兎角色に顕わさす柔和にして抜出すべし
 
-The detailed points are also given in the instructional songs on mental attitude. When one is about to perform nukitsuke, it is very bad to show this in the face or expression. There are those who savour the feeling of gripping the tsuka and then force the draw out. This should be understood as extremely poor. In all cases, do not reveal it outwardly. Draw in a soft and natural manner.
+The detailed points are also given in the instructional songs on mental attitude. When one is about to perform nukitsuke, it is very bad to show this in the face or expression. There are those who savour the feeling of gripping the tsuka and then force the draw out. This should be understood as extremely poor. In any case, do not reveal it outwardly. Draw in a soft and natural manner.
 
-> 抜付は臍の底に心をしづめ  
-> 敵の乳通と心得色も香もなく抜離すべし  
-> 敵屈し膝立居る時は我も同断の心持也  
-> 刀位は肩より拳により刀の切先へ水走と知るべし  
-> 水走とて肩へ水を懸切先迄無滞流れ落るはあまり切先の下りている也  
-> 此處筆に延がたし
+> 抜付は臍の底に心をしづめ敵の乳通と心得色も香もなく抜離すべし敵屈し膝立居る時は我も同断の心持也刀位は肩より拳により刀の切先へ水走と知るべし水走とて肩へ水を懸切先迄無滞流れ落るはあまり切先の下りている也此處筆に延がたし
 
-In nukitsuke, settle the mind in the bottom of the navel. Understand the line as the opponent’s chichi-dōri, the breast-line or nipple-line, and draw free without colour or scent, that is, without outward sign or affectation. If the opponent lowers himself and is in a raised-knee posture, you should have the same feeling yourself. Understand the sword’s position as mizu-hashiri, a water-running line, from the shoulder, through the fist, to the kissaki. However, although it is called “water-running”, if water poured on the shoulder would flow without obstruction all the way down to the kissaki, then the kissaki is too low. This point is difficult to express in writing.
+In nukitsuke, settle the mind in the bottom of the navel. Understand the line as across the enemy's breast or nipples, and draw loose without colour or scent; that is, without outwards sign or affectation. If the opponent lowers himself and raises his knee, you should have the same feeling yourself. Understand the sword's position as *mizu-hashiri*, a water-running line, from the shoulder, through the fist, to the kissaki. However, although it is called "water-running", if water poured on the shoulder would flow without obstruction all the way down to the kissaki, then the kissaki is too low. This point is difficult to express in writing.
 
 ---
 
@@ -87,3 +77,5 @@ In furikaburi, advance the rear knee and crown the sword with the body. Do not l
 > 拳を揃へ締りよく調ふ時は太刀真直に下りて切れ心知よしと知るべし
 
 In the downward cut, crown the sword with the hands very soft. Extend the body well and keep awareness in the koshi. Strike while tightening progressively from the little finger. Naturally, the hasuji must not deviate, and a strong cut is best. There are also those whose right hand dominates and who cut down from the right side of the head. This should be called mere acrobatics. When the fists are aligned, well tightened, and properly settled, the sword descends straight, and the feeling of the cut is good.
+
+[^1]: Most likely intended to be 繰.
