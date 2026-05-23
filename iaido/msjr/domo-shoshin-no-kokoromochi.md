@@ -14,16 +14,9 @@ Many people think that battō is useful only in peaceful times. This is not so a
 
 When first performing the waza, sit down wearing the iaitō, keep the body straight, do not let the chest collapse, and place both hands in your lap. With the feeling of clearly fixing on the enemy before you, place both hands on the sword as the breath goes forwards, and draw without hesitation.
 
-> 右の手は柄の平より何となく和らかにかけ  
-> 糸を繰出す如く少も滞なく抜出し  
-> 離れ際にて鞘をかへす時は柄の握り自然と心知能所に入来るを  
-> 小指より人さし指を次第々々に締て  
-> 左の肩腰共後ろへ開き右の肩ぬけざる様にして  
-> 頤を詰て顔をうつむけす延やかにして  
-> 右の手六分左之手四分の心持にて  
-> 無疑念引分け抜付る也
+> 右の手は柄の平より何となく和らかにかけ糸を繰出す如く少も滞なく抜出し離れ際にて鞘をかへす時は柄の握り自然と心知能所に入来るを小指より人さし指を次第々々に締て左の肩腰共後ろへ開き右の肩ぬけざる様にして頤を詰て顔をうつむけす延やかにして右の手六分左之手四分の心持にて無疑念引分け抜付る也
 
-The right hand should take the tsuka softly from the flat of the grip. Draw the sword out without the slightest obstruction, as though unreeling thread. At the moment the kissaki is about to leave the saya, turn the saya, and the grip of the tsuka will naturally settle into the place that feels right. Tighten the fingers gradually, beginning with the little finger and proceeding towards the index finger. Open both the left shoulder and left hip to the rear, while keeping the right shoulder from collapsing or becoming disconnected. Tuck the chin, but do not bow the face downward; keep the body extended and relaxed. Use the feeling of six parts right hand and four parts left hand. Draw apart with both hands and perform nukitsuke without doubt or hesitation.
+Let the right hand come onto the flat of the tsuka softly and naturally, as though nothing special were happening. Draw the sword out without the slightest obstruction, as though unreeling thread. At the moment the kissaki is about to leave the saya, turn the saya, and the grip of the tsuka will naturally settle into the place that feels right. Tighten the fingers gradually, beginning with the little finger and proceeding towards the index finger. Open both the left shoulder and left hip to the rear, while keeping the right shoulder from collapsing or becoming disconnected. Tuck the chin, but do not bow the face downward; keep the body extended and relaxed. Use the feeling of six parts right hand and four parts left hand. Draw apart with both hands and perform nukitsuke without doubt or hesitation.
 
 > 體は胸を照らし腹を張らし  
 > 片身ならず向身ならす  
