@@ -44,35 +44,21 @@ Likewise, there are faults such as cutting upwards, or making a kamaboko[^2] sha
 
 ---
 
-> 業の引合は第一目付きに在  
-> 首を左へかたぎ抜付たる刀をまゝ視㕝有悪し  
-> 氣筋の通らざる故也  
-> 打込迄は敵の面より拳を見る  
-> 打込に連て切付たる所へ見所替る也  
-> 刀收て坐を立迄其目付替る支なし
+> 業の引合は第一目付きに在首を左へかたぎ抜付たる刀をまゝ視㕝有悪し氣筋の通らざる故也打込迄は敵の面より拳を見る打込に連て切付たる所へ見所替る也刀收て坐を立迄其目付替る㕝なし
 
-The first point in the proper working of the waza is metsuke. It is bad to tilt the head to the left and look at the sword after nukitsuke. This is because the line of ki does not pass through. Until the downward cut, keep your attention on the opponent’s hands, while maintaining the line of gaze toward his face. As the cut comes down, the place of seeing shifts to the place being cut. Until the sword is sheathed and you rise from the seated posture, do not change that metsuke.
+The first point in the proper working of the waza is metsuke. It is bad to tilt the head to the left and look at the sword after nukitsuke. This breaks the continuity of attention and intent. Until the downward cut, keep your attention on the opponent's hands, while maintaining the line of gaze toward his face. As the cut comes down, the target of gaze shifts to the place being cut. Until the sword is sheathed and you rise from the seated posture, that metsuke does not change.
 
 ---
 
-> 冠は後ろ膝を進み體にて冠り込べし  
-> 切先を倒さす左の肩の上へ突込心持にて可然  
-> 又冠る拍子に拳の下る有業の糸筋続すして甚悪し  
-> 亦冠りたる時目つき鳥渡替上を見て打込有  
-> 氣筋の貫通せざる故にて容あしく可慎
+> 冠は後ろ膝を進み體にて冠り込べし切先を倒さす左の肩の上へ突込心持にて可然又冠る拍子に拳の下る有業の糸筋続すして甚悪し亦冠りたる時目つき鳥渡替上を見て打込有氣筋の貫通せざる故にて容あしく可慎
 
-In furikaburi, advance the rear knee and crown the sword with the body. Do not let the kissaki collapse. It is proper to raise it with the feeling of thrusting it above the left shoulder. There are those whose fists drop at the moment of furikaburi. This is very bad, because the thread-line of the waza does not continue. There are also those who, after raising the sword, slightly change the eyes, look upward, and then strike. This is because the line of ki does not penetrate. It looks poor and must be avoided.
+In furikaburi, advance the rear knee and raise the sword using the body. Without letting the kissaki drop, you should have the feeling of thrusting it above the left shoulder. There are also those whose fists drop at the moment of furikaburi. This is very bad, because it breaks the continuity of the form. There are also those who, after raising the sword, slightly change the metsuke, look upward, and then strike. Because this prevents attention and intent from carrying through the waza, it looks poor and must be avoided.
 
 ---
 
-> 打込は手の内のいかにも和らかに冠り  
-> 體を能く延腰に覚えて  
-> 小指より順にしめるく打込べし  
-> 勿論刃並くるわす強きをよしとす  
-> 亦右の手勝て右の小鬢より打込有曲藝と云へし  
-> 拳を揃へ締りよく調ふ時は太刀真直に下りて切れ心知よしと知るべし
+> 打込は手の内のいかにも和らかに冠り體を能く延腰に覚えて小指より順にしめるく打込べし勿論刃並くるわす強きをよしとす亦右の手勝て右の小鬢より打込有曲藝と云へし拳を揃へ締りよく調ふ時は太刀真直に下りて切れ心知よしと知るべし
 
-In the downward cut, crown the sword with the hands very soft. Extend the body well and keep awareness in the koshi. Strike while tightening progressively from the little finger. Naturally, the hasuji must not deviate, and a strong cut is best. There are also those whose right hand dominates and who cut down from the right side of the head. This should be called mere acrobatics. When the fists are aligned, well tightened, and properly settled, the sword descends straight, and the feeling of the cut is good.
+In the downward cut, raise the sword with the hands very soft. Stretch the body well and keep awareness in the hips. Strike while tightening progressively from the little finger. Naturally, the hasuji must not deviate, and a strong cut is best. There are also those whose right hand dominates and who cut down from the right side of the head. This ought to be called mere acrobatics. Know that when the fists are aligned, well tightened, and properly settled, the sword descends straight, and the feeling of the cut is good.
 
 [^1]: Most likely intended to be 繰.
 [^2]: A type of steamed fishcake with a convex, semicylindrical shape.
