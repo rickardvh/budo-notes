@@ -10,10 +10,9 @@ Many people think that battō is useful only in peaceful times. This is not so a
 
 ---
 
-> 先業をなすには居合刀を組置着坐して刀を指體容を直に胸のぬけざる様にして両手を膝に置き  
-> 打向ふ敵を見定める心持にて向へ突息につれて左右の手を刀にかけ猶豫なく抜出す㕝也
+> 先業をなすには居合刀を組置着坐して刀を指體容を直に胸のぬけざる様にして両手を膝に置き打向ふ敵を見定める心持にて向へ突息につれて左右の手を刀にかけ猶豫なく抜出す事也
 
-When first performing the waza, sit down wearing the iai sword, keep the body straight, do not let the chest collapse, and place both hands on the knees. With the feeling of clearly fixing on the enemy before you, place both hands on the sword as the breath goes forward, and draw without hesitation.
+When first performing the waza, sit down wearing the iaitō, keep the body straight, do not let the chest collapse, and place both hands in your lap. With the feeling of clearly fixing on the enemy before you, place both hands on the sword as the breath goes forwards, and draw without hesitation.
 
 > 右の手は柄の平より何となく和らかにかけ  
 > 糸を繰出す如く少も滞なく抜出し  
