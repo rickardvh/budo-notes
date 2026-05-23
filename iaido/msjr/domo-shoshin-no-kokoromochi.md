@@ -32,19 +32,15 @@ In nukitsuke, settle the mind in the bottom of the navel. Understand the line as
 
 ---
 
-> 同左右の足共直に踏み  
-> 後ろ膝の浮さる様に  
-> 前の膝内へ倒るゝは甚だ弱し
+> 同左右の足共直に踏み後ろ膝の浮さる様に前の膝内へ倒るゝは甚だ弱し
 
 Likewise, both left and right feet must step straight. The rear knee must not float. If the front knee collapses inward, the posture becomes extremely weak.
 
 ---
 
-> 同切上有かまほこ有  
-> 是等は鞘の引様に有  
-> 深く工夫可有㕝也
+> 同切上有かまほこ有是等は鞘の引様に有深く工夫可有㕝也
 
-Likewise, there are faults such as cutting upward, or making a kamahoko shape. These arise from the way the saya is drawn back. This must be studied deeply.
+Likewise, there are faults such as cutting upwards, or making a kamaboko[^2] shape. These arise from the way the saya is drawn back. This must be studied deeply.
 
 ---
 
@@ -79,3 +75,4 @@ In furikaburi, advance the rear knee and crown the sword with the body. Do not l
 In the downward cut, crown the sword with the hands very soft. Extend the body well and keep awareness in the koshi. Strike while tightening progressively from the little finger. Naturally, the hasuji must not deviate, and a strong cut is best. There are also those whose right hand dominates and who cut down from the right side of the head. This should be called mere acrobatics. When the fists are aligned, well tightened, and properly settled, the sword descends straight, and the feeling of the cut is good.
 
 [^1]: Most likely intended to be 繰.
+[^2]: A type of steamed fishcake with a convex, semicylindrical shape.
