@@ -10,9 +10,9 @@ Many people think that battō is useful only in peaceful times. This is not so a
 
 > 先業をなすには居合刀を組置着坐して刀を指體容を直に胸のぬけざる様にして両手を膝に置き打向ふ敵を見定める心持にて向へ突息につれて左右の手を刀にかけ猶豫なく抜出す事也
 
-When first performing the waza, sit down wearing the iaitō, keep the body straight, do not let the chest collapse, and place both hands in your lap. With the feeling of clearly fixing on the enemy before you, place both hands on the sword as the breath goes forwards, and draw without hesitation.
+When first performing the waza, sit down wearing the iaitō[^1], keep the body straight, do not let the chest collapse, and place both hands in your lap. With the feeling of clearly fixing on the enemy before you, place both hands on the sword as the breath goes forwards, and draw without hesitation.
 
-> 右の手は柄の平より何となく和らかにかけ糸を攣[^1]出す如く少も滞なく抜出し離れ際にて鞘をかへす時は柄の握り自然と心知能所に入来るを小指より人さし指を次第々々に締て左の肩腰共後ろへ開き右の肩ぬけざる様にして頤を詰て顔をうつむけす延やかにして右の手六分左之手四分の心持にて無疑念引分け抜付る也
+> 右の手は柄の平より何となく和らかにかけ糸を攣[^2]出す如く少も滞なく抜出し離れ際にて鞘をかへす時は柄の握り自然と心知能所に入来るを小指より人さし指を次第々々に締て左の肩腰共後ろへ開き右の肩ぬけざる様にして頤を詰て顔をうつむけす延やかにして右の手六分左之手四分の心持にて無疑念引分け抜付る也
 
 Let the right hand come onto the flat of the tsuka softly and naturally, as though nothing special were happening. Draw the sword out without the slightest obstruction, as though unreeling thread. At the moment the kissaki is about to leave the saya, turn the saya, and the grip of the tsuka will naturally settle into the place that feels right. Tighten the fingers gradually, beginning with the little finger and proceeding towards the index finger. Open both the left shoulder and left hip to the rear, while keeping the right shoulder from collapsing or becoming disconnected. Tuck the chin, but do not bow the face downward; keep the body extended and relaxed. Use the feeling of six parts right hand and four parts left hand. Draw apart with both hands and perform nukitsuke without doubt or hesitation.
 
@@ -38,7 +38,7 @@ Likewise, both left and right feet must step straight. The rear knee must not fl
 
 > 同切上有かまほこ有是等は鞘の引様に有深く工夫可有㕝也
 
-Likewise, there are faults such as cutting upwards, or making a kamaboko[^2] shape. These arise from the way the saya is drawn back. This must be studied deeply.
+Likewise, there are faults such as cutting upwards, or making a kamaboko[^3] shape. These arise from the way the saya is drawn back. This must be studied deeply.
 
 ---
 
@@ -58,5 +58,6 @@ In furikaburi, advance the rear knee and raise the sword using the body. Without
 
 In the downward cut, raise the sword with the hands very soft. Stretch the body well and keep awareness in the hips. Strike while tightening progressively from the little finger. Naturally, the hasuji must not deviate, and a strong cut is best. There are also those whose right hand dominates and who cut down from the right side of the head. This ought to be called mere acrobatics. Know that when the fists are aligned, well tightened, and properly settled, the sword descends straight, and the feeling of the cut is good.
 
-[^1]: Most likely intended to be 繰.
-[^2]: A type of steamed fishcake with a convex, semicylindrical shape.
+[^1]: Although nowadays often used as a synonym of *mogitō*, referring to a blunt imitation sword as opposed to a shinken, an iaitō really is any sword specifically used for iai practice.
+[^2]: Most likely intended to be 繰.
+[^3]: A type of steamed fishcake with a convex, semicylindrical shape.
