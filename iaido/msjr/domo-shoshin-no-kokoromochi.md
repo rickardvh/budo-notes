@@ -4,11 +4,7 @@
 
 ---
 
-> 抜刀の用たるものは治世のみの㕝と思る人多し  
-> 全く左にあらす  
-> 戦場にて手近く入たる時早く抜付る㕝居合の肝要也  
-> 既に徂徠の鈐録に昔の武士は剱術より居合を専ら修行せし㕝古㕝を廉に引出せり  
-> 抜刀学ふ者此意不可忘㕝也
+> 抜刀の用たるものは治世のみの㕝と思る人多し全く左にあらす戦場にて手近く入たる時早く抜付る㕝居合の肝要也既󠄀に徂徠の鈐録に昔の武士は剱術より居合を専ら修行せし事古事を廉に引出せり抜刀学ふ者此意不可忘㕝也
 
 Many people think that battō is useful only in peaceful times. This is not so at all. On the battlefield, when the enemy has entered close at hand, the essential point of iai is to perform nukitsuke quickly. Already in Sorai's *Kenroku*, old examples are cited showing that warriors of former times devoted themselves especially to iai rather than kenjutsu. Those who study battō must not forget this meaning.
 
