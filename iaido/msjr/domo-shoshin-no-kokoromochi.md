@@ -20,7 +20,7 @@ Let the right hand come onto the flat of the tsuka softly and naturally, as thou
 
 As for the body, open the chest and fill the abdomen. It is neither fully hanmi nor fully square to the front. It becomes what is called *sankaku no magarikane*, a "triangular carpenter's square": a half-open, half-facing body position.
 
-> 委敷㕝は心持の引歌の書に習も出せり扱抜付んとて顔色へ顕わし柄の握り心知を能々味わへ迫而抜出す有甚だ悪しきと可知兎角色に顕わさす柔和にして抜出すべし
+> 委敷事は心持の引歌の書に習も出せり扱抜付んとて顔色へ顕わし柄の握り心知を能々味わへ迫而抜出す有甚だ悪しきと可知兎角色に顕わさす柔和にして抜出すべし
 
 The detailed points are also given in the instructional songs on mental attitude. When one is about to perform nukitsuke, it is very bad to show this in the face or expression. There are those who savour the feeling of gripping the tsuka and then force the draw out. This should be understood as extremely poor. In any case, do not reveal it outwardly. Draw in a soft and natural manner.
 
