@@ -56,7 +56,7 @@ In furikaburi, advance the rear knee and raise the sword using the body. Without
 
 > 打込は手の内のいかにも和らかに冠り體を能く延腰に覚えて小指より順にしめるく打込べし勿論刃並くるわす強きをよしとす亦右の手勝て右の小鬢より打込有曲藝と云へし拳を揃へ締りよく調ふ時は太刀真直に下りて切れ心知よしと知るべし
 
-In the downward cut, raise the sword with the hands very soft. Stretch the body well and keep awareness in the hips. Strike while tightening progressively from the little finger. Naturally, the hasuji must not deviate, and a strong cut is best. There are also those whose right hand dominates and who cut down from the right side of the head. This ought to be called mere acrobatics. Know that when the fists are aligned, well tightened, and properly settled, the sword descends straight, and the feeling of the cut is good.
+In the downward cut, raise the sword with the hands very soft. Stretch the body well and keep awareness in the hips. Strike while tightening progressively from the little finger. Naturally, the hasuji must not deviate, and a strong cut is best. There are also those whose right hand dominates and who cut down from the right side of the head. This ought to be called mere acrobatics. It should be understood that when the fists are aligned, well tightened, and properly settled, the sword descends straight, and the feeling of the cut is good.
 
 [^1]: Although nowadays often used as a synonym of *mogitō*, referring to a blunt imitation sword as opposed to a shinken, an iaitō really is any sword specifically used for iai practice.
 [^2]: Most likely intended to be 繰.
