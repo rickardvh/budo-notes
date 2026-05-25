@@ -144,7 +144,7 @@ In tsumeai, sit with the ma-ai well closed. When the opponent places his hand on
 
 > 立合詰合共打太刀引退きたる所え勝を付し時相手より木太刀を合せさる内に安堵して気を放し済たる様に心得て勝たる木太刀を取除け足を曳有甚悪しく是も気の充さる故也
 
-In both tachiai and tsumeai, when uchidachi has drawn back and victory has been applied, it is extremely bad to relax before the opponent has brought the bokutō into awase, to release the ki as though everything were finished, to remove the bokutō with which one has won, and to draw back the foot. This too is because the ki is not full.
+In both tachiai and tsumeai, when uchidachi has drawn back and victory has been applied, it is extremely bad to relax before the opponent has brought the bokutō into awase, to release the ki as though everything were finished, to remove the bokutō with which one has won and draw back the foot. This too is because the ki is not full.
 
 > 相手より木太刀を合せ詰来るに随而足を曳太刀先五六寸合たる所にて互に左の足を曳て相互に締りを付引分るべし
 
