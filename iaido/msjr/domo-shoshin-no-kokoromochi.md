@@ -140,15 +140,15 @@ In saya-bokutō tsumeai, first place the bokutō, sit, and wear the bokutō. Bot
 
 > 詰合は場合随分詰て坐すべし相手柄え手を懸れは遣方柄え手を懸る也
 
-In tsumeai, sit with the ma-ai well closed. When the opponent places his hand on the tsuka, tsukaikata also places his hand on the tsuka.
+In tsumeai, sit quite close together. When the opponent places his hand on the tsuka, tsukaikata also places his hand on the tsuka.
 
 > 立合詰合共打太刀引退きたる所え勝を付し時相手より木太刀を合せさる内に安堵して気を放し済たる様に心得て勝たる木太刀を取除け足を曳有甚悪しく是も気の充さる故也
 
-In both tachiai and tsumeai, when uchidachi has drawn back and victory has been applied, it is extremely bad to relax before the opponent has brought the bokutō into awase, to release the ki as though everything were finished, to remove the bokutō with which one has won and draw back the foot. This too is because the ki is not full.
+In both tachiai and tsumeai, when uchidachi has drawn back and victory has been attained, it is extremely bad to relax before the opponent has brought the bokutō into awase, to release the ki as though everything were finished, to remove the bokutō with which one has won and draw back the foot. This too is because the ki is not full.
 
 > 相手より木太刀を合せ詰来るに随而足を曳太刀先五六寸合たる所にて互に左の足を曳て相互に締りを付引分るべし
 
-As the opponent brings the bokutō together and comes pressing in, draw back the foot. When the sword-points are five or six sun apart, both draw back the left foot, give mutual closure, and separate.
+As the opponent brings the bokutō into awase and comes pressing in, draw back the foot. When the sword-points are five or six sun apart, both draw back the left foot, give mutual closure, and separate.
 
 > 両足揃えて締を付たる時は向身と成て悪しく兎角引分れに気をたらすへし
 
@@ -156,7 +156,7 @@ If closure is made with both feet aligned, the body becomes square to the front,
 
 > 是も又居合同断にて初本より終打込迄相手と糸筋の切さる様にして打向ふ敵と心得て遣ふへし
 
-This too is the same as in iai: from the first form through to the final Uchikomi, perform it with the opponent, keeping the thread-line unbroken, and understand him as the enemy facing you.
+This too is the same as in iai: from the first form through to the final Uchikomi, perform it with the opponent, keeping the thread unbroken, and understand him as the enemy facing you.
 
 > 居合も太刀打も気充満せされば変に應る支不能と知へし深く工夫可有事也
 
@@ -166,11 +166,11 @@ Know that in both iai and tachiuchi, unless the ki is full, one cannot respond t
 
 > 書残雖不鮮余文亦疎也不能委説寺田士之比管見者非九牛一毛然乍初心考慮之一助為任筆耕記乎其荒増而已矣
 
-Although what is written here remains unclear, and my wording is also sparse, I cannot explain it in detail. This narrow view is not even one hair from nine oxen; nevertheless, I have taken up the brush to make it an aid for the beginner’s reflection, recording only its rough outline.
+Although what is written here remains unclear, and my wording is also sparse, I cannot explain it in detail. This narrow view is not even one hair from nine oxen; nevertheless, I have taken up the brush to make it an aid for the beginner to reflect on, recording only its rough outline.
 
 > 庚申五月　下村定
 
-Kōshin year, fifth month — Shimomura Sadamu.
+Kōshin[^8], fifth month — Shimomura Sadamu.
 
 > 仝年六月為童蒙寫  
 > 島村義郷
@@ -180,7 +180,8 @@ Copied for the beginner in the sixth month of the same year — Shimamura Yoshis
 [^1]: Although nowadays often used as a synonym of *mogitō*, referring to a blunt imitation sword as opposed to a shinken, an iaitō really is any sword specifically used for iai practice.
 [^2]: Most likely intended to be 繰.
 [^3]: A type of steamed fishcake with a convex, semicylindrical shape.
-[^4]: Commonly referred to as "yoko-chiburi".
-[^5]: Nōtō.
-[^6]: Eishin-ryū.
-[^7]: Shidachi.
+[^4]: Commonly referred to as *yoko-chiburi* or *migi ni hiraite no chiburi*.
+[^5]: Nōtō
+[^6]: Eishin-ryū
+[^7]: Shidachi
+[^8]: 1860
