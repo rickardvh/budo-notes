@@ -136,15 +136,15 @@ In oku-iai, each point of instruction must become the waza itself, and speed is 
 
 > 鞘木刀詰合は先木太刀を組置着坐して木太刀を指互に遅速なく立太刀構は相手より構るを見て遣方構え業に懸るへし
 
-In saya-bokutō tsumeai, first place the bokutō, sit, and wear the bokutō. Both should stand without either being faster or slower. As for sword kamae, watch the opponent take kamae, then the shidachi takes kamae and begins the form.
+In saya-bokutō tsumeai, first place the bokutō, sit, and wear the bokutō. Both should stand without either being faster or slower. As for sword kamae, when seeing the opponent take kamae, tsukaikata[^7] takes kamae and begins the form.
 
 > 詰合は場合随分詰て坐すべし相手柄え手を懸れは遣方柄え手を懸る也
 
-In tsumeai, sit with the maai well closed. When the opponent places his hand on the tsuka, the shidachi also places his hand on the tsuka.
+In tsumeai, sit with the ma-ai well closed. When the opponent places his hand on the tsuka, tsukaikata also places his hand on the tsuka.
 
 > 立合詰合共打太刀引退きたる所え勝を付し時相手より木太刀を合せさる内に安堵して気を放し済たる様に心得て勝たる木太刀を取除け足を曳有甚悪しく是も気の充さる故也
 
-In both tachiai and tsumeai, when uchidachi has drawn back and victory has been applied, it is extremely bad to relax before the opponent has brought the bokutō together, to release the ki as though everything were finished, to remove the bokutō with which one has won, and to draw back the foot. This too is because the ki is not full.
+In both tachiai and tsumeai, when uchidachi has drawn back and victory has been applied, it is extremely bad to relax before the opponent has brought the bokutō into awase, to release the ki as though everything were finished, to remove the bokutō with which one has won, and to draw back the foot. This too is because the ki is not full.
 
 > 相手より木太刀を合せ詰来るに随而足を曳太刀先五六寸合たる所にて互に左の足を曳て相互に締りを付引分るべし
 
@@ -183,3 +183,4 @@ Copied for the beginner in the sixth month of the same year — Shimamura Yoshis
 [^4]: Commonly referred to as "yoko-chiburi".
 [^5]: Nōtō.
 [^6]: Eishin-ryū.
+[^7]: Shidachi.
