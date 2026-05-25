@@ -60,7 +60,7 @@ In the downward cut, raise the sword with the hands very soft. Stretch the body 
 
 > 血揮開き收は敵に逢ての用たる事にてはなし業の締りを付たる事ゆへ一己くの事成共異ならさる様にすへし
 
-Chiburi, hiraki, and osame are not actions used for meeting an enemy. They are for giving closure to the waza, and therefore each instance of them should be performed without variation.
+Chiburi, hiraki[^4], and osame[^5] are not actions used for meeting an enemy. They are for giving closure to the form, and therefore each instance of them should be performed without variation.
 
 > 血揮は握りをゆるめ大指と人差指と弐本にて肩へ取て人差指より高き指を次第くに締臂を張時は自然と太刀先圓くおりる也
 
@@ -68,13 +68,13 @@ For chiburi, loosen the grip and take the sword to the shoulder with the thumb a
 
 > 跡足前へ揃えたる時は躰屈ます延きらす少し前へかゝるべし
 
-When the rear foot is brought forward and aligned, do not bend the body, and do not overextend it; the body should incline slightly forward.
+When the rear foot is brought forwards and aligned, do not bend the body, and do not overextend it; the body should incline slightly forwards.
 
 ---
 
 > 開は胸を照し腹を入腰を張拳も一時に尖く開く時は拍子揃て引合よし
 
-In hiraki, open the chest, set the abdomen, and fill the hips. When the fists also open sharply at the same moment, the timing comes together and the correspondence is good.
+In hiraki, open the chest, set the abdomen, and tighten the hips. When the fists also open sharply at the same moment, the timing comes together and the correspondence is good.
 
 ---
 
@@ -82,13 +82,9 @@ In hiraki, open the chest, set the abdomen, and fill the hips. When the fists al
 
 In osame, do not put the right hand forward, do not take it sideways, and do not lift it upward; moderation and central balance are best.
 
-> 鯉口の手は指をさして延す少し刀の宗に人指ゆびを添るか又は握りたるまゝにても取べし
+> 鯉口の手は指をさして延す少し刀の宗に人指ゆびを添るか又は握りたるまゝにても取べし指出せは不慮巻事の有は慎へし
 
-As for the koiguchi hand, the fingers may be extended, with the index finger placed slightly along the mune of the sword; or it may be taken while still gripping.
-
-> 指出せは不慮巻事の有は慎へし
-
-If the finger is extended, take care, as there may be an unexpected wrapping or entangling.
+As for the koiguchi hand, the fingers may be extended, with the index finger placed slightly along the mune of the sword, or it may be taken while still gripping. If the finger is extended, take care, as it may unexpectedly wrap around.
 
 > 鍔際迄身を指こむと安堵して気分のたるむ有是気の充さる故の事也
 
@@ -184,3 +180,5 @@ Copied for the beginner in the sixth month of the same year — Shimamura Yoshis
 [^1]: Although nowadays often used as a synonym of *mogitō*, referring to a blunt imitation sword as opposed to a shinken, an iaitō really is any sword specifically used for iai practice.
 [^2]: Most likely intended to be 繰.
 [^3]: A type of steamed fishcake with a convex, semicylindrical shape.
+[^4]: Commonly referred to as "yoko-chiburi".
+[^5]: Nōtō.
