@@ -56,7 +56,7 @@ In furikaburi, advance the rear knee and raise the sword using the body. Without
 
 > 打込は手の内のいかにも和らかに冠り體を能く延腰に覚えて小指より順にしめるく打込べし勿論刃並くるわす強きをよしとす亦右の手勝て右の小鬢より打込有曲藝と云へし拳を揃へ締りよく調ふ時は太刀真直に下りて切れ心知よしと知るべし
 
-In the downward cut, raise the sword with the hands very soft. Stretch the body well and keep awareness in the hips. Strike while tightening progressively from the little finger. Naturally, the hasuji must not deviate, and a strong cut is best. There are also those whose right hand dominates and who cut down from the right side of the head. This ought to be called mere acrobatics. It should be understood that when the fists are aligned, well tightened, and properly settled, the sword descends straight, and the feeling of the cut is good.
+In the downwards cut, raise the sword with the hands very soft. Stretch the body well and keep awareness in the hips. Strike while tightening progressively from the little finger. Naturally, the hasuji must not deviate, and a strong cut is best. There are also those whose right hand dominates and who cut down from the right side of the head. This ought to be called mere acrobatics. It should be understood that when the fists are aligned, well tightened, and properly settled, the sword descends straight, and the feeling of the cut is good.
 
 > 血揮開き收は敵に逢ての用たる事にてはなし業の締りを付たる事ゆへ一己くの事成共異ならさる様にすへし
 
@@ -88,23 +88,23 @@ As for the koiguchi hand, the fingers may be extended, with the index finger pla
 
 > 鍔際迄身を指こむと安堵して気分のたるむ有是気の充さる故の事也
 
-There are those who relax in relief when the blade has entered as far as the tsuba-moto, and whose feeling slackens. This is because the ki is not full.
+There are those who relax in relief when the blade has entered as far as the tsubamoto, and whose feeling slackens. This is because the ki is not full.
 
 > 与得收め込て締り居て握りを放し可立
 
-Sheathe fully and properly; remain settled and closed, then release the grip and stand.
+Sheathe fully and properly; maintain zanshin, then release the grip and stand.
 
 ---
 
 > 大森流は打込て息を續たれは收て仕廻追息續べからす亦打込て大息を呑有腹空虚して気充す慎むへし
 
-In Ōmori-ryū, if the breath is continued through the downward cut, do not continue with extra or following breath after osame and the completion of the waza. Also, when cutting, beware of taking in a great breath so that the abdomen becomes empty and the ki is not filled.
+In Ōmori-ryū, if the breath is continued after cutting down, do not continue with an extra breath after osame and finishing the form. Also, when cutting, beware of expelling a great breath so that the abdomen is emptied and the ki is not filled.
 
 ---
 
 > 當流は開きて息を續跡大森流に替る事なし
 
-In this ryū, after opening and continuing the breath, there is no difference from Ōmori-ryū.
+In this school, after opening and continuing the breath, there is no difference from Ōmori-ryū.
 
 ---
 
