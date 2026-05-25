@@ -104,7 +104,7 @@ In Ōmori-ryū, if the breath is continued after cutting down, do not continue w
 
 > 當流は開きて息を續跡大森流に替る事なし
 
-In this school, after opening and continuing the breath, there is no difference from Ōmori-ryū.
+In this school[^6], after opening and continuing the breath, there is no difference from Ōmori-ryū.
 
 ---
 
@@ -120,17 +120,17 @@ There are those who spoil the waza and stop halfway, or, when the uchikomi does 
 
 > 若業仕損なば十本流で跡にて幾度も抜直すへし
 
-If you spoil the waza, then later, within the ten forms, you should repeat and correct the draw many times.
+If you spoil the form, then later, you should repeat it many times within the course of the ten forms.
 
 > 初心の修行には十本の業を一本と心得て初本より終り抜打迄糸筋の切れさる様に工夫あるべし
 
-In beginner’s training, understand the ten waza as one single waza, and from the first form through to the final Nukiuchi, study so that the thread of the waza is not broken.
+In beginner's training, understand the ten forms as one single form, and from the first form through to the final Nukiuchi, study so that the thread of the waza is not broken.
 
 ---
 
-> 奥居合は介條の心持を業として早きを主とすれとも唯早き斗と心得て業不整時は不行届気充されば実用ならず能々工夫可有
+> 奥居合は个條の心持を業として早きを主とすれとも唯早き斗と心得て業不整時は不行届気充されば実用ならず能々工夫可有
 
-Oku-iai takes the spirit of kaijō as its waza and makes speed central, but if one thinks only of speed and the waza is disordered, it is incomplete. If the ki is not filled, it is of no practical use. This must be studied carefully.
+In oku-iai, each point of instruction must become the waza itself, and speed is central. However, if one thinks only of speed and the form is disordered, it is incomplete. If the ki is not filled, it is of no practical use. This must be studied carefully.
 
 ---
 
@@ -182,3 +182,4 @@ Copied for the beginner in the sixth month of the same year — Shimamura Yoshis
 [^3]: A type of steamed fishcake with a convex, semicylindrical shape.
 [^4]: Commonly referred to as "yoko-chiburi".
 [^5]: Nōtō.
+[^6]: Eishin-ryū.
