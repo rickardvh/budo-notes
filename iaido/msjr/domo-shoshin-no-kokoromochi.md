@@ -56,8 +56,132 @@ In furikaburi, advance the rear knee and raise the sword using the body. Without
 
 > 打込は手の内のいかにも和らかに冠り體を能く延腰に覚えて小指より順にしめるく打込べし勿論刃並くるわす強きをよしとす亦右の手勝て右の小鬢より打込有曲藝と云へし拳を揃へ締りよく調ふ時は太刀真直に下りて切れ心知よしと知るべし
 
-In the downward cut, raise the sword with the hands very soft. Stretch the body well and keep awareness in the hips. Strike while tightening progressively from the little finger. Naturally, the hasuji must not deviate, and a strong cut is best. There are also those whose right hand dominates and who cut down from the right side of the head. This ought to be called mere acrobatics. It should be understood that when the fists are aligned, well tightened, and properly settled, the sword descends straight, and the feeling of the cut is good.
+In the downwards cut, raise the sword with the hands very soft. Stretch the body well and keep awareness in the hips. Strike while tightening progressively from the little finger. Naturally, the hasuji must not deviate, and a strong cut is best. There are also those whose right hand dominates and who cut down from the right side of the head. This ought to be called mere acrobatics. It should be understood that when the fists are aligned, well tightened, and properly settled, the sword descends straight, and the feeling of the cut is good.
+
+> 血揮開き收は敵に逢ての用たる事にてはなし業の締りを付たる事ゆへ一己くの事成共異ならさる様にすへし
+
+Chiburi, hiraki[^4], and osame[^5] are not actions used for meeting an enemy. They are for giving closure to the form, and therefore each instance of them should be performed without variation.
+
+> 血揮は握りをゆるめ大指と人差指と弐本にて肩へ取て人差指より高き指を次第くに締臂を張時は自然と太刀先圓くおりる也
+
+For chiburi, loosen the grip and take the sword to the shoulder with the thumb and index finger. When the fingers are then tightened in order from the index finger and the elbow is extended, the sword-point will naturally descend in a rounded path.
+
+> 跡足前へ揃えたる時は躰屈ます延きらす少し前へかゝるべし
+
+When the rear foot is brought forwards and aligned, do not bend the body, and do not overextend it; the body should incline slightly forwards.
+
+---
+
+> 開は胸を照し腹を入腰を張拳も一時に尖く開く時は拍子揃て引合よし
+
+In hiraki, open the chest, set the abdomen, and tighten the hips. When the fists also open sharply at the same moment, the timing comes together and the correspondence is good.
+
+---
+
+> 收は右の手向へ出さす横にとらす取上す中和をよしとす
+
+In osame, do not put the right hand forward, do not take it sideways, and do not lift it upward; moderation and central balance are best.
+
+> 鯉口の手は指をさして延す少し刀の宗に人指ゆびを添るか又は握りたるまゝにても取べし指出せは不慮巻事の有は慎へし
+
+As for the koiguchi hand, the fingers may be extended, with the index finger placed slightly along the mune of the sword, or it may be taken while still gripping. If the finger is extended, take care, as it may unexpectedly wrap around.
+
+> 鍔際迄身を指こむと安堵して気分のたるむ有是気の充さる故の事也
+
+There are those who relax in relief when the blade has entered as far as the tsubamoto, and whose feeling slackens. This is because the ki is not full.
+
+> 与得收め込て締り居て握りを放し可立
+
+Sheathe fully and properly; maintain zanshin, then release the grip and stand.
+
+---
+
+> 大森流は打込て息を續たれは收て仕廻追息續べからす亦打込て大息を呑有腹空虚して気充す慎むへし
+
+In Ōmori-ryū, if the breath is continued after cutting down, do not continue with an extra breath after osame and finishing the form. Also, when cutting, beware of expelling a great breath so that the abdomen is emptied and the ki is not filled.
+
+---
+
+> 當流は開きて息を續跡大森流に替る事なし
+
+In this school[^6], after opening and continuing the breath, there is no difference from Ōmori-ryū.
+
+---
+
+> 抜付打込開共夫々切先のきける様に心懸へし
+
+In nukitsuke, uchikomi, and hiraki alike, be mindful that the kissaki should be effective.
+
+---
+
+> 業仕損し半途にて止る有打込抔気にたらされば又冠り打込直す有慎むべし
+
+There are those who spoil the waza and stop halfway, or, when the uchikomi does not satisfy them, raise the sword again and strike once more. This must be avoided.
+
+> 若業仕損なば十本流で跡にて幾度も抜直すへし
+
+If you spoil the form, then later, you should repeat it many times within the course of the ten forms.
+
+> 初心の修行には十本の業を一本と心得て初本より終り抜打迄糸筋の切れさる様に工夫あるべし
+
+In beginner's training, understand the ten forms as one single form, and from the first form through to the final Nukiuchi, study so that the thread of the waza is not broken.
+
+---
+
+> 奥居合は个條の心持を業として早きを主とすれとも唯早き斗と心得て業不整時は不行届気充されば実用ならず能々工夫可有
+
+In oku-iai, each point of instruction must become the waza itself, and speed is central. However, if one thinks only of speed and the form is disordered, it is incomplete. If the ki is not filled, it is of no practical use. This must be studied carefully.
+
+---
+
+> 鞘木刀詰合は先木太刀を組置着坐して木太刀を指互に遅速なく立太刀構は相手より構るを見て遣方構え業に懸るへし
+
+In saya-bokutō tsumeai, first place the bokutō, sit, and wear the bokutō. Both should stand without either being faster or slower. As for sword kamae, when seeing the opponent take kamae, tsukaikata[^7] takes kamae and begins the form.
+
+> 詰合は場合随分詰て坐すべし相手柄え手を懸れは遣方柄え手を懸る也
+
+In tsumeai, sit quite close together. When the opponent places his hand on the tsuka, tsukaikata also places his hand on the tsuka.
+
+> 立合詰合共打太刀引退きたる所え勝を付し時相手より木太刀を合せさる内に安堵して気を放し済たる様に心得て勝たる木太刀を取除け足を曳有甚悪しく是も気の充さる故也
+
+In both tachiai and tsumeai, when uchidachi has drawn back and victory has been attained, it is extremely bad to relax before the opponent has brought the bokutō into awase, to release the ki as though everything were finished, to remove the bokutō with which one has won and draw back the foot. This too is because the ki is not full.
+
+> 相手より木太刀を合せ詰来るに随而足を曳太刀先五六寸合たる所にて互に左の足を曳て相互に締りを付引分るべし
+
+As the opponent brings the bokutō into awase and comes pressing in, draw back the foot. When the sword-points are five or six sun apart, both draw back the left foot, give mutual closure, and separate.
+
+> 両足揃えて締を付たる時は向身と成て悪しく兎角引分れに気をたらすへし
+
+If closure is made with both feet aligned, the body becomes square to the front, which is bad. In any case, the ki must be maintained through the separation.
+
+> 是も又居合同断にて初本より終打込迄相手と糸筋の切さる様にして打向ふ敵と心得て遣ふへし
+
+This too is the same as in iai: from the first form through to the final Uchikomi, perform it with the opponent, keeping the thread unbroken, and understand him as the enemy facing you.
+
+> 居合も太刀打も気充満せされば変に應る支不能と知へし深く工夫可有事也
+
+Know that in both iai and tachiuchi, unless the ki is full, one cannot respond to change. This must be studied deeply.
+
+---
+
+> 書残雖不鮮余文亦疎也不能委説寺田士之比管見者非九牛一毛然乍初心考慮之一助為任筆耕記乎其荒増而已矣
+
+Although what is written here remains unclear, and my wording is also sparse, I cannot explain it in detail. This narrow view is not even one hair from nine oxen; nevertheless, I have taken up the brush to make it an aid for the beginner to reflect on, recording only its rough outline.
+
+> 庚申五月　下村定
+
+Kōshin[^8], fifth month — Shimomura Sadamu.
+
+> 仝年六月為童蒙寫  
+> 島村義郷
+
+Copied for the beginner in the sixth month of the same year — Shimamura Yoshisato.
 
 [^1]: Although nowadays often used as a synonym of *mogitō*, referring to a blunt imitation sword as opposed to a shinken, an iaitō really is any sword specifically used for iai practice.
 [^2]: Most likely intended to be 繰.
 [^3]: A type of steamed fishcake with a convex, semicylindrical shape.
+[^4]: Commonly referred to as *yoko-chiburi* or *migi ni hiraite no chiburi*.
+[^5]: Nōtō
+[^6]: Eishin-ryū
+[^7]: Shidachi
+[^8]: 1860
