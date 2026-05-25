@@ -136,7 +136,7 @@ In oku-iai, each point of instruction must become the waza itself, and speed is 
 
 > 鞘木刀詰合は先木太刀を組置着坐して木太刀を指互に遅速なく立太刀構は相手より構るを見て遣方構え業に懸るへし
 
-In saya-bokutō tsumeai, first set out the wooden swords, sit, and wear the wooden sword. Both should stand without either being faster or slower. In tachi-kamae, watch the opponent take kamae, then the shidachi takes kamae and begins the waza.
+In saya-bokutō tsumeai, first place the bokutō, sit, and wear the bokutō. Both should stand without either being faster or slower. As for sword kamae, watch the opponent take kamae, then the shidachi takes kamae and begins the form.
 
 > 詰合は場合随分詰て坐すべし相手柄え手を懸れは遣方柄え手を懸る也
 
