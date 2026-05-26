@@ -80,7 +80,7 @@ In hiraki, open the chest, set the abdomen, and tighten the hips. When the fists
 
 > 收は右の手向へ出さす横にとらす取上す中和をよしとす
 
-In osame, do not put the right hand forward, do not take it sideways, and do not lift it upward; moderation and central balance are best.
+In osame, do not push the right hand forwards, do not take it sideways, and do not lift it upwards; moderation and central balance are best.
 
 > 鯉口の手は指をさして延す少し刀の宗に人指ゆびを添るか又は握りたるまゝにても取べし指出せは不慮巻事の有は慎へし
 
