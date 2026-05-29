@@ -194,7 +194,7 @@ Similarly to the relationship between [Tozume](#戸詰-tozume) (of which this is
 ### 連達 Tsuredachi
 
 Meaning: "escorted away"  
-Traditional name: 行連 *Yukizure*
+Traditional name: 行連 *Yukizure*  
 Other names: 連達 *Rentatsu*
 
 See [Yukizure](#行連-yukizure). The name Tsuredachi traditionally belonged to [Yukichigai](#行違-yukichigai).
