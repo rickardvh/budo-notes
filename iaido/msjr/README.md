@@ -49,7 +49,7 @@
 2. 虎一足 Tora-issoku
 3. 稲妻 Inazuma
 4. 浮雲 Ukigumo
-5. 山下風 Yamashitakaze
+5. 山下風 Yamaoroshi (also *Yamashitakaze*)
 6. 岩浪 Iwanami
 7. 鱗返 Urokogaeshi
 8. 浪返 Namigaeshi
@@ -64,11 +64,11 @@
 2. 柄留 Tsukadome
 3. 向詰 Mukōzume
 4. 両詰 Ryōzume
-5. 三角 Sankaku
-6. 四角 Shikaku
+5. 三角 Misumi (also *Sankaku*)
+6. 四角 Yosumi (also *Shikaku*)
 7. 棚下 Tanashita
 8. 虎走 Torabashiri
-9. 人中 Jinchū
+9. 人中 Hitonaka (also *Jinchū*)
 10. 行連 Yukizure
 11. 連達 Tsuredachi
 12. 行違 Yukichigai
