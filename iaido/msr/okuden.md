@@ -45,7 +45,7 @@ In addition to preparing the student for various dangerous situations, there are
 
 Adding to the confusion, the Okuden that has been passed down in Musō Shinden-ryū has been greatly distorted and the kata names jumbled over time. Although Musō Shinden-ryū is usually regarded as belonging to the Shimomura line of Tosa Eishin-ryū, this is not entirely correct when it comes to Okuden. The Okuden of Musō Shinden-ryū is probably that which Nakayama Hakudō learnt from Morimoto Tokumi of the Tanimura (Gotō) line, which is why it is nearly identical to that of Musō Jikiden Eishin-ryū. The true Shimomura line as transmitted from Hosokawa Yoshimasa was passed down by Nakayama only to a select few students, first of whom was Kimura Eiju, under the name [Musō Shinden Jūshin-ryū](../msjr/README.md). Another line of the Shimomura-ha survives as Musō Shinden Eishin-ryū through Hosokawa's other student Ueta Heitarō.
 
-Unfortunately, while the densho of the Shimomura line have been published, only the [Kongen no maki](../msjr/iai-kongen-no-maki.md) has ever come out of the Tanimura line, and it appears its teachers have not had access to the old scrolls since the split. While the Shimomura-ha densho were eventually published in the 1970s, it was already too late as forms and interpretations had calcified, and few teachers actually read the old texts. Making matters worse, the kata names had been rearranged in the Tanimura line, with many forms assigned misleading names originally belonging to unrelated entries in the *Jōi no daiji* and other sections. Later on, with no access to the actual texts, teachers attempted to reconcile the names with the forms, resulting in confusing interpretations that in some cases are far removed from the original scenarios. Although this renaming and rearrangement of Okuden is usually attributed to Ōe Masaji, there is no clear evidence that he did not pass it on as inherited from Gotō Masasuke. Indeed, if Nakayama's Okuden is the one he learnt from Morimoto (himself a student of Gotō), the changes may have happened earlier.
+Unfortunately, while the densho of the Shimomura line have been published, only the [Kongen no maki](../msjr/iai-kongen-no-maki.md) has ever come out of the Tanimura line, and it appears its teachers have not had access to the old scrolls since the split. When the Shimomura-ha densho were eventually published in the 1970s as per the dying wish of Nakayama Hakudō, it was already too late as forms and interpretations had calcified, and few teachers actually read the old texts. Making matters worse, the kata names had been rearranged in the Tanimura line, with many forms assigned misleading names originally belonging to unrelated entries in the *Jōi no daiji* and other sections. Later on, with no access to the actual texts, teachers attempted to reconcile the names with the forms, resulting in confusing interpretations that in some cases are far removed from the original scenarios. Although this renaming and rearrangement of Okuden is usually attributed to Ōe Masaji, there is no clear evidence that he did not pass it on as inherited from Gotō Masasuke. Indeed, if Nakayama's Okuden is the one he learnt from Morimoto (himself a student of Gotō), the changes may have happened earlier.
 
 As garbled as the transmission may have become, however, one must not forget that a koryū is a living tradition that is shaped by each of the teachers who have passed it down to the present day. It would therefore be wrong to say that what we are taught is incorrect because it is different from the old tradition, and it is our responsibility to practise and pass it on as we are taught. With this in mind, however, it is also our responsibility to learn and understand where that tradition comes from and why and how it evolved into what it is now. So much is at danger of being forgotten and lost, and this proud and venerable school deserves our best efforts to understand it at a deeper level. In the case of Okuden, this understanding begins with the realisation that the forms are not merely kata, but teach important lessons on how to survive various dangerous situations Edo-period samurai might have expected to find themselves in; in doing so, the kata preserve an intangible piece of the culture iai sprung from.
 
@@ -94,7 +94,7 @@ An interesting application of the same technique is in the kata Gaiseki from [Da
 ### 脛囲 Sunegakoi
 
 Meaning: "protecting the shin"  
-Traditional name: 柄留 *Tsukadome* ("stopping (with) the tsuka")
+Traditional name: 柄留 *Tsukadome* ("stopping the tsuka")
 
 In the traditional form as practised in Musō Shinden Jūshin-ryū, one uses the tsuka to press the enemy's sword hand down and stop his draw; as he instead steps back and draws from below to cut the leg, one continues as in Tora-issoku, which in that school means cutting from below into kirimusubi and sweeping the blade away. However, the description in the *Battō kokoromochi no koto* says only: "as in Tora-issoku, stop (from) below, step in and cut," with no mention of first stopping with one's own tsuka. Indeed, there is another version passed down through oral instruction: draw from below with the edge down and stop the enemy's right hand with nukitsuke; this version is the honwaza in Musō Shinden Eishin-ryū. Yamatsuta Shigeyoshi noted that the current Sunegakoi, which is nearly indistinguishable from Tora-issoku, was created to hide the true application of stopping the draw with an upwards cut to the hand. This is [Tsukaguchi rokusun](../msjr/iai-kongen-no-maki.md#on-the-nature-of-tsukaguchi-rokusun), the ultimate secret of the school passed down from Hayashizaki Jinsuke Shigenobu himself, and can be considered the true essence of the omotewaza Tora-issoku and all related forms. It is also for this reason that Sunegakoi is taught as requiring a faster draw than Tora-issoku, as the necessary timing changes from *go no sen* to *sen no sen* or even *sensen no sen*.
 
@@ -105,8 +105,8 @@ I once heard that *sune* ("shin") was used in the Tosa dialect about the knee as
 ### 四方切 Shihōgiri
 
 Meaning: "cuts in four directions"  
-Traditional name: 四角 *Shikaku* ("square"/"four corners")  
-Other names: 四角 *Yosumi*, *Shisumi* ("four corners")
+Traditional name: 四角 *Yosumi* ("square"/"four corners")  
+Other names: 四角 *Shikaku*, *Shisumi* ("four corners")
 
 The name Shihōgiri appears in one of the old mokuroku directly following the core Eishin-ryū forms. It is unclear to me what exactly it refers to there, but it appears to be a small set of four kata: 向 (opposite), 右 (right), 左 (left), and 後 (behind).
 
@@ -118,11 +118,11 @@ The important lesson of this kata, which comes from instructions in the *Jōi no
 
 Meaning: "caught in the door"  
 Traditional name: 両詰 *Ryōzume* ("pressed on both sides")  
-Other names: 三角 *Sankaku* ("triangle"/"three corners")
+Other names: 三角 *Misumi*/*Sankaku* ("triangle"/"three corners")
 
 Originally, this form dealt with the scenario where you have an enemy close by on both sides, such as when you are sent as an envoy and the guards move to seize you. [Towaki](#戸脇-towaki) was the base form, as it is faster first to thrust to the left before cutting to the right, compared to cutting each enemy in turn. However, if you think the enemy to the right may stop you from drawing, it is prudent to cut him before turning to the one on the left: this kaewaza became Tozume. The positioning of the enemies was changed from directly to the sides to diagonally to the front right and left.
 
-Sankaku is another kata completely, where you have one enemy in front and two behind.
+Misumi/Sankaku is another kata completely, where you have one enemy in front and two behind.
 
 As for the name, Tozume comes from an entry in the *Jōi no daiji*, instructing on what to do if you fear the enemy might slam the sliding door shut on your head as you bow in the doorway upon entering a room; in this situation, you should place a folding fan in the door groove in the floor and hold it down with your knee while bowing, in order to block the door.
 
@@ -272,7 +272,7 @@ The name Yukichigai originally referred to [Ryōshi-hikitsure](#両士引連-ry�
 ### 袖摺返 Sodesurigaeshi
 
 Meaning: "flipping the sleeve"  
-Traditional name: 人中 *Jinchū* ("among people")  
+Traditional name: 人中 *Hitonaka*/*Jinchū* ("among people")  
 Other names: 賢の事 *Katame no koto* ("regarding hardening")
 
 This form first appeared in the *Battō kokoromochi no koto*. The name Sodesurigaeshi was borrowed from the first kata of [Daishō tachizume](../msjr/README.md#daishō-tachizume), but as the original name Jinchū implies, the scenario is fighting in a thick crowd. For this reason, there being no space in any direction, one needs to draw the sword straight up along the left side of the body, although in most lines of Musō Shinden-ryū this part has been forgotten, and the draw is done forwards instead. Having drawn the sword, it was originally brought around to the right and along the extended right arm so as to avoid cutting innocent bystanders as one parts the crowd and steps in to cut. However, while many lines now teach to hold the sword upright for the same reason (although this could also be risky), many others inexplicably place the sword along the left arm instead, running a great risk of cutting bystanders when parting the crowd.
@@ -301,7 +301,7 @@ The name Kakuresute might be based on *Kukurisute* (クゝリ捨; "tying up and 
 
 Meaning: "along walls"  
 Traditional name: 抜打 *Nukiuchi* ("surprise attack"/"drawing and striking")  
-Other names: 人中 *Jinchū*
+Other names: 人中 *Hitonaka*/*Jinchū*
 
 Kabezoe is an entry in the *Jōi no daiji* instructing on how to fight in a narrow alley or other places with similarly obstructed sides. Ironically, given the kata that would later take its name, it stresses that if one tries to cut in such a place, one will invariably hit the walls, overhangs or lintels. Instead, one should draw within the line of the body by twisting sideways, and rely on thrusting techniques.
 
