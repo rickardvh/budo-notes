@@ -35,8 +35,8 @@ Action: Facing forwards, sit in kiza.[^1] Step the right foot slightly forwards 
 > 猛き虎の　千里の歩み　遠からず  
 > 行より早く　歸るあし引
 
-For a fierce tiger, a thousand-*ri* stride is no great distance;  
-its returning foot is swifter than its advance.
+To a fierce tiger, a thousand *ri* is no great distance;  
+swifter still than its going is its returning step.
 
 ---
 
@@ -59,8 +59,8 @@ Action: Facing forwards, sit in kiza. Grip the tsuka from above and, while half-
 > もろともに　光りと知れと　稲妻の  
 > あと鳴雷の　響知られず
 
-Know them together as a single flash of lightning;  
-the echo of the thunder that follows is never heard.
+Though its flash is perceived in the very instant,  
+the thunder that follows the lightning is never heard.
 
 ---
 
@@ -83,8 +83,8 @@ Action: Facing forwards, sit in kiza. Draw the right foot in to the left, then w
 > 麓より　吹上られし　浮雲は  
 > 四方の高根を　立包むなり
 
-Floating clouds blown up from the foothills  
-rise to envelop the high peaks on every side.
+Floating clouds, blown upward from the foothills,  
+rise and envelop the lofty peaks on every side.
 
 ---
 
@@ -113,8 +113,8 @@ As the right knee is set on the ground, extend the right arm slightly and raise 
 > 高根より　吹下す風の　强ければ  
 > 麓の木々は　雪もたまらず
 
-When the wind blowing down from the high peaks is strong,  
-not even snow remains on the trees below.
+When fierce winds blow down from the lofty peaks,  
+not even snow can settle on the trees below.
 
 ---
 
@@ -139,7 +139,7 @@ Immediately pivot on the left knee and right toes and rotate the left foot about
 > 行舟の　かちとり直す　間もなきは  
 > 岩尾の浪の　強く当れば
 
-A boat underway has no time to correct its helm  
+A boat underway has no time to set its helm aright  
 when waves strike hard against the rocky reef.
 
 ---
