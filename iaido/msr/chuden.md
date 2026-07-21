@@ -12,7 +12,7 @@ This is the iai handed down in succession from Master Shigenobu. Although it sho
 > 華か霞か　横雲のそら
 
 Deep in the mountains, storm winds seem to blow;  
-over fair Yoshino, are those blossoms or haze in a cloud-banded sky?
+are those blossoms of fair Yoshino, or haze, in the cloud-banded sky?
 
 > 右足を向ふへ踏出し抜付打込み開き足を引て先に坐したる通りにして納る也
 
