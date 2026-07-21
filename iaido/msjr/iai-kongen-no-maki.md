@@ -110,7 +110,7 @@ To Shimamura Zenma-dono
 
 > 下村茂市　㊞
 
-Shimomura Shigeichi \[seal\]
+Shimomura Moichi \[seal\]
 
 ## Tetsugi no maki　手次之巻
 
@@ -293,7 +293,7 @@ The word *tenshinshō* (天眞正) cannot be straightforwardly translated. If no
 
 This is a list of the past headmasters of the school. 尉 (*jō*, "inspector") is the third highest of the four administrative ranks of the ritsuryō system, and is thus not a name as such. Similarly, 太夫 (*dayū*, "lord steward") was the fifth court rank.
 
-The seventh headmaster Hasegawa Chikaranosuke Hidenobu (Eishin) was known as a swordsman of incredible skill, and the school was renamed Hasegawa Eishin-ryū in recognition of his contribution to the art. Hayashi Rokudayū Morimasa, the ninth headmaster, relocated the school to Tosa (thus creating the Tosa Eishin-ryū lineage), and incorporated Ōmori-ryū into the curriculum.
+The seventh headmaster Hasegawa Chikaranosuke Hidenobu (Eishin) was known as a swordsman of incredible skill, and the school was renamed from Shinmei Musō-ryū to Hasegawa Eishin-ryū in recognition of his contribution to the art. Hayashi Rokudayū Morimasa, the ninth headmaster, relocated the school to Tosa (thus creating the Tosa Eishin-ryū lineage), and incorporated Ōmori-ryū into the curriculum.
 
 > 貴殿多年御深望ニ付令相傳候猶向後御修行依其切極意印可等可授者也厚御心懸肝要之事ニ候仍而奥書如件
 
@@ -306,11 +306,11 @@ The twelfth month of the third year of the Keiō era lasted between the end of D
 
 > 嶋村善馬殿
 
-Shimamura Zenma was born on the 24th of December 1849, making him barely 19 years old when receiving his menkyo kaiden. His father, Shimamura Umanosuke (島村右馬丞) was the fifteenth headmaster. The next year, in 1869, Zenma changed his name to Hosokawa Yoshimasa, and later became the sixteenth headmaster of the school, which he called Musō Shinden Eishin-ryū. He went on to teach Nakayama Hakudō, who called it Musō Shinden Jūshin-ryū and used it as the foundation for his Musō Shinden-ryū.
+Shimamura Zenma was born on the 24th of December 1849, making him barely 19 years old when receiving his menkyo kaiden. His father, Shimamura Umanojō (島村右馬丞) was the fifteenth headmaster. The next year, in 1869, Zenma changed his name to Hosokawa Yoshimasa, and later became the sixteenth headmaster of the school, which he called Musō Shinden Eishin-ryū. He went on to teach Nakayama Hakudō, who called it Musō Shinden Jūshin-ryū and used it as the foundation for his Musō Shinden-ryū.
 
 > 下村茂市　㊞
 
-Shimomura Shigeichi was the thirteenth headmaster, and this line of the school is still often referred to as Shimomura-ha Hasegawa Eishin-ryū. His direct successor, the fourteenth headmaster, was Tsubouchi Seisuke Chōjun (坪内清助長順).
+Shimomura Moichi was the thirteenth headmaster, and this line of the school is still often referred to as Shimomura-ha Hasegawa Eishin-ryū. His direct successor, the fourteenth headmaster, was Tsubouchi Seisuke Chōjun (坪内清助長順).
 
 ## About Hayashizaki Jinsuke Shigenobu
 
