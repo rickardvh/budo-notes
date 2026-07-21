@@ -68,7 +68,7 @@
 6. 四角 Yosumi (also *Shikaku*)
 7. 棚下 Tanashita
 8. 虎走 Torabashiri
-9. 人中 Hitonaka (also *Jinchū*)
+9. 人中 Jinchū (also *Hitonaka*)
 10. 行連 Yukizure
 11. 連達 Tsuredachi
 12. 行違 Yukichigai
@@ -79,7 +79,7 @@
 16. 放打 Hanashiuchi
 17. 虎走（立業） Torabashiri (standing form)
 18. 抜打 Nukiuchi
-19. 弛抜 Yuruminuki
+19. 弛抜 Yuruminuki (also *Hazushinuki*)
 
 - 両士引連 Ryōshi hikitsure
 - 賢之事 Katame no koto
