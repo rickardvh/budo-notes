@@ -163,8 +163,8 @@ Action: Facing the front, sit in kiza facing right. Lean the upper body forwards
 > 瀧津なみ　瀬登る鯉の　鱗は  
 > 水関上て　落る叓なし
 
-The scales of a carp climbing the rapids  
-rise above the weir and never fall back.
+The carp ascending through the rapids  
+clears the weir and never falls back.
 
 ---
 
