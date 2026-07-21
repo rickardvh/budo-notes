@@ -59,7 +59,7 @@ Action: Facing forwards, sit in kiza. Grip the tsuka from above and, while half-
 > もろともに　光りと知れと　稲妻の  
 > あと鳴雷の　響知られず
 
-Though its flash is perceived in the very instant,  
+Though its flash is perceived in the very same instant,  
 the thunder that follows the lightning is never heard.
 
 ---
