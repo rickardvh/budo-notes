@@ -182,7 +182,7 @@ Pivoting on the right foot, turn to face the rear and step the left foot slightl
 
 ## 抜打 Nukiuchi
 
-No corresponding poem is given for Nukiuchi.
+Because Nukiuchi was appended to Eishin-ryū at a later stage, no corresponding poem is given.
 
 > 大森流の抜打に同し
 
