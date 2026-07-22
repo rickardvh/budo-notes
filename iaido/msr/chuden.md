@@ -215,7 +215,7 @@ Action: Sit in kiza facing right relative to the shōmen. Lean the upper body fo
 > 瀧津なみ　瀬登る鯉の　鱗は  
 > 水関上て　落る叓なし
 
-The carp ascending through the rapids  
+The carp[^4] ascending through the rapids  
 clears the weir and never falls back.
 
 **Densho instruction**
@@ -325,3 +325,5 @@ Action: Exactly the same as in Ōmori-ryū.
 [^2]: 山下風 is also historically read *Yamashitakaze*, a reading well attested in waka and established by the early Edo period. The original intended reading of the kata name is uncertain, but Yamashitakaze is still used by at least one branch of the mainline school, and would have been the most natural poetic reading to an Edo-era reader. Interestingly, while 山下風 is first attested in the 8th-century Man'yōshū, and the historically accepted reading *yamashitakaze* strongly influenced later works, modern scholarly consensus holds that it was intended to be read there as *yama no arashi*, "mountain storm".
 
 [^3]: Soda Torahiko's copy (titled *Eishin-ryū iai no koto* (英信流居合之事)) has this as the right foot.
+
+[^4]: Actually "the scale(s) of the carp [...]", but the synecdoche does not translate well into English. *Uroko* (鱗) means fish scales.
