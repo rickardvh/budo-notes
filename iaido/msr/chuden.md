@@ -2,11 +2,17 @@
 
 中伝　長谷川英信流
 
-## Sources and layout
+## Introduction
 
-This page juxtaposes three distinct textual layers. The poems are from 『神傳流秘書』「抜刀心持引歌」; the prefatory passage and concise instructions are from a densho titled 『英信流抜刀之叓』; and the later 意義 and 動作 explanations are from 太田龍峰著・中山博道校閲『居合読本』 (1934). Each kata presents these sources in that order. Within the 『居合読本』 layer, each 意義 passage is followed by its translation, then each 動作 passage and its translation. Nukiuchi, which was appended later, has no corresponding poem.
+This page juxtaposes three distinct textual layers:
 
-**Densho preface — 『英信流抜刀之叓』**
+- poems from the *Battō kokoromochi hikiuta* (抜刀心持引歌) in the *Shinden-ryū hisho* (神傳流秘書) scroll,
+- concise instructions from the *Eishin-ryū battō no koto* (英信流抜刀之叓), and
+- detailed explanations from Ōta Ryūhō's *Iai tokuhon* (1934), reviewed by Nakayama Hakudō (太田龍峰著・中山博道校閲『居合読本』).
+
+## Preface
+
+(From the *Eishin-ryū battō no koto*)
 
 > 是重信翁より段々相傳の居合然者を最初に教へべき筈のものなれ共先大森流は初心の者覚へ安き故に是を先に教ると云へり
 
@@ -14,7 +20,7 @@ This is the iai handed down in succession from Master Shigenobu. Although it sho
 
 ## 横雲 Yokogumo
 
-**Hikiuta — 『神傳流秘書』「抜刀心持引歌」**
+**Poem**
 
 > 深山には　あらし吹くらし　みよし野の  
 > 華か霞か　横雲のそら
@@ -22,17 +28,17 @@ This is the iai handed down in succession from Master Shigenobu. Although it sho
 Deep in the mountains, storm winds seem to blow;  
 are those blossoms of fair Yoshino, or haze, in the cloud-banded sky?
 
-**Densho instruction — 『英信流抜刀之叓』**
+**Densho instruction**
 
 > 右足を向ふへ踏出し抜付打込み開き足を引て先に坐したる通りにして納る也
 
 Step the right foot forwards, perform nukitsuke and uchikomi, then hiraki; draw the foot back, return to the original seated posture, and perform osame.
 
-**Explanation — 『居合読本』**
+**Explanation**
 
-> 意義　大森流初発刀に同じである（初発刀の意義　互に四尺位離れて對坐せる時、急に敵の目の附近を横薙に切り付け、相抜きの場合は敵の抜付けし拳に斬り込む、倒るゝ所を直ちに上段より斬る業である。）
+> 意義　大森流初発刀に同じである。
 
-Meaning: The same as Shohattō of Ōmori-ryū. (Meaning of Shohattō: When you and the enemy are seated facing each other about four shaku apart, suddenly make a horizontal cut near the enemy's eyes. If both draw at once, cut into the enemy's drawing hand; as the enemy falls, immediately cut down from jōdan.)
+Meaning: The same as Shohattō of Ōmori-ryū.
 
 > 動作　正面に向ひ箕坐す、右足を僅か前方に踏み出し大森流の初発刀と同様に抜刀して直ちに頭上に振りかぶり、敵を斬り下ろし、直ちに陰陽進退の最初の血振りをなし、刀を納めつゝ右足を左足に引き付けて蹲踞し、後、徐かに立ち上がる。
 
@@ -134,9 +140,9 @@ not even snow can settle on the trees below.
 
 **Densho instruction — 『英信流抜刀之叓』**
 
-> 右へ振り向左の足と右の手を柄と一處にして打倒し抜付跡前の通り但足は右あし也浮雲とあしは相違也
+> 右へ振り向左[^2]の足と右の手を柄と一處にして打倒し抜付跡前の通り但足は右あし也浮雲とあしは相違也
 
-Turn to the right; bring the left foot and the right hand together as one with the tsuka, strike down, and perform nukitsuke. Thereafter, proceed as before. However, the foot is the right foot; the footwork differs from Ukigumo.
+Turning to the right, bring the left[^2] foot and the right hand together as one with the tsuka, strike down, and perform nukitsuke. Thereafter, proceed as before. However, the foot is the right foot; the footwork differs from Ukigumo.
 
 **Explanation — 『居合読本』**
 
@@ -280,14 +286,5 @@ Meaning: Exactly the same as in Ōmori-ryū.
 
 Action: Exactly the same as in Ōmori-ryū.
 
-**Supplementary explanation — 『居合読本』, Ōmori-ryū Nukiuchi**
-
-> 意義　彼我互に接近して對坐せる時不意に正面に向ひ斬り付ける動作である。
-
-Meaning: When you and the enemy are seated facing each other at very close range, suddenly cut straight ahead.
-
-> 動作　正面に向ひ正坐す。彼我極めて接近しある場合を考慮せるものなるを以って抜刀に際しては成るべく右拳を前上方に向けて動かしつゝ、概ね前額の前方に至らしめ、刀尖を左上膊の外側に近く移動せしめつゝ刀を頭上に振り被る（此際両膝を密接す）次で、直ちに両膝を開き刀尖が概ね地より二握り位の處に来る位に切り下ろす。次いで左手を放ち右拳を右に開き血振りをなすこと陰陽進退（陽進陰退・八重垣）における第一段の血振りと同様に動作し、後、刀を納む。
-
-Action: Sit in seiza facing forwards. Because the combatants are extremely close, as you draw move the right hand as far forwards and upwards as possible, bringing it approximately in front of the forehead while moving the kissaki close to the outside of the left upper arm and performing furikaburi. Keep both knees close together during this movement. Then immediately open both knees and cut down until the kissaki is approximately two hand-widths above the ground. Release the left hand, open the right arm to the right, and perform chiburi in the same manner as the first chiburi of In'yō-shintai (Yōshin-intai / Yaegaki); then perform osame.
-
 [^1]: 箕坐 (*kiza*) literally denotes sitting with the legs spread or extended. In this text it refers to the characteristic seated posture of Eishin-ryū, ordinarily termed *tatehiza*.
+[^2]: Soda Torahiko's copy (titled *Eishin-ryū iai no koto* (英信流居合之事)) has this as the right foot.
