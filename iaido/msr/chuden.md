@@ -58,6 +58,8 @@ Meaning: The same as Shohattō of Ōmori-ryū.
 
 Action: Sit in kiza facing the shōmen.[^1] Step the right foot slightly forwards and draw as in Shohattō of Ōmori-ryū; immediately perform furikaburi and cut the enemy down, then perform the first chiburi of In'yō-shintai. While sheathing the sword, draw the right foot back to the left and sink into sonkyo; then rise slowly.
 
+[**Top**](#chūden-hasegawa-eishin-ryū)
+
 ## 虎一足 Tora-issoku
 
 **Poem**
@@ -84,6 +86,8 @@ Meaning: An enemy cuts at your right arm from the front. Draw to receive the cut
 
 Action: Sit in kiza facing the shōmen. Grip the tsuka from above and, while half-drawing, open the left foot to the rear. Set the sword beside the right foot with the edge facing forwards and sweep aside and receive the enemy's cut. As you perform furikaburi, draw the left foot in to the right; step the right foot slightly forwards, cut straight ahead, and immediately perform chiburi. Thereafter, proceed as in the preceding form.
 
+[**Top**](#chūden-hasegawa-eishin-ryū)
+
 ## 稲妻 Inazuma
 
 **Poem**
@@ -109,6 +113,8 @@ Meaning: Take the enemy at the very outset of a cut from the front and cut the f
 > 動作　正面に向ひ箕坐す。右足を左足に引きつけ左足を一歩ひきつゝ中腰の儘で抜刀して敵の前臂を切り（大森流の勢中刀を参照）左膝を右足に引きつけつゝ刀を頭上に振り冠り右足を前に踏みつけて正面を斬る。以下前に同じ。
 
 Action: Sit in kiza facing the shōmen. Draw the right foot in to the left, then withdraw the left foot one step while drawing from a half-raised posture and cutting the enemy's forearm (see Seichūtō of Ōmori-ryū). Draw the left knee in towards the right foot while performing furikaburi, then step the right foot forwards and cut straight ahead. Thereafter, proceed as in the preceding form.
+
+[**Top**](#chūden-hasegawa-eishin-ryū)
 
 ## 浮雲 Ukigumo
 
@@ -142,6 +148,8 @@ As the whole sole of the left foot is set down, place the left hand on the mune 
 The left knee forms the basis of the movement and should generally not open beyond a right angle. It is also essential to raise the right heel and bend the right knee to stabilise the body.  
 As the right knee is set on the ground, extend the right arm slightly and raise the sword forwards and upwards to the right. Grip the kashira with the left hand and perform furikaburi; pivoting on the right knee, rotate the right foot slightly behind the left, then set the left foot slightly to the right and cut down. Perform chiburi, sheathe the sword, draw the left foot in to the right, sink into sonkyo, and then rise slowly.
 
+[**Top**](#chūden-hasegawa-eishin-ryū)
+
 ## 山下風 Yamaoroshi
 
 **Poem**
@@ -170,6 +178,8 @@ Meaning: When an enemy seated on your right tries to draw, first strike the back
 Action: Sit in kiza facing left relative to the shōmen. Pivoting on the left knee, turn about ninety degrees to the right; at the same time, turn the sheathed sword over along its curve and move it slightly forwards and upwards with the left hand. As the right foot steps about one pace forwards, strike the enemy's hand with the tsuba. Next, use the left hand to circle the sword to the right over the enemy's head without touching it. Return the left hand from near the right hip to the usual position at the belt while gripping the tsuka with the right hand. Pivoting on the left knee and the toes, circle the left foot around the right until it reaches behind the right foot; twist the hips to the left as you draw and cut the enemy's chest.  
 Immediately pivot on the left knee and right toes and rotate the left foot about ninety degrees to the left. Place the left hand on the mune near the kissaki, draw the right foot in near the left knee, and pull the sword to the right rear while cutting the enemy down (take care that the sword does not touch your body as it is drawn back). From this position, reverse the sword, step the right foot about one pace forwards while adding the left hand, and pivot on the right toes to rotate the left foot about ninety degrees to the right. As you turn roughly towards the shōmen, complete furikaburi and cut straight down. Thereafter, proceed as in Yokogumo.
 
+[**Top**](#chūden-hasegawa-eishin-ryū)
+
 ## 岩浪 Iwanami
 
 **Poem**
@@ -195,6 +205,8 @@ Meaning: Thrust into the side immediately below the ribs of an enemy seated clos
 > 動作　正面に對し右向に箕坐す。上体を前に傾けると同時に左足を斜後方に引きつゝ抜刀し直ちに左手を刀尖に近き刀背に添へ、成るべく低く左向きをなしつゝ右足を左膝頭附近に踏みつけ敵の季肋部を突き刺す。この時、刀は左手を刀身の中央に至る位突き出す、次に右手を以て刀を左手が刀尖附近に来る位迄引き、左膝を軸として約九十度右向をなし、右足を左膝附近に引きつゝ両手を以て、刀を引き、敵をひき倒す。この際右臂は充分伸ばすものとす、以下、山下風に同じ。
 
 Action: Sit in kiza facing right relative to the shōmen. Lean the upper body forwards while withdrawing the left foot diagonally to the rear and drawing. Immediately place the left hand on the mune near the kissaki; keeping as low as possible, turn to the left, set the right foot near the left knee, and thrust below the enemy's ribs. Thrust until the left hand reaches approximately the middle of the blade. Next, use the right hand to draw the sword back until the left hand is near the kissaki. Pivoting on the left knee, turn about ninety degrees to the right; draw the right foot in near the left knee and pull the sword with both hands to pull the enemy down. The right arm should be fully extended. Thereafter, proceed as in Yamaoroshi.
+
+[**Top**](#chūden-hasegawa-eishin-ryū)
 
 ## 鱗返 Urokogaeshi
 
@@ -222,6 +234,8 @@ Meaning: The same as Satō of Ōmori-ryū.
 
 Action: Sit facing right relative to the shōmen. Lean the upper body slightly forwards and grip the tsuka from outside the right knee. Pivot on the ball of the right foot and turn about ninety degrees to the left; at the same time, open the left foot to the rear by about two and a half to three foot-lengths and draw as in Shohattō. The left knee must not touch the ground. Thereafter, proceed as in Yokogumo.
 
+[**Top**](#chūden-hasegawa-eishin-ryū)
+
 ## 浪返 Namigaeshi
 
 **Poem**
@@ -247,6 +261,8 @@ Meaning: When an enemy cuts at you from behind, turn to the rear and cut as in S
 > 動作　正面に對し後ろ向きに箕坐す。鱗返しの要領にて約百八十度左に旋廻するの外、全く同じである。
 
 Action: Sit in kiza facing away from the shōmen. Apart from turning about 180 degrees to the left in the manner of Urokogaeshi, the action is identical.
+
+[**Top**](#chūden-hasegawa-eishin-ryū)
 
 ## 滝落 Takiotoshi
 
@@ -278,6 +294,8 @@ Action: Sit in kiza facing away from the shōmen. Open the tsuka to the left wit
 Next, grip the tsuka with the right hand and set the right foot slightly forwards and to the side of the left. At the same time, press the saya downwards with the left hand and draw close to the body, bringing the kissaki approximately to upper-chest height. Seen from behind, the sword and saya should form approximately a right angle.  
 Pivoting on the right foot, turn to face the rear and step the left foot slightly forwards; at the same time turn the edge upwards and thrust the enemy one-handed with the right hand. Immediately perform furikaburi, step the right foot in front of the left, and cut the enemy. Perform lateral chiburi while lowering the left knee to the ground; thereafter, proceed as in Yokogumo.
 
+[**Top**](#chūden-hasegawa-eishin-ryū)
+
 ## 抜打 Nukiuchi
 
 **Poem**
@@ -299,6 +317,8 @@ Meaning: Exactly the same as in Ōmori-ryū.
 > 動作　大森流に全く同じ。
 
 Action: Exactly the same as in Ōmori-ryū.
+
+[**Top**](#chūden-hasegawa-eishin-ryū)
 
 [^1]: 箕坐 (*kiza*) literally denotes sitting with the legs spread or extended. In this text it refers to the characteristic seated posture of Eishin-ryū, ordinarily termed *tatehiza*.
 [^2]: Soda Torahiko's copy (titled *Eishin-ryū iai no koto* (英信流居合之事)) has this as the right foot.
