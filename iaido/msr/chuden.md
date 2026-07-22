@@ -150,7 +150,7 @@ As the right knee is set on the ground, extend the right arm slightly and raise 
 
 [**Top**](#chūden-hasegawa-eishin-ryū)
 
-## 山下風 Yamaoroshi
+## 山下風 Yamaoroshi[^3]
 
 **Poem**
 
@@ -322,3 +322,4 @@ Action: Exactly the same as in Ōmori-ryū.
 
 [^1]: 箕坐 (*kiza*) literally denotes sitting with the legs spread or extended. In this text it refers to the characteristic seated posture of Eishin-ryū, ordinarily termed *tatehiza*.
 [^2]: Soda Torahiko's copy (titled *Eishin-ryū iai no koto* (英信流居合之事)) has this as the right foot.
+[^3]: 山下風 is also historically read *Yamashitakaze*, a reading well attested in waka and established by the early Edo period. The intended reading of the kata name is uncertain.
