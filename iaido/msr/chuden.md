@@ -150,7 +150,7 @@ As the right knee is set on the ground, extend the right arm slightly and raise 
 
 [**Top**](#chūden-hasegawa-eishin-ryū)
 
-## 山下風 Yamaoroshi[^3]
+## 山下風 Yamaoroshi[^2]
 
 **Poem**
 
@@ -162,9 +162,9 @@ not even snow can settle on the trees below.
 
 **Densho instruction**
 
-> 右へ振り向左[^2]の足と右の手を柄と一處にして打倒し抜付跡前の通り但足は右あし也浮雲とあしは相違也
+> 右へ振り向左[^3]の足と右の手を柄と一處にして打倒し抜付跡前の通り但足は右あし也浮雲とあしは相違也
 
-Turning to the right, bring the left[^2] foot and the right hand together as one with the tsuka, strike down, and perform nukitsuke. Thereafter, proceed as before. However, the foot is the right foot; the footwork differs from Ukigumo.
+Turning to the right, bring the left[^3] foot and the right hand together as one with the tsuka, strike down, and perform nukitsuke. Thereafter, proceed as before. However, the foot is the right foot; the footwork differs from Ukigumo.
 
 **Explanation**
 
@@ -321,5 +321,7 @@ Action: Exactly the same as in Ōmori-ryū.
 [**Top**](#chūden-hasegawa-eishin-ryū)
 
 [^1]: 箕坐 (*kiza*) literally denotes sitting with the legs spread or extended. In this text it refers to the characteristic seated posture of Eishin-ryū, ordinarily termed *tatehiza*.
-[^2]: Soda Torahiko's copy (titled *Eishin-ryū iai no koto* (英信流居合之事)) has this as the right foot.
-[^3]: 山下風 is also historically read *Yamashitakaze*, a reading well attested in waka and established by the early Edo period. The intended reading of the kata name is uncertain.
+
+[^2]: 山下風 is also historically read *Yamashitakaze*, a reading well attested in waka and established by the early Edo period. The original intended reading of the kata name is uncertain, but Yamashitakaze is still used by at least one branch of the mainline school, and would have been the most natural poetic reading to an Edo-era reader. Interestingly, while 山下風 is first attested in the 8th-century Man'yōshū, and the historically accepted reading Yamashitakaze strongly influenced later works, modern scholarly consensus holds that it was intended to be read there as *yama no arashi*, "mountain storm".
+
+[^3]: Soda Torahiko's copy (titled *Eishin-ryū iai no koto* (英信流居合之事)) has this as the right foot.
