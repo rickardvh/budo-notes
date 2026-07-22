@@ -322,6 +322,6 @@ Action: Exactly the same as in Ōmori-ryū.
 
 [^1]: 箕坐 (*kiza*) literally denotes sitting with the legs spread or extended. In this text it refers to the characteristic seated posture of Eishin-ryū, ordinarily termed *tatehiza*.
 
-[^2]: 山下風 is also historically read *Yamashitakaze*, a reading well attested in waka and established by the early Edo period. The original intended reading of the kata name is uncertain, but Yamashitakaze is still used by at least one branch of the mainline school, and would have been the most natural poetic reading to an Edo-era reader. Interestingly, while 山下風 is first attested in the 8th-century Man'yōshū, and the historically accepted reading Yamashitakaze strongly influenced later works, modern scholarly consensus holds that it was intended to be read there as *yama no arashi*, "mountain storm".
+[^2]: 山下風 is also historically read *Yamashitakaze*, a reading well attested in waka and established by the early Edo period. The original intended reading of the kata name is uncertain, but Yamashitakaze is still used by at least one branch of the mainline school, and would have been the most natural poetic reading to an Edo-era reader. Interestingly, while 山下風 is first attested in the 8th-century Man'yōshū, and the historically accepted reading *yamashitakaze* strongly influenced later works, modern scholarly consensus holds that it was intended to be read there as *yama no arashi*, "mountain storm".
 
 [^3]: Soda Torahiko's copy (titled *Eishin-ryū iai no koto* (英信流居合之事)) has this as the right foot.
