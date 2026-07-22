@@ -32,7 +32,7 @@ are those blossoms of fair Yoshino, or haze, in the cloud-banded sky?
 
 > 右足を向ふへ踏出し抜付打込み開き足を引て先に坐したる通りにして納る也
 
-Step the right foot forwards, perform nukitsuke and uchikomi, then hiraki; draw the foot back, return to the original seated posture, and perform osame.
+Step the right foot forwards, perform nukitsuke and uchikomi, then hiraki; draw the foot back, return to the original seated posture, and sheathe the sword.
 
 **Explanation**
 
@@ -42,11 +42,11 @@ Meaning: The same as Shohattō of Ōmori-ryū.
 
 > 動作　正面に向ひ箕坐す、右足を僅か前方に踏み出し大森流の初発刀と同様に抜刀して直ちに頭上に振りかぶり、敵を斬り下ろし、直ちに陰陽進退の最初の血振りをなし、刀を納めつゝ右足を左足に引き付けて蹲踞し、後、徐かに立ち上がる。
 
-Action: Facing forwards, sit in kiza.[^1] Step the right foot slightly forwards and draw as in Shohattō of Ōmori-ryū; immediately perform furikaburi and cut the enemy down, then perform the first chiburi of In'yō-shintai. While performing osame, draw the right foot back to the left and sink into sonkyo; then rise slowly.
+Action: Facing forwards, sit in kiza.[^1] Step the right foot slightly forwards and draw as in Shohattō of Ōmori-ryū; immediately perform furikaburi and cut the enemy down, then perform the first chiburi of In'yō-shintai. While sheathing the sword, draw the right foot back to the left and sink into sonkyo; then rise slowly.
 
 ## 虎一足 Tora-issoku
 
-**Hikiuta — 『神傳流秘書』「抜刀心持引歌」**
+**Poem**
 
 > 猛き虎の　千里の歩み　遠からず  
 > 行より早く　歸るあし引
@@ -54,13 +54,13 @@ Action: Facing forwards, sit in kiza.[^1] Step the right foot slightly forwards 
 To a fierce tiger, a thousand *ri* is no great distance;  
 swifter still than its going is its returning step.
 
-**Densho instruction — 『英信流抜刀之叓』**
+**Densho instruction**
 
 > 左足を引刀を逆さまに抜て留め扨打込あと上におなし
 
 Draw back the left foot and draw with the edge reversed to stop the attack; then perform uchikomi. Thereafter, proceed as above.
 
-**Explanation — 『居合読本』**
+**Explanation**
 
 > 意義　敵が前方から我が右臂を斬って来るのを抜刀して之を受け、敵の退くに乗じ正面に向ひ斬る業である。
 
@@ -72,7 +72,7 @@ Action: Facing forwards, sit in kiza. Grip the tsuka from above and, while half-
 
 ## 稲妻 Inazuma
 
-**Hikiuta — 『神傳流秘書』「抜刀心持引歌」**
+**Poem**
 
 > もろともに　光りと知れと　稲妻の  
 > あと鳴雷の　響知られず
@@ -80,13 +80,13 @@ Action: Facing forwards, sit in kiza. Grip the tsuka from above and, while half-
 Though its flash is perceived in the very same instant,  
 the thunder that follows the lightning is never heard.
 
-**Densho instruction — 『英信流抜刀之叓』**
+**Densho instruction**
 
 > 左あしを引敵の切って懸る拳を拂ろふて打込み跡上に同し
 
 Draw back the left foot, cut aside the hand with which the enemy attacks, and perform uchikomi; thereafter, proceed as above.
 
-**Explanation — 『居合読本』**
+**Explanation**
 
 > 意義　前方から斬って来る敵之起り頭を乗じ其前臂を斬る業である。
 
@@ -98,7 +98,7 @@ Action: Facing forwards, sit in kiza. Draw the right foot in to the left, then w
 
 ## 浮雲 Ukigumo
 
-**Hikiuta — 『神傳流秘書』「抜刀心持引歌」**
+**Poem**
 
 > 麓より　吹上られし　浮雲は  
 > 四方の高根を　立包むなり
@@ -106,13 +106,13 @@ Action: Facing forwards, sit in kiza. Draw the right foot in to the left, then w
 Floating clouds, blown upward from the foothills,  
 rise and envelop the lofty peaks on every side.
 
-**Densho instruction — 『英信流抜刀之叓』**
+**Densho instruction**
 
 > 右へ振り向き足を踏みもぢ彳腰をひねり抜付左の手を添て敵を突たおす心にて右の足を上は拍子に刀を膝へ引切先を後ろへはね扨上へ冠膝の外へ打跡上に同し又刀を引て切先を跡へはねずして取って打込む業もあり
 
 Turn to the right, twist the feet into position, and twist the hips to perform nukitsuke. Place the left hand on the blade and, with the intent of driving the enemy down, draw the sword back towards the knee as the right foot is raised, flick the kissaki rearwards, then perform furikaburi and uchikomi outside the knee. Thereafter, proceed as above. There is also a method in which one draws the sword back and performs uchikomi without flicking the kissaki rearwards.
 
-**Explanation — 『居合読本』**
+**Explanation**
 
 > 意義　右側面に坐せる敵が我が刀柄を握ろうとするのを避けつゝ立ち上り抜刀と同時に斬り着け敵の倒るゝに乗じ胴部を斬る業である。
 
@@ -126,11 +126,11 @@ Meaning: When an enemy seated on your right tries to seize your tsuka, evade the
 Action: Facing the front, sit in kiza facing left. As the enemy tries to seize your sword, place the left thumb on the tsuba and open the tsuka to the left while rising with an unconcerned air. Bring the left foot round in front of the right and set it outside the right foot on its little-toe edge; twist the hips to the right, bend both knees slightly, and open them to either side to maintain balance. During this movement, draw the sword slightly upwards with the left hand, taking care not to touch the enemy's head; bring the left hand near the right hip, then return it approximately to the usual position at the belt. From this posture, grip the tsuka with the right hand and draw. As the blade leaves the koiguchi, twist the hips to the left so that the body faces roughly forwards, and cut with the feeling of rising slightly.  
 As the whole sole of the left foot is set down, place the left hand on the mune near the monouchi, open the right foot slightly to the right rear of the left, and use both hands to push the enemy down while making a drawing cut.  
 The left knee forms the basis of the movement and should generally not open beyond a right angle. It is also essential to raise the right heel and bend the right knee to stabilise the body.  
-As the right knee is set on the ground, extend the right arm slightly and raise the sword forwards and upwards to the right. Grip the kashira with the left hand and perform furikaburi; pivoting on the right knee, rotate the right foot slightly behind the left, then set the left foot slightly to the right and cut down. Perform chiburi and osame, draw the left foot in to the right, sink into sonkyo, and then rise slowly.
+As the right knee is set on the ground, extend the right arm slightly and raise the sword forwards and upwards to the right. Grip the kashira with the left hand and perform furikaburi; pivoting on the right knee, rotate the right foot slightly behind the left, then set the left foot slightly to the right and cut down. Perform chiburi, sheathe the sword, draw the left foot in to the right, sink into sonkyo, and then rise slowly.
 
 ## 山下風 Yamaoroshi
 
-**Hikiuta — 『神傳流秘書』「抜刀心持引歌」**
+**Poem**
 
 > 高根より　吹下す風の　强ければ  
 > 麓の木々は　雪もたまらず
@@ -138,13 +138,13 @@ As the right knee is set on the ground, extend the right arm slightly and raise 
 When fierce winds blow down from the lofty peaks,  
 not even snow can settle on the trees below.
 
-**Densho instruction — 『英信流抜刀之叓』**
+**Densho instruction**
 
 > 右へ振り向左[^2]の足と右の手を柄と一處にして打倒し抜付跡前の通り但足は右あし也浮雲とあしは相違也
 
 Turning to the right, bring the left[^2] foot and the right hand together as one with the tsuka, strike down, and perform nukitsuke. Thereafter, proceed as before. However, the foot is the right foot; the footwork differs from Ukigumo.
 
-**Explanation — 『居合読本』**
+**Explanation**
 
 > 意義　右側面に坐せる敵が抜刀せんとするを取り敢えず刀柄を以て其の手背を強打しヒルム所を抜刀して斬りつけ、其の殪（たお）るゝを再び正面より胴部に向ひ斬り下ろす業である。
 
@@ -158,7 +158,7 @@ Immediately pivot on the left knee and right toes and rotate the left foot about
 
 ## 岩浪 Iwanami
 
-**Hikiuta — 『神傳流秘書』「抜刀心持引歌」**
+**Poem**
 
 > 行舟の　かちとり直す　間もなきは  
 > 岩尾の浪の　強く当れば
@@ -166,13 +166,13 @@ Immediately pivot on the left knee and right toes and rotate the left foot about
 A boat underway has no time to set its helm aright  
 when waves strike hard against the rocky reef.
 
-**Densho instruction — 『英信流抜刀之叓』**
+**Densho instruction**
 
 > 左りへふり向左の足を引刀を抜左の手切先へ添へ右の膝の外ゟ突膝の内に引あとは山下風の業に同し
 
 Turn to the left, draw back the left foot, and draw the sword. Place the left hand on the blade near the kissaki, thrust from outside the right knee, then draw the sword back inside the knee. Thereafter, proceed as in Yamaoroshi.
 
-**Explanation — 『居合読本』**
+**Explanation**
 
 > 意義　吾が左側に接近して坐せる敵の季肋部（きろくぶ、肋骨の真下）を刺突し直ちに敵を引き倒して後、斬る業である。
 
@@ -184,7 +184,7 @@ Action: Facing the front, sit in kiza facing right. Lean the upper body forwards
 
 ## 鱗返 Urokogaeshi
 
-**Hikiuta — 『神傳流秘書』「抜刀心持引歌」**
+**Poem**
 
 > 瀧津なみ　瀬登る鯉の　鱗は  
 > 水関上て　落る叓なし
@@ -192,13 +192,13 @@ Action: Facing the front, sit in kiza facing right. Lean the upper body forwards
 The carp ascending through the rapids  
 clears the weir and never falls back.
 
-**Densho instruction — 『英信流抜刀之叓』**
+**Densho instruction**
 
 > 右に向き居って左り廻りに向へ抜付左の足を引冠り打込み開き納る也
 
-While seated facing right, turn to the left and perform nukitsuke. Draw back the left foot, perform furikaburi and uchikomi, then hiraki and osame.
+While seated facing right, turn to the left and perform nukitsuke. Draw back the left foot, perform furikaburi and uchikomi, then perform hiraki and sheathe the sword.
 
-**Explanation — 『居合読本』**
+**Explanation**
 
 > 意義　大森流左刀に同じ。
 
@@ -210,7 +210,7 @@ Action: Facing the front, sit facing right. Lean the upper body slightly forward
 
 ## 浪返 Namigaeshi
 
-**Hikiuta — 『神傳流秘書』「抜刀心持引歌」**
+**Poem**
 
 > あかし潟　瀬戸越波の　上にこそ  
 > 岩尾も岸も　たまるものかわ
@@ -218,13 +218,13 @@ Action: Facing the front, sit facing right. Lean the upper body slightly forward
 The waves that cross the strait of Akashi—  
 what crag or shore could ever withstand them?
 
-**Densho instruction — 『英信流抜刀之叓』**
+**Densho instruction**
 
 > 鱗返しに同し後へ抜付打込み開納る後ろへ廻と脇へ廻ると斗相違也
 
-As in Urokogaeshi, but perform nukitsuke to the rear, followed by uchikomi, hiraki, and osame. The only difference is turning to the rear rather than to the side.
+As in Urokogaeshi, but perform nukitsuke to the rear, followed by uchikomi and hiraki, then sheathe the sword. The only difference is turning to the rear rather than to the side.
 
-**Explanation — 『居合読本』**
+**Explanation**
 
 > 意義　敵が我が後方から斬り来るに對し後ろに振り向きつゝ初発刀の如く斬る業である。
 
@@ -236,7 +236,7 @@ Action: Facing the front, sit in kiza facing away from it. Apart from turning ab
 
 ## 滝落 Takiotoshi
 
-**Hikiuta — 『神傳流秘書』「抜刀心持引歌」**
+**Poem**
 
 > 瀧津瀬の　崩るゝ叓の　深ければ  
 > 前に立添ふ　岩もなきかな
@@ -244,13 +244,13 @@ Action: Facing the front, sit in kiza facing away from it. Apart from turning ab
 So deep is the torrent’s plunging fall  
 that no rock can stand before it.
 
-**Densho instruction — 『英信流抜刀之叓』**
+**Densho instruction**
 
 > 刀の鞘と共に左の足と一拍子に出し抜て後を突すぐに右の足を踏込み打込み開き納る此業は後ろゟこじりを取りたる處也故に抜時にこじりに当る心持有り
 
-Move the sheathed sword forwards together with the left foot in a single beat, draw, and thrust to the rear. Immediately step in with the right foot and perform uchikomi, hiraki, and osame. This waza is used when the kojiri has been seized from behind; when drawing, therefore, retain the intent of striking with the kojiri.
+Move the sheathed sword forwards together with the left foot in a single beat, draw, and thrust to the rear. Immediately step in with the right foot and perform uchikomi and hiraki, then sheathe the sword. This waza is used when the kojiri has been seized from behind; when drawing, therefore, retain the intent of striking with the kojiri.
 
-**Explanation — 『居合読本』**
+**Explanation**
 
 > 意義　敵が我が鐺を握ろうとするのを、之を避けて立ち上がったが、尚ほ追ひ迫るを以て再び之を避け、遂に抜刀して振り向きつゝ敵を突き刺し、尚ほ追撃する業である。
 
@@ -266,17 +266,17 @@ Pivoting on the right foot, turn to face the rear and step the left foot slightl
 
 ## 抜打 Nukiuchi
 
-**Hikiuta — 『神傳流秘書』「抜刀心持引歌」**
+**Poem**
 
 Because Nukiuchi was appended to Eishin-ryū at a later stage, no corresponding poem is given.
 
-**Densho instruction — 『英信流抜刀之叓』**
+**Densho instruction**
 
 > 大森流の抜打に同し
 
 The same as Nukiuchi of Ōmori-ryū.
 
-**Explanation — 『居合読本』**
+**Explanation**
 
 > 意義　大森流に全く同じ。
 
