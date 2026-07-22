@@ -32,7 +32,7 @@ are those blossoms of fair Yoshino, or haze, in the cloud-banded sky?
 
 > 右足を向ふへ踏出し抜付打込み開き足を引て先に坐したる通りにして納る也
 
-Step the right foot forwards, perform nukitsuke and uchikomi, then hiraki; draw the foot back, return to the original seated posture, and sheathe the sword.
+Step the right foot forwards, perform nukitsuke and uchikomi, then hiraki; draw the foot back and return to the original seated posture while sheathing the sword.
 
 **Explanation**
 
