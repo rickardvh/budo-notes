@@ -2,6 +2,20 @@
 
 中伝　長谷川英信流
 
+- [Chūden: Hasegawa Eishin-ryū](#chūden-hasegawa-eishin-ryū)
+  - [Introduction](#introduction)
+  - [Preface](#preface)
+  - [横雲 Yokogumo](#横雲-yokogumo)
+  - [虎一足 Tora-issoku](#虎一足-tora-issoku)
+  - [稲妻 Inazuma](#稲妻-inazuma)
+  - [浮雲 Ukigumo](#浮雲-ukigumo)
+  - [山下風 Yamaoroshi](#山下風-yamaoroshi)
+  - [岩浪 Iwanami](#岩浪-iwanami)
+  - [鱗返 Urokogaeshi](#鱗返-urokogaeshi)
+  - [浪返 Namigaeshi](#浪返-namigaeshi)
+  - [滝落 Takiotoshi](#滝落-takiotoshi)
+  - [抜打 Nukiuchi](#抜打-nukiuchi)
+
 ## Introduction
 
 This page juxtaposes three distinct textual layers:
