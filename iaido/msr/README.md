@@ -28,7 +28,7 @@
 11. 陰陽進退替業（逆手陰陽進退） In'yō-shintai kaewaza (Sakate In'yō-shintai)
 12. 抜刀（抜打） Battō (Nukiuchi)
 
-## Chūden: Hasegawa Eishin-ryū
+## [Chūden: Hasegawa Eishin-ryū](chuden.md)
 
 中伝　長谷川英信流
 
