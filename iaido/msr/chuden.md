@@ -84,7 +84,7 @@ the thunder that follows the lightning is never heard.
 
 > 左あしを引敵の切って懸る拳を拂ろふて打込み跡上に同し
 
-Draw back the left foot, cut aside the hand with which the enemy attacks, and perform uchikomi; thereafter, proceed as above.
+Draw back the left foot, sweep aside the hand with which the enemy attacks, and perform uchikomi; thereafter, proceed as above.
 
 **Explanation**
 
