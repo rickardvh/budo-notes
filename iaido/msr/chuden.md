@@ -278,7 +278,7 @@ that no rock can stand before it.
 
 > 刀の鞘と共に左の足と一拍子に出し抜て後を突すぐに右の足を踏込み打込み開き納る此業は後ろゟこじりを取りたる處也故に抜時にこじりに当る心持有り
 
-Move the sheathed sword forwards together with the left foot in a single beat, draw, and thrust to the rear. Immediately step in with the right foot and perform uchikomi and hiraki, then sheathe the sword. This waza is used when the kojiri has been seized from behind; when drawing, therefore, retain the intent of striking with the kojiri.
+Extend the sheathed sword together with the left foot in a single beat, draw, and thrust to the rear. Immediately step in with the right foot and perform uchikomi and hiraki, then sheathe the sword. This waza is used when the kojiri has been seized from behind; when drawing, therefore, retain the intent of striking with the kojiri.
 
 **Explanation**
 
