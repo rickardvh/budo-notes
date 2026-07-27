@@ -123,7 +123,7 @@ Action: Sit in kiza facing the shōmen. Draw the right foot in to the left, then
 > 麓より　吹上られし　浮雲は  
 > 四方の高根を　立包むなり
 
-Floating clouds, blown upward from the foothills,  
+Floating clouds, blown upwards from the foothills,  
 rise and envelop the lofty peaks on every side.
 
 **Densho instruction**
