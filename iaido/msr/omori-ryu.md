@@ -2,11 +2,12 @@
 
 *初伝 大森流*
 
-The older transmission identifies Ōmori-ryū as the tradition of Ōmori Rokurōzaemon and says that Hayashi Rokudayū Morimasa incorporated it because its meaning did not differ substantially from Eishin-ryū:
+The scanned witness is headed *Ōmori-ryū battō no koto* (大森流抜刀之叓). It identifies Ōmori-ryū as the tradition of Ōmori Rokurōzaemon and says that Hayashi Rokudayū Morimasa incorporated it because its meaning did not differ substantially from Eishin-ryū:
 
-> 此居合と申は大森六郎左衛門之流也英信と格段意味無相違故二話而守政翁是を入候六郎左衛門盤守政先生剣術之師也真陰流也
+> 此居合と申は大森六郎左衛門之流也英信流と格段意味無相違故に話而後に守政翁是を入候六郎左衛門は守政先生の剣術の師也真陰流也上泉伊勢守信綱之古流五本之仕形有と云ふ或は武蔵守石甲二刀至極傳来守政先生限りに而絶  
+> 卍　可惜々
 
-This iai is the tradition of Ōmori Rokurōzaemon. Since its meaning did not differ substantially from Eishin-ryū, Morimasa incorporated it after consultation. Rokurōzaemon was Morimasa’s teacher of swordsmanship and belonged to Shinkage-ryū.
+This iai is the tradition of Ōmori Rokurōzaemon. Since its meaning did not differ substantially from Eishin-ryū, Morimasa incorporated it after discussion. Rokurōzaemon was Morimasa’s teacher of swordsmanship and belonged to Shinkage-ryū. It is said that there were five forms of the old tradition of Kamiizumi Ise-no-kami Nobutsuna. The following phrase, `或は武蔵守石甲二刀至極傳来`, is obscure, but appears to refer to an ultimate two-sword transmission associated with Musashi-no-kami. The transmission ended with Morimasa. How regrettable.
 
 Kimura Eiju’s later but authoritative main-line account adds that Rokurōzaemon had been expelled by Hasegawa Eishin and presents Ōmori-ryū as his subsequent creation:
 
@@ -17,15 +18,15 @@ Kimura Eiju’s later but authoritative main-line account adds that Rokurōzaemo
 
 Ōmori-ryū, created by Ōmori Rokurōzaemon after his expulsion by his teacher Hasegawa Eishin, was incorporated into Musō Shinden Jūshin-ryū through the offices of Hayashi Rokudayū for the following reasons: it accords with Hayashizaki Daimyōjin’s teaching of “the single kesagiri”; its front, right, left, and rear body methods accord with the principles of Musō Shinden Jūshin-ryū; and, taking account of the times, it employs seiza and is easy for beginners to learn.
 
-The terse kata instructions below are from *Shinden-ryū hisho: Ōmori-ryū iai no koto* (神傳流秘書「大森流居合之事」). The later descriptions are from Ōta Ryūhō’s *Iai dokuhon zen* (太田龍峰著『居合読本全』, 1934), supervised by Nakayama Hakudō. Detailed general instruction on posture, nukitsuke, metsuke, furikaburi, kirioroshi, chiburi, breathing, and nōtō is preserved separately in [Mental attitude for the beginner in battōjutsu](../msjr/domo-shoshin-no-kokoromochi.md).
+The terse kata instructions below are diplomatic transcriptions of this scanned witness; dakuten omitted in the source are left unmarked. The later descriptions are from Ōta Ryūhō’s *Iai dokuhon zen* (太田龍峰著『居合読本全』, 1934), supervised by Nakayama Hakudō. Detailed general instruction on posture, nukitsuke, metsuke, furikaburi, kirioroshi, chiburi, breathing, and nōtō is preserved separately in [Mental attitude for the beginner in battōjutsu](../msjr/domo-shoshin-no-kokoromochi.md).
 
 ## Shohattō
 
-*初発刀*
+*初發刀*
 
 The densho gives the form in a single sentence:
 
-> 右足を踏み出し向へ抜付け打込み扨血震し立時足を前の右足へ踏み揃へ右足を引て納る也
+> 右足を踏出し向へ抜付打込み扨血震し立時足を前の右足へふみ揃へ右足を引て納る也
 
 Step out with the right foot, perform nukitsuke towards the front, and strike down. Then perform chiburi. When standing, bring the rear foot up to the forward right foot; draw the right foot back and sheath.
 
@@ -47,7 +48,7 @@ Quietly rise onto the toes of both feet, break the koiguchi with the left thumb,
 
 *左刀*
 
-> 左の足を踏み出し向へ抜付け打込み扨血震して立時足を揃え左の足へ踏み揃え左足を引て納る　以下血震する事は足を立替え先踏出したる足を引て納る
+> 左の足を踏出し向へ抜付け打込み扨血震して立時足を前の左の足へふみ揃へ左の足を引て納る以下血震する業は足を立かへ先に出したる足を引て納る也
 
 Step out with the left foot, perform nukitsuke towards the front, and strike down. Then perform chiburi. When standing, bring the rear foot up to the forward left foot; draw the left foot back and sheath. In the following forms, when performing chiburi, change the feet and draw back the foot which originally stepped forwards when sheathing.
 
@@ -55,7 +56,7 @@ Step out with the left foot, perform nukitsuke towards the front, and strike dow
 
 *右刀*
 
-> 右足を踏み出し右へ振り向抜付打込血震納る
+> 右足を踏出して右へ振向抜付打込血震ひし納る
 
 Step out with the right foot, turn to the right, perform nukitsuke, strike down, perform chiburi, and sheath.
 
@@ -63,7 +64,7 @@ Step out with the right foot, turn to the right, perform nukitsuke, strike down,
 
 *當刀*
 
-> 左廻りに後へ振り向き左の足を踏み出し如前
+> 左り廻りに後へ振り向き左の足をふみ出し如前
 
 Turn to the rear by rotating to the left, step out with the left foot, and proceed as before.
 
@@ -71,17 +72,15 @@ Turn to the rear by rotating to the left, step out with the left foot, and proce
 
 *陰陽進退*
 
-The densho calls the form *Yōshin Intai* (陽進陰退):
+> 初右足を踏出し抜付左を踏込み打込み開き又左りを引て抜付跡ははじめに同し
 
-> 初め右足を踏出し抜付け左を踏込んで打込み開き納又左を引て抜き付け跡初本に同じ
-
-First step out with the right foot and perform nukitsuke. Step in with the left foot and strike down; open the sword and sheath. Then draw the left foot back and perform another nukitsuke. Thereafter proceed as in the first form.
+First step out with the right foot and perform nukitsuke. Step in with the left foot and strike down; open the sword. Then draw the left foot back and perform another nukitsuke. Thereafter proceed as at the beginning.
 
 ## Ryūtō
 
 *流刀*
 
-> 左の肩より切て懸るを踏出し抜付左足を踏込抜請に請流し右足を左の方へ踏込み打込む也扨刀をすねへ取り逆手に取り直し納る膝をつく
+> 左の肩より切って掛るを踏み出し抜付左足をふみ込み抜請に請流し右足を左の方へ踏込み打込む也扨刀をすねへ取り逆手に取直し納る膝を突
 
 As the opponent cuts at you from the direction of the left shoulder, step out and begin the draw; step in with the left foot, receive his cut with the drawing sword and let it flow past. Step with the right foot towards the left and strike down. Then take the sword to the level of the shin, change to a reverse grip, and sheath while lowering the knee.
 
@@ -123,9 +122,9 @@ Release the right hand and regrasp the tsuka from above, as though covering the 
 
 *順刀*
 
-> 右足を立左足を引くと一処に立抜打也又は八相に切跡は前に同じ
+> 右足を立左足を引引と一處に立抜打也但は八相に切る跡は前に同し
 
-Raise the right foot and, in the same action as drawing the left foot back, rise and perform a draw-strike. Alternatively, cut in hassō. Thereafter proceed as in the preceding form.
+Raise the right foot and, as the left foot is drawn back, rise and perform a draw-strike. Alternatively, cut in hassō. Thereafter proceed as before. The repeated `引` in `引引と` appears to be a dittography.
 
 Ōta and Nakayama also call the form *Kaishakutō* (介錯刀):
 
@@ -149,9 +148,9 @@ Judge the appropriate moment, step the right foot forwards while raising the swo
 
 *逆刀*
 
-> 向より切て懸るを先々に廻り抜打に切右足を進んで亦打込み足踏揃へ又右足を後へ引冠逆手に取返し前を突き逆手に納る也
+> 向ふより切って掛るを踏出し立って抜足を引揃へ抜打に切り右足を進んで又打込み足踏揃へ亦右足を跡へ引冠り逆手に取り返し前を突逆手に納
 
-As the opponent cuts at you from the front, turn ahead of him and cut with a draw-strike. Advance the right foot and strike again. Bring the feet together, then draw the right foot to the rear and raise the sword overhead. Change to a reverse grip, thrust to the front, and sheath with the reverse grip.
+As the opponent cuts at you from the front, step out, rise and draw; bring the feet together and cut with a draw-strike. Advance the right foot and strike again. Bring the feet together, then draw the right foot to the rear and raise the sword overhead. Change to a reverse grip, thrust to the front, and sheath with the reverse grip.
 
 Ōta and Nakayama describe the form as follows:
 
@@ -179,9 +178,11 @@ Then slowly place the right knee on the ground while lowering the sword. Regrasp
 
 *勢中刀*
 
-> 右の向より切て懸るを踏出し立って抜付け打込血震し納る此事は膝を付けず又抜付に払捨て打込事も有り
+> 左の向より切って掛るを踏出し立って抜付打込み血震し納る此業は膝を付かす又抜付に拂捨て打込む業も有り
 
-As the opponent cuts at you from the right, step out, rise, perform nukitsuke, strike down, perform chiburi, and sheath. Do not place the knee on the ground. There is also a method in which the opponent is swept aside with the nukitsuke before the downward strike.
+As the opponent cuts at you from the left, step out, rise, perform nukitsuke, strike down, perform chiburi, and sheath. Do not place the knee on the ground. There is also a method in which the opponent is swept aside with the nukitsuke before the downward strike.
+
+The scanned densho says that the attack comes from the left; Ōta and Nakayama instead describe an attack from the right.
 
 Ōta and Nakayama describe the form as follows:
 
@@ -199,11 +200,11 @@ Then bring the left foot towards the right while stepping the right foot forward
 
 ## Korantō
 
-*虎乱刀*
+*虎亂刀*
 
-> 是は立事也幾足も走り行く内に右足にて打込み血震し納る也但し膝を付けず
+> 是は立事也幾足も走り行内に右の足にて抜付打込血震ひし納る也但膝不付
 
-This is a standing form. Run forwards for several paces and strike as the right foot advances. Perform chiburi and sheath, without placing the knee on the ground.
+This is a standing form. Run forwards for several paces, perform nukitsuke and strike as the right foot advances. Perform chiburi and sheath, without placing the knee on the ground.
 
 Ōta and Nakayama describe the form as follows:
 
@@ -217,11 +218,15 @@ Stand upright facing the front. Put the left foot approximately one full pace fo
 
 ## Nukiuchi
 
-*抜打*
+*拔打*
 
-> 坐して居る所を向より切て懸るを其のまま踏ん伸んで請け流し打込み開いて納る尤も請流に非ず此所筆に及ばず
+> 坐して居る處を向より切って懸るを其儘ふんぬんて請流し打込み開いて納る尤請請流しにあらす此處筆に不及
 
-While you are seated, the opponent cuts at you from the front. Extend or drive yourself up as you are, receive and let his cut flow past, strike down, open the sword, and sheath. Yet this is not properly ukenagashi; this point cannot be expressed in writing.
+While you are seated, the opponent cuts at you from the front. Extend or drive yourself up as you are, receive and let his cut flow past, strike down, open the sword, and sheath. Yet this is not properly ukenagashi; this point cannot be expressed in writing. The obscure `ふんぬんて` is understood in light of the parallel witness’s `踏ん伸んで`; dakuten is unmarked. The repeated `請` appears to be a dittography.
+
+The densho closes:
+
+> 以上拾一
 
 Ōta and Nakayama describe the form as follows:
 
