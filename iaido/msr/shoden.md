@@ -73,6 +73,15 @@ Quietly rise onto the toes of both feet, break the koiguchi with the left thumb,
 
 Step the left foot forwards and perform nukitsuke and uchikomi, then chiburi. When rising, bring the rear foot up to the forward left foot; draw the left foot back and sheathe the sword. In the following forms, when performing chiburi, change the feet and draw back the foot which originally stepped forwards while sheathing.
 
+**Explanation**
+
+> 意義　左側面に對坐せる敵に對し初発刀と同意義にて行ふ業である。  
+> 動作　正面に對し右向に正坐す。右膝を軸として九十度旋廻すると同時に左足を右膝頭附近に踏みつけて初発刀の如く動作す。注意　旋廻に當り右足尖を充分に旋廻すること。
+
+Meaning: An enemy is seated facing you on your left side; perform the form with the same meaning as Shohattō.
+
+Action: Sit in seiza facing right relative to the shōmen. Pivot on the right knee and turn ninety degrees; at the same time, set the left foot near the head of the right knee and act as in Shohattō. Ensure that the right toes turn fully during the rotation.
+
 [**Top**](#shoden-ōmori-ryū)
 
 ## 右刀 Utō
@@ -82,6 +91,15 @@ Step the left foot forwards and perform nukitsuke and uchikomi, then chiburi. Wh
 > 右足を踏出して右へ振向抜付打込血震ひし納る
 
 Step the right foot forwards, turn to the right, perform nukitsuke and uchikomi, then chiburi and sheathe the sword.
+
+**Explanation**
+
+> 意義　右側面に對坐せる敵に對し、初発刀と同意義に於て行ふ業也。  
+> 動作　正面に對し左向に正座す。左膝を軸として九十度右に旋廻すると同時に初発刀の如く、以下初発刀に同じ。
+
+Meaning: An enemy is seated facing you on your right side; perform the form with the same meaning as Shohattō.
+
+Action: Sit in seiza facing left relative to the shōmen. Pivot on the left knee and turn ninety degrees to the right, acting as in Shohattō. Thereafter, proceed as in Shohattō.
 
 [**Top**](#shoden-ōmori-ryū)
 
@@ -93,6 +111,15 @@ Step the right foot forwards, turn to the right, perform nukitsuke and uchikomi,
 
 Turn to the rear by rotating to the left, step the left foot forwards, and proceed as before.
 
+**Explanation**
+
+> 意義　後方に對坐せる敵に對し初発刀と同意義に於て行ふ業である。  
+> 動作　右膝を軸として左へ百八十度旋廻す。右足の旋廻不足に特に留意し、右膝よりも僅かに外方に開く如くするを可とす。旋廻の終わりに左足を約一歩前方に踏みつけ、初発刀の如く動作す。以下初発刀に同じ。
+
+Meaning: An enemy is seated facing you to the rear; perform the form with the same meaning as Shohattō.
+
+Action: Pivot on the right knee and turn 180 degrees to the left. Take particular care that the right foot turns sufficiently, opening it slightly outside the right knee. At the end of the rotation, step the left foot approximately one pace forwards and act as in Shohattō. Thereafter, proceed as in Shohattō.
+
 [**Top**](#shoden-ōmori-ryū)
 
 ## 陰陽進退 In'yō-shintai
@@ -102,6 +129,17 @@ Turn to the rear by rotating to the left, step the left foot forwards, and proce
 > 初右足を踏出し抜付左を踏込み打込み開き又左りを引て抜付跡ははじめに同し
 
 First step the right foot forwards and perform nukitsuke. Step in with the left foot and perform uchikomi, then hiraki. Draw the left foot back and perform another nukitsuke. Thereafter, proceed as at the beginning.
+
+**Explanation**
+
+> 意義　互に對坐せる時急に初発刀の如く切りつけたるも、敵逃れしを以って直に追ひかけ之を斬り倒し、刀を納めんとせし時、再び他の敵より斬り付けられたるを以って直に之に應じて敵之腰を斬る業である。  
+> 動作　正面に向ひ正坐す。初発刀と同要領にて抜刀し刀を頭上に振り被りながら左足を右足に引きつけ、更に之を一歩前方に踏み著けると同時に正面に向ひ斬り下ろす。  
+> 次に左手を腰に當てつゝ右拳を右に開き刀刃を斜右下に向はしむ。此間右膝を屈げて地につく。この姿勢にて刀を納めながら左膝を屈げたる儘徐かに後ろに引き左踵が臀部に接する頃、急に約一歩後方へ引き中腰の儘にて再び抜刀し敵の腰を斬り（刀勢は初発刀に同じ）次に刀を頭上に振り被る間に左腰を屈げて僅かに進めつゝ膝を地につけ、右足を前に出して刀を正面に斬り下ろす。以下初発刀に同じ。
+
+Meaning: When seated facing one another, suddenly cut as in Shohattō. When the enemy escapes, immediately pursue and cut him down. As you are about to sheathe, another enemy attacks; respond at once and cut the enemy's waist.
+
+Action: Sit in seiza facing the shōmen. Draw as in Shohattō. While raising the sword overhead, draw the left foot to the right, then step it one pace forwards and cut down to the front.  
+Place the left hand at the waist and open the right fist to the right so that the edge faces diagonally downwards to the right; during this movement, lower the right knee to the ground. While sheathing in this posture, keep the left knee bent and slowly draw it back. When the left heel nears the buttock, withdraw it suddenly approximately one pace and, remaining half-raised, draw again and cut the enemy's waist, with the same sword action as Shohattō. As the sword is raised overhead, bend the left side, advance slightly and place the knee on the ground; put the right foot forwards and cut straight down. Thereafter, proceed as in Shohattō.
 
 [**Top**](#shoden-ōmori-ryū)
 
