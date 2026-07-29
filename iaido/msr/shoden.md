@@ -19,10 +19,9 @@
 
 ## Introduction
 
-This page juxtaposes three textual layers:
+This page juxtaposes two textual layers:
 
-- the preface and concise instructions from the *Ōmori-ryū battō no koto* (大森流抜刀之叓), transcribed diplomatically from the scanned witness with omitted dakuten left unmarked,
-- Kimura Eiju's later account of the incorporation of Ōmori-ryū, and
+- the preface and concise instructions from the *Ōmori-ryū battō no koto* (大森流抜刀之叓), and
 - detailed explanations from Ōta Ryūhō's *Iai tokuhon* (1934), reviewed by Nakayama Hakudō (太田龍峰著・中山博道校閲『居合読本』).
 
 ## Preface
@@ -33,15 +32,6 @@ This page juxtaposes three textual layers:
 > 卍　可惜々
 
 This iai is the tradition of Ōmori Rokurōzaemon. Since its meaning did not differ substantially from Eishin-ryū, Morimasa incorporated it after discussion. Rokurōzaemon was Morimasa's teacher of swordsmanship and belonged to Shinkage-ryū. It is said that there were five forms of the old tradition of Kamiizumi Ise-no-kami Nobutsuna. An ultimate two-sword transmission associated with Musashi-no-kami was also handed down,[^1] but it ended with Morimasa. How regrettable.
-
-(Kimura Eiju's account)
-
-> 師、長谷川英信から破門を受けた大森六郎左衛門の創作である「大森流」が、林六太夫の計らいにより夢想神傳重信流に取り入れられた曰くは、次の理由による。  
-> 一、大森流が林崎大明神の教へ「裂裟の一太刀」の精神に則っていること。  
-> 一、表身、右身、左身、後身等夢想神傳重信流の精神に則っていること。  
-> 一、時代を考慮に入れて、正座を用い、又大森流が初心者に覚え易いこと。
-
-Ōmori-ryū, created by Ōmori Rokurōzaemon after his expulsion by his teacher Hasegawa Eishin, was incorporated into Musō Shinden Jūshin-ryū through the offices of Hayashi Rokudayū for the following reasons: it accords with Hayashizaki Daimyōjin's teaching of "the single kesagiri"; its front, right, left, and rear body methods accord with the principles of Musō Shinden Jūshin-ryū; and, taking account of the times, it employs seiza and is easy for beginners to learn.
 
 ## 初發刀 Shohattō
 
@@ -55,7 +45,7 @@ Step the right foot forwards and perform nukitsuke and uchikomi, then chiburi. W
 
 > 互に四尺位離れて対坐せる時、急に敵の目の附近を横薙に切り付け、相抜の場合は敵の抜付けし拳に切り込む、倒るゝ所を直ちに上段より斬る業である
 
-Meaning: When seated facing one another about four shaku apart, suddenly cut horizontally near the enemy's eyes. In the event of a simultaneous draw, cut into the fist with which the enemy performs nukitsuke. As the enemy falls, immediately cut from jōdan.
+Meaning: When seated facing one another about four shaku apart, suddenly cut horizontally near the enemy's eyes. In the event of a simultaneous draw, cut into the hand with which the enemy performs nukitsuke. As the enemy falls, immediately cut from jōdan.
 
 > 正面に向ひ正坐す。正坐は両足の拇指のみを僅かに接し両手は殊更に肘を張ることなく、股の上に置く。  
 > 徐かに両足尖を爪立てつゝ左手拇指にて鯉口を切り僅かに外方に傾け右手を以て鍔より五分離して握る。次に右足踵が左膝に来る如く踏み著くると同時に刀を抜く、抜き放ちたる刀の高さは右肩の高さにして刀刃は水平に抜付真横に向ひ刀尖は稍々下方に向はしむ。此際左肩を充分後方にひく如くすれば刀勢に一層活気を生ずるものとす、又実施者は敵を「フッツり切る気分を持つべきである、之を「ふつのみたま」と古語にあり、次に刀尖を左肩の方向より頭上に振り被り……
@@ -272,10 +262,9 @@ Action: Stand upright facing the shōmen. Put the left foot approximately one fu
 
 **Densho instruction**
 
-> 坐して居る處を向より切って懸るを其儘ふんぬんて[^4]請流し打込み開いて納る尤請請流しにあらす此處筆に不及  
-> 以上拾一
+> 坐して居る處を向より切って懸るを其儘ふんぬんて[^4]請流し打込み開いて納る尤請請流しにあらす此處筆に不及
 
-While seated, as the enemy cuts from the front, extend or drive yourself up as you are, receive and let the cut flow past, perform uchikomi and hiraki, then sheathe the sword. Yet this is not properly ukenagashi; this point cannot be expressed in writing. Eleven forms in all.
+While seated, as the enemy cuts from the front, extend or drive yourself up as you are, receive and let the cut flow past, perform uchikomi and hiraki, then sheathe the sword. Yet this is not properly ukenagashi; this point cannot be expressed in writing.
 
 **Explanation**
 
