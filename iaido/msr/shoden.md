@@ -47,11 +47,17 @@ Step the right foot forwards and perform nukitsuke and uchikomi, then chiburi. W
 
 Meaning: When seated facing one another about four shaku apart, suddenly cut horizontally near the enemy's eyes. In the event of a simultaneous draw, cut into the hand with which the enemy performs nukitsuke. As the enemy falls, immediately cut from jōdan.
 
-> 正面に向ひ正坐す。正坐は両足の拇指のみを僅かに接し両手は殊更に肘を張ることなく、股の上に置く。  
-> 徐かに両足尖を爪立てつゝ左手拇指にて鯉口を切り僅かに外方に傾け右手を以て鍔より五分離して握る。次に右足踵が左膝に来る如く踏み著くると同時に刀を抜く、抜き放ちたる刀の高さは右肩の高さにして刀刃は水平に抜付真横に向ひ刀尖は稍々下方に向はしむ。此際左肩を充分後方にひく如くすれば刀勢に一層活気を生ずるものとす、又実施者は敵を「フッツり切る気分を持つべきである、之を「ふつのみたま」と古語にあり、次に刀尖を左肩の方向より頭上に振り被り……
+> 動作　正面に向ひ正坐す。正坐は両足の拇指のみを僅かに接し両手は殊更に肘を張ることなく、股の上に置く（以下これに準ず）。  
+> 抜刀法　徐かに両足尖を爪立てつゝ左手拇指にて鯉口を切り僅かに外方に傾け右手を以て鍔より五分離して握る（以下特に記する場合の外之に準ず）。次に右足踵が左膝に来る如く踏み著くると同時に刀を抜く。抜き放ちたる刀の高さは右肩の高さにして刀刃は水平に抜付真横に向ひ刀尖は稍々下方に向はしむ。此際左肩を充分後方にひく如くすれば刀勢に一層活気を生ずるものとす（抜刀の要領は特に記する場合の外之れに準ず）。又実施者は敵を「フッツり切る」気分を持つべきである。之を「ふつのみたま」と古語にあり。次に刀尖を左肩の方向より頭上に振り被り左手を以て柄頭を握る。此間左膝を右足の踵迄進め右足を前方に踏みつくると同時に刀を斬り下す。  
+> 次に左手を放ちて左腰に當てると同時に右拳を其位置に於て拇指の爪が上に向ふ如く大きく右に旋廻し外轉し右肩を體の右方まで開き肘を屈げ右拳が概ね顳顬部附近に来る如くし、立ち上がりつゝ右臂が體と概ね四十五度位に成る如く體の右前方に向ひ右肘を伸ばす。これを血振りと云ふ。  
+> 續いて左足を右足に引き着くると同時に右足を後方に引き踏替をなし、左手を以って鞘口を握る。  
+> 納め方　次に右手を屈げて鍔元附近の刀背が左手附近に至る如くし、刀背が左手の拇指と食指との最凸部を基準とし刀尖が鞘口に至る如く右手を前方に出し且つ亦腰を左に捻りて此の動作を容易ならしめ、以て徐かに刀を納む。而して刀を納め終る時左膝は地に着く。
 
-Action: Face the front and sit in seiza. Let only the big toes lightly touch, and place both hands on the thighs without deliberately spreading the elbows.  
-Quietly rise onto the toes of both feet, break the koiguchi with the left thumb, incline the sword slightly outwards, and grasp the tsuka about five bu from the tsuba. Draw as the right heel is set down so as to come to the left knee. At the completion of the draw, the sword is at right-shoulder height; the edge is horizontal and directed straight across, while the kissaki points slightly downwards. Drawing the left shoulder well to the rear gives the sword greater vitality. One should have the feeling of cutting the enemy clean through—expressed by the old phrase *futsu no mitama*. Then bring the sword overhead from the direction of the left shoulder…
+Action: Face the shōmen and sit in seiza. Let only the big toes lightly touch, and place both hands on the thighs without deliberately spreading the elbows; the same applies below.  
+Drawing method: Quietly rise onto the toes of both feet, break the koiguchi with the left thumb, incline the sword slightly outwards, and grasp the tsuka about five bu from the tsuba; except where otherwise stated, the same method applies below. Draw as the right heel is set down so as to come to the left knee. At the completion of the draw, the sword is at right-shoulder height; the edge is horizontal and directed straight across, while the kissaki points slightly downwards. Drawing the left shoulder well to the rear gives the sword greater vitality. Except where otherwise stated, the same drawing method applies below. One should have the feeling of cutting the enemy clean through—expressed by the old phrase *futsu no mitama*. Bring the sword overhead from the direction of the left shoulder and grip the kashira with the left hand. During this movement, advance the left knee to the right heel; step the right foot forwards and cut down at the same time.  
+Release the left hand and place it at the left hip. At the same time, rotate and externally turn the right fist widely to the right, with the thumbnail facing upwards; open the right shoulder to the right side of the body, bend the elbow, and bring the right fist approximately beside the temple. As you rise, extend the right elbow forwards and to the right until the right arm forms an angle of approximately forty-five degrees with the body. This is called chiburi.  
+Next, draw the left foot to the right while drawing the right foot back to change the feet, and take the koiguchi with the left hand.  
+Sheathing method: Bend the right arm so that the back of the blade near the tsuba comes close to the left hand. Using the most prominent point between the left thumb and index finger as the guide for the mune, extend the right hand forwards until the kissaki reaches the koiguchi, while also twisting the hips to the left to facilitate the action. Slowly sheathe the sword. The left knee reaches the ground as sheathing is completed.
 
 [**Top**](#shoden-ōmori-ryū)
 
@@ -132,6 +138,10 @@ Meaning: When seated facing one another, suddenly cut as in Shohattō. When the 
 Action: Sit in seiza facing the shōmen. Draw as in Shohattō. While raising the sword overhead, draw the left foot to the right, then step it one pace forwards and cut down to the front.  
 Place the left hand at the waist and open the right fist to the right so that the edge faces diagonally downwards to the right; during this movement, lower the right knee to the ground. While sheathing in this posture, keep the left knee bent and slowly draw it back. When the left heel nears the buttock, withdraw it suddenly approximately one pace and, remaining half-raised, draw again and cut the enemy's waist, with the same sword action as Shohattō. As the sword is raised overhead, bend at the left hip, advance slightly, and place the knee on the ground; put the right foot forwards and cut straight down. Thereafter, proceed as in Shohattō.
 
+> 替手　正面に向ひ正坐より血振りをなし刀を納むる迄の動作は全く同一である。次に柄を上より握りたる儘、左足を約一歩後方にひくと同時に刀を成る可く低く抜き、刀刃を上にする如く右足の前方に致し刀尖を僅かに外方に出づる如く刀を下ぐ。以下全く陰陽進退に同じ。
+
+Alternative: From sitting in seiza facing the shōmen through chiburi and sheathing, the action is identical. Then, retaining the grip upon the tsuka from above, draw the left foot approximately one pace to the rear while drawing the sword as low as possible. Place it in front of the right foot with the edge upwards and lower it so that the kissaki projects slightly outwards. Thereafter, proceed exactly as in In'yō-shintai.
+
 [**Top**](#shoden-ōmori-ryū)
 
 ## 流刀 Ryūtō
@@ -153,16 +163,16 @@ Meaning: When the enemy unexpectedly cuts from the left side, draw at once with 
 > 而して右拳の位置は前額の右前上方にして右肘は軽く屈げ、次に立ち上がりつゝ右足を左足の右後方約一歩半の所に開き刀は右肘を屈げて肩に擔ふやうにする。  
 > 次に、左足の蹠骨部を軸として、約九十度左にむけつゝ右足を左足に引きつけ、殆んど足を揃える如くし、両膝は軽く外方に屈げ、上體は正しく腰の上に落付かしむ。  
 > 而して、刀は両足の将に揃はんとする時、左手を添え上げて左前方に向ひ斬り下ろす。此際刀尖は稍々下り刀刃は斜左下方に向ひ恰も前に「のめり」たるの浮腰（肋部を斬る）  
-> 然る後左足を約一歩後方に引き上體を起し刀尖部を右膝の上部に託する如く両手を少しく左方に移す、此際左肘は概ね伸びあるものとす。  
-> 次に右手を放ち掌の半面を以て鍔を被ふ如く刀柄を上より握り左手を放ちて鞘口を握り右手を以て刀尖を左肩の方向に向はしむる如く刀を反転して之を納む。此際左膝は地に就く。
+> 然る後左足を約一歩後方に引き上體を起し刀尖部を右膝（右膝は伸び易きを以て特に注意するを要す）の上部に託する如く両手を少しく左方に移す、此際左肘は概ね伸びあるものとす。  
+> 納め刀　次に右手を放ち掌の反面を以て鍔を被ふ如く刀柄を上より握り左手を放ちて鞘口を握り右手を以て刀尖を左肩の方向に向はしむる如く刀を反轉して之を納む。此際左膝は地に就く。
 
 Action: Sit in seiza facing right relative to the shōmen. Turn the head to the left and, while stepping the left foot approximately one pace forwards, grasp the tsuka from above with the right hand and draw. Act with the feeling of directing the enemy's sword, which is cutting towards the head, past and behind the left shoulder.  
 Unlike the preceding cases, there is no time to rotate the sword outwards to facilitate the draw. Because the sword must be drawn suddenly, grasp the tsuka from above; consequently, when the sword has been drawn into the receiving action, the edge faces slightly to the right.  
 The right fist is above and to the right front of the forehead, with the right elbow slightly bent. While rising, open the right foot approximately one and a half paces behind and to the right of the left foot, bending the right elbow so that the sword is carried as though upon the shoulder.  
 Pivoting on the ball of the left foot, turn approximately ninety degrees to the left while drawing the right foot towards the left until the feet are almost together. Bend both knees lightly outwards and settle the upper body squarely over the hips.  
 As the feet are about to come together, add the left hand and cut down towards the left front. The kissaki is slightly lowered and the edge faces diagonally down to the left, cutting the floating ribs or waist as the enemy pitches forwards.  
-Draw the left foot approximately one pace back, raise the upper body, and move both hands slightly to the left so that the portion near the kissaki appears to rest above the right knee. The left elbow is generally extended.  
-Release the right hand and regrasp the tsuka from above, as though covering the tsuba with half the palm. Release the left hand and take the mouth of the saya. With the right hand, reverse the sword so that the kissaki is directed towards the left shoulder, and sheathe it while placing the left knee on the ground.
+Draw the left foot approximately one pace back, raise the upper body, and move both hands slightly to the left so that the portion near the kissaki appears to rest above the right knee; take particular care, as the right knee tends to straighten. The left elbow is generally extended.  
+Sheathing: Release the right hand and regrasp the tsuka from above, as though covering the tsuba with half the palm. Release the left hand and take the koiguchi. With the right hand, reverse the sword so that the kissaki is directed towards the left shoulder, and sheathe it while placing the left knee on the ground.
 
 [**Top**](#shoden-ōmori-ryū)
 
@@ -176,6 +186,7 @@ Raise the right foot and, as the left foot is drawn back, rise and perform nukiu
 
 **Explanation**
 
+> 順刀（介錯とも云ふ）  
 > 切腹者の左側方に於て切腹者に面して坐し介錯する動作にして極めて静粛に実施するを特徴とするのである。
 
 Meaning: Sit on the left side of the person committing seppuku, facing him, and perform kaishaku. Its distinguishing feature is that it is carried out with the utmost quietness and solemnity.
@@ -283,4 +294,4 @@ Release the left hand and open the right fist to the right, performing chiburi i
 [^1]: The reading and syntax of `石甲` are uncertain.
 [^2]: The repeated `引` appears to be a dittography.
 [^3]: The densho has "left"; Ōta and Nakayama describe an attack from the right.
-[^4]: `ふんぬんて` is obscure. The parallel witness has `踏ん伸んで`; dakuten is unmarked. The repeated `請` in `請請流し` also appears to be a dittography.
+[^4]: `ふんぬんて` represents `踏ん伸んで`, read *fun’nunde* (ふんぬんで); the dakuten on `て` is unmarked. The repeated `請` in `請請流し` appears to be a dittography.
