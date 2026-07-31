@@ -31,7 +31,7 @@ This page juxtaposes two textual layers:
 > 此居合と申は大森六郎左衛門之流也英信流と格段意味無相違故に話而後に守政翁是を入候六郎左衛門は守政先生の剣術の師也真陰流也上泉伊勢守信綱之古流五本之仕形有と云ふ或は武蔵守石甲二刀至極傳来守政先生限りに而絶  
 > 卍　可惜々
 
-This iai is the tradition of Ōmori Rokurōzaemon. Since its meaning did not differ substantially from Eishin-ryū, Morimasa incorporated it after discussion. Rokurōzaemon was Morimasa's teacher of swordsmanship and belonged to Shinkage-ryū. It is said that there were five forms of the old tradition of Kamiizumi Ise-no-kami Nobutsuna. An ultimate two-sword transmission associated with Musashi-no-kami[^musashi-no-kami] was also handed down,[^1] but it ended with Morimasa. How regrettable.
+This iai is the tradition of Ōmori Rokurōzaemon. Since its meaning did not differ substantially from Eishin-ryū, Morimasa incorporated it after discussion. Rokurōzaemon was Morimasa's teacher of swordsmanship and belonged to Shinkage-ryū. It is said that there were five forms of the old tradition of Kamiizumi Ise-no-kami Nobutsuna. An ultimate two-sword transmission associated with Musashi-no-kami[^musashi-no-kami] was also handed down,[^1] but it ended with Morimasa. This is truly regrettable.
 
 ## 初發刀 Shohattō
 
