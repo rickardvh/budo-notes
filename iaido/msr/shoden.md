@@ -43,7 +43,7 @@ Step the right foot forwards and perform nukitsuke and uchikomi, then chiburi. W
 
 **Explanation**
 
-> 互に四尺位離れて対坐せる時、急に敵の目の附近を横薙に切り付け、相抜の場合は敵の抜付けし拳に切り込む、倒るゝ所を直ちに上段より斬る業である
+> 意義　互に四尺位離れて対坐せる時、急に敵の目の附近を横薙に切り付け、相抜の場合は敵の抜付けし拳に切り込む、倒るゝ所を直ちに上段より斬る業である
 
 Meaning: When seated facing one another about four shaku apart, suddenly cut horizontally near the enemy's eyes. In the event of a simultaneous draw, cut into the hand with which the enemy performs nukitsuke. As the enemy falls, immediately cut from jōdan.
 
@@ -71,11 +71,12 @@ Step the left foot forwards and perform nukitsuke and uchikomi, then chiburi. Wh
 
 **Explanation**
 
-> 意義　左側面に對坐せる敵に對し初發刀と同意義にて行ふ業である。  
-> 動作　正面に對し右向に正座す。右膝を軸として九十度旋回すると同時に左足を右膝頭附近に踏みつけて初發刀の如く動作す。以下は初發刀の動作と同じである。  
-> 注意　旋回に當り右足尖を充分に旋回すること。
+> 意義　左側面に對坐せる敵に對し初發刀と同意義にて行ふ業である。
 
 Meaning: An enemy is seated facing you on your left side; perform the form with the same meaning as Shohattō.
+
+> 動作　正面に對し右向に正座す。右膝を軸として九十度旋回すると同時に左足を右膝頭附近に踏みつけて初發刀の如く動作す。以下は初發刀の動作と同じである。  
+> 注意　旋回に當り右足尖を充分に旋回すること。
 
 Action: Sit in seiza facing right relative to the shōmen. Pivot on the right knee and turn ninety degrees; at the same time, set the left foot near the head of the right knee and act as in Shohattō. Ensure that the right toes turn fully during the rotation.
 
@@ -91,10 +92,11 @@ Step the right foot forwards, turn to the right, perform nukitsuke and uchikomi,
 
 **Explanation**
 
-> 意義　右側面に對坐せる敵に對し、初發刀と同意義にて行ふ業なり。  
-> 動作　正面に對し左向に正座す。左膝を軸として九十度右に旋回すると同時に初發刀の如く以下は初發刀に同じ。
+> 意義　右側面に對坐せる敵に對し、初發刀と同意義にて行ふ業なり。
 
 Meaning: An enemy is seated facing you on your right side; perform the form with the same meaning as Shohattō.
+
+> 動作　正面に對し左向に正座す。左膝を軸として九十度右に旋回すると同時に初發刀の如く以下は初發刀に同じ。
 
 Action: Sit in seiza facing left relative to the shōmen. Pivot on the left knee and turn ninety degrees to the right, acting as in Shohattō. Thereafter, proceed as in Shohattō.
 
@@ -110,10 +112,11 @@ Turn to the rear by rotating to the left, step the left foot forwards, and proce
 
 **Explanation**
 
-> 意義　後方に對坐せる敵に對し、初發刀と同意義にて行ふ業なり。  
-> 動作　正面に對し後向に正座す。右膝を軸として左へ百八十度旋廻す（右足の旋廻不足に特に留意し右膝よりも僅かに外方に開く如くするを可とす）。旋回の終りに左足を約一歩前方に踏みつけ初發刀の如く動作す。以下初發刀に同じ。
+> 意義　後方に對坐せる敵に對し、初發刀と同意義にて行ふ業なり。
 
 Meaning: An enemy is seated facing you to the rear; perform the form with the same meaning as Shohattō.
+
+> 動作　正面に對し後向に正座す。右膝を軸として左へ百八十度旋廻す（右足の旋廻不足に特に留意し右膝よりも僅かに外方に開く如くするを可とす）。旋回の終りに左足を約一歩前方に踏みつけ初發刀の如く動作す。以下初發刀に同じ。
 
 Action: Sit in seiza with your back to the shōmen. Pivot on the right knee and turn 180 degrees to the left. Take particular care that the right foot turns sufficiently, opening it slightly outside the right knee. At the end of the rotation, step the left foot approximately one pace forwards and act as in Shohattō. Thereafter, proceed as in Shohattō.
 
@@ -129,11 +132,12 @@ First step the right foot forwards and perform nukitsuke. Step in with the left 
 
 **Explanation**
 
-> 意義　互に對坐せる時急に初發刀の如く切りつけたるも、敵逃れしを以って直に追ひかけ之を斬り倒し、刀を納めんとせし時、再び他の敵より斬り付けられたるを以って直に之れに応じて敵の腰を斬る業である。  
-> 動作　正面に向ひ正坐す。初發刀と同要領にて抜刀し刀を頭上に振り被りながら左足を右足に引きつけ、更に之れを一歩前方に踏み著けると同時に正面に向ひ斬り下す。  
-> 次に左手を放ち腰に當てつゝ右拳を右に開き刀刃を斜右下に向はしむ。此間右膝を屈げて地につく。この姿勢にて刀を納めながら左膝を屈げたる儘徐かに後ろに引き左踵が臀部に接する頃、急に約一歩後方へ引き中腰の儘にて再び抜刀し敵の腰を斬り（刀勢は初發刀に同じ）次に刀を頭上に振り被る間に左腰を屈げて僅かに進めつゝ膝を地につけ、右足を前に出して刀を正面に斬り下す。以下初發刀に同じ。
+> 意義　互に對坐せる時急に初發刀の如く切りつけたるも、敵逃れしを以って直に追ひかけ之を斬り倒し、刀を納めんとせし時、再び他の敵より斬り付けられたるを以って直に之れに応じて敵の腰を斬る業である。
 
 Meaning: When seated facing one another, suddenly cut as in Shohattō. When the enemy escapes, immediately pursue and cut him down. As you are about to sheathe, another enemy attacks; respond at once and cut the enemy's waist.
+
+> 動作　正面に向ひ正坐す。初發刀と同要領にて抜刀し刀を頭上に振り被りながら左足を右足に引きつけ、更に之れを一歩前方に踏み著けると同時に正面に向ひ斬り下す。  
+> 次に左手を放ち腰に當てつゝ右拳を右に開き刀刃を斜右下に向はしむ。此間右膝を屈げて地につく。この姿勢にて刀を納めながら左膝を屈げたる儘徐かに後ろに引き左踵が臀部に接する頃、急に約一歩後方へ引き中腰の儘にて再び抜刀し敵の腰を斬り（刀勢は初發刀に同じ）次に刀を頭上に振り被る間に左腰を屈げて僅かに進めつゝ膝を地につけ、右足を前に出して刀を正面に斬り下す。以下初發刀に同じ。
 
 Action: Sit in seiza facing the shōmen. Draw as in Shohattō. While raising the sword overhead, draw the left foot to the right, then step it one pace forwards and cut down to the front.  
 Place the left hand at the waist and open the right fist to the right so that the edge faces diagonally downwards to the right; during this movement, lower the right knee to the ground. While sheathing in this posture, keep the left knee bent and slowly draw it back. When the left heel nears the buttock, withdraw it suddenly approximately one pace and, remaining half-raised, draw again and cut the enemy's waist, with the same sword action as Shohattō. As the sword is raised overhead, bend at the left hip, advance slightly, and place the knee on the ground; put the right foot forwards and cut straight down. Thereafter, proceed as in Shohattō.
@@ -154,11 +158,11 @@ As the enemy cuts from the direction of the left shoulder, step out and begin th
 
 **Explanation**
 
-> 敵が不意に左側面より斬撃し来たりしを以て取敢ず抜連れて、是を受け流し、敵が前に「のめる」所に乗じ其腰を切る動作である。
+> 意義　敵が不意に左側面より斬撃し来たりしを以て取敢ず抜連れて、是を受け流し、敵が前に「のめる」所に乗じ其腰を切る動作である。
 
 Meaning: When the enemy unexpectedly cuts from the left side, draw at once with the attack, receive and flow it past, and take advantage as the enemy pitches forwards to cut the waist.
 
-> 正面に對して右向に正坐す、頭を左に向け左足を約一歩前に踏み著くる間に右手を以て柄を上方より握り抜刀し頭上を目がけて斬り来る敵の刀を左肩の後方に向け流す心持にて動作す。  
+> 動作　正面に對して右向に正坐す、頭を左に向け左足を約一歩前に踏み著くる間に右手を以て柄を上方より握り抜刀し頭上を目がけて斬り来る敵の刀を左肩の後方に向け流す心持にて動作す。  
 > 此の際に於ける抜刀は前記の諸場合と異り左手で刀を抜くに容易なる如く外方に旋廻する遑なく、急遽抜刀する意なるを以て之を上方より握るものにして抜き連れて受けたる時の刀刃の方向は之が為め僅かに右方向に向ふものとす。  
 > 而して右拳の位置は前額の右前上方にして右肘は軽く屈げ、次に立ち上がりつゝ右足を左足の右後方約一歩半の所に開き刀は右肘を屈げて肩に擔ふやうにする。  
 > 次に、左足の蹠骨部を軸として、約九十度左にむけつゝ右足を左足に引きつけ、殆んど足を揃える如くし、両膝は軽く外方に屈げ、上體は正しく腰の上に落付かしむ。  
@@ -187,11 +191,11 @@ Raise the right foot and, as the left foot is drawn back, rise and perform nukiu
 **Explanation**
 
 > 順刀（介錯とも云ふ）  
-> 切腹者の左側方に於て切腹者に面して坐し介錯する動作にして極めて静粛に実施するを特徴とするのである。
+> 意義　切腹者の左側方に於て切腹者に面して坐し介錯する動作にして極めて静粛に実施するを特徴とするのである。
 
 Meaning: Sit on the left side of the person committing seppuku, facing him, and perform kaishaku. Its distinguishing feature is that it is carried out with the utmost quietness and solemnity.
 
-> 正面に向ひ正坐す、頭を正面にしたる儘、左膝を軸として九十度右に旋廻し右足を僅かに前方に出すと同時に半ば刀を抜き、次に立上りつゝ抜き放ち左足を正面に向けつゝ右足を左足に引き付けて直立す。  
+> 動作　正面に向ひ正坐す、頭を正面にしたる儘、左膝を軸として九十度右に旋廻し右足を僅かに前方に出すと同時に半ば刀を抜き、次に立上りつゝ抜き放ち左足を正面に向けつゝ右足を左足に引き付けて直立す。  
 > 此間に刀を右拳の位置か肩の右前下方概ね乳の高さ位にして刀背が右上膊の中央附近に来る如くす。  
 > 次で気合を図り右足を一歩前方に踏出しつゝ刀を頭上に振り被り足が地につくと同時に稍々左前下方に向ひ斬り下ろし後、僅かに上体を起こす。以下全く流刀に於ける納め刀の要領に同じである。
 
@@ -211,11 +215,11 @@ As the enemy cuts from the front, step out, rise, and draw; bring the feet toget
 
 **Explanation**
 
-> 正面より斬り込み来る敵の刀を脱しつゝ上段より敵の胸元迄切り下げ敵が後退するのを追ひ打ちに再び切り著け敵が倒れたるに對し尚ほ残心を示し、最後に止めを刺す動作なり。
+> 意義　正面より斬り込み来る敵の刀を脱しつゝ上段より敵の胸元迄切り下げ敵が後退するのを追ひ打ちに再び切り著け敵が倒れたるに對し尚ほ残心を示し、最後に止めを刺す動作なり。
 
 Meaning: Evade the sword of an enemy cutting from the front while cutting down from jōdan to the chest. As the enemy retreats, pursue and cut again. After the enemy has fallen, continue to show zanshin and finally deliver a finishing thrust.
 
-> 正面に向ひ正座す。右足を約一足長前方に踏み出すと同時に半ば刀を抜き、左足を僅か後方に引きつゝ立上り同時に右足を左足にひきつけて刀を頭上に振り被る。  
+> 動作　正面に向ひ正座す。右足を約一足長前方に踏み出すと同時に半ば刀を抜き、左足を僅か後方に引きつゝ立上り同時に右足を左足にひきつけて刀を頭上に振り被る。  
 > 次で右足を一歩前に踏出し刀尖を胸の高さ位まで切り下げ、続いて左足より二歩前進して、刀を再び頭上に振り被り右足の地につくと同時に斬り下ろす。  
 > 此時における著眼点は一間位前方の地とし、刀尖は腰の附近迄位切り下げ左足を右足にひきつけ、直ちに右足を約一歩後方にひくと同時に刀を頭上に振り被り、残心を示し、  
 > 然る後、徐ろに右膝を地につけつゝ刀を下ろし、右手を逆手に成る如く握り換へ左手を放ち刀を逆手に持ち左手を刀尖に近き部位の刀背に添へ、止めを刺す心持にて刀を僅かに上方にひき、以下、流刀に於ける納め刀の要領により刀を納む。
@@ -237,11 +241,11 @@ As the enemy cuts from the left, step out, rise, perform nukitsuke and uchikomi,
 
 **Explanation**
 
-> 右側面より斬り来る敵の前腕を斬り続いて之を追撃する動作である。
+> 意義　右側面より斬り来る敵の前腕を斬り続いて之を追撃する動作である。
 
 Meaning: Cut the forearm of an enemy attacking from the right side and then pursue with a further attack.
 
-> 正面に對し左向に正座す。左膝を軸とし九十度右に旋廻し右足を約一歩踏み出すと同時に中腰にて抜刀し刀尖を稍々左にし刀刃が僅かに斜め右に向ふ如くし、敵の前臂を切る心持にて握り締む。  
+> 動作　正面に對し左向に正座す。左膝を軸とし九十度右に旋廻し右足を約一歩踏み出すと同時に中腰にて抜刀し刀尖を稍々左にし刀刃が僅かに斜め右に向ふ如くし、敵の前臂を切る心持にて握り締む。  
 > 次に左足を右足に添ふると同時に右足を踏み出しつゝ刀を頭上に握り被り右足が地に着くと同時に斬り下ろし、初発刀に於ける血振りをなし、刀を納む。
 
 Action: Sit in seiza facing left relative to the shōmen. Pivot ninety degrees to the right on the left knee and step the right foot approximately one pace forwards. At the same time, draw from a half-raised posture, with the kissaki slightly to the left and the edge facing slightly diagonally to the right, and close the grip with the feeling of cutting the enemy's forearm.  
@@ -259,11 +263,11 @@ This is a standing form. Run forwards for several paces and perform nukitsuke an
 
 **Explanation**
 
-> 敵が逃れ去らんとするを追ひ掛けて斬る動作であって終始立姿にて行ふ即ち立居合である。
+> 意義　敵が逃れ去らんとするを追ひ掛けて斬る動作であって終始立姿にて行ふ即ち立居合である。
 
 Meaning: Pursue and cut an enemy attempting to escape. The form is performed standing throughout and is therefore tachi-iai.
 
-> 正面に向ひ直立す左足を約一足長前方に出す（抜刀を容易にする目的）と同時に右手を以て鍔に近く握り右足を約一歩前方に踏みだし初発刀の要領にて抜刀し、次に左足より二歩前進しつゝ刀を頭に振り被り右足が地に着くと同時に切り下ろす、以上の動作は成るべく神速に行ふを理想とす。次で、立たる儘で初発刀に於ける血振ひをなして刀を納める。
+> 動作　正面に向ひ直立す左足を約一足長前方に出す（抜刀を容易にする目的）と同時に右手を以て鍔に近く握り右足を約一歩前方に踏みだし初発刀の要領にて抜刀し、次に左足より二歩前進しつゝ刀を頭に振り被り右足が地に着くと同時に切り下ろす、以上の動作は成るべく神速に行ふを理想とす。次で、立たる儘で初発刀に於ける血振ひをなして刀を納める。
 
 Action: Stand upright facing the shōmen. Put the left foot approximately one full pace forwards to facilitate drawing, while grasping the tsuka near the tsuba with the right hand. Step the right foot approximately one pace forwards and draw according to the method of Shohattō. Advance two steps beginning with the left foot while raising the sword overhead, and cut down as the right foot reaches the ground. Ideally, these actions should be performed with the greatest possible speed. Remaining standing, perform the chiburi of Shohattō and sheathe the sword.
 
@@ -279,11 +283,11 @@ While seated, as the enemy cuts from the front, extend or drive yourself up as y
 
 **Explanation**
 
-> 彼我互に接近して對坐せる時不意に正面に向ひ斬り付ける動作である。
+> 意義　彼我互に接近して對坐せる時不意に正面に向ひ斬り付ける動作である。
 
 Meaning: When both parties are seated very close together, suddenly cut towards the enemy directly in front.
 
-> 正面に向ひ正座す。彼我極めて接近しある場合を考慮せるものなるを以って抜刀に際しては成るべく右拳を前上方に向けて動かしつゝ、概ね前額の前方に至らしめ、刀尖を左上膊の外側に近く移動せしめつゝ刀を頭上に振り被る（此際両膝を密接す）次で、直ちに両膝を開き刀尖が概ね地より二握り位の處に来る位に切り下ろす。  
+> 動作　正面に向ひ正座す。彼我極めて接近しある場合を考慮せるものなるを以って抜刀に際しては成るべく右拳を前上方に向けて動かしつゝ、概ね前額の前方に至らしめ、刀尖を左上膊の外側に近く移動せしめつゝ刀を頭上に振り被る（此際両膝を密接す）次で、直ちに両膝を開き刀尖が概ね地より二握り位の處に来る位に切り下ろす。  
 > 次で左手を放ち右拳を右に開き血振りをなすこと陰陽進退に於ける第一段の血振りと同様に動作し、後、刀を納む。
 
 Action: Sit in seiza facing the shōmen. Because the form assumes that the two parties are extremely close, move the right fist forwards and upwards as much as possible during the draw, bringing it approximately in front of the forehead. At the same time, move the kissaki close to the outside of the left upper arm and bring the sword overhead. During this action, bring the knees close together. Immediately open both knees and cut down until the kissaki reaches approximately two hand-widths above the ground.  
