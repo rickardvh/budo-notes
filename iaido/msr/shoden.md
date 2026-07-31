@@ -295,8 +295,8 @@ Release the left hand and open the right fist to the right, performing chiburi i
 
 [**Top**](#shoden-ōmori-ryū)
 
-[^musashi-no-kami]: This most likely refers to Kamiizumi Nobutsuna, who was also known as Kamiizumi Musashi-no-kami Hidetsuna (上泉武蔵守秀綱); see the [preface to the Shinkage-ryū hyōhō list of transmissions](../../tsuki-no-sho/shinkage-ryu-mokuroku-preface.md), which names him as such.
-[^1]: `卍` is read *manji*, and `石甲` is read *Sekkō*. A [modern-Japanese rendering of a parallel densho](https://ncode.syosetu.com/n1032ht/13/) treats them as distinct technical terms and conjectures that *Sekkō* denotes a kind of body collision in Shinkage-ryū. Accordingly, `二刀至極` is taken separately as “the ultimate teaching of the two-sword method”; the precise content of all three teachings remains uncertain.
+[^musashi-no-kami]: This most likely refers to Kamiizumi Nobutsuna (the founder of Shinkage-ryū), who was also known as Kamiizumi Musashi-no-kami Hidetsuna (上泉武蔵守秀綱); see the [preface to the Shinkage-ryū hyōhō list of transmissions](../../tsuki-no-sho/shinkage-ryu-mokuroku-preface.md), which names him as such.
+[^1]: A [modern-Japanese rendering of a parallel densho](https://ncode.syosetu.com/n1032ht/13/) conjectures that *Sekkō* denotes a kind of tai-atari in Shinkage-ryū, and that *Manji* refers to being able to draw and cut freely in any direction. Accordingly, `二刀至極` is taken separately as “the ultimate teaching of the two-sword method”; the precise content of all three teachings remains uncertain.
 [^2]: The repeated `引` appears to be a dittography.
 [^3]: The densho has "left"; Ōta and Nakayama describe an attack from the right.
-[^4]: `ふんぬんて` represents `踏ん伸んで`, read *fun’nunde* (ふんぬんで); the dakuten on `て` is unmarked. The repeated `請` in `請請流し` appears to be a dittography.
+[^4]: `ふんぬんて` represents `踏ん伸んで`. The repeated `請` in `請請流し` appears to be a dittography.
