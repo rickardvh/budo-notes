@@ -31,7 +31,7 @@ This page juxtaposes two textual layers:
 > 此居合と申は大森六郎左衛門之流也英信流と格段意味無相違故に話而後に守政翁是を入候六郎左衛門は守政先生の剣術の師也真陰流也上泉伊勢守信綱之古流五本之仕形有と云ふ或は武蔵守石甲二刀至極傳来守政先生限りに而絶  
 > 卍　可惜々
 
-This iai is the tradition of Ōmori Rokurōzaemon. Since its meaning did not differ substantially from Eishin-ryū, Morimasa incorporated it after discussion. Rokurōzaemon was Morimasa's teacher of swordsmanship and belonged to Shinkage-ryū. It is said that there were five forms of the old tradition of Kamiizumi Ise-no-kami Nobutsuna. An ultimate two-sword transmission associated with Musashi-no-kami was also handed down,[^1] but it ended with Morimasa. How regrettable.
+This iai is the tradition of Ōmori Rokurōzaemon. Since its meaning did not differ substantially from Eishin-ryū, Morimasa incorporated it after discussion. Rokurōzaemon was Morimasa's teacher of swordsmanship and belonged to Shinkage-ryū. It is said that there were five forms of the old tradition of Kamiizumi Ise-no-kami Nobutsuna. An ultimate two-sword transmission associated with Musashi-no-kami[^musashi-no-kami] was also handed down,[^1] but it ended with Morimasa. How regrettable.
 
 ## 初發刀 Shohattō
 
@@ -48,7 +48,7 @@ Step the right foot forwards and perform nukitsuke and uchikomi, then chiburi. W
 Meaning: When seated facing one another about four shaku apart, suddenly cut horizontally near the enemy's eyes. In the event of a simultaneous draw, cut into the hand with which the enemy performs nukitsuke. As the enemy falls, immediately cut from jōdan.
 
 > 動作　正面に向ひ正坐す。正坐は両足の拇指のみを僅かに接し両手は殊更に肘を張ることなく、股の上に置く（以下これに準ず）。  
-> 抜刀法　徐かに両足尖を爪立てつゝ左手拇指にて鯉口を切り僅かに外方に傾け右手を以て鍔より五分離して握る（以下特に記する場合の外之に準ず）。次に右足踵が左膝に来る如く踏み著くると同時に刀を抜く。抜き放ちたる刀の高さは右肩の高さにして刀刃は水平に抜付真横に向ひ刀尖は稍々下方に向はしむ。此際左肩を充分後方にひく如くすれば刀勢に一層活気を生ずるものとす（抜刀の要領は特に記する場合の外之れに準ず）。又実施者は敵を「フッツり切る」気分を持つべきである。之を「ふつのみたま」と古語にあり。次に刀尖を左肩の方向より頭上に振り被り左手を以て柄頭を握る。此間左膝を右足の踵迄進め右足を前方に踏みつくると同時に刀を斬り下す。  
+> 抜刀法　徐かに両足尖を爪立てつゝ左手拇指にて鯉口を切り僅かに外方に傾け右手を以て鍔より五分離して握る（以下特に記する場合の外之に準ず）。次に右足踵が左膝に来る如く踏み著くると同時に刀を抜く。抜き放ちたる刀の高さは右肩の高さにして刀刃は水平に抜付真横に向ひ刀尖は稍々下方に向はしむ。此際左肩を充分後方にひく如くすれば刀勢に一層活気を生ずるものとす（抜刀の要領は特に記する場合の外之れに準ず）。又実施者は敵を「フッツり切る気分を持つべきである。之を「ふつのみたま」と古語にあり。次に刀尖を左肩の方向より頭上に振り被り左手を以て柄頭を握る。此間左膝を右足の踵迄進め右足を前方に踏みつくると同時に刀を斬り下す。  
 > 次に左手を放ちて左腰に當てると同時に右拳を其位置に於て拇指の爪が上に向ふ如く大きく右に旋廻し外轉し右肩を體の右方まで開き肘を屈げ右拳が概ね顳顬部附近に来る如くし、立ち上がりつゝ右臂が體と概ね四十五度位に成る如く體の右前方に向ひ右肘を伸ばす。これを血振りと云ふ。  
 > 續いて左足を右足に引き着くると同時に右足を後方に引き踏替をなし、左手を以って鞘口を握る。  
 > 納め方　次に右手を屈げて鍔元附近の刀背が左手附近に至る如くし、刀背が左手の拇指と食指との最凸部を基準とし刀尖が鞘口に至る如く右手を前方に出し且つ亦腰を左に捻りて此の動作を容易ならしめ、以て徐かに刀を納む。而して刀を納め終る時左膝は地に着く。
@@ -291,6 +291,7 @@ Release the left hand and open the right fist to the right, performing chiburi i
 
 [**Top**](#shoden-ōmori-ryū)
 
+[^musashi-no-kami]: This most likely refers to Kamiizumi Nobutsuna, who was also known as Kamiizumi Musashi-no-kami Hidetsuna (上泉武蔵守秀綱); see the [preface to the Shinkage-ryū hyōhō list of transmissions](../../tsuki-no-sho/shinkage-ryu-mokuroku-preface.md), which names him as such.
 [^1]: The reading and syntax of `石甲` are uncertain.
 [^2]: The repeated `引` appears to be a dittography.
 [^3]: The densho has "left"; Ōta and Nakayama describe an attack from the right.
