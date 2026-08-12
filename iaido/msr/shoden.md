@@ -145,16 +145,6 @@ Place the left hand at the waist and move the right fist out to the right so tha
 
 [**Top**](#shoden-ōmori-ryū)
 
-## 陰陽進退替業（逆手陰陽進退） In'yō-shintai kaewaza (Sakate In'yō-shintai)
-
-**Explanation**
-
-> 替手　正面に向ひ正坐より血振りをなし刀を納むる迄の動作は全く同一である。次に柄を上より握りたる儘、左足を約一歩後方にひくと同時に刀を成る可く低く抜き、刀刃を上にする如く右足の前方に致し刀尖を僅かに外方に出づる如く刀を下ぐ。以下全く陰陽進退に同じ。
-
-Alternative: From sitting in seiza facing the shōmen through chiburi and sheathing, the action is identical. Then, retaining the grip upon the tsuka from above, draw the left foot approximately one pace to the rear while drawing the sword as low as possible. Place it in front of the right foot with the edge upwards and lower it so that the kissaki projects slightly outwards. Thereafter, proceed exactly as in In'yō-shintai.
-
-[**Top**](#shoden-ōmori-ryū)
-
 ## 流刀 Ryūtō
 
 **Densho instruction**
@@ -279,6 +269,16 @@ Meaning: Pursue and cut an enemy attempting to escape. The form is performed sta
 > 動作　正面に向ひ直立す左足を約一足長前方に出す（抜刀を容易にする目的）と同時に右手を以て鍔に近く握り右足を約一歩前方に踏みだし初発刀の要領にて抜刀し、次に左足より二歩前進しつゝ刀を頭に振り被り右足が地に着くと同時に切り下ろす、以上の動作は成るべく神速に行ふを理想とす。次で、立たる儘で初発刀に於ける血振ひをなして刀を納める。
 
 Action: Stand upright facing the shōmen. Put the left foot approximately one full pace forwards to facilitate drawing, while grasping the tsuka near the tsuba with the right hand. Step the right foot approximately one pace forwards and draw according to the method of Shohattō. Advance two steps beginning with the left foot while raising the sword overhead, and cut down as the right foot reaches the ground. Ideally, these actions should be performed with the greatest possible speed. Remaining standing, perform the chiburi of Shohattō and sheathe the sword.
+
+[**Top**](#shoden-ōmori-ryū)
+
+## 陰陽進退替業（逆手陰陽進退） In'yō-shintai kaewaza (Sakate In'yō-shintai)
+
+**Explanation**
+
+> 替手　正面に向ひ正坐より血振りをなし刀を納むる迄の動作は全く同一である。次に柄を上より握りたる儘、左足を約一歩後方にひくと同時に刀を成る可く低く抜き、刀刃を上にする如く右足の前方に致し刀尖を僅かに外方に出づる如く刀を下ぐ。以下全く陰陽進退に同じ。
+
+Alternative: From sitting in seiza facing the shōmen through chiburi and sheathing, the action is identical. Then, retaining the grip upon the tsuka from above, draw the left foot approximately one pace to the rear while drawing the sword as low as possible. Place it in front of the right foot with the edge upwards and lower it so that the kissaki projects slightly outwards. Thereafter, proceed exactly as in In'yō-shintai.
 
 [**Top**](#shoden-ōmori-ryū)
 
