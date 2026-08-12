@@ -5,17 +5,18 @@
 - [Shoden: Ōmori-ryū](#shoden-ōmori-ryū)
   - [Introduction](#introduction)
   - [Preface](#preface)
-  - [初發刀 Shohattō](#初發刀-shohattō)
+  - [初発刀 Shohattō](#初発刀-shohattō)
   - [左刀 Satō](#左刀-satō)
   - [右刀 Utō](#右刀-utō)
-  - [當刀 Ataritō](#當刀-ataritō)
+  - [当刀 Ataritō](#当刀-ataritō)
   - [陰陽進退 In'yō-shintai](#陰陽進退-inyō-shintai)
   - [流刀 Ryūtō](#流刀-ryūtō)
   - [順刀 Juntō](#順刀-juntō)
   - [逆刀 Gyakutō](#逆刀-gyakutō)
   - [勢中刀 Seichūtō](#勢中刀-seichūtō)
-  - [虎亂刀 Korantō](#虎亂刀-korantō)
-  - [拔打 Nukiuchi](#拔打-nukiuchi)
+  - [虎乱刀 Korantō](#虎乱刀-korantō)
+  - [陰陽進退替業（逆手陰陽進退） In'yō-shintai kaewaza (Sakate In'yō-shintai)](#陰陽進退替業逆手陰陽進退-inyō-shintai-kaewaza-sakate-inyō-shintai)
+  - [抜刀（抜打） Battō (Nukiuchi)](#抜刀抜打-battō-nukiuchi)
 
 ## Introduction
 
@@ -33,7 +34,7 @@ This page juxtaposes two textual layers:
 
 This iai is the tradition of Ōmori Rokurōzaemon. Since its meaning did not differ substantially from Eishin-ryū, Morimasa incorporated it after discussion. Rokurōzaemon was Morimasa's teacher of swordsmanship and belonged to Shinkage-ryū. It is said that there were five forms of the old tradition of Kamiizumi Ise-no-kami Nobutsuna. According to another account, Musashi-no-kami's[^musashi-no-kami] *Manji*, *Sekkō*, and ultimate teaching of the two-sword method[^1] were transmitted, but died out with Morimasa. This is truly regrettable.
 
-## 初發刀 Shohattō
+## 初発刀 Shohattō
 
 **Densho instruction**
 
@@ -102,7 +103,7 @@ Action: Sit in seiza facing left relative to the shōmen. Pivot on the left knee
 
 [**Top**](#shoden-ōmori-ryū)
 
-## 當刀 Ataritō
+## 当刀 Ataritō
 
 **Densho instruction**
 
@@ -141,6 +142,12 @@ Meaning: When seated facing one another, suddenly cut as in Shohattō. When the 
 
 Action: Sit in seiza facing the shōmen. Draw as in Shohattō. While raising the sword overhead, draw the left foot to the right, then step it one pace forwards and cut down to the front.  
 Place the left hand at the waist and move the right fist out to the right so that the edge faces diagonally downwards to the right; during this movement, lower the right knee to the ground. While sheathing in this posture, keep the left knee bent and slowly draw it back. When the left heel nears the buttock, withdraw it suddenly approximately one pace and, remaining half-raised, draw again and cut the enemy's waist, with the same sword action as Shohattō. As the sword is raised overhead, bend at the left hip, advance slightly, and place the knee on the ground; put the right foot forwards and cut straight down. Thereafter, proceed as in Shohattō.
+
+[**Top**](#shoden-ōmori-ryū)
+
+## 陰陽進退替業（逆手陰陽進退） In'yō-shintai kaewaza (Sakate In'yō-shintai)
+
+**Explanation**
 
 > 替手　正面に向ひ正坐より血振りをなし刀を納むる迄の動作は全く同一である。次に柄を上より握りたる儘、左足を約一歩後方にひくと同時に刀を成る可く低く抜き、刀刃を上にする如く右足の前方に致し刀尖を僅かに外方に出づる如く刀を下ぐ。以下全く陰陽進退に同じ。
 
@@ -255,7 +262,7 @@ Bring the left foot towards the right while stepping the right foot forwards, ra
 
 [**Top**](#shoden-ōmori-ryū)
 
-## 虎亂刀 Korantō
+## 虎乱刀 Korantō
 
 **Densho instruction**
 
@@ -275,7 +282,7 @@ Action: Stand upright facing the shōmen. Put the left foot approximately one fu
 
 [**Top**](#shoden-ōmori-ryū)
 
-## 拔打 Nukiuchi
+## 抜刀（抜打） Battō (Nukiuchi)
 
 **Densho instruction**
 
