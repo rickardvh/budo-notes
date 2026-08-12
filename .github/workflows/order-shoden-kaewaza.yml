@@ -1,0 +1,45 @@
+name: Order Shoden kaewaza
+
+on:
+  push:
+    branches:
+      - omori-ryu-draft
+
+permissions:
+  contents: write
+
+jobs:
+  order:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: omori-ryu-draft
+          fetch-depth: 0
+
+      - name: Move kaewaza to README order
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          path = Path('iaido/msr/shoden.md')
+          text = path.read_text()
+          heading = "## 陰陽進退替業（逆手陰陽進退） In'yō-shintai kaewaza (Sakate In'yō-shintai)"
+          start = text.index(heading)
+          end = text.index('\n## 流刀 Ryūtō', start)
+          section = text[start:end].rstrip() + '\n\n'
+          text = text[:start] + text[end+1:]
+          insert_at = text.index('## 抜刀（抜打） Battō (Nukiuchi)')
+          text = text[:insert_at] + section + text[insert_at:]
+          path.write_text(text)
+          PY
+
+      - name: Commit article update and remove workflow
+        run: |
+          rm -f .github/workflows/order-shoden-kaewaza.yml
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add iaido/msr/shoden.md .github/workflows/order-shoden-kaewaza.yml
+          git commit -m "Order Shoden kata names with README"
+          git push origin HEAD:omori-ryu-draft
