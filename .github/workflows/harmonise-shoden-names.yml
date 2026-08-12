@@ -1,0 +1,60 @@
+name: Harmonise Shoden kata names
+
+on:
+  push:
+    branches:
+      - omori-ryu-draft
+
+permissions:
+  contents: write
+
+jobs:
+  harmonise:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: omori-ryu-draft
+          fetch-depth: 0
+
+      - name: Harmonise kata names with README
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          path = Path('iaido/msr/shoden.md')
+          text = path.read_text()
+
+          replacements = {
+              '  - [初發刀 Shohattō](#初發刀-shohattō)': '  - [初発刀 Shohattō](#初発刀-shohattō)',
+              '  - [當刀 Ataritō](#當刀-ataritō)': '  - [当刀 Ataritō](#当刀-ataritō)',
+              '  - [虎亂刀 Korantō](#虎亂刀-korantō)': '  - [虎乱刀 Korantō](#虎乱刀-korantō)',
+              '  - [拔打 Nukiuchi](#拔打-nukiuchi)': '  - [陰陽進退替業（逆手陰陽進退） In\'yō-shintai kaewaza (Sakate In\'yō-shintai)](#陰陽進退替業逆手陰陽進退-inyō-shintai-kaewaza-sakate-inyō-shintai)\n  - [抜刀（抜打） Battō (Nukiuchi)](#抜刀抜打-battō-nukiuchi)',
+              '## 初發刀 Shohattō': '## 初発刀 Shohattō',
+              '## 當刀 Ataritō': '## 当刀 Ataritō',
+              '## 虎亂刀 Korantō': '## 虎乱刀 Korantō',
+              '## 拔打 Nukiuchi': '## 抜刀（抜打） Battō (Nukiuchi)',
+          }
+          for old, new in replacements.items():
+              if old not in text:
+                  raise SystemExit(f'missing expected text: {old}')
+              text = text.replace(old, new, 1)
+
+          old_alt = '''> 替手　正面に向ひ正坐より血振りをなし刀を納むる迄の動作は全く同一である。次に柄を上より握りたる儘、左足を約一歩後方にひくと同時に刀を成る可く低く抜き、刀刃を上にする如く右足の前方に致し刀尖を僅かに外方に出づる如く刀を下ぐ。以下全く陰陽進退に同じ。\n\nAlternative: From sitting in seiza facing the shōmen through chiburi and sheathing, the action is identical. Then, retaining the grip upon the tsuka from above, draw the left foot approximately one pace to the rear while drawing the sword as low as possible. Place it in front of the right foot with the edge upwards and lower it so that the kissaki projects slightly outwards. Thereafter, proceed exactly as in In'yō-shintai.\n\n[**Top**](#shoden-ōmori-ryū)'''
+          new_alt = '''[**Top**](#shoden-ōmori-ryū)\n\n## 陰陽進退替業（逆手陰陽進退） In'yō-shintai kaewaza (Sakate In'yō-shintai)\n\n**Explanation**\n\n> 替手　正面に向ひ正坐より血振りをなし刀を納むる迄の動作は全く同一である。次に柄を上より握りたる儘、左足を約一歩後方にひくと同時に刀を成る可く低く抜き、刀刃を上にする如く右足の前方に致し刀尖を僅かに外方に出づる如く刀を下ぐ。以下全く陰陽進退に同じ。\n\nAlternative: From sitting in seiza facing the shōmen through chiburi and sheathing, the action is identical. Then, retaining the grip upon the tsuka from above, draw the left foot approximately one pace to the rear while drawing the sword as low as possible. Place it in front of the right foot with the edge upwards and lower it so that the kissaki projects slightly outwards. Thereafter, proceed exactly as in In'yō-shintai.\n\n[**Top**](#shoden-ōmori-ryū)'''
+          if old_alt not in text:
+              raise SystemExit('could not locate In\'yō-shintai alternative block')
+          text = text.replace(old_alt, new_alt, 1)
+
+          path.write_text(text)
+          PY
+
+      - name: Commit article update and remove workflow
+        run: |
+          rm -f .github/workflows/harmonise-shoden-names.yml
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add iaido/msr/shoden.md .github/workflows/harmonise-shoden-names.yml
+          git commit -m "Harmonise Shoden kata names with README"
+          git push origin HEAD:omori-ryu-draft
