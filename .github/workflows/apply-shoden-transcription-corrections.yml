@@ -46,3 +46,5 @@ jobs:
           git add iaido/msr/shoden.md .github/workflows/apply-shoden-transcription-corrections.yml
           git commit -m "Correct Shoden source readings"
           git push origin HEAD:omori-ryu-draft
+
+# trigger
