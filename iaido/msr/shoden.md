@@ -76,10 +76,10 @@ Step the left foot forwards and perform nukitsuke and uchikomi, then chiburi. Wh
 
 Meaning: An enemy is seated facing you on your left side; perform the form with the same meaning as Shohattō.
 
-> 動作　正面に對し右向に正座す。右膝を軸として九十度旋回すると同時に左足を右膝頭附近に踏みつけて初發刀の如く動作す。以下は初發刀の動作と同じである。  
+> 動作　正面に對し右向に正座す。右膝を軸として九十度左に旋廻すると同時に左足を右膝頭附近に踏みつけて初發刀の如く動作す。以下は初發刀の動作と同じである。  
 > 注意　旋回に當り右足尖を充分に旋回すること。
 
-Action: Sit in seiza facing right relative to the shōmen. Pivot on the right knee and turn ninety degrees; at the same time, set the left foot near the head of the right knee and act as in Shohattō. Ensure that the right toes turn fully during the rotation.
+Action: Sit in seiza facing right relative to the shōmen. Pivot on the right knee and turn ninety degrees to the left; at the same time, set the left foot near the head of the right knee and act as in Shohattō. Ensure that the right toes turn fully during the rotation.
 
 [**Top**](#shoden-ōmori-ryū)
 
@@ -187,10 +187,10 @@ Raise the right foot and, as the left foot is drawn back, rise and perform nukiu
 
 **Explanation**
 
-> 順刀（介錯とも云ふ）  
+> 順刀（介錯刀とも云ふ）  
 > 意義　切腹者の左側方に於て切腹者に面して坐し介錯する動作にして極めて静粛に実施するを特徴とするのである。
 
-Juntō is also called *kaishaku*.
+Juntō is also called *kaishakutō*.
 
 Meaning: Sit on the left side of the person committing seppuku, facing him, and perform kaishaku. Its distinguishing feature is that it is carried out with the utmost quietness and solemnity.
 
@@ -276,9 +276,9 @@ Action: Stand upright facing the shōmen. Put the left foot approximately one fu
 
 **Explanation**
 
-> 替手　正面に向ひ正坐より血振りをなし刀を納むる迄の動作は全く同一である。次に柄を上より握りたる儘、左足を約一歩後方にひくと同時に刀を成る可く低く抜き、刀刃を上にする如く右足の前方に致し刀尖を僅かに外方に出づる如く刀を下ぐ。以下全く陰陽進退に同じ。
+> 替手　正面に向ひ正坐より血振りをなし刀を納むる迄の動作は全く同一である。次に柄を上より握りたる儘、左足を約一歩後方にひくと同時に刀を成る可く低く抜き、刀刃を上にする如く右足の側方に致し刀尖を僅かに外方に出づる如く刀を下ぐ。以下全く陰陽進退に同じ。
 
-Alternative: From sitting in seiza facing the shōmen through chiburi and sheathing, the action is identical. Then, retaining the grip upon the tsuka from above, draw the left foot approximately one pace to the rear while drawing the sword as low as possible. Place it in front of the right foot with the edge upwards and lower it so that the kissaki projects slightly outwards. Thereafter, proceed exactly as in In'yō-shintai.
+Alternative: From sitting in seiza facing the shōmen through chiburi and sheathing, the action is identical. Then, retaining the grip upon the tsuka from above, draw the left foot approximately one pace to the rear while drawing the sword as low as possible. Place it beside the right foot with the edge upwards and lower it so that the kissaki projects slightly outwards. Thereafter, proceed exactly as in In'yō-shintai.
 
 [**Top**](#shoden-ōmori-ryū)
 
