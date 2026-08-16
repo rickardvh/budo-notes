@@ -32,7 +32,7 @@ This page juxtaposes two textual layers:
 > 此居合と申は大森六郎左衛門之流也英信流と格段意味無相違故に話而後に守政翁是を入候六郎左衛門は守政先生の剣術の師也真陰流也上泉伊勢守信綱之古流五本之仕形有と云々或は武蔵守卍石甲二刀至極傳来守政先生限りに而絶  
 > 可惜々
 
-This iai is the tradition of Ōmori Rokurōzaemon. Since its meaning did not differ substantially from Eishin-ryū, Morimasa incorporated it after discussion. Rokurōzaemon was Morimasa's teacher of swordsmanship and belonged to Shinkage-ryū. It is said that there were five forms of the old tradition of Kamiizumi Ise-no-kami Nobutsuna. According to another account, Musashi-no-kami's[^musashi-no-kami] *Manji*, *Sekkō*, and an ultimate two-sword teaching[^1] were transmitted, but died out with Morimasa. This is truly regrettable.
+This iai is the tradition of Ōmori Rokurōzaemon. Since its meaning did not differ substantially from Eishin-ryū, Morimasa incorporated it after discussion. Rokurōzaemon was Morimasa's teacher of swordsmanship and belonged to Shinkage-ryū. It is said that there were five forms of the old tradition of Kamiizumi Ise-no-kami Nobutsuna. According to another account, Musashi-no-kami's[^musashi-no-kami] *Manji*, *Sekkō*, and an ultimate two-sword teaching[^manji-sekko-nito] were transmitted, but died out with Morimasa. This is truly regrettable.
 
 ## 初発刀 Shohattō
 
@@ -181,7 +181,7 @@ Sheathing: Release the right hand and regrasp the tsuka from above, as though co
 
 **Densho instruction**
 
-> 右足を立左足を引引[^2]と一處に立抜打也但は八相に切る跡は前に同し
+> 右足を立左足を引引[^juntou-hiki]と一處に立抜打也但は八相に切る跡は前に同し
 
 Raise the right foot and, as the left foot is drawn back, rise and perform nukiuchi. Alternatively, cut in hassō. Thereafter, proceed as before.
 
@@ -234,7 +234,7 @@ Slowly place the right knee on the ground while lowering the sword. Regrasp with
 
 **Densho instruction**
 
-> 左[^3]の向より切って掛るを踏出し立って抜付打込み血震し納る此業は膝を付かす又抜付に拂捨て打込む業も有り
+> 左[^seichutou-direction]の向より切って掛るを踏出し立って抜付打込み血震し納る此業は膝を付かす又抜付に拂捨て打込む業も有り
 
 As the enemy cuts from the left, step out, rise, perform nukitsuke and uchikomi, then chiburi and sheathe the sword. Do not place the knee on the ground. There is also a method in which one sweeps aside with nukitsuke before performing uchikomi.
 
@@ -286,7 +286,7 @@ Alternative: From sitting in seiza facing the shōmen through chiburi and sheath
 
 **Densho instruction**
 
-> 坐して居る處を向より切って懸るを其儘ふんぬんて[^4]請流し打込み開いて納る尤請請流しにあらす此處筆に不及
+> 坐して居る處を向より切って懸るを其儘ふんぬんて[^nukiuchi-funnunde]請流し打込み開いて納る尤請請流しにあらす此處筆に不及
 
 While seated, as the enemy cuts from the front, extend or drive yourself up as you are, receive and let the cut flow past, perform uchikomi and hiraki, then sheathe the sword. Yet this is not properly ukenagashi; this point cannot be expressed in writing.
 
@@ -304,9 +304,9 @@ Release the left hand and move the right fist out to the right, performing chibu
 
 [**Top**](#shoden-ōmori-ryū)
 
-[^futsu-no-mitama]: `ふつのみたま` almost certainly refers to *Futsu-no-mitama* (布都御魂), the divine sword associated with Takemikazuchi and Isonokami Jingū. Here the name is explicitly linked with `フッツリ切る`, cutting clean through.
+[^futsu-no-mitama]: `ふつのみたま` refers to *Futsu-no-mitama* (布都御魂), an ancient sword-divinity name closely associated with Futsunushi (経津主神), the deity of Katori Jingū, and also with Takemikazuchi in the *Kojiki* tradition. Here the name is explicitly linked with `フッツリ切る`, cutting clean through.
 [^musashi-no-kami]: This most likely refers to Kamiizumi Nobutsuna (the founder of Shinkage-ryū), who was also known as Kamiizumi Musashi-no-kami Hidetsuna (上泉武蔵守秀綱); see the [preface to the Shinkage-ryū hyōhō list of transmissions](../../tsuki-no-sho/shinkage-ryu-mokuroku-preface.md), which names him as such.
-[^1]: A [modern-Japanese rendering of a parallel densho](https://ncode.syosetu.com/n1032ht/13/) conjectures that *Sekkō* denotes a kind of tai-atari in Shinkage-ryū, and that *Manji* refers to being able to draw and cut freely in any direction. Accordingly, `二刀至極` is taken separately as "the ultimate two-sword teaching"; the precise content of all three teachings remains uncertain.
-[^2]: The repeated `引` appears to be a dittography.
-[^3]: The densho has "left"; Ōta and Nakayama describe an attack from the right.
-[^4]: `ふんぬんて` represents `踏ん伸んで`, read *funnunde* (ふんぬんで); the dakuten on `て` is unmarked in this witness. The repeated `請` in `請請流し` appears to be a dittography.
+[^manji-sekko-nito]: A [modern-Japanese rendering of a parallel densho](https://ncode.syosetu.com/n1032ht/13/) conjectures that *Sekkō* denotes a kind of tai-atari in Shinkage-ryū, and that *Manji* refers to being able to draw and cut freely in any direction. Accordingly, `二刀至極` is taken separately as "the ultimate two-sword teaching"; the precise content of all three teachings remains uncertain.
+[^juntou-hiki]: The repeated `引` appears to be a dittography.
+[^seichutou-direction]: The densho has "left"; Ōta and Nakayama describe an attack from the right.
+[^nukiuchi-funnunde]: `ふんぬんて` represents `踏ん伸んで`, read *funnunde* (ふんぬんで); the dakuten on `て` is unmarked in this witness. The repeated `請` in `請請流し` appears to be a dittography.
