@@ -32,7 +32,7 @@ This page juxtaposes two textual layers:
 > 此居合と申は大森六郎左衛門之流也英信流と格段意味無相違故に話而後に守政翁是を入候六郎左衛門は守政先生の剣術の師也真陰流也上泉伊勢守信綱之古流五本之仕形有と云々或は武蔵守卍石甲二刀至極傳来守政先生限りに而絶  
 > 可惜々
 
-This iai is the tradition of Ōmori Rokurōzaemon. Since its meaning did not differ substantially from Eishin-ryū, Morimasa incorporated it after discussion. Rokurōzaemon was Morimasa's teacher of swordsmanship and belonged to Shinkage-ryū. It is said that there were five forms of the old tradition of Kamiizumi Ise-no-kami Nobutsuna. According to another account, Musashi-no-kami's[^musashi-no-kami] *Manji*, *Sekkō*, and ultimate teaching of the two-sword method[^1] were transmitted, but died out with Morimasa. This is truly regrettable.
+This iai is the tradition of Ōmori Rokurōzaemon. Since its meaning did not differ substantially from Eishin-ryū, Morimasa incorporated it after discussion. Rokurōzaemon was Morimasa's teacher of swordsmanship and belonged to Shinkage-ryū. It is said that there were five forms of the old tradition of Kamiizumi Ise-no-kami Nobutsuna. According to another account, Musashi-no-kami's[^musashi-no-kami] *Manji*, *Sekkō*, and an ultimate two-sword teaching[^1] were transmitted, but died out with Morimasa. This is truly regrettable.
 
 ## 初発刀 Shohattō
 
@@ -306,7 +306,7 @@ Release the left hand and move the right fist out to the right, performing chibu
 
 [^futsu-no-mitama]: `ふつのみたま` almost certainly refers to *Futsu-no-mitama* (布都御魂), the divine sword associated with Takemikazuchi and Isonokami Jingū. Here the name is explicitly linked with `フッツリ切る`, cutting clean through.
 [^musashi-no-kami]: This most likely refers to Kamiizumi Nobutsuna (the founder of Shinkage-ryū), who was also known as Kamiizumi Musashi-no-kami Hidetsuna (上泉武蔵守秀綱); see the [preface to the Shinkage-ryū hyōhō list of transmissions](../../tsuki-no-sho/shinkage-ryu-mokuroku-preface.md), which names him as such.
-[^1]: A [modern-Japanese rendering of a parallel densho](https://ncode.syosetu.com/n1032ht/13/) conjectures that *Sekkō* denotes a kind of tai-atari in Shinkage-ryū, and that *Manji* refers to being able to draw and cut freely in any direction. Accordingly, `二刀至極` is taken separately as “the ultimate teaching of the two-sword method”; the precise content of all three teachings remains uncertain.
+[^1]: A [modern-Japanese rendering of a parallel densho](https://ncode.syosetu.com/n1032ht/13/) conjectures that *Sekkō* denotes a kind of tai-atari in Shinkage-ryū, and that *Manji* refers to being able to draw and cut freely in any direction. Accordingly, `二刀至極` is taken separately as "the ultimate two-sword teaching"; the precise content of all three teachings remains uncertain.
 [^2]: The repeated `引` appears to be a dittography.
 [^3]: The densho has "left"; Ōta and Nakayama describe an attack from the right.
-[^4]: `ふんぬんて` represents `踏ん伸んで`, read *fun’nunde* (ふんぬんで); the dakuten on `て` is unmarked in this witness. The repeated `請` in `請請流し` appears to be a dittography.
+[^4]: `ふんぬんて` represents `踏ん伸んで`, read *funnunde* (ふんぬんで); the dakuten on `て` is unmarked in this witness. The repeated `請` in `請請流し` appears to be a dittography.
