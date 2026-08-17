@@ -284,6 +284,8 @@ Alternative: From sitting in seiza facing the shōmen through chiburi and sheath
 
 ## 抜刀（抜打） Battō (Nukiuchi)
 
+(The original name given in the densho is *Nukiuchi*)
+
 **Densho instruction**
 
 > 坐して居る處を向より切って懸るを其儘ふんぬんて[^nukiuchi-funnunde]請流し打込み開いて納る尤請請流しにあらす此處筆に不及
