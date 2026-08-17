@@ -149,9 +149,9 @@ Place the left hand at the waist and move the right fist out to the right so tha
 
 **Densho instruction**
 
-> 左の肩より切って掛るを踏み出し抜付左足をふみ込み抜請に請流し右足を左の方へ踏込み打込む也扨刀をすねへ取り逆手に取直し納る膝を突
+> 左の肩より切って掛るを踏み出し抜付左足をふみ込み抜請に請流し右足を左の方へ踏込み打込む也扨刀をすね[^ryutou-sune]へ取り逆手に取直し納る膝を突
 
-As the enemy cuts from the direction of the left shoulder, step out and begin the draw. Step in with the left foot, receive the cut with the drawing sword, and let it flow past. Step the right foot towards the left and perform uchikomi. Then take the sword to shin level, change to a reverse grip, and sheathe while lowering the knee.
+As the enemy cuts from the direction of the left shoulder, step out and begin the draw. Step in with the left foot, receive the cut with the drawing sword, and let it flow past. Step the right foot towards the left and perform uchikomi. Then bring the sword to the knee, change to a reverse grip, and sheathe while placing the knee on the ground.
 
 **Explanation**
 
@@ -309,6 +309,7 @@ Release the left hand and move the right fist out to the right, performing chibu
 [^futsu-no-mitama]: `ふつのみたま` refers to *Futsu-no-mitama* (布都御魂), an ancient sword-divinity name closely associated with Futsunushi (経津主神), the deity of Katori Jingū, and also with Takemikazuchi in the *Kojiki* tradition. Here the name is explicitly linked with `フッツリ切る`, cutting clean through.
 [^musashi-no-kami]: This most likely refers to Kamiizumi Nobutsuna (the founder of Shinkage-ryū), who was also known as Kamiizumi Musashi-no-kami Hidetsuna (上泉武蔵守秀綱); see the [preface to the Shinkage-ryū hyōhō list of transmissions](../../tsuki-no-sho/shinkage-ryu-mokuroku-preface.md), which names him as such.
 [^manji-sekko-nito]: A [modern-Japanese rendering of a parallel densho](https://ncode.syosetu.com/n1032ht/13/) conjectures that *Sekkō* denotes a kind of tai-atari in Shinkage-ryū, and that *Manji* refers to being able to draw and cut freely in any direction. Accordingly, `二刀至極` is taken separately as "ultimate two-sword teaching"; the precise content of all three teachings remains uncertain.
+[^ryutou-sune]: In this older usage, `すね` refers to the knee rather than the shin; the action continues with `膝を突`, placing the knee on the ground.
 [^juntou-hiki]: The repeated `引` appears to be a dittography; Soda's witness has a single `引く`.
 [^seichutou-direction]: Hosokawa's densho as transcribed by Kimura has "left"; Mitsuhira quotes Soda's copy as having "right". The latter would appear to be correct.
 [^nukiuchi-funnunde]: `ふんぬんて` represents `踏ん伸んで`, read *funnunde* (ふんぬんで); the dakuten on `て` is unmarked in this witness. The repeated `請` in `請請流し` appears to be a dittography, and does not appear in Soda's copy.
