@@ -183,7 +183,7 @@ Sheathing: Release the right hand and regrasp the tsuka from above, as though co
 
 > 右足を立左足を引引[^juntou-hiki]と一處に立抜打也但は八相に切る跡は前に同し
 
-Raise the right foot and, as the left foot is drawn back, rise and perform nukiuchi. Alternatively, cut in hassō. Thereafter, proceed as before.
+Raise the right foot and, as the left foot is drawn back, rise and perform nukiuchi. Alternatively, cut from hassō. Thereafter, proceed as before.
 
 **Explanation**
 
