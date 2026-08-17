@@ -306,7 +306,7 @@ Release the left hand and move the right fist out to the right, performing chibu
 
 [^futsu-no-mitama]: `ふつのみたま` refers to *Futsu-no-mitama* (布都御魂), an ancient sword-divinity name closely associated with Futsunushi (経津主神), the deity of Katori Jingū, and also with Takemikazuchi in the *Kojiki* tradition. Here the name is explicitly linked with `フッツリ切る`, cutting clean through.
 [^musashi-no-kami]: This most likely refers to Kamiizumi Nobutsuna (the founder of Shinkage-ryū), who was also known as Kamiizumi Musashi-no-kami Hidetsuna (上泉武蔵守秀綱); see the [preface to the Shinkage-ryū hyōhō list of transmissions](../../tsuki-no-sho/shinkage-ryu-mokuroku-preface.md), which names him as such.
-[^manji-sekko-nito]: A [modern-Japanese rendering of a parallel densho](https://ncode.syosetu.com/n1032ht/13/) conjectures that *Sekkō* denotes a kind of tai-atari in Shinkage-ryū, and that *Manji* refers to being able to draw and cut freely in any direction. Accordingly, `二刀至極` is taken separately as "the ultimate two-sword teaching"; the precise content of all three teachings remains uncertain.
-[^juntou-hiki]: The repeated `引` appears to be a dittography.
-[^seichutou-direction]: The densho has "left"; Ōta and Nakayama describe an attack from the right.
-[^nukiuchi-funnunde]: `ふんぬんて` represents `踏ん伸んで`, read *funnunde* (ふんぬんで); the dakuten on `て` is unmarked in this witness. The repeated `請` in `請請流し` appears to be a dittography.
+[^manji-sekko-nito]: A [modern-Japanese rendering of a parallel densho](https://ncode.syosetu.com/n1032ht/13/) conjectures that *Sekkō* denotes a kind of tai-atari in Shinkage-ryū, and that *Manji* refers to being able to draw and cut freely in any direction. Accordingly, `二刀至極` is taken separately as "ultimate two-sword teaching"; the precise content of all three teachings remains uncertain.
+[^juntou-hiki]: The repeated `引` appears to be a dittography; Soda's witness has a single `引く`.
+[^seichutou-direction]: Hosokawa's densho as transcribed by Kimura has "left"; Mitsuhira quotes Soda's copy as having "right". The latter would appear to be correct.
+[^nukiuchi-funnunde]: `ふんぬんて` represents `踏ん伸んで`, read *funnunde* (ふんぬんで); the dakuten on `て` is unmarked in this witness. The repeated `請` in `請請流し` appears to be a dittography, and does not appear in Soda's copy.
