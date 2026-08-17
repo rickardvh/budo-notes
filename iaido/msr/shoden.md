@@ -278,7 +278,7 @@ Action: Stand upright facing the shōmen. Put the left foot approximately one fu
 
 > 替手　正面に向ひ正坐より血振りをなし刀を納むる迄の動作は全く同一である。次に柄を上より握りたる儘、左足を約一歩後方にひくと同時に刀を成る可く低く抜き、刀刃を上にする如く右足の側方に致し刀尖を僅かに外方に出づる如く刀を下ぐ。以下全く陰陽進退に同じ。
 
-Alternative: From sitting in seiza facing the shōmen through chiburi and sheathing, the action is identical. Then, retaining the grip upon the tsuka from above, draw the left foot approximately one pace to the rear while drawing the sword as low as possible. Place it beside the right foot with the edge upwards and lower it so that the kissaki projects slightly outwards. Thereafter, proceed exactly as in In'yō-shintai.
+Alternative: From sitting in seiza facing the shōmen through chiburi and sheathing, the action is identical. Then, retaining the grip upon the tsuka from above, draw the left foot approximately one pace to the rear while drawing the sword as low as possible. Bring the sword to the side of the right leg with the edge upwards and lower it so that the kissaki projects slightly outwards. Thereafter, proceed exactly as in In'yō-shintai.
 
 [**Top**](#shoden-ōmori-ryū)
 
