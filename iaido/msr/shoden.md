@@ -140,8 +140,8 @@ Meaning: When seated facing one another, suddenly cut as in Shohattō. When the 
 > 動作　正面に向ひ正坐す。初發刀と同要領にて抜刀し刀を頭上に振り被りながら左足を右足に引きつけ、更に之れを一歩前方に踏み著けると同時に正面に向ひ斬り下す。  
 > 次に左手を放ち腰に當てつゝ右拳を右に開き刀刃を斜右下に向はしむ。此間右膝を屈げて地につく。この姿勢にて刀を納めながら左膝を屈げたる儘徐かに後ろに引き左踵が臀部に接する頃、急に約一歩後方へ引き中腰の儘にて再び抜刀し敵の腰を斬り（刀勢は初發刀に同じ）次に刀を頭上に振り被る間に左腰を屈げて僅かに進めつゝ膝を地につけ、右足を前に出して刀を正面に斬り下す。以下初發刀に同じ。
 
-Action: Sit in seiza facing the shōmen. Draw as in Shohattō. While raising the sword overhead, draw the left foot to the right, then step it one pace forwards and cut down to the front.  
-Place the left hand at the waist and move the right fist out to the right so that the edge faces diagonally downwards to the right; during this movement, lower the right knee to the ground. While sheathing in this posture, keep the left knee bent and slowly draw it back. When the left heel nears the buttock, withdraw it suddenly approximately one pace and, remaining half-raised, draw again and cut the enemy's waist, with the same sword action as Shohattō. As the sword is raised overhead, bend at the left hip, advance slightly, and place the knee on the ground; put the right foot forwards and cut straight down. Thereafter, proceed as in Shohattō.
+Action: Sit in seiza facing the shōmen. Draw as in Shohattō. While raising the sword overhead, pull the left foot up to the right foot, then step it one pace forwards and cut down to the front.  
+Place the left hand at the waist and move the right fist out to the right so that the edge faces diagonally downwards to the right; during this movement, lower the right knee to the ground. While sheathing in this posture, keep the left knee bent and slowly draw it back. When the left heel nears the buttock, withdraw it suddenly approximately one pace and, remaining half-raised, draw again and cut the enemy's waist (with the same swordwork as in Shohattō). As the sword is raised overhead, sink the left hip, advance slightly, and place the knee on the ground; put the right foot forwards and cut straight down. Thereafter, proceed as in Shohattō.
 
 [**Top**](#shoden-ōmori-ryū)
 
@@ -312,4 +312,4 @@ Release the left hand and move the right fist out to the right, performing chibu
 [^ryutou-sune]: In this older usage, `すね` refers to the knee rather than the shin; the action continues with `膝を突`, placing the knee on the ground.
 [^juntou-hiki]: The repeated `引` appears to be a dittography; Soda's witness has a single `引く`.
 [^seichutou-direction]: Hosokawa's densho as transcribed by Kimura has "left"; Mitsuhira quotes Soda's copy as having "right". The latter would appear to be correct.
-[^nukiuchi-funnunde]: `ふんぬんて` represents `踏ん伸んで`, read *funnunde* (ふんぬんで); the dakuten on `て` is unmarked in this witness. The repeated `請` in `請請流し` appears to be a dittography, and does not appear in Soda's copy.
+[^nukiuchi-funnunde]: `ふんぬんて` represents `踏ん伸んで`, read *funnunde* (ふんぬんで), and is given as such in the Soda witness. The repeated `請` in `請請流し` appears to be a dittography, and does not appear in Soda's copy.
