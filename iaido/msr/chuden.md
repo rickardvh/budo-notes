@@ -84,7 +84,7 @@ Meaning: An enemy cuts at your right arm from the front. Draw to receive the cut
 
 > 動作　正面に向ひ箕坐す、刀柄を上から握り、半ば刀を抜きつゝ左足を後方に踏み開き、刀を右足の側方に刀刃を前方にして敵の斬りつける刀を拂ひ受け、刀を頭上に振り被りつゝ左足を右足に引きつけ、右足を僅かに前方に踏みつけて正面を斬り直ちに血振りをする。以下前に同じ。
 
-Action: Sit in kiza facing the shōmen. Grip the tsuka from above and, while half-drawing, open the left foot to the rear. Set the sword beside the right foot with the edge facing forwards and sweep aside and receive the enemy's cut. As you perform furikaburi, draw the left foot in to the right; step the right foot slightly forwards, cut straight ahead, and immediately perform chiburi. Thereafter, proceed as in the preceding form.
+Action: Sit in kiza facing the shōmen. Grip the tsuka from above and, while half-drawing, open the left foot to the rear. Bring the sword beside the right leg with the edge facing forwards and sweep aside and receive the enemy's cut. As you perform furikaburi, draw the left foot in to the right; step the right foot slightly forwards, cut straight ahead, and immediately perform chiburi. Thereafter, proceed as in the preceding form.
 
 [**Top**](#chūden-hasegawa-eishin-ryū)
 
