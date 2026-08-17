@@ -11,7 +11,7 @@
   - [Tachiuchi no kurai](#tachiuchi-no-kurai)
   - [Tsumeai no kurai](#tsumeai-no-kurai)
 
-## Shoden: Ōmori-ryū
+## [Shoden: Ōmori-ryū](shoden.md)
 
 初伝　大森流
 
