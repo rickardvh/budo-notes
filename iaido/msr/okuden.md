@@ -112,7 +112,7 @@ I once heard that *sune* ("shin") was used in the Tosa dialect about the knee as
 
 Meaning: "cuts in four directions"  
 Traditional name: 四角 *Yosumi* ("square"/"four corners")  
-Other names: 四角 *Shikaku*, *Shisumi* ("four corners")
+Other names: 四角 *Shikaku*, *Yosumi* ("four corners")
 
 The name Shihōgiri appears in one of the old mokuroku directly following the core Eishin-ryū forms. It is unclear to me what exactly it refers to there, but it appears to be a small set of four kata: 向 (opposite), 右 (right), 左 (left), and 後 (behind).
 
