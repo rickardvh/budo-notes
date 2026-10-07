@@ -293,7 +293,7 @@
 10. 揚巻 Agemaki
 11. 角違 Sumichigai
 12. 真二重菱 Shin no futaebishi
-13. 真翅附 Shin ni hazuke
+13. 真翅附 Shin no hazuke
 14. 真蜻蛉 Shin no kagerō
 15. 真亀甲 Shin no kikkō
 16. 胸割一重菱 Munewari hitoebishi
