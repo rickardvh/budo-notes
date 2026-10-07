@@ -275,7 +275,7 @@
 1. 一文字 Ichimonji
 2. 菱 Hishi
 3. 十文字 Jūmonji
-4. 翅附 Hanetsuke
+4. 翅附 Hazuke
 
 ### Honnawa
 
@@ -283,22 +283,22 @@
 
 1. 菱 Hishi
 2. 十文字 Jūmonji
-3. 一重菱 Hitoe hishi
-4. 二重菱 Futae hishi
-5. 真翅附 Shin hanetsuke
-6. 馬上翅附 Bajō hanetsuke
+3. 一重菱 Hitoebishi
+4. 二重菱 Futaebishi
+5. 真翅附 Shin no hazuke
+6. 馬上翅附 Bajō hazuke
 7. 亀甲 Kikkō
 8. 矢筈 Yahazu
-9. 蜻蛉 Tonbo
+9. 蜻蛉 Kagerō
 10. 揚巻 Agemaki
-11. 角違 Kadochigae
-12. 真二重菱 Shin futae hishi
-13. 真翅附 Shin hanetsuke
-14. 真蜻蛉 Shin tonbo
-15. 真亀甲 Shin kikkō
-16. 胸割一重菱 Munewari hitoe hishi
-17. 八方搦 Happō karame
-18. 櫓菱 Yagura hishi
-19. 切縄 Kiri nawa
+11. 角違 Sumichigai
+12. 真二重菱 Shin no futaebishi
+13. 真翅附 Shin ni hazuke
+14. 真蜻蛉 Shin no kagerō
+15. 真亀甲 Shin no kikkō
+16. 胸割一重菱 Munewari hitoebishi
+17. 八方搦 Happōgarami
+18. 櫓菱 Yagurabishi
+19. 切縄 Kirinawa
 
 [^1]: This is not a typo.
