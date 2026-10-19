@@ -26,7 +26,7 @@ Nakayama Hakudō lamented towards the end of his life that kendō kata had not b
 
 [^1]: The explanations of the forms were revised and expanded in 1917, and again in 1933. Finally, in 1981, the manual was rewritten using modern language to make it more accessible.
 
-[^2]: My favourite example is A-un (阿吽), the last kata in the Okuden (inner transmission) series of Shintō Musō-ryū jōjutsu: to an observer, it consists only of a strike to between the eyes by stepping around the sword, right after slowly crossing weapons. After learning nearly sixty kata, the last one before the secret forms is just one very basic strike, and uchidachi does nothing. In fact, the kata teaches how to time one's attack between the enemy's breaths, finding that opening when their reaction time is maximally long. It could be any technique; any weapon or none — the principle is universal.
+[^2]: My favourite example is A-un (阿吽), one of the last kata in the Okuden (inner transmission) series of Shintō Musō-ryū jōjutsu: to an observer, it consists only of a strike to between the eyes by stepping around the sword, right after slowly crossing weapons. After learning nearly sixty kata, the last one before the secret forms is just one very basic strike, and uchidachi does nothing. In fact, the kata teaches how to time one's attack between the enemy's breaths, finding that opening when their reaction time is maximally long. It could be any technique; any weapon or none — the principle is universal.
 
 [^3]: See the [top page](README.md).
 
