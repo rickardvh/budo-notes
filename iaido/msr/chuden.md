@@ -222,7 +222,7 @@ clears the weir and never falls back.
 
 > 右に向き居って左り廻りに向へ抜付左の足を引冠り打込み開き納る也
 
-While seated facing right, turn to the left and perform nukitsuke. Draw back the left foot, perform furikaburi and uchikomi, then perform hiraki and sheathe the sword.
+While seated facing right, turn to the left and perform nukitsuke. Draw in the left foot, perform furikaburi and uchikomi, then perform hiraki and sheathe the sword.
 
 **Explanation**
 
