@@ -30,7 +30,7 @@ And so, just as in the revelation, he gained great benefit: with a sword of thre
 
 > 柄口六寸勝之妙不思義之極意一國一人之相傳也
 
-The marvel of victory by six sun of the hilt-opening is an ultimate secret beyond comprehension to be transmitted only to a single person in a single land.
+The marvel of victory by six sun of the hilt-opening is an ultimate secret beyond comprehension, to be transmitted only to a single person in a single land.
 
 > 腰刀三尺三寸三毒則三部尓但脇差九寸五分九曜五古之内證也
 
@@ -146,7 +146,7 @@ It is interesting to note here that Jinsuke is written here as 神助 rather tha
 
 This quote from the dream ends with 云々, indicating that there was more to the message than this short sentence. As this seems fairly obvious, and it felt somewhat improper to end a quote from a deity with "and so on" in English, I left it out. In any event, this sentence was the final message in the dream, said after the old man had instructed Shigenobu in swordsmanship.
 
-Regarding the phrase 得勝怨敵, literally "gain victory over your hated enemy", there are two possible, though not mutually exclusive, interpretations. The literal interpretation is that the revelation allowed Shigenobu to avenge his murdered father, and given that preparation for this quest was what led him to seclude himself in prayer and training in the first place, this seems more than plausible. Trenson (2014)[^1] offers a more figurative interpretation, which fits well into the esoteric theme of the scroll: 怨敵 (*onteki*) was sometimes used in esoteric Buddhist contexts to refer to the obstacles ("enemies") to enlightenment; the worldly desires or evil passions called *klesha* (煩悩 *bonnō*) or the obstructive demon Māra (魔羅) who tried to stop Siddhartha Gautama from awakening and becoming the Buddha. In Shingon and Tendai Buddhism, in particular, 怨敵 frequently refers to inner obstacles that need to be subdued.
+Regarding the phrase 得勝怨敵, literally "gain victory over your hated enemy", there are two possible, though not mutually exclusive, interpretations. The literal interpretation is that the revelation allowed Shigenobu to avenge his murdered father, and given that preparation for this quest was what led him to seclude himself in prayer and training in the first place, this seems more than plausible. Trenson (2014)[^1] offers a more figurative interpretation, which fits well into the esoteric theme of the scroll: 怨敵 (*onteki*) was sometimes used in esoteric Buddhist contexts to refer to the obstacles ("enemies") to enlightenment: the worldly desires or evil passions called *klesha* (煩悩 *bonnō*) or the obstructive demon Māra (魔羅) who tried to stop Siddhartha Gautama from awakening and becoming the Buddha. In Shingon and Tendai Buddhism, in particular, 怨敵 frequently refers to inner obstacles that need to be subdued.
 
 > 則如㚑夢有得大利\[1\]以腰刀三尺三寸\[2\]勝九寸五分\[3\]事
 >
@@ -156,7 +156,7 @@ Regarding the phrase 得勝怨敵, literally "gain victory over your hated enemy
 
 Shigenobu is stated here to have gained "great benefit" or "great advantage" (大利), and note 1 in the Tetsugi no maki explains that this means Shigenobu awakened (悟り *satori*; Buddhist enlightenment) to the "One Mind" (一心 *isshin*): a state of unity with the gods, Buddhas, and the universe.
 
-The rest of this passage is rather straightforward: a "waist sword" three shaku and three sun (~1 m) long defeating \[a sword measuring\] nine sun and five bu (~28 cm). To an uninitiated reader, this may sound obvious; recall, however, that iai is applied at extremely close range, where the shorter sword would normally have an overwhelming advantage — even more so considering that both swords are sheathed at the onset. In the first place, wearing such a long sword at the waist like an uchigatana would have been highly unorthodox, as it would have been very difficult to draw. Note 2 in the Tetsugi no maki adds that a person of average height (a crossed-out part specifies a height of 5 shaku 2-3 sun; ~160 cm) should be able to draw a sword of 3 shaku 3 sun, with the implication that this is the maximum length that can be drawn from the waist by a person of that height.
+The rest of this passage is rather straightforward: a "waist sword" three shaku and three sun (~1 m) long defeating \[a sword measuring\] nine sun and five bu (~28 cm). To an uninitiated reader, this may sound obvious; recall, however, that iai is applied at extremely close range, where the shorter sword would normally have an overwhelming advantage — even more so considering that both swords are sheathed at the onset. In the first place, wearing such a long sword at the waist like an uchigatana would have been highly unorthodox, as it would have been very difficult to draw. Note 2 in the Tetsugi no maki adds that a person of average height (a crossed-out part specifies a height of 5 shaku 2–3 sun, or roughly 160 cm) should be able to draw a sword of 3 shaku 3 sun, with the implication that this is the maximum length that can be drawn from the waist by a person of that height.
 
 Note 3 says that the short sword of 9 sun 5 bu can only be drawn at the range of 9 sun 5 bu. The wording seems to refer to the effective range (間合 *ma-ai*) of the short sword rather than the exact distance. Rephrasing, then, the short sword can only be drawn at its own effective range.
 
