@@ -1,5 +1,24 @@
 # The origins of iai　居合根元之巻
 
+This article presents a transcription and translation of *Iai kongen no maki* (居合根元之巻), a transmission scroll of the Hayashizaki–Eishin-ryū tradition. The copy transcribed here names Shimomura Moichi (下村茂市) as transmitter and Shimamura Zenma (嶋村善馬) as recipient in its colophon. Each passage of Japanese text is followed by an English translation. The next section introduces numbered interlinear glosses from the 1706 *Tetsugi no maki* (手次之巻), transmitted by Sakai Shichiemon to Sakai Jūbei Nagateru. Subsequent commentary draws on those glosses, other transmission texts and later scholarship, with sources cited where they are used.
+
+## Contents
+
+- [Transcription and translation](#transcription-and-translation)
+- [Tetsugi no maki](#tetsugi-no-maki)
+- [Commentary and translation notes](#commentary-and-translation-notes)
+  - [Origins and revelation](#origins-and-revelation)
+  - [Sword lengths and tsukaguchi rokusun](#sword-lengths-and-tsukaguchi-rokusun)
+  - [Buddhist and cosmological symbolism](#buddhist-and-cosmological-symbolism)
+  - [Karma, death and transmission](#karma-death-and-transmission)
+  - [Advancement, discipline and tenshinshō](#advancement-discipline-and-tenshinshō)
+  - [Lineage and colophon](#lineage-and-colophon)
+- [About Hayashizaki Jinsuke Shigenobu](#about-hayashizaki-jinsuke-shigenobu)
+- [Interpretation of the moral symbolism](#interpretation-of-the-moral-symbolism)
+- [On the nature of tsukaguchi rokusun](#on-the-nature-of-tsukaguchi-rokusun)
+
+## Transcription and translation
+
 > 抑此居合ト申者日本奥州林之従大明神夢想に〆奉傳之
 
 To begin with, this which is called iai has been reverently transmitted as revealed in a divine dream from the Great Deity of Hayashi in the Ōshū region of Japan.
@@ -112,6 +131,8 @@ To Shimamura Zenma-dono
 
 Shimomura Moichi \[seal\]
 
+<a id="tetsugi-no-maki"></a>
+
 ## Tetsugi no maki　手次之巻
 
 The *Tetsugi no maki* (手次之巻)[^1] is a version of the scroll written by Sakai Shichiemon of Hayashizaki Tamiya-ryū in 1706 and conferred as a menkyo kaiden to Sakai Jūbei Nagateru. The scroll contains added commentary, most likely by Nagateru, in the spaces between the lines. I have numbered these notes and will be referring to them below at the place where they appear in the scroll. In a few places, a character is illegible or could not be transcribed, and has been replaced with the glyph ☐.
@@ -119,6 +140,8 @@ The *Tetsugi no maki* (手次之巻)[^1] is a version of the scroll written by S
 ## Commentary and translation notes
 
 The name 居合根元之巻 (*iai kongen no maki*) means "the scroll of the origins of iai". It is more commonly known as simply *kongen no maki* (the scroll of the origin), and is the oldest scroll of transmission in all descendant schools, where it is copied and given as a menkyo kaiden (免許皆伝, licence of total transmission) to certify full mastery of the school's teachings.
+
+### Origins and revelation
 
 > 抑此居合ト申者日本奥州林之従大明神夢想に〆奉傳之
 
@@ -148,6 +171,8 @@ This quote from the dream ends with 云々, indicating that there was more to th
 
 Regarding the phrase 得勝怨敵, literally "gain victory over your hated enemy", there are two possible, though not mutually exclusive, interpretations. The literal interpretation is that the revelation allowed Shigenobu to avenge his murdered father, and given that preparation for this quest was what led him to seclude himself in prayer and training in the first place, this seems more than plausible. Trenson (2014)[^1] offers a more figurative interpretation, which fits well into the esoteric theme of the scroll: 怨敵 (*onteki*) was sometimes used in esoteric Buddhist contexts to refer to the obstacles ("enemies") to enlightenment: the worldly desires or evil passions called *klesha* (煩悩 *bonnō*) or the obstructive demon Māra (魔羅) who tried to stop Siddhartha Gautama from awakening and becoming the Buddha. In Shingon and Tendai Buddhism, in particular, 怨敵 frequently refers to inner obstacles that need to be subdued.
 
+### Sword lengths and tsukaguchi rokusun
+
 > 則如㚑夢有得大利\[1\]以腰刀三尺三寸\[2\]勝九寸五分\[3\]事
 >
 >> 1. 一心悟リナリ、言重信サトリタナリ
@@ -168,6 +193,8 @@ Note 3 says that the short sword of 9 sun 5 bu can only be drawn at the range of
 This term 柄口六寸 (*tsukaguchi rokusun*) literally means "hilt-opening six sun" (~18 cm), but I will henceforth refer to it by its Japanese name. It is clearly *the* ultimate secret of the school, but the word itself is rather mysterious. Unfortunately, the true meaning of tsukaguchi rokusun appears to have been mostly forgotten within the Tosa line, so unless it has been preserved in Shin-Musō Hayashizaki-ryū, we can only speculate based on scattered references in other extant scrolls (more on this later). The Tetsugi no maki adds in note 4 that the phrase refers to a point six sun away from the "receiving point" or "point of engagement" (ウケ處 *ukedokoro*; the target of the attack?) before the hand has started to move forwards.
 
 "One person in one land/province" (一國一人) is clarified in note 5 as referring to Shigenobu himself, meaning he was the only recipient of the revelation in all of Japan.
+
+### Buddhist and cosmological symbolism
 
 > 腰刀三尺三寸三毒\[6\]則三部\[7\]尓但脇差九寸五分九曜\[8\]五古\[9\]之内證也
 >
@@ -214,6 +241,8 @@ The five-pronged vajra is a ritual tool or weapon, representing the indestructib
 
 The final clause states that these symbolic meanings are internal teachings (内證) — secret esoteric interpretations that were taught only to license holders of a certain level.
 
+### Karma, death and transmission
+
 > 敵味方成㕝是亦前生之業感也\[10\]生死一體\[11\]戰場浄土\[12\]也
 >
 >> 10. 無ヨリ出テ無ニカヱテ生死大々一タイナリコヽヲサトリ
@@ -247,6 +276,8 @@ On "divine punishment", note 16 says that if the person commits acts of evil, th
 
 "Only one person" is explained in note 17 to be a person who fully possesses the qualities described in the previous passages.
 
+### Advancement, discipline and tenshinshō
+
 > 古語曰  
 > 其進疾者其退速云々  
 > 此意以貴賎尊卑無隔不謂前後輩達其所作者許目録印可等無相違
@@ -277,6 +308,8 @@ The word *tenshinshō* (天眞正) cannot be straightforwardly translated. If no
 
 ---
 
+### Lineage and colophon
+
 > 林崎神助重信  
 > 田宮平兵衛尉業正  
 > 長野無樂入道樵露齋  
@@ -303,6 +336,8 @@ This closing statement or colophon (奥書) verifies this document as a menkyo k
 > 十二月吉日
 
 The twelfth month of the third year of the Keiō era lasted from the end of December 1867 until three weeks into January 1868 in the Gregorian calendar. This places this document right around the Meiji restoration, which was proclaimed on the 3rd of January 1868.
+
+**Colophon date.** The wording 慶應三丙寅 combines two inconsistent year designations: Keiō 3 (1867) is 丁卯 (*hinoto-u*), whereas 丙寅 (*hinoe-tora*) corresponds to Keiō 2 (1866). The text is retained here as transcribed, without assuming which part is mistaken. See the [National Diet Library's historical calendar table](https://www.ndl.go.jp/koyomi/chapter2/s1.html).
 
 > 嶋村善馬殿
 
