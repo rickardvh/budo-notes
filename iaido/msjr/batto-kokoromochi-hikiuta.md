@@ -40,7 +40,7 @@ It is essential to keep the body upright when drawing.
 The position of iai:
 
 - **Face:** pale cherry blossom.
-- **Bearing of the body:** *Hachinoki*. Oral transmission.
+- **Bearing of the body:** *Hachinoki* (*The Potted Trees*). Oral transmission.[^hachinoki]
 - **Mind:** the waterbird.
 
 ## The mind of the waterbird
@@ -565,6 +565,8 @@ To 島村右馬丞 Shimamura Umanojō.
 
 ## Textual notes
 
+[^hachinoki]: In the Noh play 鉢木, Sano Tsuneyo, a warrior who has lost his lands, shelters a travelling monk on a snowy night. The monk urges him to spare his treasured potted plum, cherry and pine, but Tsuneyo burns them to warm his guest. Later, when Tsuneyo answers a summons to Kamakura in his worn armour, he recognises his guest as the retired regent Hōjō Tokiyori. Mitsuhira reads the allusion as meeting even an opponent with おもてなしの心, “the heart of a host”. He later suggests that 身之掛 evokes the way a Noh actor stands and the care host and guest show each other. [Text of the play][hachinoki-play] · [Mitsuhira, 2016][hachinoki-2016] · [Mitsuhira, 2019][hachinoki-2019]
+
 [^waterbird]: K prints 海の急とて on the opening page. S supplies 魚, restoring the fish that answers the waterbird in the first half of the poem. 汐はゆくなし can be read as the negative of the adjective しほはゆし, “salty”. [S, §2][s-2] · [*Nihon kokugo daijiten*, 鹹映ゆい][salty]
 
 [^kanemori]: Taira no Kanemori’s poem appears in the *Shūi wakashū* (no. 622) and the *Ogura hyakunin isshu* (no. 40). K’s opening page prints 忍れと, normalised here as 忍ぶれど. S opens 思ふれと. [*Ogura hyakunin isshu*][hyakunin] · [S, §3][s-3]
@@ -625,6 +627,9 @@ To 島村右馬丞 Shimamura Umanojō.
 
 [^calendar]: The twelfth lunar month of Tenpō 2 began on 3 January 1832 and ended on 1 February 1832 in the Gregorian calendar. 吉日 gives only “an auspicious day”. [National Astronomical Observatory of Japan, first day][calendar-first] · [Last day][calendar-last]
 
+[hachinoki-play]: https://www.the-noh.com/download/download.cgi?name=100.pdf
+[hachinoki-2016]: http://mat-sekiunn.cocolog-nifty.com/blog/2016/10/post-69c9.html
+[hachinoki-2019]: http://mat-sekiunn.cocolog-nifty.com/blog/2019/12/post-6ea308.html
 [s-2]: http://mat-sekiunn.cocolog-nifty.com/blog/2016/10/post-4d01.html
 [s-3]: http://mat-sekiunn.cocolog-nifty.com/blog/2016/10/post-329f.html
 [s-5]: http://mat-sekiunn.cocolog-nifty.com/blog/2016/10/post-7ec5.html
