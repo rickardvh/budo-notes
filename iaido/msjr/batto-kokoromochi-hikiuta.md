@@ -3,19 +3,21 @@
 抜刀心持引歌
 
 > [!NOTE]
-> This is a working translation and textual collation. The base witness is the four-page printed transcription supplied for this draft (here **K**), whose colophon records a copy made in Bunsei 10 (1827) and transmitted to Shimamura Umanojō in Tenpō 2 (1831). It is compared throughout with the Sōda witness transcribed in the Mitsuhira corpus (here **S**) and with parallel material in that corpus. The Japanese below is a normalised reading of K rather than a diplomatic transcription.
+> **K** is the four-page printed transcription used as the base for this translation. Its colophon records a copy made in early summer of Bunsei 10 (1827) and a transfer to Shimamura Umanojō in the twelfth month of Tenpō 2 (3 January–1 February 1832).[^calendar] The Japanese is normalised. Brackets 〔 〕 mark editorial additions or describe a printed sign. Empty brackets reproduce a blank in K.
 
-K is used as the base because it is directly inspectable and substantially more complete. Readings from S are not silently inserted, even where they appear more intelligible; they are recorded in the notes instead. A working evidence-and-hypothesis package was stored in Bayesline during the collation; the table below summarises those assessments.
+**S** denotes the Sōda text as transcribed in Mitsuhira’s October 2016 series 曽田本その１・神傳流秘書原文・抜刀心持引歌. The passages headed 読み give Mitsuhira’s own reading. Citations to his later commentary are dated separately. For example, K has three poems on the moon in water, S has two at that point, and Mitsuhira prints all three in December 2019. [S, §3][s-3] · [December 2019 commentary][moon-2019]
 
-| Editorial decision | Working assessment |
-| --- | --- |
-| Use K as the base and report S as variants | High confidence |
-| 敵の掛, rather than S 敵の勝 | High confidence in the reading; moderate confidence in the English gloss |
-| Leave the subject of 我が心に移る implicit | Moderate confidence |
-| Retain 危道 *kidō*, rather than emend to 詭道 | High confidence in the reading; moderate confidence in its precise sense |
-| 心一つ versus 刀一つ | Unresolved substantive variant |
-| 草木 versus 楔 | Unresolved substantive variant |
-| Restore corrupt とのおれば as 唱ふれば | Very high confidence |
+The assessments below are the translator’s judgments. The Bayesline project *Battō Kokoromochi Hikiuta Translation* records references to the working notes. The citations identify the witnesses for each reading.
+
+| Editorial decision | Working assessment | Evidence |
+| --- | --- | --- |
+| Use K as the base | Its four pages preserve the verse sequence and both dated colophon entries. | K, opening page and pp. 121–123 |
+| Read 敵の掛 (S 敵の勝) | 掛 is clear in print. Its English gloss is provisional. | K, opening page · [S, §3][s-3] |
+| Leave the subject of 我が心に移る implicit | K leaves the subject unstated. | K, opening page · [S, §5][s-5] |
+| Retain 危道 *kidō* | The graph is clear. Its precise sense remains open. | K, p. 121 · [S, §8][s-8] · [Mitsuhira on Kimura’s text][kimura] |
+| Retain 心一つ (S 刀一つ) | Both readings make sense. The earlier reading is uncertain. | K, p. 122 · [S, §8][s-8] |
+| Retain 草木 (S 楔) | Both readings are attested. The earlier reading is uncertain. | K, p. 121 · [S, §5][s-5] |
+| Restore 唱ふれば for とのおれは | S and the invocation 南無阿弥陀仏 support the emendation. | K, p. 123 · [S, §13][s-13] |
 
 ## The position of iai
 
@@ -49,19 +51,19 @@ The position of iai:
 > 行く水鳥の　心知るべし
 >
 > 水鳥の　水に住めども　羽は濡れず  
-> 海の魚とて　汐はゆくなし
+> 海の〔魚〕とて　汐はゆくなし
 
-Concerning the foregoing mind, attend to the waterbird and investigate it thoroughly. An old poem says:
+Concerning the foregoing mind, attend to the waterbird and investigate it thoroughly. Two old poems follow.
 
 > Even without boarding a little boat  
 > hastening onwards under sail,  
 > understand the mind  
 > of the waterbird as it goes.
 >
-> Though the waterbird dwells in water,  
-> its feathers are not wetted;  
-> though a fish lives in the sea,  
-> the salt does not penetrate it.
+> Though the waterbird dwells in water,\
+> its feathers stay dry.\
+> Even a fish of the sea\
+> is not itself salty.[^waterbird]
 
 ## The mind of the white heron
 
@@ -73,24 +75,24 @@ Concerning the foregoing mind, attend to the waterbird and investigate it thorou
 > 数ならぬ　心に身をば　任せねど  
 > 身に従ふは　心なりけり
 
-In both iai and sword engagement there is the **mind of the white heron** (白鷺心 *shirasagi-gokoro*). Oral transmission. An old poem says:
+In both iai and sword engagement there is the **mind of the white heron** (白鷺心 *shirasagi-gokoro*). Oral transmission. Two old poems follow.
 
 > Though I would conceal it,  
 > my love has appeared in my expression,  
 > until people ask me,  
-> “Are you lost in thought?”
+> “Are you lost in thought?”[^kanemori]
 >
 > Though I do not entrust my body  
 > to a heart of no account,  
 > it is nevertheless the heart  
-> that follows the body.
+> that follows the body.[^murasaki]
 
 ## The great matter of the moon in water
 
 > 居合太刀打共、水月之大事。口傳。古歌に、
 >
 > 水や空　空や水とも　見え分かず  
-> 通ひて澄める　秋の夜の月
+> 通ひてすめる　秋の夜の月
 >
 > おしなべて　ものを思はぬ　人にさへ  
 > 心をつくる　秋の初風
@@ -100,21 +102,21 @@ In both iai and sword engagement there is the **mind of the white heron** (白�
 >
 > 右の心にて悟るべし。我は知らねども敵の掛を知らする也。其處、水月白鷺、習ひ有るべし。工夫すべし。
 
-In both iai and sword engagement there is the **great matter of the moon in water** (水月之大事 *suigetsu no daiji*). Oral transmission. An old poem says:
+In both iai and sword engagement there is the **great matter of the moon in water** (水月之大事 *suigetsu no daiji*). Oral transmission. Three old poems follow.
 
-> Water or sky,  
-> sky or water — one cannot tell them apart;  
-> the autumn-night moon passes freely through  
-> and dwells in both.
+> Water or sky,\
+> sky or water? One cannot tell.\
+> The autumn moon moves between them,\
+> shining clear, at home in both.[^moon]
 >
 > The first wind of autumn gives  
 > even one who ordinarily thinks of nothing  
-> a pensive heart.
+> a pensive heart.[^saigyo]
 >
-> Though the eye cannot see clearly  
-> that autumn has come,  
-> the sound of the wind  
-> startles me.
+> Though my eyes cannot yet tell\
+> that autumn has come,\
+> at the sound of the wind\
+> I suddenly know it.[^toshiyuki]
 
 Awaken through this mind. Although I do not know it beforehand, it makes the enemy’s **掛 *kake*** — his coming-on, engagement or initiative — known.[^kake] Therein are the teachings of the moon in water and the white heron. Practise and investigate them.
 
@@ -169,7 +171,7 @@ It is just like crossing the great ocean: if one tried to go overland, one would
 > in the fisherman’s little boat;  
 > there is no day when wind does not blow among the waves.
 
-Yet if, because one fully understands the winds among the waves, one will not even board the boat — a poem says:
+Once one fully understands the wind among the waves, even the boat is no longer needed.[^boat] A poem follows.
 
 > The fisherman’s little boat crosses  
 > the boundary between being and non-being;  
@@ -180,7 +182,7 @@ Investigate this mind thoroughly. Oral transmission.
 
 ## Winning without drawing
 
-> 居合抜き覚ると、早く抜かせず。故に詰合の位、能々執行有るべし。只太刀を抜けとばかり思ふべからず。抜かずして勝つの利有り。是、事〔業〕の位に教ゆべし。
+> 居合抜き覚ると、早人抜かせず。故に詰合の位、能々執行有るべし。只太刀を抜けとばかり思ふべからず。抜かずして勝つの利有り。是、事〔業〕の位に教ゆべし。
 >
 > 人の我を捕へて抜かせじとする時、必ず抜くまじ。我を捕ゆる人を此方より取り倒すべし。或は先に捕られぬ位有るべし。敵の仕掛により、直ぐに止まり勝つ事もあり、或は其の気を避けて勝つ事も有り。皆、敵の仕掛に寄るなり。工夫有るべし。歌に、
 >
@@ -190,12 +192,12 @@ Investigate this mind thoroughly. Oral transmission.
 > 仇にのみ　人を辛しと　何か思ふ  
 > 心よ我を　憂きものと知れ
 >
-> 右の心にて工夫有るべし。然れ共、剛力、或は色々と理屈を云ふ人あらば、皆我が敵と知れ。然れ共、夫々に心を取られ迷ふ事なかれ。歌に、
+> 右の心にて工夫有るべし。然れ共、剛刀、或は色々と理屈を云ふ人あらば、皆我が敵と知れ。然れ共、夫々に心を取られ迷ふ事なかれ。歌に、
 >
 > 無用なる　手詰の語を　すべからず  
 > 無理な人には　勝って利はなし
 
-Once you have learnt to draw in iai, do not be quick to draw. Therefore diligently practise the positions of 詰合 *tsumeai*. Do not think only, “Draw the sword.” There is a principle of **winning without drawing**. This should be taught at the level of the techniques.[^waza]
+Once you have learnt to draw in iai, you keep the other person from drawing.[^haya] Therefore diligently practise the positions of 詰合 *tsumeai*. Do not think only, “Draw the sword.” There is a principle of **winning without drawing**. This should be taught at the level of the techniques.[^waza]
 
 When someone seizes me and tries to prevent me from drawing, I must not insist upon drawing. Instead, I should take down the one who has seized me. Or there is a position in which I am not seized in the first place. Depending upon the enemy’s attack, there are occasions on which one stops at once and wins, and occasions on which one avoids his *ki* and wins. All depends upon the enemy’s manner of attacking. Investigate this. A poem says:
 
@@ -209,7 +211,7 @@ When someone seizes me and tries to prevent me from drawing, I must not insist u
 > O heart, know that I myself  
 > am the troublesome one.
 
-Investigate with this mind. If there are men of brute strength, or men who put forward all manner of arguments, know them all as adversaries. Yet do not let your mind be taken by each of them and fall into confusion. A poem says:
+Investigate with this mind. If someone bears a stout sword or puts forward all manner of arguments, recognise an adversary in either case.[^goto] Yet do not let your mind be taken by each of them and fall into confusion. A poem follows.
 
 > Do not engage  
 > in useless talk of *tezume*;  
@@ -225,7 +227,7 @@ Investigate with this mind. If there are men of brute strength, or men who put f
 > 長からむ　さゝげの花は　短くて  
 > 短き栗の　花の長さよ
 >
-> 右の心にて工夫有るべし。皆、陰合〆、陽に出る位有り。古人も心は〔之〕の内にありとのたまふなり。ものとしたる事に、勝負の位知る事なし。深く工夫有るべし。
+> 右の心にて工夫有るべし。皆、陰合〆、陽に出る位有り。古人も心は〔　〕の内にありとのたまふなり。ものとしたる事に、勝負の位知る事なし。深く工夫有るべし。
 >
 > 此の沈なる躰心より、よく敵の心見ゆるもの也。
 >
@@ -249,11 +251,11 @@ A poem says:
 > The flower of the long cowpea is short,  
 > while the flower of the short chestnut is long.
 
-Investigate with this mind. In all things there is a position of gathering and closing yin, then issuing into yang. The ancients too declared that the mind lies within this.[^kore] When a matter has become fixed as a “thing”, one cannot know the position of victory and defeat. Investigate deeply.
+Investigate with this mind. In all things there is a position of gathering and closing yin, then issuing into yang. The ancients too declared that the mind lies within [this].[^kore] When a matter has become fixed as a “thing”, one cannot know the position of victory and defeat. Investigate deeply.
 
 From this settled and lowered body-mind, the enemy’s mind becomes clearly visible.
 
-A text on strategy says, “Before the first signs have appeared, no one can know.”[^kanbun] A poem says:
+A text on strategy says, “Until the beginning and end are apparent, no one can know.”[^kanbun] A poem follows.
 
 > If, having attained awakening,  
 > the flower of the mind should open,  
@@ -305,7 +307,7 @@ In iai, the foremost matter is to win before drawing the sword. A poem says:
 > take delight in the sword  
 > of **心明剱 *Shinmeiken***, the Sword of the Luminous Mind.[^shinmeiken]
 
-## Drawing while passing
+## Drawing while travelling together (*Yukizure*)
 
 > 行連の太刀抜く事、古人大事に云へり。工夫有るべし。歌に、
 >
@@ -315,7 +317,7 @@ In iai, the foremost matter is to win before drawing the sword. A poem says:
 > 行違ふ　敵の足に　目を付けよ  
 > 手はおのづから　留るもの也
 
-The ancients regarded drawing the sword in **行連 *Yukizure*** as important. Investigate it. A poem says:
+The ancients regarded drawing the sword in **行連 *Yukizure*** as important.[^yukizure] Investigate it. A poem follows.
 
 > Walk as in the summer sunlight  
 > and the winter day’s shadow;  
@@ -357,7 +359,7 @@ When grappling, as soon as the enemy closes upon you, know that the way to draw 
 > 抜刀の道を　深く問ふべし
 >
 > 身の曲尺の　位を深く　習ふべし  
-> 留めねど留る　妙ぞ不思議や
+> 留めねど留る　事ぞ不思議や
 
 When an enemy cuts at me in a manner difficult to meet with the sword, if I try hastily to draw and meet him, there are occasions on which I shall certainly lose. Investigate carefully. A poem says:
 
@@ -369,7 +371,7 @@ When an enemy cuts at me in a manner difficult to meet with the sword, if I try 
 > Study deeply  
 > the position of the body’s carpenter’s square;  
 > though you do not stop it, it stops —  
-> a mysterious marvel.[^myo]
+> what a strange thing.[^koto]
 
 ## Kata poems
 
@@ -378,10 +380,10 @@ When an enemy cuts at me in a manner difficult to meet with the sword, if I try 
 > 深山には　嵐吹くらし　三吉野の  
 > 花か霞か　横雲の空
 
-> Deep in the mountains  
-> a storm seems to blow;  
-> over Yoshino, is it blossom, mist,  
-> or a bank of cloud across the sky?
+> Deep in the mountains\
+> a storm seems to be blowing.\
+> Over Yoshino, is that blossom or haze\
+> in a sky streaked with cloud?
 
 ### 虎一足 *Tora-issoku*
 
@@ -398,10 +400,10 @@ When an enemy cuts at me in a manner difficult to meet with the sword, if I try 
 > 諸共に　光りと知れど　稲妻の  
 > 跡鳴る雷の　響き知られず
 
-> Know the flash and thunder  
-> to be one and simultaneous,  
-> though the reverberation of thunder  
-> following the lightning is not yet heard.
+> Though both perceive\
+> the flash of lightning,\
+> the thunder rolling in its wake\
+> goes unheard.
 
 ### 浮雲 *Ukigumo*
 
@@ -473,7 +475,7 @@ When an enemy cuts at me in a manner difficult to meet with the sword, if I try 
 > あはれ知らばや　事の深さは
 >
 > 吹けば鳴る　吹かねば鳴らぬ　笛竹の  
-> 聲の良しとは　何を云ふらん
+> 聲の主とは　何を云ふらん
 >
 > 打解けて　寝るが中なる　心こそ  
 > 誠の我を　顕はしにけり
@@ -484,7 +486,7 @@ When an enemy cuts at me in a manner difficult to meet with the sword, if I try 
 > 兎に角に　云ふべき様は　なかりけり  
 > 九重の塔の　上の足代
 >
-> 唱ふれば　仏も我も　なかりけり  
+> 〔唱ふれば〕　仏も我も　なかりけり\
 > 南無阿弥陀仏の　聲ばかりして
 >
 > 極楽は　遥かに遠く　聞きしかど  
@@ -503,10 +505,10 @@ The enemy has many colours and may deceive us; never be careless. It is like kic
 > ah, if only one might know  
 > the depth of the matter.
 >
-> Blow it and the bamboo flute sounds;  
-> do not blow it and it does not.  
-> What, then, can one mean  
-> by calling its voice good?
+> Blow, and the bamboo flute sounds.\
+> Without breath it is silent.\
+> Whose voice, then,\
+> do we hear?[^flute]
 >
 > The mind present  
 > while one sleeps completely at ease —  
@@ -537,10 +539,11 @@ The enemy has many colours and may deceive us; never be careless. It is like kic
 
 ## Colophon
 
+> 山川幸雅　〔印〕〔印〕
+>
 > 文政十丁亥歳  
 > 初夏改寫者也  
-> 山川幸雅  
-> 坪内長順
+> 坪内長順　〔印〕
 >
 > 右歌之巻一本、貴殿御深望に依り、山川先生より相傳せしめ候。  
 > 印可、其儘相讓り申候。以上。
@@ -549,18 +552,30 @@ The enemy has many colours and may deceive us; never be careless. It is like kic
 > 十二月吉日  
 > 島村右馬丞殿
 
-In Bunsei 10, *hinoto-i* [1827], at the beginning of summer, recopied by:
+Yamakawa Yukimasa *(two seals)*
 
-- 山川幸雅 Yamakawa [personal-name reading uncertain]
-- 坪内長順 Tsubouchi [personal-name reading uncertain]
+Recopied in early summer of Bunsei 10, *hinoto-i* (1827).\
+Tsubouchi Chōjun *(one seal)*[^signatures]
 
 At your earnest request, I hand over this one scroll of songs, transmitted to me by Master Yamakawa, together with the licence exactly as received. Thus.
 
-On an auspicious day in the twelfth month of Tenpō 2, *kanoto-u* [1831].
+On an auspicious day in the twelfth month of Tenpō 2, *kanoto-u* (3 January–1 February 1832).[^calendar]
 
 To 島村右馬丞 Shimamura Umanojō.
 
 ## Textual notes
+
+[^waterbird]: K prints 海の急とて on the opening page. S supplies 魚, restoring the fish that answers the waterbird in the first half of the poem. 汐はゆくなし can be read as the negative of the adjective しほはゆし, “salty”. [S, §2][s-2] · [*Nihon kokugo daijiten*, 鹹映ゆい][salty]
+
+[^kanemori]: Taira no Kanemori’s poem appears in the *Shūi wakashū* (no. 622) and the *Ogura hyakunin isshu* (no. 40). K’s opening page prints 忍れと, normalised here as 忍ぶれど. S opens 思ふれと. [*Ogura hyakunin isshu*][hyakunin] · [S, §3][s-3]
+
+[^murasaki]: The *Murasaki Shikibu shū* gives the opening 数ならぬ found in K. The *Senzaishū* (no. 1096) has 数ならで. 身 also means one’s lot in life. A speaker whose circumstances do not follow her heart finds that her heart follows her circumstances. [Murasaki Shikibu, text and variants][murasaki]
+
+[^moon]: K’s opening page prints すめる in kana, allowing both 澄む (“to be clear”) and 住む (“to dwell”) to be heard. S transcribes 住める and gives 住（澄）める in the reading below. The same poem appears in *Kokon chomonjū*, tale 185, on the theme of the moon on water. [S, §3][s-3] · [*Kokon chomonjū*, tale 185][chomonju]
+
+[^saigyo]: Saigyō, *Shinkokin wakashū* (no. 299), in the first book of autumn poems. [*Shinkokin wakashū*, book IV][shinkokin]
+
+[^toshiyuki]: Fujiwara no Toshiyuki, *Kokin wakashū* (no. 169), composed on the first day of autumn. 驚かれぬる conveys the speaker’s sudden recognition of the season on hearing the wind. [Text and commentary][toshiyuki]
 
 [^kake]: K reads 敵の**掛**を知らする. S reads 敵の**勝**を知らする, “makes the enemy’s victory known”. 掛 is retained because it is clear in K. The exact martial sense remains open: the enemy’s coming-on, engagement, attack or initiative are all possible.
 
@@ -570,19 +585,27 @@ To 島村右馬丞 Shimamura Umanojō.
 
 [^ma]: K reads 此の**間**をもって. S has 此の**習**を以て, “by means of this teaching”. S also includes an additional sentence — 然れ共只切込ていなし是に柄口六寸の習なり — which is absent from K.
 
+[^boat]: K, p. 121, prints 舟も入らず. The English takes いらず in the sense of 要らず, “there is no need”. S transcribes 舟ものら春, read by Mitsuhira as 舟ものらず, “one does not even board the boat”. [S, §5][s-5]
+
 [^kusaki]: K clearly prints 釘も**草木**も, literally “nails and grasses/trees”; “wood” is a cautious contextual rendering. S reads 釘も**楔**も, “nails and wedges”, which is semantically more natural. The inherited reading cannot yet be decided.
+
+[^haya]: K, p. 121, prints 早人抜かせす. The English takes 人 as the person whom one does not let draw. The force of 早 in this construction is uncertain. S transcribes はやく抜せす. [S, §6][s-6]
 
 [^waza]: K is unclear at 是事さの位. S gives 是事（業）の位. The translation follows 業 *waza* provisionally.
 
+[^goto]: K, p. 121, prints 剛刀, literally “a stout sword”. The English takes this to describe its bearer. S reads 剛力, “brute strength”. [S, §6][s-6]
+
 [^chinseitai]: S includes an explanatory annotation absent from K: 沈成躰 means lowering one’s body against the enemy and settling one’s *ki*.
 
-[^kore]: The relevant character in K is difficult to read. S has 心は**之**内に有り, “the mind lies within this”.
+[^kore]: K, p. 121, leaves a bracketed space after 心は. The Japanese preserves that space. The English supplies “[this]” from 之 in S’s 心は之内二有り. [S, §7][s-7]
 
-[^kanbun]: K and S preserve a damaged or compressed kanbun phrase. The translation gives the probable sense rather than a secure grammatical reconstruction.
+[^kanbun]: The eight characters 端末未見，人莫能知 on p. 121 of K reproduce a sentence in the 上略, the first part of the *Three Strategies* (三略, *Sanryaku*). 端末 takes in both the beginning and the end. [*Sanryaku*, 上略, §2][sanryaku] · [S, §7][s-7]
 
-[^kido]: K reads 危道, 業 and 義経公. S has 是道, 事 and 義公. Mitsuhira independently identifies the former three as readings in the Kimura Eijū witness. 危道 is therefore retained as *kidō*. The following sentence excludes a simple high-low feint, but does not justify silently changing the graph to 詭道, “the deceptive way”.
+[^kido]: K, p. 121, reads 危道, 業 and 義経公. At the first occurrence of 危道, S gives a blank (□) with 是 as Sōda’s suggestion. S also has 事 and 義公. In 2020 Mitsuhira explicitly attributed the three readings found in K to Kimura Eijū’s text. A title page or imprint for K would help establish whether it comes from Kimura’s edition. 詭道, “the deceptive way”, is Mitsuhira’s conjecture. [S, §8][s-8] · [Mitsuhira’s 2016 interpretation][kido-2016] · [His 2020 comparison with Kimura][kimura] · [Kimura’s volume in CiNii Books][kimura-catalog]
 
 [^shinmeiken]: The exact construction of the preceding line is uncertain. 心明剱 is retained as the named principle *Shinmeiken* and glossed literally.
+
+[^yukizure]: K, p. 122, names 行連 (*Yukizure*, “travelling together”). S gives 行違 (*Yukichigai*, “passing one another”). Both are separately named in the school’s list. K itself uses the verb 行違ふ in the second poem. [S, §8][s-8] · [School list](README.md#battō-kokoromochi-no-koto)
 
 [^summer]: K clearly prints 夏日なく, which appears corrupt in context. S reads 夏日向, followed by 冬日の影. The normalised Japanese and translation provisionally follow S; the brackets mark the emendation.
 
@@ -590,8 +613,38 @@ To 島村右馬丞 Shimamura Umanojō.
 
 [^tsukaruru]: K has 突かるゝな, “do not be thrust”, and 抜刀の道. S has つかるゝな and 居合の道. K is followed here.
 
-[^myo]: K reads 妙ぞ不思議や, “a mysterious marvel”. S reads 事ぞふしぎや, “what a mysterious thing”. K is followed here.
+[^koto]: The abbreviated 事 before ぞふしぎや on p. 122 of K is also used in 落る事なし and 崩るゝ事の farther down the same page. S writes 事ぞふしぎや. [S, §8][s-8]
 
-[^tonaureba]: K prints とのおれば, which is corrupt in context. S and the following 南無阿弥陀仏 establish 唱ふれば with high confidence.
+[^flute]: K, p. 123, prints こゑの主しとは, normalised here as 聲の主とは. 主 (*nushi*) is the owner or source of the voice. S has 声の良とハ, and Mitsuhira’s reading underneath gives 声の良しとは, which asks about the quality of the sound. His 2020 discussion gives 聲の主とハ. [S, §13][s-13] · [January 2020 discussion][flute-2020]
 
-[^kikishi]: K reads 聞きしかど, “though I had heard”. S reads ゆきしかど, “though [I] went”, which is less coherent in the poem.
+[^tonaureba]: K, p. 123, prints とのおれは. S gives 唱ふれハ, and the poem is also transmitted with the opening となふれば in the tradition of Ippen. The invocation of Amida Buddha in the following line supports “when one chants”. [S, §13][s-13] · [Tōkōji’s account of the poem][ippen]
+
+[^kikishi]: K, p. 123, reads 聞しかと, normalised as 聞きしかど, “though I had heard”. S transcribes ゆきしかど, “though I went”. Mitsuhira gives 聞きしかど in the reading beneath that transcription. [S, §13][s-13]
+
+[^signatures]: On p. 123, Yamakawa’s name and two seals stand to the right of the Bunsei date. Tsubouchi’s name and one seal follow the copying formula 初夏改寫者也. The layout favours Tsubouchi as the 1827 copyist. The transfer statement names Yamakawa as the source of transmission. The personal-name readings follow the companion translation. A study of Shimamura’s diary identifies Tsubouchi as his teacher and Yamakawa as Tsubouchi’s teacher. [*Iai kongen no maki*](iai-kongen-no-maki.md) · [Study of Shimamura’s diary][diary]
+
+[^calendar]: The twelfth lunar month of Tenpō 2 began on 3 January 1832 and ended on 1 February 1832 in the Gregorian calendar. 吉日 gives only “an auspicious day”. [National Astronomical Observatory of Japan, first day][calendar-first] · [Last day][calendar-last]
+
+[s-2]: http://mat-sekiunn.cocolog-nifty.com/blog/2016/10/post-4d01.html
+[s-3]: http://mat-sekiunn.cocolog-nifty.com/blog/2016/10/post-329f.html
+[s-5]: http://mat-sekiunn.cocolog-nifty.com/blog/2016/10/post-7ec5.html
+[s-6]: http://mat-sekiunn.cocolog-nifty.com/blog/2016/10/post-8d67.html
+[s-7]: http://mat-sekiunn.cocolog-nifty.com/blog/2016/10/post-0c25.html
+[s-8]: http://mat-sekiunn.cocolog-nifty.com/blog/2016/10/post-4724.html
+[s-13]: http://mat-sekiunn.cocolog-nifty.com/blog/2016/10/post-da52.html
+[moon-2019]: http://mat-sekiunn.cocolog-nifty.com/blog/2019/12/post-493097.html
+[flute-2020]: http://mat-sekiunn.cocolog-nifty.com/blog/2020/01/post-1e96cc.html
+[kido-2016]: http://mat-sekiunn.cocolog-nifty.com/blog/2016/10/post-f69b.html
+[kimura]: http://mat-sekiunn.cocolog-nifty.com/blog/2020/01/post-183ebf.html
+[kimura-catalog]: https://ci.nii.ac.jp/ncid/BA45202544
+[salty]: https://kotobank.jp/word/鹹映ゆい-516930
+[hyakunin]: https://ja.wikisource.org/wiki/小倉百人一首
+[murasaki]: https://www.asahi-net.or.jp/~sg2h-ymst/yamatouta/sennin/musikibu.html
+[chomonju]: https://yatanavi.org/text/chomonju/s_chomonju185
+[shinkokin]: https://ja.wikisource.org/wiki/新古今和歌集/巻第四
+[toshiyuki]: https://www.asahi-net.or.jp/~sg2h-ymst/yamatouta/sennin/tosiyuki.html
+[sanryaku]: https://kanbun.info/shibu02/sanryaku01.html
+[ippen]: https://www.d-tokoji.com/sutra002/
+[diary]: https://www.jstage.jst.go.jp/article/budo/56/Supplement/56_56.S_43/_article/-char/ja
+[calendar-first]: https://eco.mtk.nao.ac.jp/cgi-bin/koyomi/cande/caldb.cgi?type=1&gengo=b260&year=2&month=12&day=1&jg=1
+[calendar-last]: https://eco.mtk.nao.ac.jp/cgi-bin/koyomi/cande/caldb.cgi?type=1&gengo=b260&year=2&month=12&day=30&jg=1
