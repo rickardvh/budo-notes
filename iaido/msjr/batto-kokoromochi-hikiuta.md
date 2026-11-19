@@ -38,7 +38,7 @@ What matters is the form of the draw, with the body properly composed.
 **One’s bearing in iai**
 
 Face: pale cherry blossom\
-Bodily carriage: *Hachinoki* (*The Potted Trees*). Oral transmission.[^hachinoki]\
+Body: *Hachinoki* (*The Potted Trees*). Oral transmission.[^hachinoki]\
 Mind: the waterbird
 
 ## The mind of the waterbird
@@ -563,7 +563,7 @@ To 島村右馬丞 Shimamura Umanojō.
 
 ## Textual notes
 
-[^hachinoki]: In the Noh play 鉢木, Sano Tsuneyo, a warrior who has lost his lands, shelters a travelling monk on a snowy night. The monk urges him to spare his treasured potted plum, cherry and pine, but Tsuneyo burns them to warm his guest. Later, when Tsuneyo answers a summons to Kamakura in his worn armour, he recognises his guest as the retired regent Hōjō Tokiyori. Mitsuhira reads the allusion as meeting even an opponent with おもてなしの心, “the heart of a host”. He later suggests that 身之掛 evokes the way a Noh actor stands and the care host and guest show each other. [Text of the play][hachinoki-play] · [Mitsuhira, 2016][hachinoki-2016] · [Mitsuhira, 2019][hachinoki-2019]
+[^hachinoki]: The image for 身之掛, “bodily bearing”, comes from the Noh play 鉢木. Sano Tsuneyo, a warrior who has lost his lands, shelters a travelling monk on a snowy night. The monk urges him to spare his treasured potted plum, cherry and pine, but Tsuneyo burns them to warm his guest. Later, when Tsuneyo answers a summons to Kamakura in his worn armour, he recognises his guest as the retired regent Hōjō Tokiyori. Mitsuhira reads the allusion as meeting even an opponent with おもてなしの心, “the heart of a host”. He later suggests that 身之掛 evokes the way a Noh actor stands and the care host and guest show each other. [Text of the play][hachinoki-play] · [Mitsuhira, 2016][hachinoki-2016] · [Mitsuhira, 2019][hachinoki-2019]
 
 [^waterbird]: K prints 海の急とて on the opening page. S supplies 魚, restoring the fish that answers the waterbird in the first half of the poem. 汐はゆくなし can be read as the negative of the adjective しほはゆし, “salty”. [S, §2][s-2] · [*Nihon kokugo daijiten*, 鹹映ゆい][salty]
 
