@@ -31,9 +31,7 @@ The assessments below are the translator’s judgments. The Bayesline project *B
 > 身之掛　鉢木　口傳  
 > 心　水鳥
 
-Arai Kiyonobu states:
-
-Iai is combat at close quarters. There is the essential teaching of 柄口六寸 *tsukaguchi roku-sun* — “six *sun* at the mouth of the hilt”. Take its form as the matter at hand, know front, rear, left and right, and first draw in iai in the form shown here: **a triangle within a circle**.
+Arai Kiyonobu says, “Iai is a contest at close quarters. One essential teaching concerns *tsukaguchi rokusun*. Study that form and understand it to the front and rear, to the left and right. To begin with, the form of the iai draw is as shown here [a triangle within a circle].”
 
 It is essential to keep the body upright when drawing.
 
