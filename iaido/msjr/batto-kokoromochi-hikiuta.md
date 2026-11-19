@@ -19,7 +19,7 @@ The assessments below are the translator’s judgments. The Bayesline project *B
 | Retain 草木 (S 楔) | Both readings are attested. The earlier reading is uncertain. | K, p. 121 · [S, §5][s-5] |
 | Restore 唱ふれば for とのおれは | S and the invocation 南無阿弥陀仏 support the emendation. | K, p. 123 · [S, §13][s-13] |
 
-## The position of iai
+## One’s bearing in iai
 
 > 荒井清信公云、夫れ居合とは手近き勝負、柄口六寸の大事あり。其の形を事となし、前後左右是を知り、先ず居合抜き申す形は〔丸の中に三角〕如斯。
 >
@@ -35,11 +35,11 @@ Arai Kiyonobu says, “Iai is a contest at close quarters. One essential teachin
 
 What matters is the form of the draw, with the body properly composed.
 
-The position of iai:
+**One’s bearing in iai**
 
-- **Face:** pale cherry blossom.
-- **Bearing of the body:** *Hachinoki* (*The Potted Trees*). Oral transmission.[^hachinoki]
-- **Mind:** the waterbird.
+Face: pale cherry blossom\
+Bodily carriage: *Hachinoki* (*The Potted Trees*). Oral transmission.[^hachinoki]\
+Mind: the waterbird
 
 ## The mind of the waterbird
 
