@@ -33,7 +33,7 @@ The assessments below are the translator’s judgments. The Bayesline project *B
 
 Arai Kiyonobu says, “Iai is a contest at close quarters. One essential teaching concerns *tsukaguchi rokusun*. Study that form and understand it to the front and rear, to the left and right. To begin with, the shape of the iai draw is shown here [a triangle within a circle].”
 
-It is essential to keep the body upright when drawing.
+What matters is the form of the draw, with the body properly composed.
 
 The position of iai:
 
