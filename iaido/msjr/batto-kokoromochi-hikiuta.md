@@ -136,7 +136,7 @@ In iai and *tachiuchi* alike, the essential matter of the moon in water. Oral tr
 > yet at the sound of the wind\
 > all at once I know.[^toshiyuki]
 
-Awaken through this mind. Although I do not know it beforehand, it makes the enemy’s **掛 *kake*** — his coming-on, engagement or initiative — known.[^kake] Therein are the teachings of the moon in water and the white heron. Practise and investigate them.
+Grasp this in the spirit of the poems above. Though I do not know it myself, the enemy’s move is made known to me.[^kake] Herein lie the teachings of the moon in water and the white heron. Reflect on them.
 
 ## Winning by following the enemy
 
@@ -611,7 +611,7 @@ To 島村右馬丞 Shimamura Umanojō.
 
 [^toshiyuki]: This poem by Fujiwara no Toshiyuki (藤原敏行) opens the autumn poems in the *Kokin wakashū*. The headnote reads 秋立つ日よめる, “composed on the first day of autumn”. The particle ぞ singles out the sound of the wind, and れ in 驚かれぬる marks a recognition that comes of its own accord. [*Kokin wakashū*, book IV, no. 169][kokin-autumn] · [Text and commentary][toshiyuki] · [Sanseidō’s grammatical notes][toshiyuki-grammar]
 
-[^kake]: K reads 敵の**掛**を知らする. S reads 敵の**勝**を知らする, “makes the enemy’s victory known”. 掛 is retained because it is clear in K. The exact martial sense remains open: the enemy’s coming-on, engagement, attack or initiative are all possible.
+[^kake]: K reads 敵の掛を知らする也. “Move” is a broad rendering of 掛 (*kake*), which may refer here to the enemy’s initiative. Mitsuhira’s transcription of the Sōda copy reads 敵の勝をしらする也, “the enemy’s victory is made known”. The subject of 知らする is unstated. The opening 我 (“I”) suggests the recipient, hence “to me”. [S, §3][s-3] · [*Nihon kokugo daijiten*, 知らす][shirasu]
 
 [^spring-wind]: The *Kin’yō wakashū* (no. 28) credits the willow poem to Emperor Shirakawa (白河院). Its ending, 過ぐる春かな, agrees with K. S gives 廻る春かな and introduces the passage as 春風を切ると云ふ, “called cutting the spring wind”. [*Kin’yō wakashū*, no. 28][kinyo]
 
@@ -695,6 +695,7 @@ To 島村右馬丞 Shimamura Umanojō.
 [kokin-autumn]: https://www.waka-chokusen.org/chokusen/waka21/shousai.php?ID=169
 [toshiyuki]: https://www.asahi-net.or.jp/~sg2h-ymst/yamatouta/sennin/tosiyuki.html
 [toshiyuki-grammar]: https://www.cis.fukuoka-u.ac.jp/~nakanok/lecture/education/education_txt/2020/sanseido/waka.pdf#page=51
+[shirasu]: https://kotobank.jp/word/知らす-535467
 [kinyo]: https://www.waka-chokusen.org/chokusen/waka21/shousai.php?ID=5031
 [gyokuyo]: https://www.waka-chokusen.org/chokusen/waka21/shousai.php?ID=18866
 [adani-early]: https://www.i-repository.net/il/user_contents/02/G0000284repository/pdf/JOS-KJ00004422949.pdf
