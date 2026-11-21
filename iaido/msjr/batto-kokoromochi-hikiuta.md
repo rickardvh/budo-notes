@@ -130,10 +130,11 @@ In iai and *tachiuchi* alike, the essential matter of the moon in water. Oral tr
 >
 > *Fujiwara no Toshiyuki*
 >
-> Though my eyes cannot yet tell\
-> that autumn has come,\
-> at the sound of the wind\
-> I suddenly know it.[^toshiyuki]
+> Autumn has come—\
+> my eyes can see\
+> no clear sign of it,\
+> yet at the sound of the wind\
+> all at once I know.[^toshiyuki]
 
 Awaken through this mind. Although I do not know it beforehand, it makes the enemy’s **掛 *kake*** — his coming-on, engagement or initiative — known.[^kake] Therein are the teachings of the moon in water and the white heron. Practise and investigate them.
 
@@ -608,7 +609,7 @@ To 島村右馬丞 Shimamura Umanojō.
 
 [^saigyo]: The *Shinkokin wakashū* credits this poem to Saigyō (西行法師). The *Seisenban Nihon kokugo daijiten* cites the poem under 心を付く to illustrate the sense “to stir someone to reflection”. [*Shinkokin wakashū*, book IV (Autumn I), no. 299][shinkokin] · [Dictionary entry, sense 2][kokoro-o-tsuku]
 
-[^toshiyuki]: Fujiwara no Toshiyuki, *Kokin wakashū* (no. 169), composed on the first day of autumn. 驚かれぬる conveys the speaker’s sudden recognition of the season on hearing the wind. [Text and commentary][toshiyuki]
+[^toshiyuki]: This poem by Fujiwara no Toshiyuki (藤原敏行) opens the autumn poems in the *Kokin wakashū*. The headnote reads 秋立つ日よめる, “composed on the first day of autumn”. The particle ぞ singles out the sound of the wind, and れ in 驚かれぬる marks a recognition that comes of its own accord. [*Kokin wakashū*, book IV, no. 169][kokin-autumn] · [Text and commentary][toshiyuki] · [Sanseidō’s grammatical notes][toshiyuki-grammar]
 
 [^kake]: K reads 敵の**掛**を知らする. S reads 敵の**勝**を知らする, “makes the enemy’s victory known”. 掛 is retained because it is clear in K. The exact martial sense remains open: the enemy’s coming-on, engagement, attack or initiative are all possible.
 
@@ -691,7 +692,9 @@ To 島村右馬丞 Shimamura Umanojō.
 [shingoshui-moon]: https://www.waka-chokusen.org/chokusen/waka21/shousai.php?ID=30218
 [shinkokin]: https://ja.wikisource.org/wiki/新古今和歌集/巻第四
 [kokoro-o-tsuku]: https://kotobank.jp/word/心を付く-2037951
+[kokin-autumn]: https://www.waka-chokusen.org/chokusen/waka21/shousai.php?ID=169
 [toshiyuki]: https://www.asahi-net.or.jp/~sg2h-ymst/yamatouta/sennin/tosiyuki.html
+[toshiyuki-grammar]: https://www.cis.fukuoka-u.ac.jp/~nakanok/lecture/education/education_txt/2020/sanseido/waka.pdf#page=51
 [kinyo]: https://www.waka-chokusen.org/chokusen/waka21/shousai.php?ID=5031
 [gyokuyo]: https://www.waka-chokusen.org/chokusen/waka21/shousai.php?ID=18866
 [adani-early]: https://www.i-repository.net/il/user_contents/02/G0000284repository/pdf/JOS-KJ00004422949.pdf
