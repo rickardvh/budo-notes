@@ -95,7 +95,7 @@ In iai and *tachiuchi* alike, the mind of the white heron. Oral transmission. As
 > Yet where my lot leads,\
 > my heart follows, I find.[^murasaki]
 
-## The great matter of the moon in water
+## The essential matter of the moon in water
 
 > 居合太刀打共、水月之大事。口傳。古歌に、
 >
@@ -110,7 +110,7 @@ In iai and *tachiuchi* alike, the mind of the white heron. Oral transmission. As
 >
 > 右の心にて悟るべし。我は知らねども敵の掛を知らする也。其處、水月白鷺、習ひ有るべし。工夫すべし。
 
-In both iai and sword engagement there is the **great matter of the moon in water** (水月之大事 *suigetsu no daiji*). Oral transmission. Three old poems follow.
+In iai and *tachiuchi* alike, the essential matter of the moon in water. Oral transmission. As the old poems say,
 
 > *An unnamed provincial warrior*
 >
@@ -599,7 +599,7 @@ To 島村右馬丞 Shimamura Umanojō.
 
 [^murasaki]: This poem opens 数ならぬ (*kazu naranu*) in both K and the *Murasaki Shikibu shū*. “I count for little” expresses the speaker’s sense of her own standing. In the headnote, Murasaki describes growing used to lamenting that her life did not go as she wished. This suggests “my lot in life” for 身 (*mi*), while the scroll’s pairing of body and mind recalls its ordinary sense of “body” or “self”. The English repeats “heart” (心, *kokoro*) and “lot” in reverse order, as the Japanese does. “I find” conveys the note of recognition in the closing けり (*keri*). The *Senzaishū* (no. 1096) reads 数ならで. S gives 数ならて心をば, omitting the first 身. [*Murasaki Shikibu shū*, poem 54 and headnote][murasaki-shu] · [*Senzaishū*, no. 1096][senzai-1096] · [Commentary on the poem][murasaki] · [S, §3][s-3]
 
-[^moon]: K’s opening page prints すめる in kana, allowing both 澄む (“to be clear”) and 住む (“to dwell”) to be heard. S transcribes 住める and gives 住（澄）める in the reading below. In *Kokon chomonjū*, tale 185, a warrior newly arrived from the provinces offers this poem at a gathering on the theme of the moon on water. The tale gives no name for him. [S, §3][s-3] · [*Kokon chomonjū*, tale 185][chomonju]
+[^moon]: K opens 水や空 (“water or sky”), and S opens 水や雲 (“water or cloud”). K prints すめる in kana, allowing both 澄む (“to be clear”) and 住む (“to dwell”) to be heard. The edited text of *Kokon chomonjū* gives 澄める. S gives 住める, with 住（澄）める in Mitsuhira’s reading. *Kokon chomonjū*, tale 185, credits the poem to an unnamed warrior newly arrived from the provinces. The *Shin goshūi wakashū* (no. 372) lists the poet as 読人不知, “author unknown”. Both sources give the theme as 水上月, the moon on water. [S, §3][s-3] · [*Kokon chomonjū*, tale 185][chomonju] · [*Shin goshūi wakashū*, no. 372][shingoshui-moon]
 
 [^saigyo]: Saigyō, *Shinkokin wakashū* (no. 299), in the first book of autumn poems. [*Shinkokin wakashū*, book IV][shinkokin]
 
@@ -681,6 +681,7 @@ To 島村右馬丞 Shimamura Umanojō.
 [murasaki-shu]: https://classicstudies.jimdofree.com/紫式部集/第五部-転機/54数ならぬ/
 [senzai-1096]: https://www.waka-chokusen.org/chokusen/waka21/shousai.php?ID=7153
 [chomonju]: https://yatanavi.org/text/chomonju/s_chomonju185
+[shingoshui-moon]: https://www.waka-chokusen.org/chokusen/waka21/shousai.php?ID=30218
 [shinkokin]: https://ja.wikisource.org/wiki/新古今和歌集/巻第四
 [toshiyuki]: https://www.asahi-net.or.jp/~sg2h-ymst/yamatouta/sennin/tosiyuki.html
 [kinyo]: https://www.waka-chokusen.org/chokusen/waka21/shousai.php?ID=5031
