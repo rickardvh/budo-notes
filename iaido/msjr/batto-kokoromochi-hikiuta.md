@@ -51,7 +51,7 @@ Mind: the waterbird
 > 水鳥の　水に住めども　羽は濡れず  
 > 海の〔魚〕とて　汐はゆくなし
 
-Concerning the foregoing mind, attend to the waterbird and investigate it thoroughly. Two old poems follow.
+To understand this state of mind, attend closely to the waterbird and reflect on its example. As the old poems say,
 
 > Even without boarding a little boat  
 > hastening onwards under sail,  
