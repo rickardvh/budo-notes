@@ -89,10 +89,11 @@ In iai and *tachiuchi* alike, the mind of the white heron. Oral transmission. As
 >
 > *Murasaki Shikibu*
 >
-> Though I do not entrust my body  
-> to a heart of no account,  
-> it is nevertheless the heart  
-> that follows the body.[^murasaki]
+> I count for little.\
+> My heart cannot choose\
+> my lot in life.\
+> Yet where my lot leads,\
+> my heart follows, I find.[^murasaki]
 
 ## The great matter of the moon in water
 
@@ -596,7 +597,7 @@ To 島村右馬丞 Shimamura Umanojō.
 
 [^kanemori]: Taira no Kanemori’s poem appears in the *Shūi wakashū* (no. 622) and the *Ogura hyakunin isshu* (no. 40). K’s opening page prints 忍れと, normalised here as 忍ぶれど. S opens 思ふれと. [*Ogura hyakunin isshu*][hyakunin] · [S, §3][s-3]
 
-[^murasaki]: Murasaki Shikibu’s own collection gives the opening 数ならぬ found in K. The *Senzaishū* (no. 1096) has 数ならで. S reads 数ならて心をば, omitting 身 from the first half. In K and both poetry collections, 身 can mean one’s lot in life. A speaker whose circumstances do not follow her heart finds that her heart follows her circumstances. [*Murasaki Shikibu shū*, text and variants][murasaki-shu] · [*Senzaishū* text and commentary][murasaki] · [S, §3][s-3]
+[^murasaki]: This poem opens 数ならぬ (*kazu naranu*) in both K and the *Murasaki Shikibu shū*. “I count for little” expresses the speaker’s sense of her own standing. In the headnote, Murasaki describes growing used to lamenting that her life did not go as she wished. This suggests “my lot in life” for 身 (*mi*), while the scroll’s pairing of body and mind recalls its ordinary sense of “body” or “self”. The English repeats “heart” (心, *kokoro*) and “lot” in reverse order, as the Japanese does. “I find” conveys the note of recognition in the closing けり (*keri*). The *Senzaishū* (no. 1096) reads 数ならで. S gives 数ならて心をば, omitting the first 身. [*Murasaki Shikibu shū*, poem 54 and headnote][murasaki-shu] · [*Senzaishū*, no. 1096][senzai-1096] · [Commentary on the poem][murasaki] · [S, §3][s-3]
 
 [^moon]: K’s opening page prints すめる in kana, allowing both 澄む (“to be clear”) and 住む (“to dwell”) to be heard. S transcribes 住める and gives 住（澄）める in the reading below. In *Kokon chomonjū*, tale 185, a warrior newly arrived from the provinces offers this poem at a gathering on the theme of the moon on water. The tale gives no name for him. [S, §3][s-3] · [*Kokon chomonjū*, tale 185][chomonju]
 
@@ -678,6 +679,7 @@ To 島村右馬丞 Shimamura Umanojō.
 [hyakunin]: https://ja.wikisource.org/wiki/小倉百人一首
 [murasaki]: https://www.asahi-net.or.jp/~sg2h-ymst/yamatouta/sennin/musikibu.html
 [murasaki-shu]: https://classicstudies.jimdofree.com/紫式部集/第五部-転機/54数ならぬ/
+[senzai-1096]: https://www.waka-chokusen.org/chokusen/waka21/shousai.php?ID=7153
 [chomonju]: https://yatanavi.org/text/chomonju/s_chomonju185
 [shinkokin]: https://ja.wikisource.org/wiki/新古今和歌集/巻第四
 [toshiyuki]: https://www.asahi-net.or.jp/~sg2h-ymst/yamatouta/sennin/tosiyuki.html
