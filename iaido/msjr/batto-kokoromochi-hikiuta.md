@@ -158,10 +158,13 @@ The frame of mind for prevailing by following the enemy.[^willow-intro] As the o
 > and with each sway\
 > spring slips by.[^spring-wind]
 >
-> Know one who meets it with force  
-> to be unskilled;  
-> in ball-play, the willow  
-> is called the skilful one.
+> *Poet unidentified*
+>
+> To rely on strength\
+> and meet things head-on—\
+> see the clumsiness in that.\
+> For the ball, a willow—\
+> that, they say, is skill.[^ball-willow]
 
 ## The ultimate principle of iai
 
@@ -618,6 +621,8 @@ To 島村右馬丞 Shimamura Umanojō.
 
 [^spring-wind]: The *Kin’yō wakashū* credits this poem to Emperor Shirakawa (白河院). Its topic, 柳糸随風, pictures the willow’s slender branches as threads following the wind. The *yori* in 片寄り (“to one side”) also suggests 縒り, the twist of a thread. I read 靡くにつけて as the link between the sway of the branches and the sense of spring passing. K and the anthology give 過ぐる春かな, “spring slips by”. Mitsuhira’s transcription of the Sōda copy has 廻る春かな, “spring comes round”. [Anthology text, no. 28][kinyo] · [Dictionary entry for 柳の糸][yanagi-no-ito] · [Annotated text, no. 23][kinyo-willow] · [S, §4][s-4]
 
+[^ball-willow]: Neither K nor S names the poet. まりに柳を pairs the ball with the willow and leaves the movement implicit. In Shirakawa’s preceding poem the branches sway (靡く). A 1408 plan for *kemari*, the court ball game, shows a willow at each corner. The *Shūkiku kan’yōshō* (蹴鞠簡要抄), a manual of the game, explains that a ball kicked firmly into a willow rebounds only a short way because the tree is supple. Mitsuhira pictures the branch yielding on contact. The turn from 下手 (“unskilled”) to 上手 (“skilled”) may also suggest a player’s light touch in receiving the ball and passing it on so the next player can kick it easily. A Yamagishi-ryū version opens つよみにて (“by sheer strength”) and reads まりの柳を. [S, §4][s-4] · [1408 court plan][kemari-court] · [*Shūkiku kan’yōshō*, quoted on p. 9][shukiku-willow] · [Mitsuhira’s reading][ball-willow-reading] · [Imperial Household Agency on *kemari*][kemari-passing] · [Kobayashi, table 3][ball-willow-parallel]
+
 [^utsuru]: K reads 我が心に**移る**時, whereas S reads 我が心に**勝つ**時. The parallel 居合心立合之大事 has 敵打出す所にてちらりと気移りして勝事なり, which supports an interpretation involving the transfer or apprehension of the enemy’s *ki* or decisive cue. It does not, however, supply the omitted grammatical subject with certainty.
 
 [^ma]: K reads 此の**間**をもって. S has 此の**習**を以て, “by means of this teaching”. S also includes an additional sentence — 然れ共只切込ていなし是に柄口六寸の習なり — which is absent from K.
@@ -703,6 +708,11 @@ To 島村右馬丞 Shimamura Umanojō.
 [kinyo]: https://www.waka-chokusen.org/chokusen/waka21/shousai.php?ID=5031
 [kinyo-willow]: https://www.asahi-net.or.jp/~SG2H-ymst/yamatouta/teika/t_siryou06.html
 [yanagi-no-ito]: https://kotobank.jp/word/柳の糸-648826
+[ball-willow-reading]: http://mat-sekiunn.cocolog-nifty.com/blog/2019/12/post-7462ff.html
+[kemari-court]: https://shoryobu.kunaicho.go.jp/Toshoryo/Detail/1000255630000?index=36983&searchtype=Freeword&sort=Title
+[shukiku-willow]: https://www.jstage.jst.go.jp/article/jila1934/52/5/52_5_7/_pdf#page=3
+[kemari-passing]: https://www.kunaicho.go.jp/learn/culture/kemari/index.html
+[ball-willow-parallel]: https://www.jstage.jst.go.jp/article/jjpehss/68/0/68_23022/_pdf/-char/ja
 [gyokuyo]: https://www.waka-chokusen.org/chokusen/waka21/shousai.php?ID=18866
 [adani-early]: https://www.i-repository.net/il/user_contents/02/G0000284repository/pdf/JOS-KJ00004422949.pdf
 [adani-ikkyu]: https://note.com/jijii_kurigoto/n/nba4202c13cf8
