@@ -53,10 +53,11 @@ Mind: the waterbird
 
 To understand this state of mind, attend closely to the waterbird and reflect on its example. As the old poems say,
 
-> Even without boarding a little boat  
-> hastening onwards under sail,  
-> understand the mind  
-> of the waterbird as it goes.
+> With its sail set,\
+> a little boat hurries on.\
+> Even without boarding it,\
+> the waterbird goes its way.\
+> Come to understand its mind.
 >
 > Though the waterbird dwells in water,\
 > its feathers stay dry.\
