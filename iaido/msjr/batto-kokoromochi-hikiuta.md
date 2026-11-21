@@ -75,7 +75,7 @@ To understand this state of mind, attend closely to the waterbird and reflect on
 > 数ならぬ　心に身をば　任せねど  
 > 身に従ふは　心なりけり
 
-In both iai and sword engagement there is the **mind of the white heron** (白鷺心 *shirasagi-gokoro*). Oral transmission. Two old poems follow.
+In iai and *tachiuchi* alike, the mind of the white heron. Oral transmission. As the old poems say,
 
 > Though I would conceal it,  
 > my love has appeared in my expression,  
