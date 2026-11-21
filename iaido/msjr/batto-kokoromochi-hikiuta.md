@@ -122,9 +122,11 @@ In iai and *tachiuchi* alike, the essential matter of the moon in water. Oral tr
 >
 > *Saigyō*
 >
-> The first wind of autumn gives  
-> even one who ordinarily thinks of nothing  
-> a pensive heart.[^saigyo]
+> Those who seldom\
+> lose themselves in thought—\
+> even they\
+> feel their hearts stir\
+> at the first wind of autumn.[^saigyo]
 >
 > *Fujiwara no Toshiyuki*
 >
@@ -604,7 +606,7 @@ To 島村右馬丞 Shimamura Umanojō.
 
     Mitsuhira’s transcription of his Sōda copy gives 水や雲 (“water or cloud”) and 住める. *Kokon chomonjū*, tale 185, credits the poem to an unnamed warrior newly arrived from the provinces. The *Shin goshūi wakashū* (no. 372) lists the poet as 読人不知, “author unknown”. Both give the theme as 水上月, the moon on water. [S, §3][s-3] · [*Kokon chomonjū*, tale 185][chomonju] · [*Shin goshūi wakashū*, no. 372][shingoshui-moon]
 
-[^saigyo]: Saigyō, *Shinkokin wakashū* (no. 299), in the first book of autumn poems. [*Shinkokin wakashū*, book IV][shinkokin]
+[^saigyo]: The *Shinkokin wakashū* credits this poem to Saigyō (西行法師). The *Seisenban Nihon kokugo daijiten* cites the poem under 心を付く to illustrate the sense “to stir someone to reflection”. [*Shinkokin wakashū*, book IV (Autumn I), no. 299][shinkokin] · [Dictionary entry, sense 2][kokoro-o-tsuku]
 
 [^toshiyuki]: Fujiwara no Toshiyuki, *Kokin wakashū* (no. 169), composed on the first day of autumn. 驚かれぬる conveys the speaker’s sudden recognition of the season on hearing the wind. [Text and commentary][toshiyuki]
 
@@ -688,6 +690,7 @@ To 島村右馬丞 Shimamura Umanojō.
 [chomonju-ms]: https://kokusho.nijl.ac.jp/biblio/100190287/137
 [shingoshui-moon]: https://www.waka-chokusen.org/chokusen/waka21/shousai.php?ID=30218
 [shinkokin]: https://ja.wikisource.org/wiki/新古今和歌集/巻第四
+[kokoro-o-tsuku]: https://kotobank.jp/word/心を付く-2037951
 [toshiyuki]: https://www.asahi-net.or.jp/~sg2h-ymst/yamatouta/sennin/tosiyuki.html
 [kinyo]: https://www.waka-chokusen.org/chokusen/waka21/shousai.php?ID=5031
 [gyokuyo]: https://www.waka-chokusen.org/chokusen/waka21/shousai.php?ID=18866
