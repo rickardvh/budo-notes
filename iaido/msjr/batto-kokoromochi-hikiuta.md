@@ -600,9 +600,9 @@ To 島村右馬丞 Shimamura Umanojō.
 
 [^murasaki]: This poem opens 数ならぬ (*kazu naranu*) in both K and the *Murasaki Shikibu shū*. “I count for little” expresses the speaker’s sense of her own standing. In the headnote, Murasaki describes growing used to lamenting that her life did not go as she wished. This suggests “my lot in life” for 身 (*mi*), while the scroll’s pairing of body and mind recalls its ordinary sense of “body” or “self”. The English repeats “heart” (心, *kokoro*) and “lot” in reverse order, as the Japanese does. “I find” conveys the note of recognition in the closing けり (*keri*). The *Senzaishū* (no. 1096) reads 数ならで. S gives 数ならて心をば, omitting the first 身. [*Murasaki Shikibu shū*, poem 54 and headnote][murasaki-shu] · [*Senzaishū*, no. 1096][senzai-1096] · [Commentary on the poem][murasaki] · [S, §3][s-3]
 
-[^moon]: K opens 水や空 (“water or sky”) and writes すめる in kana. The National Archives copy of the *Shoku shika wakashū* (no. 184) and the Imperial Household manuscript of *Kokon chomonjū* likewise write すめる. The editor of the latter prints 澄める. “Shining clear” follows 澄む and the image of the moon reflected in water. 住む (“to dwell”) also fits a moon at home in both water and sky. The same two senses meet in Fujiwara no Takamitsu’s すめる月 (*Shūi wakashū*, no. 435). Whether the poet intended both here remains open. [*Shoku shika wakashū*, no. 184, left page][shokushika-moon] · [*Kokon chomonjū*, manuscript, right page][chomonju-ms] · [Edited text and transcription, tale 185][chomonju] · [Takamitsu’s poem and commentary][takamitsu-moon]
+[^moon]: Here すめる means 澄める, “shining clear”. The autumn moon shines as clearly in the water as it does overhead, and the speaker cannot tell water from sky (見え分かず). K opens 水や空 (“water or sky”) and prints すめる in kana. The National Archives copy of the *Shoku shika wakashū* (no. 184) and the Imperial Household manuscript of *Kokon chomonjū* also use kana. The edited text of *Kokon chomonjū* prints 澄める. [*Shoku shika wakashū*, no. 184, left page][shokushika-moon] · [*Kokon chomonjū*, manuscript, right page][chomonju-ms] · [Edited text and transcription, tale 185][chomonju]
 
-    Mitsuhira transcribes 水や雲 (“water or cloud”) and 住める from his copy of the Sōda text. The parenthetical 澄 in 住（澄）める is his own gloss. *Kokon chomonjū*, tale 185, credits the poem to an unnamed warrior newly arrived from the provinces. The *Shin goshūi wakashū* (no. 372) lists the poet as 読人不知, “author unknown”. Both give the theme as 水上月, the moon on water. [S, §3][s-3] · [*Kokon chomonjū*, tale 185][chomonju] · [*Shin goshūi wakashū*, no. 372][shingoshui-moon]
+    Mitsuhira’s transcription of his Sōda copy gives 水や雲 (“water or cloud”) and 住める. *Kokon chomonjū*, tale 185, credits the poem to an unnamed warrior newly arrived from the provinces. The *Shin goshūi wakashū* (no. 372) lists the poet as 読人不知, “author unknown”. Both give the theme as 水上月, the moon on water. [S, §3][s-3] · [*Kokon chomonjū*, tale 185][chomonju] · [*Shin goshūi wakashū*, no. 372][shingoshui-moon]
 
 [^saigyo]: Saigyō, *Shinkokin wakashū* (no. 299), in the first book of autumn poems. [*Shinkokin wakashū*, book IV][shinkokin]
 
@@ -686,7 +686,6 @@ To 島村右馬丞 Shimamura Umanojō.
 [chomonju]: https://yatanavi.org/text/chomonju/s_chomonju185
 [shokushika-moon]: https://www.digital.archives.go.jp/api/content/item/da12/C102717800700/iiif/M1000000000000050301_0030.jp2/full/1550,/0/default.jpg
 [chomonju-ms]: https://kokusho.nijl.ac.jp/biblio/100190287/137
-[takamitsu-moon]: https://www.asahi-net.or.jp/~SG2H-YMST/yamatouta/sennin/takamitu.html
 [shingoshui-moon]: https://www.waka-chokusen.org/chokusen/waka21/shousai.php?ID=30218
 [shinkokin]: https://ja.wikisource.org/wiki/新古今和歌集/巻第四
 [toshiyuki]: https://www.asahi-net.or.jp/~sg2h-ymst/yamatouta/sennin/tosiyuki.html
