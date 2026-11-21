@@ -152,10 +152,11 @@ The frame of mind for prevailing by following the enemy.[^willow-intro] As the o
 
 > *Emperor Shirakawa*
 >
-> When the wind blows,  
-> spring passes, following  
-> the willow threads  
-> as they bend to one side.[^spring-wind]
+> When the wind blows,\
+> willow shoots as fine as thread\
+> bend to one side,\
+> and with each sway\
+> spring slips by.[^spring-wind]
 >
 > Know one who meets it with force  
 > to be unskilled;  
@@ -615,7 +616,7 @@ To 島村右馬丞 Shimamura Umanojō.
 
 [^willow-intro]: After 心持, Mitsuhira’s transcription of the Sōda copy adds 春風を切ると云ふ, “this is called ‘cutting the spring wind’”. K goes straight to 古歌に. [S, §4][s-4]
 
-[^spring-wind]: The *Kin’yō wakashū* (no. 28) credits the willow poem to Emperor Shirakawa (白河院). Its ending, 過ぐる春かな, agrees with K. S gives 廻る春かな. [*Kin’yō wakashū*, no. 28][kinyo] · [S, §4][s-4]
+[^spring-wind]: The *Kin’yō wakashū* credits this poem to Emperor Shirakawa (白河院). Its topic, 柳糸随風, pictures the willow’s slender branches as threads following the wind. The *yori* in 片寄り (“to one side”) also suggests 縒り, the twist of a thread. I read 靡くにつけて as the link between the sway of the branches and the sense of spring passing. K and the anthology give 過ぐる春かな, “spring slips by”. Mitsuhira’s transcription of the Sōda copy has 廻る春かな, “spring comes round”. [Anthology text, no. 28][kinyo] · [Dictionary entry for 柳の糸][yanagi-no-ito] · [Annotated text, no. 23][kinyo-willow] · [S, §4][s-4]
 
 [^utsuru]: K reads 我が心に**移る**時, whereas S reads 我が心に**勝つ**時. The parallel 居合心立合之大事 has 敵打出す所にてちらりと気移りして勝事なり, which supports an interpretation involving the transfer or apprehension of the enemy’s *ki* or decisive cue. It does not, however, supply the omitted grammatical subject with certainty.
 
@@ -700,6 +701,8 @@ To 島村右馬丞 Shimamura Umanojō.
 [toshiyuki-grammar]: https://www.cis.fukuoka-u.ac.jp/~nakanok/lecture/education/education_txt/2020/sanseido/waka.pdf#page=51
 [shirasu]: https://kotobank.jp/word/知らす-535467
 [kinyo]: https://www.waka-chokusen.org/chokusen/waka21/shousai.php?ID=5031
+[kinyo-willow]: https://www.asahi-net.or.jp/~SG2H-ymst/yamatouta/teika/t_siryou06.html
+[yanagi-no-ito]: https://kotobank.jp/word/柳の糸-648826
 [gyokuyo]: https://www.waka-chokusen.org/chokusen/waka21/shousai.php?ID=18866
 [adani-early]: https://www.i-repository.net/il/user_contents/02/G0000284repository/pdf/JOS-KJ00004422949.pdf
 [adani-ikkyu]: https://note.com/jijii_kurigoto/n/nba4202c13cf8
