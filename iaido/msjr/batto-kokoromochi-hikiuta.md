@@ -148,7 +148,7 @@ Grasp this in the spirit of the poems above. Though I do not know it myself, the
 > 強身にて　行き当るをば　下手と知れ  
 > 鞠に柳を　上手とぞ云ふ
 
-The mindset for winning by following the enemy. An old poem says:
+The frame of mind for prevailing by following the enemy.[^willow-intro] As the old poems say,
 
 > *Emperor Shirakawa*
 >
@@ -613,7 +613,9 @@ To 島村右馬丞 Shimamura Umanojō.
 
 [^kake]: K reads 敵の掛を知らする也. “Move” is a broad rendering of 掛 (*kake*), which may refer here to the enemy’s initiative. Mitsuhira’s transcription of the Sōda copy reads 敵の勝をしらする也, “the enemy’s victory is made known”. The subject of 知らする is unstated. The opening 我 (“I”) suggests the recipient, hence “to me”. [S, §3][s-3] · [*Nihon kokugo daijiten*, 知らす][shirasu]
 
-[^spring-wind]: The *Kin’yō wakashū* (no. 28) credits the willow poem to Emperor Shirakawa (白河院). Its ending, 過ぐる春かな, agrees with K. S gives 廻る春かな and introduces the passage as 春風を切ると云ふ, “called cutting the spring wind”. [*Kin’yō wakashū*, no. 28][kinyo]
+[^willow-intro]: After 心持, Mitsuhira’s transcription of the Sōda copy adds 春風を切ると云ふ, “this is called ‘cutting the spring wind’”. K goes straight to 古歌に. [S, §4][s-4]
+
+[^spring-wind]: The *Kin’yō wakashū* (no. 28) credits the willow poem to Emperor Shirakawa (白河院). Its ending, 過ぐる春かな, agrees with K. S gives 廻る春かな. [*Kin’yō wakashū*, no. 28][kinyo] · [S, §4][s-4]
 
 [^utsuru]: K reads 我が心に**移る**時, whereas S reads 我が心に**勝つ**時. The parallel 居合心立合之大事 has 敵打出す所にてちらりと気移りして勝事なり, which supports an interpretation involving the transfer or apprehension of the enemy’s *ki* or decisive cue. It does not, however, supply the omitted grammatical subject with certainty.
 
@@ -670,6 +672,7 @@ To 島村右馬丞 Shimamura Umanojō.
 [hachinoki-2019]: http://mat-sekiunn.cocolog-nifty.com/blog/2019/12/post-6ea308.html
 [s-2]: http://mat-sekiunn.cocolog-nifty.com/blog/2016/10/post-4d01.html
 [s-3]: http://mat-sekiunn.cocolog-nifty.com/blog/2016/10/post-329f.html
+[s-4]: http://mat-sekiunn.cocolog-nifty.com/blog/2016/10/post-275a.html
 [s-5]: http://mat-sekiunn.cocolog-nifty.com/blog/2016/10/post-7ec5.html
 [s-6]: http://mat-sekiunn.cocolog-nifty.com/blog/2016/10/post-8d67.html
 [s-7]: http://mat-sekiunn.cocolog-nifty.com/blog/2016/10/post-0c25.html
