@@ -49,7 +49,7 @@ Mind: the waterbird
 > 行く水鳥の　心知るべし
 >
 > 水鳥の　水に住めども　羽は濡れず  
-> 海の〔魚〕とて　汐はゆくなし
+> 海の魚とて　汐はゆくなし
 
 To understand this state of mind, attend closely to the waterbird and reflect on its example. As the old poems say,
 
@@ -59,10 +59,11 @@ To understand this state of mind, attend closely to the waterbird and reflect on
 > the waterbird goes its way.\
 > Come to understand its mind.
 >
-> Though the waterbird dwells in water,\
-> its feathers stay dry.\
+> The waterbird\
+> lives on the water,\
+> yet its feathers do not get wet.\
 > Even a fish of the sea\
-> is not itself salty.[^waterbird]
+> does not taste of salt.[^waterbird]
 
 ## The mind of the white heron
 
@@ -566,7 +567,7 @@ To 島村右馬丞 Shimamura Umanojō.
 
 [^hachinoki]: The image for 身之掛, “bodily bearing”, comes from the Noh play 鉢木. Sano Tsuneyo, a warrior who has lost his lands, shelters a travelling monk on a snowy night. The monk urges him to spare his treasured potted plum, cherry and pine, but Tsuneyo burns them to warm his guest. Later, when Tsuneyo answers a summons to Kamakura in his worn armour, he recognises his guest as the retired regent Hōjō Tokiyori. Mitsuhira reads the allusion as meeting even an opponent with おもてなしの心, “the heart of a host”. He later suggests that 身之掛 evokes the way a Noh actor stands and the care host and guest show each other. [Text of the play][hachinoki-play] · [Mitsuhira, 2016][hachinoki-2016] · [Mitsuhira, 2019][hachinoki-2019]
 
-[^waterbird]: K prints 海の急とて on the opening page. S supplies 魚, restoring the fish that answers the waterbird in the first half of the poem. 汐はゆくなし can be read as the negative of the adjective しほはゆし, “salty”. [S, §2][s-2] · [*Nihon kokugo daijiten*, 鹹映ゆい][salty]
+[^waterbird]: K prints 海の急とて on the opening page. The reading 海の魚とて follows S and also appears in a related poem in *Seisuishō*. 汐はゆくなし can be read as the negative of the adjective しほはゆし, “salty”. [S, §2][s-2] · [*Seisuishō*, book 2][seisuisho] · [*Nihon kokugo daijiten*, 鹹映ゆい][salty]
 
 [^kanemori]: Taira no Kanemori’s poem appears in the *Shūi wakashū* (no. 622) and the *Ogura hyakunin isshu* (no. 40). K’s opening page prints 忍れと, normalised here as 忍ぶれど. S opens 思ふれと. [*Ogura hyakunin isshu*][hyakunin] · [S, §3][s-3]
 
@@ -642,6 +643,7 @@ To 島村右馬丞 Shimamura Umanojō.
 [kimura]: http://mat-sekiunn.cocolog-nifty.com/blog/2020/01/post-183ebf.html
 [kimura-catalog]: https://ci.nii.ac.jp/ncid/BA45202544
 [salty]: https://kotobank.jp/word/鹹映ゆい-516930
+[seisuisho]: https://yatanavi.org/text/sesuisho/n_sesuisho2-103
 [hyakunin]: https://ja.wikisource.org/wiki/小倉百人一首
 [murasaki]: https://www.asahi-net.or.jp/~sg2h-ymst/yamatouta/sennin/musikibu.html
 [chomonju]: https://yatanavi.org/text/chomonju/s_chomonju185
