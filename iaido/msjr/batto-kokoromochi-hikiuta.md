@@ -7,6 +7,8 @@
 
 **S** denotes the Sōda text as transcribed in Mitsuhira’s October 2016 series 曽田本その１・神傳流秘書原文・抜刀心持引歌. The passages headed 読み give Mitsuhira’s own reading. Citations to his later commentary are dated separately. For example, K has three poems on the moon in water, S has two at that point, and Mitsuhira prints all three in December 2019. [S, §3][s-3] · [December 2019 commentary][moon-2019]
 
+The italic credits above the English verses give attributions from the sources cited in the notes.
+
 The assessments below are the translator’s judgments. The Bayesline project *Battō Kokoromochi Hikiuta Translation* records references to the working notes. The citations identify the witnesses for each reading.
 
 | Editorial decision | Working assessment | Evidence |
@@ -77,10 +79,15 @@ To understand this state of mind, attend closely to the waterbird and reflect on
 
 In iai and *tachiuchi* alike, the mind of the white heron. Oral transmission. As the old poems say,
 
-> Though I would conceal it,  
-> my love has appeared in my expression,  
-> until people ask me,  
-> “Are you lost in thought?”[^kanemori]
+> *Taira no Kanemori*
+>
+> Though I try to hide it,\
+> my face has given it away,\
+> this love of mine.\
+> “Is something on your mind?”\
+> people have even asked me.[^kanemori]
+>
+> *Murasaki Shikibu*
 >
 > Though I do not entrust my body  
 > to a heart of no account,  
@@ -104,14 +111,20 @@ In iai and *tachiuchi* alike, the mind of the white heron. Oral transmission. As
 
 In both iai and sword engagement there is the **great matter of the moon in water** (水月之大事 *suigetsu no daiji*). Oral transmission. Three old poems follow.
 
+> *An unnamed provincial warrior*
+>
 > Water or sky,\
 > sky or water? One cannot tell.\
 > The autumn moon moves between them,\
 > shining clear, at home in both.[^moon]
 >
+> *Saigyō*
+>
 > The first wind of autumn gives  
 > even one who ordinarily thinks of nothing  
 > a pensive heart.[^saigyo]
+>
+> *Fujiwara no Toshiyuki*
 >
 > Though my eyes cannot yet tell\
 > that autumn has come,\
@@ -132,6 +145,8 @@ Awaken through this mind. Although I do not know it beforehand, it makes the ene
 
 The mindset for winning by following the enemy. An old poem says:
 
+> *Emperor Shirakawa*
+>
 > When the wind blows,  
 > spring passes, following  
 > the willow threads  
@@ -206,10 +221,12 @@ When someone seizes me and tries to prevent me from drawing, I must not insist u
 > If you mean to go,  
 > go at once, at once.
 >
+> *A version of a poem by Shōgimon’in no Kohyōe no Kami*
+>
 > Why think only another  
 > a cruel adversary?  
 > O heart, know that I myself  
-> am the troublesome one.
+> am the troublesome one.[^adani]
 
 Investigate with this mind. If someone bears a stout sword or puts forward all manner of arguments, recognise an adversary in either case.[^goto] Yet do not let your mind be taken by each of them and fall into confusion. A poem follows.
 
@@ -262,10 +279,12 @@ A text on strategy says, “Until the beginning and end are apparent, no one can
 > before one even seeks it  
 > its colour should already appear.
 >
+> *A version of a poem by Saigyō*
+>
 > Beneath frost-laden mugwort,  
 > the cricket’s voice is heard  
 > so faintly one cannot tell  
-> whether it is there or not.
+> whether it is there or not.[^cricket]
 
 ## 危道 *Kidō*
 
@@ -278,7 +297,7 @@ A text on strategy says, “Until the beginning and end are apparent, no one can
 
 In both iai and sword engagement, the instant the enemy and I face one another, there can be no victory without **危道 *kidō***. Yet this does not mean intending to strike high and then striking low. First go straight ahead; in shifting the interval as you go, there is *kidō*. This point is difficult to put into words. It must be understood through the accomplishment gained in months and years of training in the techniques. Practise it thoroughly, day and night.[^kido]
 
-A poem attributed to Lord Yoshitsune says:
+K attributes the following poem to Lord Minamoto no Yoshitsune.
 
 > Do not meet heedlessly  
 > the enemy who comes on with force;  
@@ -515,20 +534,26 @@ The enemy has many colours and may deceive us; never be careless. It is like kic
 > that has revealed  
 > the true self.
 >
+> *Traditionally attributed to Jien*
+>
 > Draw the brushwood together and bind it,  
 > and it becomes a hut;  
 > untie it,  
-> and it is the original field once more.
+> and it is the original field once more.[^hut]
 >
 > In the end there is nothing whatever  
 > that can be put into words:  
 > the scaffolding  
 > atop a nine-storey pagoda.
 >
+> *Attributed to Ippen*
+>
 > When one chants,  
 > neither Buddha nor self remains;  
 > there is only the voice  
 > saying *Namu Amida Butsu*.[^tonaureba]
+>
+> *A version attributed variously to Senkei, Kūya and Senkan*
 >
 > Though I had heard  
 > that the Pure Land was far away,  
@@ -567,13 +592,13 @@ To 島村右馬丞 Shimamura Umanojō.
 
 [^hachinoki]: The image for 身之掛, “bodily bearing”, comes from the Noh play 鉢木. Sano Tsuneyo, a warrior who has lost his lands, shelters a travelling monk on a snowy night. The monk urges him to spare his treasured potted plum, cherry and pine, but Tsuneyo burns them to warm his guest. Later, when Tsuneyo answers a summons to Kamakura in his worn armour, he recognises his guest as the retired regent Hōjō Tokiyori. Mitsuhira reads the allusion as meeting even an opponent with おもてなしの心, “the heart of a host”. He later suggests that 身之掛 evokes the way a Noh actor stands and the care host and guest show each other. [Text of the play][hachinoki-play] · [Mitsuhira, 2016][hachinoki-2016] · [Mitsuhira, 2019][hachinoki-2019]
 
-[^waterbird]: K prints 海の急とて on the opening page. The reading 海の魚とて follows S and also appears in a related poem in *Seisuishō*. 汐はゆくなし can be read as the negative of the adjective しほはゆし, “salty”. [S, §2][s-2] · [*Seisuishō*, book 2][seisuisho] · [*Nihon kokugo daijiten*, 鹹映ゆい][salty]
+[^waterbird]: K prints 海の急とて on the opening page. The reading 海の魚とて follows S. In *Seisuishō*, a related verse is the Yugyō Shōnin’s reply to Toyotomi Hidetsugu. It too has 海の魚とて, but its closing phrase differs. 汐はゆくなし can be read as the negative of the adjective しほはゆし, “salty”. [S, §2][s-2] · [*Seisuishō*, book 2][seisuisho] · [*Nihon kokugo daijiten*, 鹹映ゆい][salty]
 
 [^kanemori]: Taira no Kanemori’s poem appears in the *Shūi wakashū* (no. 622) and the *Ogura hyakunin isshu* (no. 40). K’s opening page prints 忍れと, normalised here as 忍ぶれど. S opens 思ふれと. [*Ogura hyakunin isshu*][hyakunin] · [S, §3][s-3]
 
-[^murasaki]: The *Murasaki Shikibu shū* gives the opening 数ならぬ found in K. The *Senzaishū* (no. 1096) has 数ならで. 身 also means one’s lot in life. A speaker whose circumstances do not follow her heart finds that her heart follows her circumstances. [Murasaki Shikibu, text and variants][murasaki]
+[^murasaki]: Murasaki Shikibu’s own collection gives the opening 数ならぬ found in K. The *Senzaishū* (no. 1096) has 数ならで. S reads 数ならて心をば, omitting 身 from the first half. In K and both poetry collections, 身 can mean one’s lot in life. A speaker whose circumstances do not follow her heart finds that her heart follows her circumstances. [*Murasaki Shikibu shū*, text and variants][murasaki-shu] · [*Senzaishū* text and commentary][murasaki] · [S, §3][s-3]
 
-[^moon]: K’s opening page prints すめる in kana, allowing both 澄む (“to be clear”) and 住む (“to dwell”) to be heard. S transcribes 住める and gives 住（澄）める in the reading below. The same poem appears in *Kokon chomonjū*, tale 185, on the theme of the moon on water. [S, §3][s-3] · [*Kokon chomonjū*, tale 185][chomonju]
+[^moon]: K’s opening page prints すめる in kana, allowing both 澄む (“to be clear”) and 住む (“to dwell”) to be heard. S transcribes 住める and gives 住（澄）める in the reading below. In *Kokon chomonjū*, tale 185, a warrior newly arrived from the provinces offers this poem at a gathering on the theme of the moon on water. The tale gives no name for him. [S, §3][s-3] · [*Kokon chomonjū*, tale 185][chomonju]
 
 [^saigyo]: Saigyō, *Shinkokin wakashū* (no. 299), in the first book of autumn poems. [*Shinkokin wakashū*, book IV][shinkokin]
 
@@ -581,7 +606,7 @@ To 島村右馬丞 Shimamura Umanojō.
 
 [^kake]: K reads 敵の**掛**を知らする. S reads 敵の**勝**を知らする, “makes the enemy’s victory known”. 掛 is retained because it is clear in K. The exact martial sense remains open: the enemy’s coming-on, engagement, attack or initiative are all possible.
 
-[^spring-wind]: S introduces the passage as 春風を切ると云ふ, “called cutting the spring wind”, and reads 廻る春かな where K appears to have 過ぐる春かな.
+[^spring-wind]: The *Kin’yō wakashū* (no. 28) credits the willow poem to Emperor Shirakawa (白河院). Its ending, 過ぐる春かな, agrees with K. S gives 廻る春かな and introduces the passage as 春風を切ると云ふ, “called cutting the spring wind”. [*Kin’yō wakashū*, no. 28][kinyo]
 
 [^utsuru]: K reads 我が心に**移る**時, whereas S reads 我が心に**勝つ**時. The parallel 居合心立合之大事 has 敵打出す所にてちらりと気移りして勝事なり, which supports an interpretation involving the transfer or apprehension of the enemy’s *ki* or decisive cue. It does not, however, supply the omitted grammatical subject with certainty.
 
@@ -597,11 +622,15 @@ To 島村右馬丞 Shimamura Umanojō.
 
 [^goto]: K, p. 121, prints 剛刀, literally “a stout sword”. The English takes this to describe its bearer. S reads 剛力, “brute strength”. [S, §6][s-6]
 
+[^adani]: The *Gyokuyō wakashū* credits the love poem beginning よそにのみ to Shōgimon’in no Kohyōe no Kami (章義門院小兵衛督). The other four phrases recur here. An early printed text, 佩戒女小学, has the opening あだにのみ. A modern selection credits that version to Ikkyū. [*Gyokuyō wakashū*, text and attribution][gyokuyo] · [Transcription of 佩戒女小学][adani-early] · [Modern attribution to Ikkyū][adani-ikkyu]
+
 [^chinseitai]: S includes an explanatory annotation absent from K: 沈成躰 means lowering one’s body against the enemy and settling one’s *ki*.
 
 [^kore]: K, p. 121, leaves a bracketed space after 心は. The Japanese preserves that space. The English supplies “[this]” from 之 in S’s 心は之内二有り. [S, §7][s-7]
 
 [^kanbun]: The eight characters 端末未見，人莫能知 on p. 121 of K reproduce a sentence in the 上略, the first part of the *Three Strategies* (三略, *Sanryaku*). 端末 takes in both the beginning and the end. [*Sanryaku*, 上略, §2][sanryaku] · [S, §7][s-7]
+
+[^cricket]: Saigyō’s *Sankashū* places the cricket beneath 葎 (*mugura*, tangled weeds). K has 蓬 (*yomogi*, mugwort) and changes the closing phrase from 聲きこゆなり to 聲ぞ聞ゆる. [Saigyō, *Sankashū*][sankashu]
 
 [^kido]: K, p. 121, reads 危道, 業 and 義経公. At the first occurrence of 危道, S gives a blank (□) with 是 as Sōda’s suggestion. S also has 事 and 義公. In 2020 Mitsuhira explicitly attributed the three readings found in K to Kimura Eijū’s text. A title page or imprint for K would help establish whether it comes from Kimura’s edition. 詭道, “the deceptive way”, is Mitsuhira’s conjecture. [S, §8][s-8] · [Mitsuhira’s 2016 interpretation][kido-2016] · [His 2020 comparison with Kimura][kimura] · [Kimura’s volume in CiNii Books][kimura-catalog]
 
@@ -619,9 +648,11 @@ To 島村右馬丞 Shimamura Umanojō.
 
 [^flute]: K, p. 123, prints こゑの主しとは, normalised here as 聲の主とは. 主 (*nushi*) is the owner or source of the voice. S has 声の良とハ, and Mitsuhira’s reading underneath gives 声の良しとは, which asks about the quality of the sound. His 2020 discussion gives 聲の主とハ. [S, §13][s-13] · [January 2020 discussion][flute-2020]
 
-[^tonaureba]: K, p. 123, prints とのおれは. S gives 唱ふれハ, and the poem is also transmitted with the opening となふれば in the tradition of Ippen. The invocation of Amida Buddha in the following line supports “when one chants”. [S, §13][s-13] · [Tōkōji’s account of the poem][ippen]
+[^hut]: The *Ikkyū oshō hōgo* credits a version of the hut poem to Jien under his posthumous name, Jichin (慈鎮). A study of the *Harusameshō* questions the same credit in that collection and lists the source of its verse as unidentified. [Akita Prefectural Library on the *Ikkyū oshō hōgo*][hut-jien] · [Study of the *Harusameshō*, pp. 12–13][hut-study]
 
-[^kikishi]: K, p. 123, reads 聞しかと, normalised as 聞きしかど, “though I had heard”. S transcribes ゆきしかど, “though I went”. Mitsuhira gives 聞きしかど in the reading beneath that transcription. [S, §13][s-13]
+[^tonaureba]: K, p. 123, prints とのおれは. S gives 唱ふれハ. The *Ippen shōnin goroku* recounts that Ippen presented this poem, beginning となふれば, to the Zen teacher Hottō Kokushi. The next line gives the words he chants. [S, §13][s-13] · [Passage from the *Ippen shōnin goroku*][ippen-goroku] · [Tōkōji’s account][ippen]
+
+[^kikishi]: K, p. 123, reads 聞しかと, normalised as 聞きしかど, “though I had heard”. S transcribes ゆきしかど, “though I went”. Mitsuhira gives 聞きしかど in the reading beneath that transcription. In an older version, つとめて (“with diligence”) stands where K has 唱へて (“through chanting”). The *Shūi wakashū* (no. 1343) credits that poem to Senkei (仙慶), the *Senzaishū* to Kūya (空也), and the *Fukurozōshi* to Senkan (千観). [S, §13][s-13] · [The three attributions in the *Jōdoshū zensho*][pureland-credits] · [Fusenji on the older wording][pureland-verse]
 
 [^signatures]: On p. 123, Yamakawa’s name and two seals stand to the right of the Bunsei date. Tsubouchi’s name and one seal follow the copying formula 初夏改寫者也. The layout favours Tsubouchi as the 1827 copyist. The transfer statement names Yamakawa as the source of transmission. The personal-name readings follow the companion translation. A study of Shimamura’s diary identifies Tsubouchi as his teacher and Yamakawa as Tsubouchi’s teacher. [*Iai kongen no maki*](iai-kongen-no-maki.md) · [Study of Shimamura’s diary][diary]
 
@@ -646,11 +677,22 @@ To 島村右馬丞 Shimamura Umanojō.
 [seisuisho]: https://yatanavi.org/text/sesuisho/n_sesuisho2-103
 [hyakunin]: https://ja.wikisource.org/wiki/小倉百人一首
 [murasaki]: https://www.asahi-net.or.jp/~sg2h-ymst/yamatouta/sennin/musikibu.html
+[murasaki-shu]: https://classicstudies.jimdofree.com/紫式部集/第五部-転機/54数ならぬ/
 [chomonju]: https://yatanavi.org/text/chomonju/s_chomonju185
 [shinkokin]: https://ja.wikisource.org/wiki/新古今和歌集/巻第四
 [toshiyuki]: https://www.asahi-net.or.jp/~sg2h-ymst/yamatouta/sennin/tosiyuki.html
+[kinyo]: https://www.waka-chokusen.org/chokusen/waka21/shousai.php?ID=5031
+[gyokuyo]: https://www.waka-chokusen.org/chokusen/waka21/shousai.php?ID=18866
+[adani-early]: https://www.i-repository.net/il/user_contents/02/G0000284repository/pdf/JOS-KJ00004422949.pdf
+[adani-ikkyu]: https://note.com/jijii_kurigoto/n/nba4202c13cf8
+[sankashu]: https://itaka84.upper.jp/bookn/koka/yamagasyuu.htm
+[hut-jien]: https://crd.ndl.go.jp/reference/entry/reference/show?id=1000263586&page=ref_view
+[hut-study]: https://koka.repo.nii.ac.jp/record/155/files/d48_13_mimura.pdf
 [sanryaku]: https://kanbun.info/shibu02/sanryaku01.html
 [ippen]: https://www.d-tokoji.com/sutra002/
+[ippen-goroku]: https://ir.library.osaka-u.ac.jp/repo/ouka/all/81096/joufs_71_01-03_131.pdf
+[pureland-credits]: https://jodoshuzensho.jp/jozensearch_post/search/detail.php?lineno=Z08_0356
+[pureland-verse]: https://fusenji.or.jp/post-295/
 [diary]: https://www.jstage.jst.go.jp/article/budo/56/Supplement/56_56.S_43/_article/-char/ja
 [calendar-first]: https://eco.mtk.nao.ac.jp/cgi-bin/koyomi/cande/caldb.cgi?type=1&gengo=b260&year=2&month=12&day=1&jg=1
 [calendar-last]: https://eco.mtk.nao.ac.jp/cgi-bin/koyomi/cande/caldb.cgi?type=1&gengo=b260&year=2&month=12&day=30&jg=1
